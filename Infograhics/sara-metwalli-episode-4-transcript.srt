@@ -1,0 +1,3636 @@
+﻿1
+00:00:00,080 --> 00:00:02,840
+I don't have any kind of physics background. That's what I tell them. I tell
+
+2
+00:00:02,840 --> 00:00:05,840
+them I am an electrical engineer who likes to code,
+
+3
+00:00:06,480 --> 00:00:09,840
+right? And I like talking about science,
+
+4
+00:00:10,160 --> 00:00:13,560
+and I got a PhD in quantum without actually having a physics
+
+5
+00:00:13,560 --> 00:00:17,200
+background. I work with physicists, but I feel like right
+
+6
+00:00:17,200 --> 00:00:20,880
+now I think it's the best time for people who are curious
+
+7
+00:00:20,880 --> 00:00:24,400
+about quantum to get into quantum because right now it's actually
+
+8
+00:00:24,880 --> 00:00:28,230
+outside of the physics experimental
+
+9
+00:00:28,230 --> 00:00:31,430
+realm, let's put it like that, and more into application.
+
+10
+00:00:31,990 --> 00:00:33,590
+Welcome to Women in Quantum.
+
+11
+00:00:40,310 --> 00:00:44,150
+Hi, it's Candace Gilhooley. Welcome back. We're here today
+
+12
+00:00:44,310 --> 00:00:47,950
+to talk to Sarah Metwally, who is a
+
+13
+00:00:47,950 --> 00:00:51,550
+research associate, and we're very excited to talk about what
+
+14
+00:00:51,550 --> 00:00:55,110
+her perspective is in the quantum computing industry.
+
+15
+00:00:55,510 --> 00:00:58,770
+Sarah, how are you today? Doing very well.
+
+16
+00:00:59,090 --> 00:01:02,730
+Thank you for having me. How are you? I am great. Thank you so
+
+17
+00:01:02,730 --> 00:01:05,810
+much. In the green room, we were talking about how you had to run around
+
+18
+00:01:06,130 --> 00:01:09,890
+the university a little bit to find a quiet spot. It's very busy for you.
+
+19
+00:01:10,690 --> 00:01:14,130
+Yeah, it's crazy. It's the beginning of the semester,
+
+20
+00:01:14,370 --> 00:01:18,090
+kinda, you know. People are finally coming
+
+21
+00:01:18,090 --> 00:01:21,770
+back seriously after the New Year's. That's right. They're all
+
+22
+00:01:21,770 --> 00:01:25,610
+like, they're ready. They're roaring to go. No, I'm really
+
+23
+00:01:25,610 --> 00:01:29,190
+excited to talk to you today because I remember a lot about our pre-call,
+
+24
+00:01:29,670 --> 00:01:33,390
+and if I, if I do recall, and we're going to talk about it, you
+
+25
+00:01:33,390 --> 00:01:37,230
+are— is it true that you're originally from Egypt? I am originally
+
+26
+00:01:37,230 --> 00:01:40,390
+from Egypt. Okay. And I want to talk about that.
+
+27
+00:01:40,950 --> 00:01:44,390
+So I want to talk about when you were a little girl
+
+28
+00:01:44,630 --> 00:01:48,390
+and you were back in Egypt and you were figuring out what
+
+29
+00:01:48,390 --> 00:01:51,670
+excited you about the world.
+
+30
+00:01:52,310 --> 00:01:55,990
+What excited you? What can you remember is the first thing that really
+
+31
+00:01:55,990 --> 00:01:58,360
+kind of you wanted to know more about?
+
+32
+00:02:00,760 --> 00:02:04,520
+I, I think that honestly, science, right?
+
+33
+00:02:04,760 --> 00:02:08,160
+Science was very exciting. All
+
+34
+00:02:08,160 --> 00:02:11,960
+branches of science, like all of the science topics I took
+
+35
+00:02:11,960 --> 00:02:15,640
+in school, whether it be like biology, chemistry, physics, or
+
+36
+00:02:15,640 --> 00:02:19,440
+math. I did do best in math, so math was the
+
+37
+00:02:19,440 --> 00:02:22,680
+closest to my heart and it got me
+
+38
+00:02:23,270 --> 00:02:26,990
+interested in because it got me interested in learning more about
+
+39
+00:02:26,990 --> 00:02:30,750
+science, right? But the way math or like all of
+
+40
+00:02:30,750 --> 00:02:34,470
+the science topics are taught at school level, you don't actually get to
+
+41
+00:02:34,470 --> 00:02:38,190
+see how they are practical, especially math, right? Math is the
+
+42
+00:02:38,190 --> 00:02:41,950
+most abstract thing. They teach you a bunch of things. You do not know
+
+43
+00:02:41,950 --> 00:02:45,190
+how can you use them. Well, except like, you know, addition and multiplication. You do
+
+44
+00:02:45,190 --> 00:02:48,230
+not know like how is this going to be useful. So you feel like I'm
+
+45
+00:02:48,230 --> 00:02:51,740
+wasting time here. Which a lot of people feel about math
+
+46
+00:02:51,740 --> 00:02:55,460
+classes, right? Generally speaking. But for me, math got
+
+47
+00:02:55,460 --> 00:02:59,260
+me very interested in the universe.
+
+48
+00:02:59,260 --> 00:03:02,540
+I like to say math is the language of the universe, which is— it is,
+
+49
+00:03:02,620 --> 00:03:06,380
+right? It is. And then in high school, I took
+
+50
+00:03:06,380 --> 00:03:10,140
+my first programming class. Well, back, back in my time. Now I feel old.
+
+51
+00:03:10,300 --> 00:03:14,060
+Back in my time, programming was not as common. Also was not
+
+52
+00:03:14,060 --> 00:03:17,660
+as common for women to be like taking programming classes. And then there was this
+
+53
+00:03:17,660 --> 00:03:21,310
+one And I remember it was Visual Basic and it wasn't
+
+54
+00:03:21,310 --> 00:03:25,110
+really programming because Visual Basic was basic but on
+
+55
+00:03:25,110 --> 00:03:28,830
+like visual, like VS Code, right? So it wasn't that you're
+
+56
+00:03:28,830 --> 00:03:32,430
+actually writing code. It was mostly like very small writing
+
+57
+00:03:32,430 --> 00:03:36,110
+code that does something, but it wasn't actually writing a full code. But I was
+
+58
+00:03:36,110 --> 00:03:39,390
+like, oh, this is cool. I would like to learn more about that. So there
+
+59
+00:03:39,390 --> 00:03:43,030
+was programming and there was math and engineering kind of like
+
+60
+00:03:43,030 --> 00:03:46,430
+overlaps in the intersection of that. And I was like, okay, I want to be
+
+61
+00:03:46,430 --> 00:03:50,130
+a computer engineer because because those people do a lot of math and they
+
+62
+00:03:50,130 --> 00:03:53,450
+do coding, so they seem to be doing the two things I'm excited about.
+
+63
+00:03:54,490 --> 00:03:58,210
+Now, was that supported in the Egyptian culture that you were
+
+64
+00:03:58,210 --> 00:04:01,970
+raised in when you were in school? Was it, you know, were you—
+
+65
+00:04:01,970 --> 00:04:05,650
+were they— were they supportive of you wanting to pursue, you know, math
+
+66
+00:04:05,650 --> 00:04:09,170
+and science? Were they trying to shift you into something else that they might have
+
+67
+00:04:09,170 --> 00:04:12,970
+considered more appropriate? What was— what was the atmosphere like?
+
+68
+00:04:14,260 --> 00:04:17,700
+So that is actually a great question. I'll be like, okay, my
+
+69
+00:04:17,700 --> 00:04:20,580
+parents wanted me to be a doctor,
+
+70
+00:04:21,380 --> 00:04:25,220
+a medical doctor, that is, right? And I was like,
+
+71
+00:04:25,380 --> 00:04:28,740
+I can't. First of all, if I see blood, I will faint. So I don't
+
+72
+00:04:28,740 --> 00:04:31,860
+think I'll make a good doctor, right? I would say like, just based on that,
+
+73
+00:04:31,940 --> 00:04:35,780
+I don't think I'll be a good doctor. But I was also like, no,
+
+74
+00:04:35,780 --> 00:04:39,340
+medical school is so many years of study and I'm not doing that. Now, joke's
+
+75
+00:04:39,340 --> 00:04:43,180
+on me. I'm still at school now. But back then I was like, I'm not
+
+76
+00:04:43,180 --> 00:04:46,720
+staying in school for this long. To be a doctor also seems like a lot
+
+77
+00:04:46,720 --> 00:04:50,560
+of effort, and I do not know, different effort, like not the
+
+78
+00:04:50,560 --> 00:04:54,320
+effort that I wanted to put, right? So I wanted to, to be an
+
+79
+00:04:54,320 --> 00:04:58,080
+engineer because engineers know how things work, and my brain likes
+
+80
+00:04:58,080 --> 00:05:01,800
+understanding how things work, right? So it's like engineering is good. There
+
+81
+00:05:01,800 --> 00:05:05,640
+wasn't much pushback from my parents, but society-wise it's
+
+82
+00:05:05,640 --> 00:05:09,080
+always like looked upon as like girls in engineering school are like
+
+83
+00:05:09,720 --> 00:05:13,160
+manish, masculine, you know, because it's
+
+84
+00:05:13,400 --> 00:05:17,120
+a man's kind of a field. So there's like more
+
+85
+00:05:17,120 --> 00:05:20,840
+men than women in engineering school in Egypt, which is like
+
+86
+00:05:21,390 --> 00:05:25,240
+a cool— there are some disciplines actually in engineering school in
+
+87
+00:05:25,240 --> 00:05:28,360
+Egypt that literally it will be 99.999%
+
+88
+00:05:28,840 --> 00:05:32,559
+men, and then there is the poor 2 women that
+
+89
+00:05:32,559 --> 00:05:36,040
+kind of were curious about that and they were like, I want to study that,
+
+90
+00:05:36,040 --> 00:05:39,760
+especially mechanical engineering, right? That like the few women who
+
+91
+00:05:39,760 --> 00:05:43,170
+is like, I'm into cars, which is like not something, I guess,
+
+92
+00:05:43,730 --> 00:05:47,330
+feminine, right? So be like, and get into mechanical engineering.
+
+93
+00:05:47,330 --> 00:05:50,610
+I felt so bad for those women because though the
+
+94
+00:05:50,610 --> 00:05:54,050
+percentages was bad in like electronics and
+
+95
+00:05:54,050 --> 00:05:57,650
+electrical and computer engineering, they were still
+
+96
+00:05:57,650 --> 00:06:00,450
+better than mechanical engineering. There's still less women.
+
+97
+00:06:01,890 --> 00:06:04,530
+You were looked on as like, oh, you're manly. And
+
+98
+00:06:05,170 --> 00:06:08,770
+sometimes, I don't know, I had like male relatives,
+
+99
+00:06:08,770 --> 00:06:12,570
+like my male cousins who were kind of like closer to age to me. They
+
+100
+00:06:12,570 --> 00:06:16,390
+were so jealous because they could I did not get into engineering school because it's
+
+101
+00:06:16,390 --> 00:06:19,950
+a degree, it's a grades-based thing. Like, it's one—
+
+102
+00:06:20,110 --> 00:06:23,750
+like, in Egypt, the, the top school, it's different than the
+
+103
+00:06:23,750 --> 00:06:27,510
+US, maybe other countries, right? Like, the top school is medical school. So that's like,
+
+104
+00:06:27,510 --> 00:06:31,310
+if you have like the top grade, you're— you go to medical school or
+
+105
+00:06:31,310 --> 00:06:34,750
+dental school, right? Like, they're up there. Uh, and then
+
+106
+00:06:34,750 --> 00:06:38,430
+engineering. So engineering was like number 2, which is like
+
+107
+00:06:38,430 --> 00:06:42,030
+different than other countries, which is law school is the hardest. But for us, law
+
+108
+00:06:42,030 --> 00:06:45,830
+school was not even top 10. It actually was the choice for
+
+109
+00:06:45,830 --> 00:06:49,590
+people who did not do well in high school. Isn't that interesting?
+
+110
+00:06:49,590 --> 00:06:53,270
+Wow. Okay. Okay. So
+
+111
+00:06:53,830 --> 00:06:57,470
+society-wise, it's like, you know, I also had so many
+
+112
+00:06:57,470 --> 00:07:00,550
+ambitions, which was like, I want to go to grad school, I want to be
+
+113
+00:07:00,550 --> 00:07:04,310
+a professor, I want to change the world. I had all of these
+
+114
+00:07:04,310 --> 00:07:07,990
+ambitions, which not a lot of people did. So even within the
+
+115
+00:07:07,990 --> 00:07:11,650
+university, even the girls that were there, There was me who
+
+116
+00:07:11,650 --> 00:07:14,810
+was like, I want to travel the world, this country I want to go to,
+
+117
+00:07:15,050 --> 00:07:18,810
+and this country I want to study in, do an exchange
+
+118
+00:07:18,810 --> 00:07:22,650
+in. There isn't many exchange programs in the university in Egypt, but I just wanted
+
+119
+00:07:22,650 --> 00:07:26,370
+to do stuff. And then there was the other girls who were like, I
+
+120
+00:07:26,370 --> 00:07:29,850
+want to get married, like ideally I leave the university
+
+121
+00:07:30,090 --> 00:07:33,570
+engaged or married. And then there is me, I was like, I want to
+
+122
+00:07:33,570 --> 00:07:36,970
+travel. So it was even harder to connect, right? Because
+
+123
+00:07:37,610 --> 00:07:41,210
+Even within the university, even with women who you would think are
+
+124
+00:07:41,210 --> 00:07:45,010
+similar-minded because they're studying similar things to you, they
+
+125
+00:07:45,010 --> 00:07:48,090
+would still, hey, like, I'm getting it because
+
+126
+00:07:48,890 --> 00:07:52,690
+of— okay, it's— this is a weird thing to say, but like there are
+
+127
+00:07:52,690 --> 00:07:56,530
+a hierarchy of like how good a
+
+128
+00:07:56,530 --> 00:08:00,010
+woman is, uh, vis-à-vis when it comes to marriage,
+
+129
+00:08:00,090 --> 00:08:03,890
+right? And if the woman is, say, in the medical school or engineering school,
+
+130
+00:08:03,890 --> 00:08:07,670
+that means she's smart, so she will make a good wife and have smart
+
+131
+00:08:07,670 --> 00:08:11,430
+kids. So like, the— some objective— I'm not saying all
+
+132
+00:08:11,430 --> 00:08:13,990
+of the women who did that, but a lot of women who went into these
+
+133
+00:08:13,990 --> 00:08:17,790
+schools was their marriage is like, yes, I'm gonna be looked on as
+
+134
+00:08:17,790 --> 00:08:21,190
+like I'm an engineer woman or a woman who's a doctor, right?
+
+135
+00:08:21,350 --> 00:08:24,990
+So I will have better suitors. Oh my God, I can't believe
+
+136
+00:08:24,990 --> 00:08:28,470
+I'm talking like this, like it's the 1900s, the 1800s.
+
+137
+00:08:29,270 --> 00:08:33,030
+There's a lot of women— it's called the MRS degree, right?
+
+138
+00:08:33,030 --> 00:08:36,631
+Yeah, the one— the women that go to school because they want to find their
+
+139
+00:08:36,631 --> 00:08:40,129
+husbands. I mean, I hate to say it, but You know, when I, when I
+
+140
+00:08:40,129 --> 00:08:42,769
+went to my 5-year high school graduation,
+
+141
+00:08:43,489 --> 00:08:47,009
+okay, I could not tell you how many girls,
+
+142
+00:08:47,249 --> 00:08:50,609
+women were going to law school. Okay.
+
+143
+00:08:50,929 --> 00:08:54,729
+Like, I swear it was 30% of the class was often was going
+
+144
+00:08:54,729 --> 00:08:58,369
+off into law school. And then the question was, well, did
+
+145
+00:08:58,369 --> 00:09:02,169
+they actually all become lawyers or did they end up— and I
+
+146
+00:09:02,169 --> 00:09:05,849
+hate to say that the predominance of them who actually did get
+
+147
+00:09:05,849 --> 00:09:09,620
+their law degree that just kind of ratcheted
+
+148
+00:09:09,620 --> 00:09:13,260
+up to them to being the most, you know, the best kind of mate to
+
+149
+00:09:13,260 --> 00:09:17,100
+have in marriage. And they all got married. And again, nothing wrong with
+
+150
+00:09:17,100 --> 00:09:20,860
+marriage. I got married young. Yeah, but you know, if you're going to
+
+151
+00:09:20,860 --> 00:09:24,660
+school and you're learning, you know, to, to be kind of
+
+152
+00:09:24,660 --> 00:09:28,500
+a member of society, you want to add something more. Um, that's why you get
+
+153
+00:09:28,500 --> 00:09:31,380
+all the schooling. So, okay, so women were kind of
+
+154
+00:09:31,860 --> 00:09:35,500
+judged and, and kind of ranked, let's say, according to what
+
+155
+00:09:35,500 --> 00:09:39,240
+they're achieving in school. Okay, okay. And you're like, I want to
+
+156
+00:09:39,240 --> 00:09:42,800
+travel. Of course, wanted me to get married, like,
+
+157
+00:09:42,800 --> 00:09:46,640
+very desperately, needless to say. And because it's a
+
+158
+00:09:46,640 --> 00:09:50,280
+thing, right? And, uh, I am— perhaps
+
+159
+00:09:50,360 --> 00:09:53,920
+was not the most feminine woman, but I
+
+160
+00:09:53,920 --> 00:09:57,760
+liked— because I dressed practically for school. We had school
+
+161
+00:09:57,760 --> 00:10:00,880
+from like 8. We had lectures, and then you have to go to labs, and
+
+162
+00:10:00,880 --> 00:10:04,730
+you have to carry a lot of stuff. We carried so many stuff,
+
+163
+00:10:04,730 --> 00:10:08,130
+whether it's books or like tools, right? And I was like, why?
+
+164
+00:10:08,370 --> 00:10:12,090
+I get it. And I super respect for the women who do
+
+165
+00:10:12,090 --> 00:10:15,090
+both makeup and everything when they go to the university. But for me, I was
+
+166
+00:10:15,090 --> 00:10:18,850
+like, I need to be comfortable because I will be sitting
+
+167
+00:10:18,850 --> 00:10:22,450
+for a very extended long time and I need to be comfortable, right?
+
+168
+00:10:22,450 --> 00:10:25,050
+Even now in the lab. And I was like, I get it. When I go
+
+169
+00:10:25,050 --> 00:10:28,130
+out, when there's a conference, it's different. But like, if I know that I'm going
+
+170
+00:10:28,130 --> 00:10:31,730
+to be sitting in the lab for 8 hours, my number one priority is like,
+
+171
+00:10:31,730 --> 00:10:35,130
+am I wearing comfortable pants? Am I wearing comfortable shoes, right?
+
+172
+00:10:35,450 --> 00:10:39,210
+However, again, I had a lot of comments like, oh, why don't you wear
+
+173
+00:10:39,210 --> 00:10:43,010
+more dresses? And I was like, I'm going to the university and going to the
+
+174
+00:10:43,010 --> 00:10:46,370
+labs. First of all, a dress is dangerous. Some of these labs were like, you
+
+175
+00:10:46,370 --> 00:10:49,890
+know, you take a little bit of labs like, you know,
+
+176
+00:10:49,890 --> 00:10:53,690
+civil engineering labs. You had to take like selective, and I like to
+
+177
+00:10:53,690 --> 00:10:57,290
+take courses from different disciplines of engineering just
+
+178
+00:10:57,630 --> 00:11:00,990
+because I was curious, still am, curiosity is still a thing. So it's like, or
+
+179
+00:11:00,990 --> 00:11:04,190
+like chemical lab, like chemical engineering labs, it's like you're not going to be there
+
+180
+00:11:04,190 --> 00:11:08,030
+with a lot of skin showing, or even not skin because, well, I used to
+
+181
+00:11:08,030 --> 00:11:11,750
+wear the scarf because it's a religious country in Egypt, right? And my parents are
+
+182
+00:11:11,750 --> 00:11:15,430
+very religious. So it's like I had to so
+
+183
+00:11:15,430 --> 00:11:19,110
+many things, right? And I was like, I just, all I wanted to
+
+184
+00:11:19,110 --> 00:11:22,870
+do honestly was to leave Egypt and to actually be
+
+185
+00:11:22,870 --> 00:11:26,440
+able to explore who I am and do what I want without the
+
+186
+00:11:26,440 --> 00:11:30,160
+pressure from society and from my family, which
+
+187
+00:11:30,480 --> 00:11:33,040
+again, I would say my parents are not the most
+
+188
+00:11:33,680 --> 00:11:37,440
+pressuring, but they're there and they be like, they would, you
+
+189
+00:11:37,440 --> 00:11:41,040
+know, guilt trip you as most parents do. It's like, oh, I can't
+
+190
+00:11:41,040 --> 00:11:44,360
+wait, I just wanna see grandkids, this kind of things, right? Like they will not
+
+191
+00:11:44,360 --> 00:11:47,720
+be like, hey, go get married. But they would say these things, which for me,
+
+192
+00:11:47,720 --> 00:11:51,480
+I feel like worse. Just say what you want. Right. I know what
+
+193
+00:11:51,480 --> 00:11:53,230
+you're trying to say. Just saying,
+
+194
+00:11:55,380 --> 00:11:59,230
+right? So when, when I finished undergrad, funny enough,
+
+195
+00:11:59,230 --> 00:12:03,030
+in Egypt, before I did my, my
+
+196
+00:12:03,030 --> 00:12:06,750
+post— well, my, my postgraduate studies in Japan, but before
+
+197
+00:12:06,750 --> 00:12:10,510
+Japan even was an option, I was like, cool, I want to
+
+198
+00:12:10,510 --> 00:12:14,270
+go to grad school anyway. So I did apply for grad school in Egypt,
+
+199
+00:12:14,670 --> 00:12:18,390
+and I remember when I went to the university, I was like,
+
+200
+00:12:18,390 --> 00:12:22,140
+hey, I want to do a master's degree. They were like, oh, you're not
+
+201
+00:12:22,140 --> 00:12:25,900
+smart enough to do a master's degree because you did not score perfect scores in
+
+202
+00:12:25,900 --> 00:12:29,740
+all of the topics. Some topics you did not get perfect scores, hence
+
+203
+00:12:29,740 --> 00:12:33,500
+you cannot do a master's or
+
+204
+00:12:33,500 --> 00:12:36,700
+a PhD. You have to have perfect scores in everything to be able to go
+
+205
+00:12:36,700 --> 00:12:40,340
+to grad school. I was like, but the topics that I didn't get perfect
+
+206
+00:12:40,340 --> 00:12:44,140
+scores was not topics I was interested in, nor is it the topics I want
+
+207
+00:12:44,140 --> 00:12:47,890
+to do the master's in, so it does not make sense. But in Egypt they
+
+208
+00:12:47,890 --> 00:12:51,610
+were like, oh, just, you know, just go get married or something. Really, the
+
+209
+00:12:51,610 --> 00:12:55,090
+women, the staff in the universities in Egypt were
+
+210
+00:12:55,090 --> 00:12:58,810
+savages. I was like, just no. However, I
+
+211
+00:12:58,810 --> 00:13:02,530
+did kind of start outside of the university, kind of like a private
+
+212
+00:13:02,610 --> 00:13:06,290
+university. It's not really private, but like more like, hey, can I
+
+213
+00:13:06,290 --> 00:13:10,130
+pay? So I did kind of have like a job after graduation. I was,
+
+214
+00:13:10,370 --> 00:13:13,890
+I was an Android developer, so I was writing code for
+
+215
+00:13:13,890 --> 00:13:17,670
+Android apps. Feels like forever ago because it was
+
+216
+00:13:17,670 --> 00:13:20,510
+like 12 years ago. So that was in 2014,
+
+217
+00:13:21,550 --> 00:13:25,310
+right? So I did work there for 6 months. I had very
+
+218
+00:13:25,310 --> 00:13:29,150
+little savings because you're not— I was not getting paid good at all
+
+219
+00:13:29,150 --> 00:13:32,870
+because I was like newly grad. Like no one pays well when
+
+220
+00:13:32,870 --> 00:13:36,670
+you're no experience. And I was like, cool, I'm
+
+221
+00:13:36,670 --> 00:13:39,310
+going to do a master's. And I started a master's in
+
+222
+00:13:40,470 --> 00:13:44,030
+biomedical engineering actually, which was very interesting. It was kind of like
+
+223
+00:13:44,490 --> 00:13:47,930
+between medical, like doing medical tools,
+
+224
+00:13:48,250 --> 00:13:51,890
+but like from the engineering side, not from the medical side. But I was like,
+
+225
+00:13:51,890 --> 00:13:55,570
+oh, that's cool. I always like the intersection between fields. Like I like
+
+226
+00:13:55,570 --> 00:13:59,370
+interdisciplinary fields. That's why I like quantum where you can do a lot
+
+227
+00:13:59,690 --> 00:14:03,530
+in different ways and you just need like the core knowledge and some other people
+
+228
+00:14:03,530 --> 00:14:06,570
+who have different core knowledge and you work together, right?
+
+229
+00:14:07,450 --> 00:14:11,140
+But I only did that for like 2 months. While I was applying.
+
+230
+00:14:11,220 --> 00:14:14,420
+Then I got to know— I was attending so many,
+
+231
+00:14:14,900 --> 00:14:17,940
+how to say, workshops. And back then,
+
+232
+00:14:18,740 --> 00:14:21,540
+the webinars did not exist, but there are—
+
+233
+00:14:22,420 --> 00:14:26,139
+there was a group in Egypt called Egyptian Scientists, and
+
+234
+00:14:26,139 --> 00:14:29,860
+they would do online calls. Back then, it was like on Google
+
+235
+00:14:29,860 --> 00:14:33,540
+Meets, the old Google Meets. Again, it feels like I'm talking about ancient history,
+
+236
+00:14:33,540 --> 00:14:36,700
+but yes, back then there was no Zoom, right? So like,
+
+237
+00:14:37,100 --> 00:14:40,860
+and they would do these calls, which were mostly just audio about
+
+238
+00:14:41,020 --> 00:14:44,700
+some Egyptians who managed to travel and do science. And they mostly
+
+239
+00:14:44,700 --> 00:14:48,380
+were men, but like, like 90% of the time it was a man
+
+240
+00:14:48,380 --> 00:14:51,820
+telling a story about how he managed to travel.
+
+241
+00:14:52,380 --> 00:14:55,580
+And his only, his only obstacle was financial,
+
+242
+00:14:56,220 --> 00:15:00,060
+right? Which is, it was like valid, but as a woman, there's so
+
+243
+00:15:00,060 --> 00:15:03,740
+many other obstacles. Finance is one of them, but then there's culture that you're a
+
+244
+00:15:03,740 --> 00:15:07,380
+woman, you have to tell your parents, hey, I'm traveling. And your religious
+
+245
+00:15:07,380 --> 00:15:10,140
+parents would be like, oh, but you're a woman, you should not be traveling alone.
+
+246
+00:15:10,140 --> 00:15:13,740
+Like, there was like a whole thing that you had to overcome, plus the
+
+247
+00:15:13,740 --> 00:15:17,540
+finances, right? That was like a lot. But one of them
+
+248
+00:15:17,540 --> 00:15:21,300
+was in Japan, and he talked about how Japan was a
+
+249
+00:15:21,300 --> 00:15:25,100
+good choice because not a lot of Egyptians travel to
+
+250
+00:15:25,100 --> 00:15:28,620
+Japan for post— for like, you know, doing master's and PhD.
+
+251
+00:15:28,860 --> 00:15:32,620
+So there isn't as large of numbers like Egyptian want to
+
+252
+00:15:32,620 --> 00:15:36,220
+go to Europe or the US. So the chances of you actually
+
+253
+00:15:36,540 --> 00:15:40,020
+traveling will be higher because there isn't as many people
+
+254
+00:15:40,020 --> 00:15:43,820
+applying from abroad. And if you have like, hey, I'm doing— you can prove your
+
+255
+00:15:43,820 --> 00:15:47,500
+knowledge more or less, you— it's, uh, it's doable to go to Japan.
+
+256
+00:15:47,580 --> 00:15:51,180
+Also, it's like cheaper than to study
+
+257
+00:15:51,180 --> 00:15:54,940
+in the US, or in— I mean, then the US for sure. I
+
+258
+00:15:54,940 --> 00:15:57,900
+mean, you have scholars— you have to have a scholarship to go to the US.
+
+259
+00:15:57,900 --> 00:16:01,580
+It's very expensive if you don't. For Europe, there are some countries that
+
+260
+00:16:01,580 --> 00:16:05,280
+have free-ish university, but mostly for Europeans,
+
+261
+00:16:05,280 --> 00:16:08,960
+not for people coming from outside, right? So, and there's— we're talking about
+
+262
+00:16:08,960 --> 00:16:12,560
+currencies here. You have euros, you have dollars, and you have yen.
+
+263
+00:16:12,560 --> 00:16:15,800
+And the yen is like the cheapest. So it's like financially,
+
+264
+00:16:15,800 --> 00:16:19,440
+logistically, Japan made sense. I was always curious about
+
+265
+00:16:19,440 --> 00:16:23,280
+Tokyo because it's a gorgeous city. It was one of the cities I
+
+266
+00:16:23,280 --> 00:16:26,760
+always wanted to try living in. I had like a list. It was
+
+267
+00:16:26,760 --> 00:16:30,480
+Tokyo, New York, and London. And so far I lived only in Tokyo.
+
+268
+00:16:30,480 --> 00:16:33,830
+Maybe in the future I will live in London. Since I'm in the UK
+
+269
+00:16:34,070 --> 00:16:37,910
+and maybe somewhere in the future I will live in New York. I lived
+
+270
+00:16:37,910 --> 00:16:41,670
+in Chicago, close enough. Love Chicago very much, my favorite city
+
+271
+00:16:41,670 --> 00:16:45,470
+in the US. So I was like, okay. And then I
+
+272
+00:16:45,470 --> 00:16:48,870
+applied for grad school in Japan and I got in and I was super happy.
+
+273
+00:16:49,350 --> 00:16:52,950
+Like, I remember I had to convince my parents. That was, that was the
+
+274
+00:16:52,950 --> 00:16:55,670
+challenge. I was like, look,
+
+275
+00:16:56,470 --> 00:17:00,270
+Japan is safe, everything. It did help that I
+
+276
+00:17:00,270 --> 00:17:04,040
+was always the good child. That
+
+277
+00:17:04,040 --> 00:17:07,640
+makes sense. I was never the rebel. I'm the firstborn, right?
+
+278
+00:17:07,720 --> 00:17:11,440
+I had two younger siblings. I have my sister who's
+
+279
+00:17:11,440 --> 00:17:15,000
+2 years younger than me and my brother who is 10 years younger than me.
+
+280
+00:17:15,080 --> 00:17:18,840
+So my brother was— me and him, there is a whole 10 years
+
+281
+00:17:18,840 --> 00:17:22,280
+between us. It's hard to talk to him sometimes because different generations,
+
+282
+00:17:22,840 --> 00:17:26,680
+but you know, and my sister was the rebel, so she had a
+
+283
+00:17:26,680 --> 00:17:30,240
+lot of attention and I was always like just following the
+
+284
+00:17:30,240 --> 00:17:34,090
+path. Kind of thing, you know. So when I said, hey, I want to go
+
+285
+00:17:34,090 --> 00:17:37,850
+for school, my parents was like, did not have to
+
+286
+00:17:37,850 --> 00:17:40,890
+say, I didn't have to put a lot of fighting because they were like, cool,
+
+287
+00:17:40,890 --> 00:17:44,690
+like she's a good person, she's not like gonna go crazy or anything,
+
+288
+00:17:44,690 --> 00:17:48,370
+and she's a nerd, she's always studying and such. So it's like,
+
+289
+00:17:48,770 --> 00:17:51,930
+makes sense, I guess, that you want to go. But they were like, oh, but
+
+290
+00:17:51,930 --> 00:17:55,610
+you're coming back just after the master's, right? I
+
+291
+00:17:55,610 --> 00:17:59,080
+did say right, I did make a promise that I broke there. But I was
+
+292
+00:17:59,080 --> 00:18:02,600
+like, yes, I shall be back and I will be married and whatnot.
+
+293
+00:18:02,840 --> 00:18:05,400
+I will do whatever you want if you let me travel.
+
+294
+00:18:06,520 --> 00:18:10,280
+And I did not do what they want. I lied to them.
+
+295
+00:18:10,520 --> 00:18:14,360
+Not intentionally though. I had to say what I had to say to pursue
+
+296
+00:18:14,440 --> 00:18:18,200
+my dreams. You gotta do what you gotta do.
+
+297
+00:18:18,280 --> 00:18:21,560
+You ended up in Tokyo and you were pursuing your PhD.
+
+298
+00:18:21,960 --> 00:18:24,760
+Was there a mentor
+
+299
+00:18:25,870 --> 00:18:29,510
+at that time who really, you know, got
+
+300
+00:18:29,510 --> 00:18:33,150
+you and, you know, was excited about what you wanted to be excited about
+
+301
+00:18:33,230 --> 00:18:37,070
+and was working with you in your PhD? Was there anyone
+
+302
+00:18:37,070 --> 00:18:40,830
+like that in Tokyo that just kind of continued
+
+303
+00:18:40,830 --> 00:18:44,110
+to keep you going? So yes,
+
+304
+00:18:45,310 --> 00:18:49,150
+when I first moved to Japan, I mean, it was hard, but I was
+
+305
+00:18:49,150 --> 00:18:52,510
+very excited. I mean, it's a whole different language. It's a whole different
+
+306
+00:18:52,510 --> 00:18:56,260
+universe than Egypt, Japan. It's like it's their whole
+
+307
+00:18:56,260 --> 00:18:59,780
+thing. And then I go and there's like I have to learn some Japanese
+
+308
+00:19:00,100 --> 00:19:03,620
+and I have to kind of like adapt to the Japanese society,
+
+309
+00:19:03,620 --> 00:19:07,420
+right? And in my master's degree, at first I didn't have
+
+310
+00:19:07,420 --> 00:19:11,260
+anyone there, which was also like, you know, difficult. I didn't know
+
+311
+00:19:11,260 --> 00:19:14,180
+anyone. I didn't know the language. I didn't know the country. There was so many
+
+312
+00:19:14,180 --> 00:19:18,020
+unknowns, but I still was excited because I could be anything I want to
+
+313
+00:19:18,020 --> 00:19:21,540
+be. It's like a new start, right? Like no one knows me here, so
+
+314
+00:19:21,540 --> 00:19:25,270
+technically I can be anyone. I can be me. With no pressure
+
+315
+00:19:25,270 --> 00:19:28,550
+from society or religion or whatever, right? And that was great.
+
+316
+00:19:29,270 --> 00:19:32,830
+And I, when I went to Japan, I did not have a
+
+317
+00:19:32,830 --> 00:19:36,390
+scholarship, right? So I had to kind of pay
+
+318
+00:19:36,390 --> 00:19:40,229
+for school. However, I would say that the school where I did my master's
+
+319
+00:19:40,229 --> 00:19:44,030
+was a very nice school. They, if you can tell them,
+
+320
+00:19:44,030 --> 00:19:47,790
+if you can show them your finances, you can get exempt from paying the
+
+321
+00:19:47,790 --> 00:19:51,530
+tuition fee. If you have like a high school record,, and you
+
+322
+00:19:51,530 --> 00:19:54,570
+can prove like, hey, I'm a good student, I'm doing so much, but like, I
+
+323
+00:19:54,570 --> 00:19:58,290
+do not have the money, you know, but you have to prove that, and
+
+324
+00:19:58,290 --> 00:20:02,130
+your supervisor has to like be like, yes, she is doing great work,
+
+325
+00:20:02,130 --> 00:20:05,730
+look, like she has, she's going to conferences and such, right, and
+
+326
+00:20:06,290 --> 00:20:10,050
+doing publications. So, and then they can give you exemption from the
+
+327
+00:20:10,050 --> 00:20:13,130
+tuition fee, which is great, and they did all of my master's. I did not
+
+328
+00:20:13,130 --> 00:20:16,570
+have to pay for it, but I have to do a lot of classwork, right,
+
+329
+00:20:16,570 --> 00:20:19,920
+like you have to kind of balance it out. Yeah, and but you have of
+
+330
+00:20:19,920 --> 00:20:23,040
+course to get money somehow to live. That's like different thing, but I did not
+
+331
+00:20:23,040 --> 00:20:26,480
+have to pay for school and to live. I worked as so many things in
+
+332
+00:20:26,480 --> 00:20:29,760
+the school and I remember I was a TA for like 2
+
+333
+00:20:29,760 --> 00:20:33,480
+different classes. I was a transcriber for
+
+334
+00:20:33,480 --> 00:20:37,320
+like some research that was just interviewing people and I would listen to interviews and
+
+335
+00:20:37,320 --> 00:20:41,160
+type them down. That was one part-time job I did. I did a lot of
+
+336
+00:20:41,320 --> 00:20:44,970
+tutoring. It was fun because then I got to introduce to
+
+337
+00:20:44,970 --> 00:20:48,730
+the person who is still this moment is my mentor, and he was
+
+338
+00:20:48,730 --> 00:20:51,970
+not my supervisor at any point. He was just a
+
+339
+00:20:51,970 --> 00:20:55,730
+physics professor who I worked with as a TA
+
+340
+00:20:55,810 --> 00:20:59,210
+after like the moment I went to my— started
+
+341
+00:20:59,210 --> 00:21:02,570
+my master's. And he is actually an American guy
+
+342
+00:21:02,570 --> 00:21:06,330
+from Texas, so he was a Texan and he would walk around in
+
+343
+00:21:06,330 --> 00:21:09,850
+his cowboy boots, but he was one of the nicest people I've met. I mean,
+
+344
+00:21:09,850 --> 00:21:12,570
+he still is. I do not know why I said was. He is one of
+
+345
+00:21:12,570 --> 00:21:16,320
+the nicest people I met, and he was such an
+
+346
+00:21:16,320 --> 00:21:19,880
+encouraging man. He was like, yes, you can do this. I know it's
+
+347
+00:21:19,960 --> 00:21:23,760
+hard. And I literally worked as his TA the entire time
+
+348
+00:21:23,760 --> 00:21:27,320
+I was in that university. And he's the one who introduced me
+
+349
+00:21:27,320 --> 00:21:31,000
+to quantum and to my PhD supervisor.
+
+350
+00:21:31,000 --> 00:21:34,760
+So he had a huge effect on my life and how I
+
+351
+00:21:34,760 --> 00:21:38,280
+got here. I don't think I would have gotten here without him, so I'm very
+
+352
+00:21:38,280 --> 00:21:42,130
+grateful for him. So let me ask you, how do
+
+353
+00:21:42,130 --> 00:21:45,210
+you navigate moments when you feel less
+
+354
+00:21:45,610 --> 00:21:48,810
+confident, especially when the stakes are so high with what you're working
+
+355
+00:21:50,330 --> 00:21:54,010
+on? Ah, that's a very good question because I feel like
+
+356
+00:21:54,010 --> 00:21:57,210
+that all of the time. Imposter syndrome is strong in
+
+357
+00:21:58,490 --> 00:22:01,890
+research. Academia is a very fast, you know,
+
+358
+00:22:01,890 --> 00:22:05,530
+very aggressive, I would say, community environment,
+
+359
+00:22:06,140 --> 00:22:09,700
+right? Like you always feel like, oh my God, I'm working with those people who
+
+360
+00:22:09,700 --> 00:22:13,540
+are smarter and they work harder. I don't think I belong. There's always this
+
+361
+00:22:13,540 --> 00:22:16,900
+moment of self-doubt, maybe again because I've been told I'm not
+
+362
+00:22:16,900 --> 00:22:20,580
+smart explicitly to my face, right? So it's not like, hey, I'm
+
+363
+00:22:20,580 --> 00:22:24,300
+thinking crazy thoughts. But one of the things I do is
+
+364
+00:22:24,300 --> 00:22:28,100
+like, I like to take a pause and look at what
+
+365
+00:22:28,100 --> 00:22:31,740
+I accomplished. Where did I start and where I am
+
+366
+00:22:31,740 --> 00:22:35,520
+now? And remind myself that I wouldn't be here now. If
+
+367
+00:22:35,520 --> 00:22:39,200
+I didn't have what it takes to be here. Sure, I can be
+
+368
+00:22:39,200 --> 00:22:43,040
+like, people are kind, people gave me chances, people supported me, but in the same
+
+369
+00:22:43,040 --> 00:22:46,360
+time, it was like, the people wouldn't have supported me,
+
+370
+00:22:47,240 --> 00:22:50,959
+especially career-wise, right? Like, people wouldn't invest money in me if
+
+371
+00:22:50,959 --> 00:22:54,400
+I did not have what it takes, right? If they did not believe that I
+
+372
+00:22:54,400 --> 00:22:57,640
+can help them move their whatever
+
+373
+00:22:57,880 --> 00:23:01,400
+research forward, right? Their business forward, as for
+
+374
+00:23:01,560 --> 00:23:05,080
+like, no one gives people jobs if they're not qualified for,
+
+375
+00:23:05,550 --> 00:23:07,950
+right? So I was like, I have to remember that. I was like in this
+
+376
+00:23:07,950 --> 00:23:11,230
+moment of self-doubts and I can be like, oh, my boss is like super nice
+
+377
+00:23:11,230 --> 00:23:14,870
+to me. They're just nice. That's why they hired me. No, especially
+
+378
+00:23:14,870 --> 00:23:18,710
+in quantum, especially in stuff where they need outcome, right? It's not like
+
+379
+00:23:18,710 --> 00:23:22,350
+you're doing— they need outcome, they need work. So it's always—
+
+380
+00:23:22,350 --> 00:23:25,950
+I always stop and remember, hey, remember where I have
+
+381
+00:23:26,830 --> 00:23:30,070
+been in Egypt being told I'm not smart enough, but here I am now with
+
+382
+00:23:30,070 --> 00:23:33,720
+a PhD. Publications, worked with IBM,
+
+383
+00:23:33,720 --> 00:23:37,520
+worked with National Labs in the US, working now in one
+
+384
+00:23:37,520 --> 00:23:40,680
+of the top 50 universities in the world. It's like,
+
+385
+00:23:41,320 --> 00:23:45,120
+stop doubting yourself and like, be like, no, no, no,
+
+386
+00:23:45,120 --> 00:23:48,840
+I did that. I worked so hard and I deserve
+
+387
+00:23:49,000 --> 00:23:52,840
+everything I got. It's, it's, it's important, but it's something of course
+
+388
+00:23:52,840 --> 00:23:55,480
+that we forget every now and then when things get hard,
+
+389
+00:23:56,360 --> 00:24:00,050
+right? But It's— I always had very supportive friends
+
+390
+00:24:00,050 --> 00:24:03,890
+as well. Like, I appreciate them so much. I had amazing friends who were
+
+391
+00:24:03,890 --> 00:24:07,570
+always there. So in the moments where I couldn't stop and see
+
+392
+00:24:07,570 --> 00:24:10,890
+where I've— that all of the things I've gone
+
+393
+00:24:11,530 --> 00:24:15,130
+through, they were there. Be like, hey, in case you forgot how amazing you are,
+
+394
+00:24:15,130 --> 00:24:18,930
+we're here to remind you. So I had such supportive and amazing friends.
+
+395
+00:24:18,930 --> 00:24:22,710
+My friends are my family. I think of them as more family than my actual
+
+396
+00:24:23,020 --> 00:24:26,860
+relatives. Because they have been there for me in a lot of ways.
+
+397
+00:24:26,860 --> 00:24:30,500
+Like, they are my emotional painkillers, as I like
+
+398
+00:24:30,500 --> 00:24:34,142
+to describe them. I like that. I like that. So
+
+399
+00:24:34,142 --> 00:24:37,940
+they're fantastic. So let me ask you, when
+
+400
+00:24:37,940 --> 00:24:41,740
+you're facing doubt internally, what's your process
+
+401
+00:24:41,740 --> 00:24:44,620
+for deciding whether you should speak up or step
+
+402
+00:24:47,500 --> 00:24:51,300
+back? That's a good thing. And it's something I did actually think about a lot
+
+403
+00:24:51,300 --> 00:24:55,000
+because I feel sometimes it's good to know when to give up on something. Like,
+
+404
+00:24:55,000 --> 00:24:58,080
+it's like, this is not for me, it's taking too much energy and power and
+
+405
+00:24:58,080 --> 00:24:59,400
+I can't, I need to stop
+
+406
+00:25:01,800 --> 00:25:05,480
+back. I also do a lot of reflection and we're going to talk about
+
+407
+00:25:05,560 --> 00:25:09,400
+like purely career-wise, you know, I do a lot of reflection where I've
+
+408
+00:25:09,720 --> 00:25:13,520
+been, what is— so the moment where I decide to step back,
+
+409
+00:25:13,520 --> 00:25:16,600
+if it's, if I'm doing something I did not want to do but I did
+
+410
+00:25:16,840 --> 00:25:20,440
+because I've been told that it looks good, right? So
+
+411
+00:25:20,520 --> 00:25:24,340
+I don't like it, I've been told it looks good, but so I don't have
+
+412
+00:25:24,980 --> 00:25:28,620
+any passion towards it. And I'm neurodivergent,
+
+413
+00:25:28,620 --> 00:25:32,460
+so actually to do something I'm not passionate about requires a lot of
+
+414
+00:25:32,460 --> 00:25:36,140
+mental energy because every part of me does not want to do it. So I'm
+
+415
+00:25:36,140 --> 00:25:39,780
+pushing myself so hard to just do this thing because
+
+416
+00:25:39,780 --> 00:25:43,420
+it looks good. And I always step back,
+
+417
+00:25:43,420 --> 00:25:47,100
+and maybe more so now after my PhD than before I got it, and
+
+418
+00:25:47,100 --> 00:25:50,680
+be like, okay, Can I do something
+
+419
+00:25:50,880 --> 00:25:54,600
+that both interests me and is good for my career instead of
+
+420
+00:25:54,600 --> 00:25:57,960
+this thing that is taking too much energy for me to just get myself to
+
+421
+00:25:57,960 --> 00:26:01,680
+do it? Not even to do it, the thing itself, right? To get myself to
+
+422
+00:26:01,680 --> 00:26:05,321
+do it. And can I, can I find the thing that
+
+423
+00:26:05,321 --> 00:26:08,480
+intersects between what I like to do and can be good for my
+
+424
+00:26:08,880 --> 00:26:12,480
+career? And I always went for that, with the second option, because
+
+425
+00:26:12,480 --> 00:26:16,060
+then things become easier even if the problem I'm
+
+426
+00:26:16,060 --> 00:26:19,420
+working on, again, you know, quantum problem
+
+427
+00:26:19,420 --> 00:26:23,100
+or programming problem or even teaching problem, then be like,
+
+428
+00:26:23,100 --> 00:26:25,940
+cool, it's a challenge because it's something I like and I want to get better
+
+429
+00:26:26,020 --> 00:26:29,860
+at instead of me having to do something I don't like, even if it
+
+430
+00:26:29,860 --> 00:26:33,580
+pays more, even if it looks good. Both
+
+431
+00:26:33,580 --> 00:26:37,340
+these things never been motivations for me. It's like I have to be passionate
+
+432
+00:26:37,340 --> 00:26:40,980
+about what I do and then I give up. Honestly, it's not give up.
+
+433
+00:26:41,450 --> 00:26:44,690
+I change direction. That's how I like to think about it. I'm
+
+434
+00:26:44,690 --> 00:26:48,410
+changing direction and taking a different route to the same
+
+435
+00:26:48,650 --> 00:26:52,330
+destination, right? Instead of this route that maybe is
+
+436
+00:26:52,810 --> 00:26:56,330
+shorter, but let's say has a lot more obstacles, I can take the scenic route
+
+437
+00:26:56,330 --> 00:27:00,050
+to the same destination. Sure, might have to take longer. Maybe I will
+
+438
+00:27:00,050 --> 00:27:03,890
+do a little bit more work, but I will be happy doing it.
+
+439
+00:27:03,890 --> 00:27:07,570
+That's always like been my mindset when I choose what to do or what
+
+440
+00:27:07,570 --> 00:27:11,310
+the next step should be. Okay, so what
+
+441
+00:27:11,310 --> 00:27:14,910
+advice would you give someone who's curious about quantum but
+
+442
+00:27:14,910 --> 00:27:18,750
+doesn't have any kind of physics background? Oh,
+
+443
+00:27:18,750 --> 00:27:21,670
+I don't have any kind of physics background. That's what I tell them. I tell
+
+444
+00:27:21,670 --> 00:27:25,470
+them I am an electrical engineer who likes to code,
+
+445
+00:27:25,950 --> 00:27:29,550
+right? And I like talking about science, and I got
+
+446
+00:27:29,550 --> 00:27:33,390
+a PhD in quantum without actually having a physics background. I
+
+447
+00:27:33,390 --> 00:27:37,200
+work with physicists, But I feel like right now, I think
+
+448
+00:27:37,200 --> 00:27:40,920
+it's the best time for people who are curious about quantum to
+
+449
+00:27:40,920 --> 00:27:44,360
+get into quantum because right now it's actually outside
+
+450
+00:27:44,680 --> 00:27:48,440
+of the physics experimental realm. Let's put it like
+
+451
+00:27:48,520 --> 00:27:51,560
+that and more into application. So it
+
+452
+00:27:52,040 --> 00:27:55,720
+is as important to know how to use quantum as it is
+
+453
+00:27:55,720 --> 00:27:59,320
+to build it. And the physicists are taking care of the building
+
+454
+00:27:59,640 --> 00:28:03,270
+it. We need now people to focus on how can
+
+455
+00:28:03,270 --> 00:28:06,990
+I use it, which is still very under-researched, right?
+
+456
+00:28:06,990 --> 00:28:10,750
+Like we have all of these potential
+
+457
+00:28:10,750 --> 00:28:14,350
+for quantum to solve these amazing problems.
+
+458
+00:28:14,590 --> 00:28:18,430
+However, we don't actually know the extent of it, you know, right?
+
+459
+00:28:18,590 --> 00:28:22,150
+Like how far can I take quantum? It's kind of like when AI and
+
+460
+00:28:22,150 --> 00:28:25,830
+machine learning first started, like we did not know how far can we take
+
+461
+00:28:25,830 --> 00:28:29,350
+these tools. They were just in research labs being used by
+
+462
+00:28:29,350 --> 00:28:33,110
+just scientists, not by the normal people. But when people, the
+
+463
+00:28:33,110 --> 00:28:36,950
+public use them, then we got to learn more about them and
+
+464
+00:28:36,950 --> 00:28:40,750
+got to know new ways that we can utilize them, right? Same
+
+465
+00:28:40,750 --> 00:28:44,550
+with quantum. Like right now, I do more application
+
+466
+00:28:44,550 --> 00:28:47,310
+stuff in quantum. So it's like, what can we use quantum
+
+467
+00:28:48,510 --> 00:28:52,310
+for now? It's not like how we build it, or sure, I
+
+468
+00:28:52,310 --> 00:28:55,550
+can learn a little bit about how it works enough to know how to use
+
+469
+00:28:55,730 --> 00:28:59,010
+it. But like not enough to be like, I have to be like, go deep
+
+470
+00:28:59,010 --> 00:29:02,610
+into the physics. You can like, there's a middle
+
+471
+00:29:02,770 --> 00:29:06,210
+ground, right? Like the application is high and the physics is this
+
+472
+00:29:06,450 --> 00:29:10,090
+here. You can like learn a little bit physics to know how to
+
+473
+00:29:10,090 --> 00:29:13,810
+use quantum without actually knowing quantum.
+
+474
+00:29:13,810 --> 00:29:17,090
+Also, most of the quantum communities now are
+
+475
+00:29:17,970 --> 00:29:21,770
+very diverse because I feel like quantum is more of a tool because you
+
+476
+00:29:21,770 --> 00:29:25,270
+can use it to do different things. Sure, if you're really excited
+
+477
+00:29:25,270 --> 00:29:29,070
+about building an actual quantum computer, that's a different thing, right? Sure, you will need
+
+478
+00:29:29,070 --> 00:29:32,630
+to know physics, you will need to know a lot of
+
+479
+00:29:32,630 --> 00:29:36,390
+electronics, right? Because the hardware, but if you just want to use it and
+
+480
+00:29:36,390 --> 00:29:40,150
+be in quantum, like there is a lot of
+
+481
+00:29:40,870 --> 00:29:42,950
+need, right? The quantum field now is
+
+482
+00:29:44,470 --> 00:29:48,190
+very young and I feel it's still, it
+
+483
+00:29:48,190 --> 00:29:51,990
+has not matured yet. Even the startups, which is so
+
+484
+00:29:51,990 --> 00:29:55,630
+many of them, right, in quantum, they do not know
+
+485
+00:29:55,630 --> 00:29:59,470
+where they're going yet, right? Because the field is still new, so
+
+486
+00:29:59,470 --> 00:30:02,950
+they do not know who to hire yet. It's like a very weird
+
+487
+00:30:03,350 --> 00:30:07,110
+position, right, that is for quantum now. And most of the time
+
+488
+00:30:07,110 --> 00:30:10,390
+they're like, yeah, we want someone who has a PhD in physics, which I
+
+489
+00:30:10,390 --> 00:30:14,150
+know frustrates a lot of people, and I get it because it frustrates
+
+490
+00:30:14,150 --> 00:30:17,750
+me too because I don't have a PhD in physics. What are you talking
+
+491
+00:30:18,560 --> 00:30:22,240
+about? But I still can bridge
+
+492
+00:30:22,240 --> 00:30:25,520
+the, because the skills can be bridged into quantum, right? You do not need to
+
+493
+00:30:25,520 --> 00:30:29,360
+know quantum. I know a lot of people who were computer scientists that really
+
+494
+00:30:29,360 --> 00:30:33,200
+like software, and now they work in IBM Quantum doing quantum software,
+
+495
+00:30:33,200 --> 00:30:36,560
+right? Which is just building software for quantum, and they're
+
+496
+00:30:36,680 --> 00:30:39,800
+learning quantum as they go because they already have like the core skill, which is
+
+497
+00:30:39,800 --> 00:30:43,520
+they're very good coders. So they're building their quantum knowledge as they
+
+498
+00:30:43,680 --> 00:30:47,520
+go. And actually knowing quantum was not a criteria to actually write
+
+499
+00:30:47,920 --> 00:30:51,680
+code. For quantum, you just know how to write code and be curious about
+
+500
+00:30:51,680 --> 00:30:54,720
+learning the quantum side of things. So I feel like there's so
+
+501
+00:30:55,760 --> 00:30:59,480
+many quantum jobs that people can do and they
+
+502
+00:30:59,480 --> 00:31:03,000
+do not have to know physics unless they want to do research in quantum physics,
+
+503
+00:31:03,000 --> 00:31:06,200
+then they need to know physics. But if they want to just do stuff in
+
+504
+00:31:06,200 --> 00:31:09,880
+quantum computing, physics is, you know, preferable
+
+505
+00:31:09,880 --> 00:31:13,560
+but not needed. Okay. So what's
+
+506
+00:31:13,560 --> 00:31:17,410
+one piece of advice you'd give your younger self? At the start
+
+507
+00:31:17,410 --> 00:31:21,170
+of your quantum journey? Oh,
+
+508
+00:31:21,170 --> 00:31:22,970
+you are smart enough to do
+
+509
+00:31:25,210 --> 00:31:29,010
+quantum. That— do not give up. You're smart
+
+510
+00:31:29,010 --> 00:31:32,490
+enough to do quantum, especially quantum, because it's always— people be
+
+511
+00:31:32,570 --> 00:31:35,410
+like— people now, when they ask me for advice, they be like, I don't think
+
+512
+00:31:35,410 --> 00:31:39,010
+I'm smart enough to do quantum. It's like hard, right? And I
+
+513
+00:31:39,010 --> 00:31:42,770
+was like, sure. I mean, but I wouldn't say it's harder
+
+514
+00:31:42,770 --> 00:31:46,490
+than machine learning or AI. It's kind of like the same level of
+
+515
+00:31:46,490 --> 00:31:50,080
+difficulty, but people won't be like, I'm not smart enough to do machine learning, they
+
+516
+00:31:50,080 --> 00:31:53,240
+still do it. They learn programming and do it. It's just that
+
+517
+00:31:53,240 --> 00:31:57,000
+there's misconception about quantum. The word quantum somehow triggers
+
+518
+00:31:57,000 --> 00:31:59,920
+fear into people's hearts for some
+
+519
+00:32:01,280 --> 00:32:04,560
+reason. Yeah, I was like, no, no, it's not as bad as it sounds. It's
+
+520
+00:32:04,560 --> 00:32:08,240
+actually very fun. So how can
+
+521
+00:32:08,240 --> 00:32:12,080
+the quantum field become more welcoming to people from
+
+522
+00:32:12,240 --> 00:32:14,290
+historically underrepresented
+
+523
+00:32:15,960 --> 00:32:19,800
+backgrounds? That's a great topic. That's a topic I actually did some work on personally.
+
+524
+00:32:19,800 --> 00:32:21,240
+Well, some activities
+
+525
+00:32:23,960 --> 00:32:27,640
+towards, uh, I think because quantum is a new technology, so it's an emerging
+
+526
+00:32:28,360 --> 00:32:31,800
+technology, and unfortunately in the world that we live
+
+527
+00:32:31,960 --> 00:32:35,680
+in, the people who have access to emerging technology are often
+
+528
+00:32:35,680 --> 00:32:39,240
+the people with the most privilege. By the time those
+
+529
+00:32:39,320 --> 00:32:43,100
+people like become familiar with it, then the underprivileged
+
+530
+00:32:43,100 --> 00:32:46,540
+people, underrepresented in science, whether financially or
+
+531
+00:32:46,700 --> 00:32:50,540
+gender or sexuality, whatever aspect they're
+
+532
+00:32:50,540 --> 00:32:54,180
+underrepresented because of, by the time it gets to them, like, the other people who
+
+533
+00:32:54,180 --> 00:32:57,100
+have it easier have learned from it
+
+534
+00:32:57,580 --> 00:33:01,380
+and maybe progressed in it, right? So then you feel like
+
+535
+00:33:01,380 --> 00:33:05,100
+I'm getting there late, and I feel
+
+536
+00:33:05,340 --> 00:33:09,180
+it's— I don't know whose job it is. I want to say it's the
+
+537
+00:33:09,180 --> 00:33:12,760
+individual researcher jobs, the university's jobs, company companies,
+
+538
+00:33:13,720 --> 00:33:17,480
+jobs. I would say it's all, it's the ecosystem, the entirety of
+
+539
+00:33:17,640 --> 00:33:21,320
+it has a role to get the people involved,
+
+540
+00:33:21,400 --> 00:33:25,160
+right? Because a lot of companies
+
+541
+00:33:26,600 --> 00:33:29,960
+and universities will be like, we need more people in
+
+542
+00:33:30,360 --> 00:33:34,080
+quantum, but then they don't do anything about it. Now, sure,
+
+543
+00:33:34,080 --> 00:33:37,800
+they can be like, yes, we have like
+
+544
+00:33:37,800 --> 00:33:41,520
+IBM, for example, right? One of the things that they did that I
+
+545
+00:33:41,760 --> 00:33:43,960
+like, and they did a lot of things I don't like, but one of the
+
+546
+00:33:43,960 --> 00:33:47,760
+things they did that I like is that they do have free
+
+547
+00:33:47,840 --> 00:33:51,280
+access to the quantum hardware. It's not
+
+548
+00:33:51,680 --> 00:33:55,440
+like all unlimited free access. They give you like, I think, 10 minutes
+
+549
+00:33:55,440 --> 00:33:58,640
+a month, which is more than enough for you if you're
+
+550
+00:33:59,360 --> 00:34:03,080
+curious to learn how to use it. There is a
+
+551
+00:34:03,080 --> 00:34:05,280
+lot of companies are taking like, they're
+
+552
+00:34:06,290 --> 00:34:09,850
+doing educational content on YouTube and people can
+
+553
+00:34:09,850 --> 00:34:13,490
+watch it, watch it and like implement it, right? But
+
+554
+00:34:13,490 --> 00:34:17,010
+not any, I don't know of any other company who gives free access to
+
+555
+00:34:17,010 --> 00:34:20,810
+the hardware except IBM to the general public. Now,
+
+556
+00:34:20,810 --> 00:34:24,610
+if you're privileged enough to be in an institute that is, I
+
+557
+00:34:24,610 --> 00:34:28,290
+don't know, big and pays those companies to have access to their
+
+558
+00:34:28,290 --> 00:34:32,100
+hardware, it's different. But like, if, if I'm just curious, then what
+
+559
+00:34:32,100 --> 00:34:35,420
+do we do? I worked
+
+560
+00:34:35,900 --> 00:34:39,460
+with Argonne when I was in the US after my PhD for like
+
+561
+00:34:39,460 --> 00:34:43,100
+6 months. I did like a postdoc internship. I mean, I was
+
+562
+00:34:43,100 --> 00:34:46,900
+an intern, right? And I had a PhD and I remember
+
+563
+00:34:46,900 --> 00:34:50,540
+the manager, she was like, you're the most qualified intern I've ever had in my
+
+564
+00:34:51,020 --> 00:34:54,860
+life. And I was like, she always introduced me as this is
+
+565
+00:34:54,860 --> 00:34:58,660
+Dr. Sarah. She's an intern on title, but she has a
+
+566
+00:34:58,660 --> 00:35:02,000
+PhD in quantum. So she is not by any means an
+
+567
+00:35:04,160 --> 00:35:07,920
+intern. We, we were in Chicago, right? And we did intentionally go
+
+568
+00:35:07,920 --> 00:35:10,480
+to like the underrepresented, the
+
+569
+00:35:11,200 --> 00:35:14,800
+poor districts of Chicago. And we did give webinars and
+
+570
+00:35:15,120 --> 00:35:18,760
+talks about quantum and about science in general, right?
+
+571
+00:35:18,760 --> 00:35:21,520
+Because again, kids who grew
+
+572
+00:35:22,320 --> 00:35:25,920
+up in societies or communities where they're not given
+
+573
+00:35:27,010 --> 00:35:30,810
+the the options, right? Like they do not know that they can do quantum
+
+574
+00:35:30,810 --> 00:35:34,490
+because they do not know that quantum is an option, right? Not because they're
+
+575
+00:35:34,490 --> 00:35:38,010
+not smart enough. They don't even know that there exists a
+
+576
+00:35:38,010 --> 00:35:41,650
+quantum computer and that the field got this far ahead and you can
+
+577
+00:35:42,209 --> 00:35:45,730
+actually do it if you want to. So
+
+578
+00:35:46,130 --> 00:35:49,730
+there's that kind of like outreach that I like to do. I like
+
+579
+00:35:49,970 --> 00:35:53,650
+to, whenever I'm, someone reach out to me to give webinars
+
+580
+00:35:53,650 --> 00:35:57,220
+online for people, for students, in the Middle East,
+
+581
+00:35:57,220 --> 00:36:00,860
+right, particularly. And I was like, yes, for women, right?
+
+582
+00:36:00,860 --> 00:36:04,500
+Now I'm writing a funding proposal with two other postdocs who are also
+
+583
+00:36:05,060 --> 00:36:08,740
+women about getting more women into quantum, right? Okay, I like
+
+584
+00:36:08,980 --> 00:36:12,580
+that. So how do we go from even the middle and
+
+585
+00:36:12,580 --> 00:36:16,180
+high school girls? That's the level that I want to target,
+
+586
+00:36:16,260 --> 00:36:19,927
+right? Like from when they're younger and then the society still,
+
+587
+00:36:19,927 --> 00:36:23,720
+it's still pushing starts pushing self-doubts on them and tell
+
+588
+00:36:23,720 --> 00:36:27,440
+them that, hey, you know, stay out of the sciences because it happens everywhere in
+
+589
+00:36:27,440 --> 00:36:31,080
+the world. I lived in so many countries and it happens
+
+590
+00:36:31,160 --> 00:36:34,880
+everywhere in different degrees, but it happens everywhere. So
+
+591
+00:36:34,880 --> 00:36:38,720
+it's like, how do we get more women interested in science? How do we
+
+592
+00:36:38,720 --> 00:36:42,360
+make it more welcoming? And again, as I said, it's
+
+593
+00:36:42,360 --> 00:36:46,000
+hard because it's very still male dominant. I mean, I, in
+
+594
+00:36:46,000 --> 00:36:49,810
+my office now, all of the visitors are men. It's
+
+595
+00:36:49,890 --> 00:36:53,690
+still, still the numbers are still very skewed. So which means
+
+596
+00:36:53,690 --> 00:36:57,250
+there's so more work still need from us to do it.
+
+597
+00:36:57,250 --> 00:37:00,970
+And I, I hope that sometime that in the future I get
+
+598
+00:37:00,970 --> 00:37:03,810
+to a point where I have more influence and more
+
+599
+00:37:04,370 --> 00:37:08,130
+decision-making capabilities to, to make a change and
+
+600
+00:37:08,130 --> 00:37:11,770
+be like, yes, let's, let's do more
+
+601
+00:37:11,770 --> 00:37:15,590
+outreach. Let's, let's, let's tell people that it's an option.
+
+602
+00:37:15,990 --> 00:37:19,350
+So getting there step by step. I, I, and that's
+
+603
+00:37:19,750 --> 00:37:23,390
+another, another reason why, you know, I wanted
+
+604
+00:37:23,390 --> 00:37:26,710
+to start the Women in Quantum podcast. I want to
+
+605
+00:37:27,270 --> 00:37:30,630
+show who is out there, what they are doing, why it's
+
+606
+00:37:31,269 --> 00:37:34,390
+exciting, so that younger women can see
+
+607
+00:37:35,030 --> 00:37:38,710
+themselves in other women that are out in the field already and say, wait
+
+608
+00:37:38,710 --> 00:37:41,690
+a minute, I could do this, I could do that. I'm just like her. I
+
+609
+00:37:41,690 --> 00:37:44,890
+can, you know, and then feel less of a barrier to
+
+610
+00:37:45,450 --> 00:37:48,890
+entry. Yes, because they're hearing it from other women themselves, and I think that's a
+
+611
+00:37:48,890 --> 00:37:52,730
+way more powerful message to convey
+
+612
+00:37:52,730 --> 00:37:56,490
+from woman to woman. So let me ask you a little bit
+
+613
+00:37:56,810 --> 00:38:00,650
+about your, your current, the current research that you're working on.
+
+614
+00:38:00,650 --> 00:38:04,170
+So what is the focus of at the
+
+615
+00:38:04,170 --> 00:38:07,820
+Quantum Software Lab that you're working on? Okay,
+
+616
+00:38:07,820 --> 00:38:11,300
+so, oh, the Quantum Software Lab, oh, they do so much stuff. We do a
+
+617
+00:38:11,300 --> 00:38:14,740
+lot of stuff, not just software. But currently I'm working
+
+618
+00:38:14,820 --> 00:38:17,780
+on two projects. One of them
+
+619
+00:38:19,380 --> 00:38:22,980
+is, so I'm in the University of Edinburgh, so technically it's the
+
+620
+00:38:23,780 --> 00:38:27,540
+UK. And right now there are a lot
+
+621
+00:38:28,020 --> 00:38:30,500
+of hardware companies
+
+622
+00:38:32,180 --> 00:38:35,820
+that have hardware different kind of qubits. So qubits can be made
+
+623
+00:38:35,820 --> 00:38:39,300
+in different ways, physically speaking, right? And
+
+624
+00:38:39,300 --> 00:38:42,900
+each type of qubit have different
+
+625
+00:38:43,140 --> 00:38:46,820
+characteristics. So if I choose to make qubits, for example, let's see, IBM
+
+626
+00:38:46,820 --> 00:38:50,500
+and Google have something called superconducting qubits. There are ion
+
+627
+00:38:50,500 --> 00:38:54,300
+trap qubits. So there is companies that works on that. There is neutral
+
+628
+00:38:54,300 --> 00:38:58,140
+atom qubits. There's some, and there's new ones that people are getting, that's the
+
+629
+00:38:58,420 --> 00:39:02,200
+researcher coming up with. There's photonics, right? There's different kinds., and each one
+
+630
+00:39:02,200 --> 00:39:05,960
+of those qubits have different characteristics. So the way we
+
+631
+00:39:05,960 --> 00:39:09,720
+want to implement stuff on them, right? Because that's what I'm interested in,
+
+632
+00:39:09,720 --> 00:39:12,680
+right? Like say I have an application, a code that
+
+633
+00:39:13,480 --> 00:39:17,040
+does something, is it, it's gonna perform the same on all of these machines? The
+
+634
+00:39:17,040 --> 00:39:20,400
+answer is no, because the qubits have an effect, although
+
+635
+00:39:20,400 --> 00:39:24,160
+they're all quantum, but they all have different error rates.
+
+636
+00:39:24,160 --> 00:39:27,560
+They have different way they interact with each other. Some of
+
+637
+00:39:28,390 --> 00:39:32,110
+them has, they cannot hold their state for long.
+
+638
+00:39:32,110 --> 00:39:35,750
+Qubits are very sensitive, right? They're very finicky. You know, you have
+
+639
+00:39:35,750 --> 00:39:39,470
+to baby them. So it's like, okay, how they
+
+640
+00:39:39,470 --> 00:39:43,030
+don't hold it. So some of them can hold their
+
+641
+00:39:43,190 --> 00:39:46,830
+state longer. Some of them interact with each other faster. So it's like,
+
+642
+00:39:46,830 --> 00:39:50,230
+okay, how do I choose the right application to the
+
+643
+00:39:50,390 --> 00:39:54,070
+right hardware is kind of like one of the projects, but also
+
+644
+00:39:54,070 --> 00:39:57,660
+how do I benchmark the performance
+
+645
+00:39:57,660 --> 00:40:01,380
+of the hardware. So cool, I have this bunch of hardware.
+
+646
+00:40:01,380 --> 00:40:05,180
+I actually do not know, even if I choose the right application for
+
+647
+00:40:05,180 --> 00:40:09,020
+them, how do I know if it's good, good, right, or bad.
+
+648
+00:40:09,020 --> 00:40:12,100
+I'm not going to say bad, I mean the performance, like what can get better,
+
+649
+00:40:12,260 --> 00:40:15,620
+right? Like not like bad as in don't use it bad, but like
+
+650
+00:40:15,780 --> 00:40:19,380
+what is the— how do I evaluate the performance
+
+651
+00:40:19,620 --> 00:40:22,780
+of it. So one of it is like we're working with a group of people,
+
+652
+00:40:22,780 --> 00:40:26,460
+so we take their code. So people who already wrote application
+
+653
+00:40:26,460 --> 00:40:30,100
+and we test it on different hardware and see how can we optimize it
+
+654
+00:40:30,100 --> 00:40:33,860
+for specific hardware. We're working about if that process
+
+655
+00:40:34,180 --> 00:40:37,820
+can be streamlined, if it can be something— can,
+
+656
+00:40:37,820 --> 00:40:41,540
+can we write code that does that for us instead of
+
+657
+00:40:42,260 --> 00:40:45,900
+the researchers spending a lot of times doing that? Maybe the researchers
+
+658
+00:40:45,900 --> 00:40:49,680
+are not coders, maybe they're physicists or chemists or I
+
+659
+00:40:49,680 --> 00:40:53,400
+don't know, doing any of the life sciences, right? Maybe they work in
+
+660
+00:40:53,400 --> 00:40:57,200
+finance because quantum has application in finance and they do not know how to
+
+661
+00:40:57,200 --> 00:41:00,920
+do this optimization thing for the hardware. Can
+
+662
+00:41:00,920 --> 00:41:04,720
+we find a way to make this streamlined? It's like, hey, it's a set
+
+663
+00:41:04,720 --> 00:41:08,440
+process or a code that does it for you. Uh, the answer is still
+
+664
+00:41:08,440 --> 00:41:11,000
+unknown because it's research, but that's
+
+665
+00:41:12,040 --> 00:41:14,280
+one project. The other project is actually
+
+666
+00:41:15,880 --> 00:41:19,520
+an application which is about using quantum machine
+
+667
+00:41:19,520 --> 00:41:21,480
+learning for life sciences.
+
+668
+00:41:23,160 --> 00:41:26,200
+So like biochemistry or
+
+669
+00:41:26,920 --> 00:41:30,440
+biology, like detecting diseases like cancer based
+
+670
+00:41:30,920 --> 00:41:34,640
+on like a bunch of like cell imagery. Like you get a bunch
+
+671
+00:41:34,640 --> 00:41:37,880
+of cell imagery, can we use quantum machine learning to detect
+
+672
+00:41:38,360 --> 00:41:41,920
+it faster? How hybrid can we have like a
+
+673
+00:41:41,920 --> 00:41:45,440
+quantum classical machine learning algorithm? 'Cause quantum machine learning can mean so many things, it's
+
+674
+00:41:45,440 --> 00:41:49,180
+such a big term, but it's Mostly like have some quantum stuff,
+
+675
+00:41:49,180 --> 00:41:52,980
+some classical stuff working together to make something hopefully better
+
+676
+00:41:52,980 --> 00:41:56,780
+than just purely classical, right? Hopefully. And that's what we're testing. So you have to
+
+677
+00:41:56,780 --> 00:42:00,340
+try a couple of things and be like, is the performance better or should we
+
+678
+00:42:00,340 --> 00:42:03,780
+just stick to classical? Because it can be like, just
+
+679
+00:42:03,780 --> 00:42:07,580
+stick to classical 'cause it's doing better, at least for now,
+
+680
+00:42:07,580 --> 00:42:11,420
+because the quantum machines now cannot do much. They're still,
+
+681
+00:42:11,420 --> 00:42:14,790
+again, very faulty. So we're in a,
+
+682
+00:42:15,270 --> 00:42:18,710
+we're quantum computers now vis-à-vis hardware. It's called like
+
+683
+00:42:18,710 --> 00:42:22,550
+the noisy intermediate quantum, so NISQ, which is something that
+
+684
+00:42:22,550 --> 00:42:26,150
+a lot of people throw, which is because the size is intermediate and it's
+
+685
+00:42:26,550 --> 00:42:29,990
+very noisy. All of the hardware companies are trying to get to
+
+686
+00:42:30,550 --> 00:42:33,830
+a fault-tolerant quantum computer, which is like something
+
+687
+00:42:34,230 --> 00:42:38,070
+that is not, I don't wanna say not affected by error, but we have some
+
+688
+00:42:38,070 --> 00:42:41,650
+error correction and error mitigation technique enough that we can
+
+689
+00:42:41,650 --> 00:42:45,370
+eliminate the error and then we can fully utilize the qubits, right?
+
+690
+00:42:45,370 --> 00:42:49,010
+So until we get to that point, which we're not there yet, some companies
+
+691
+00:42:49,650 --> 00:42:53,170
+are super optimistic about it and they think they'll get there in like, you
+
+692
+00:42:53,330 --> 00:42:56,850
+know, by 2030, fingers crossed for them. I don't think they
+
+693
+00:42:57,010 --> 00:43:00,650
+will, but I'm gonna remain optimistic. Some people do
+
+694
+00:43:00,650 --> 00:43:04,210
+not think that we'll ever get a full-tolerant quantum. So we have the very optimist
+
+695
+00:43:04,210 --> 00:43:07,890
+and the very pessimist in that science field. And I try to stay
+
+696
+00:43:07,890 --> 00:43:10,990
+in the middle. It's like, we'll get there, But I think it will take more
+
+697
+00:43:10,990 --> 00:43:14,070
+than 4 years to get
+
+698
+00:43:15,270 --> 00:43:18,870
+there. So that's kind of like what I'm working on. I'm again, I'm writing
+
+699
+00:43:18,870 --> 00:43:22,710
+a funding about public engagement, which I'm planning
+
+700
+00:43:22,710 --> 00:43:25,830
+again with my colleagues about quantum and
+
+701
+00:43:26,390 --> 00:43:29,590
+young girls, young girls and women in quantum. How do we encourage people or just
+
+702
+00:43:29,590 --> 00:43:32,710
+the general public? We even going to go
+
+703
+00:43:33,030 --> 00:43:36,550
+give quantum talks in a pub because that's what people do here so
+
+704
+00:43:36,550 --> 00:43:40,250
+they can drink. While we yap about quantum in the background, they will learn a
+
+705
+00:43:40,250 --> 00:43:43,810
+thing or two, even if they're not paying attention. So,
+
+706
+00:43:43,970 --> 00:43:47,570
+and then, yay, mission successful, right? That's the whole point. We
+
+707
+00:43:47,570 --> 00:43:50,610
+want some people to know a thing or two about quantum so
+
+708
+00:43:51,410 --> 00:43:54,810
+they can be able to distinguish between the hype, which is there's so
+
+709
+00:43:55,050 --> 00:43:58,210
+much about quantum, and what actually quantum can do. That's
+
+710
+00:43:59,570 --> 00:44:03,410
+the goal. So what do you see as the most
+
+711
+00:44:03,970 --> 00:44:07,620
+promising near-term application for quantum
+
+712
+00:44:07,620 --> 00:44:11,340
+computing? Oh, that's a tough one. If you were going to just
+
+713
+00:44:11,340 --> 00:44:14,660
+say quantum and stop, and I was like, oh, quantum sensing, great. There's
+
+714
+00:44:14,660 --> 00:44:18,420
+so many applications for it right now. Quantum sensing
+
+715
+00:44:18,420 --> 00:44:21,420
+is the most of the quantums, right?
+
+716
+00:44:22,060 --> 00:44:25,860
+Because there's computing, there's sensing. Quantum sensing is the one
+
+717
+00:44:25,860 --> 00:44:29,660
+that actually have applications now, whether it's in like detecting diseases because
+
+718
+00:44:29,660 --> 00:44:33,250
+it's like little sensors. And I think
+
+719
+00:44:33,250 --> 00:44:36,650
+that Last year, there was a company— oh my God, I forgot the
+
+720
+00:44:36,650 --> 00:44:38,810
+name— an aviation company that used
+
+721
+00:44:40,130 --> 00:44:43,970
+only quantum sensing as navigation for the entire flight, and it succeeded, which
+
+722
+00:44:44,130 --> 00:44:47,770
+was great. So quantum sensing is one of the things that is super
+
+723
+00:44:47,770 --> 00:44:51,610
+overlooked because there's so much hype about quantum computing. There's also quantum
+
+724
+00:44:51,610 --> 00:44:55,290
+annealers, which also have great applications. Quantum computer is still there,
+
+725
+00:44:55,290 --> 00:44:58,940
+it's still young, but I feel
+
+726
+00:44:58,940 --> 00:45:02,620
+I would say like the, the, the one I'm
+
+727
+00:45:02,620 --> 00:45:06,380
+excited about the most is chemistry because drug discovery would be such
+
+728
+00:45:06,380 --> 00:45:10,020
+a great application if we get it to work. Oh my God, the amount of
+
+729
+00:45:10,020 --> 00:45:13,820
+lives that can be saved. But also finance.
+
+730
+00:45:13,820 --> 00:45:17,100
+So there's a lot of financial application to quantum,
+
+731
+00:45:17,100 --> 00:45:20,300
+like portfolio optimization maybe is one of
+
+732
+00:45:21,580 --> 00:45:25,200
+the things. So I feel like maybe those will be
+
+733
+00:45:25,200 --> 00:45:28,520
+the The two, I don't know, hopefully
+
+734
+00:45:28,680 --> 00:45:32,520
+near-ish terms for quantum computing once
+
+735
+00:45:32,520 --> 00:45:36,320
+we overcome all of the errors, which is kind of like the main
+
+736
+00:45:36,320 --> 00:45:40,040
+area of research. So many people are doing quantum error correction
+
+737
+00:45:40,200 --> 00:45:44,040
+and mitigation because we need to overcome the error so we can actually see
+
+738
+00:45:44,040 --> 00:45:47,320
+how far we can take the devices once the error is a little bit
+
+739
+00:45:47,800 --> 00:45:51,520
+more manageable. But yes, but quantum sensing, exciting stuff. I think people should read
+
+740
+00:45:51,520 --> 00:45:55,230
+more about it. It's such, overlooked again because there's so much
+
+741
+00:45:55,230 --> 00:45:58,590
+hype about quantum computing breaking the
+
+742
+00:45:58,590 --> 00:46:02,390
+internet and whatnot. So people are like, ooh, breaking the internet, oh
+
+743
+00:46:02,390 --> 00:46:06,190
+my God, scary. So it's not going to break the internet
+
+744
+00:46:06,350 --> 00:46:09,990
+anytime soon. I'd like to ensure everyone who's listening, not going
+
+745
+00:46:09,990 --> 00:46:13,390
+to break the internet anytime
+
+746
+00:46:13,550 --> 00:46:16,270
+soon. So, okay, so aside from that, it's not going to break the internet, but
+
+747
+00:46:16,270 --> 00:46:19,910
+let me ask you, so what's one misconception about quantum
+
+748
+00:46:19,910 --> 00:46:23,580
+computing you wish more people understood? That
+
+749
+00:46:23,580 --> 00:46:27,300
+quantum computers will never replace the computers we have
+
+750
+00:46:27,300 --> 00:46:30,940
+today. They will not. Quantum computers are good in
+
+751
+00:46:31,180 --> 00:46:34,220
+solving only one specific kind of problems. They
+
+752
+00:46:34,540 --> 00:46:38,260
+are not gonna completely replace it. And I know I might
+
+753
+00:46:38,260 --> 00:46:41,980
+break some hearts by saying that you will not have a quantum laptop to
+
+754
+00:46:41,980 --> 00:46:45,340
+play Minecraft on. I'm sorry, okay? I'm sorry to break it to you, but they
+
+755
+00:46:45,740 --> 00:46:49,070
+are good in solving One specific kind of problem which we
+
+756
+00:46:49,070 --> 00:46:52,590
+call the multivariable problems, which is a problem that you have
+
+757
+00:46:52,590 --> 00:46:56,310
+so many variables that affect the output and you want to
+
+758
+00:46:56,310 --> 00:47:00,110
+consider them all. The computers we have now
+
+759
+00:47:00,110 --> 00:47:03,670
+can do that, but it just takes forever to do them
+
+760
+00:47:03,670 --> 00:47:07,390
+because they're classical and they have to go one by one. But quantum,
+
+761
+00:47:07,390 --> 00:47:11,030
+because of the quantum magic, which is superposition and entanglement, can
+
+762
+00:47:11,030 --> 00:47:14,350
+do them faster. And I remember
+
+763
+00:47:14,830 --> 00:47:18,030
+When people was like, like, give me an example, right, about these kind
+
+764
+00:47:18,910 --> 00:47:22,670
+of problems. Uh, one of the fun examples that I've heard through years was called
+
+765
+00:47:22,670 --> 00:47:26,150
+the chicken in the grocery store problem, which is if I have
+
+766
+00:47:26,150 --> 00:47:29,989
+a grocery store and I need to decide how many chickens do
+
+767
+00:47:29,989 --> 00:47:33,790
+I need in a set day in the grocery store for people to
+
+768
+00:47:33,790 --> 00:47:37,230
+buy, right? How do I decide an optimal number where I don't end up
+
+769
+00:47:37,550 --> 00:47:41,070
+short or like having way too many chicken that goes bad? And there's
+
+770
+00:47:41,070 --> 00:47:44,390
+so many factors, more than people think, about how
+
+771
+00:47:44,390 --> 00:47:48,030
+grocery stores decide. And it's an optimization problem,
+
+772
+00:47:48,110 --> 00:47:51,750
+right? Basically, in computer science, what they're called, this category of problems. You
+
+773
+00:47:51,750 --> 00:47:55,550
+have to decide what day it is of the week matters. Is there
+
+774
+00:47:55,550 --> 00:47:59,230
+a holiday coming up? Is there a chicken
+
+775
+00:47:59,230 --> 00:48:02,830
+farm nearby? How many chicken farms nearby? How many trucks do
+
+776
+00:48:02,830 --> 00:48:06,250
+we have available? How long does the trip take?
+
+777
+00:48:06,250 --> 00:48:10,010
+From the chicken farm to whatever, the grocery
+
+778
+00:48:10,010 --> 00:48:13,730
+store? How many fridge spaces do we have in the grocery
+
+779
+00:48:13,730 --> 00:48:17,450
+store? There is multiple factors, right? And all of them
+
+780
+00:48:17,450 --> 00:48:21,130
+affect the number that I need to choose, right? So there are so many things
+
+781
+00:48:21,210 --> 00:48:24,250
+to consider. So you need to simulate for so many things to be
+
+782
+00:48:24,570 --> 00:48:28,410
+like, okay, maybe, I don't know, 500 chickens will be good for
+
+783
+00:48:28,810 --> 00:48:32,570
+a Tuesday. Like, to get to that number, right, you need to consider so
+
+784
+00:48:33,100 --> 00:48:36,860
+many factors.. And there are so many problems in life where we have like
+
+785
+00:48:37,100 --> 00:48:40,580
+so many factors, like the weather, predicting the weather.
+
+786
+00:48:40,580 --> 00:48:43,660
+There's so many factors and we're like, okay, we need to
+
+787
+00:48:44,300 --> 00:48:48,100
+consider them all. And quantum computers will be good in that type of
+
+788
+00:48:48,100 --> 00:48:51,500
+problems. That's why they're good in financial problems because there's so many
+
+789
+00:48:51,660 --> 00:48:55,100
+factors to consider when you're choosing a portfolio. So
+
+790
+00:48:55,260 --> 00:48:58,800
+many, too many, one may say. When you want to try to find a
+
+791
+00:48:58,800 --> 00:49:02,600
+drug, so many combinations between the chemicals that you need to discover. So
+
+792
+00:49:02,600 --> 00:49:06,320
+they all have the same background that we need to consider so many
+
+793
+00:49:06,320 --> 00:49:10,000
+things to do some math and then get the results. And those are the kind
+
+794
+00:49:10,000 --> 00:49:13,520
+of problems that quantum is going to be good in. So quantum will
+
+795
+00:49:13,520 --> 00:49:16,720
+never replace classical computers, they will always work side
+
+796
+00:49:17,600 --> 00:49:20,520
+by side. But I do not know, again, not to be a pessimist, but I
+
+797
+00:49:20,520 --> 00:49:24,160
+don't know if quantum will ever be a standalone thing,
+
+798
+00:49:24,160 --> 00:49:27,120
+which is like just without classical,
+
+799
+00:49:27,880 --> 00:49:30,800
+at least post-processing. I'm not sure. Hopefully, but maybe not
+
+800
+00:49:32,000 --> 00:49:35,680
+in my lifetime. We'll see. We'll
+
+801
+00:49:35,680 --> 00:49:39,200
+see. So beyond tech, what personal values drive
+
+802
+00:49:39,200 --> 00:49:40,720
+your work in science
+
+803
+00:49:44,480 --> 00:49:47,680
+and community building? Oh,
+
+804
+00:49:48,080 --> 00:49:51,800
+that's great. I would like— no, the reason I do all of the community
+
+805
+00:49:51,800 --> 00:49:55,520
+and outreach is because I don't think that tech or science should be for
+
+806
+00:49:55,520 --> 00:49:59,180
+specific people, which are the people doing it.
+
+807
+00:49:59,260 --> 00:50:02,780
+Because especially tech, especially tech, we are building products
+
+808
+00:50:03,100 --> 00:50:06,860
+for the people. How is the people not involved? How is just a
+
+809
+00:50:06,860 --> 00:50:10,580
+room of 6 people making decisions for the billions of people that
+
+810
+00:50:10,580 --> 00:50:14,140
+are going to use this product? So we need the
+
+811
+00:50:14,620 --> 00:50:18,340
+input from people. And I know that again, there
+
+812
+00:50:18,340 --> 00:50:21,700
+is the academia, there is the elitism, right? You're, if
+
+813
+00:50:21,700 --> 00:50:25,320
+you have a PhD or you're a professor, smarter than everyone.
+
+814
+00:50:25,320 --> 00:50:29,040
+There is the whole, uh, my beef
+
+815
+00:50:29,120 --> 00:50:32,400
+with scientific publication that is intentionally
+
+816
+00:50:32,640 --> 00:50:36,040
+difficult to read, intentionally hard to access for someone who is
+
+817
+00:50:36,040 --> 00:50:39,520
+not in the scientific field, just so science can
+
+818
+00:50:39,600 --> 00:50:43,240
+be this elite community that you need to suffer to get
+
+819
+00:50:43,240 --> 00:50:47,000
+into, which I hate with passion. I think science should be
+
+820
+00:50:47,000 --> 00:50:49,990
+for everyone because it is how we make society
+
+821
+00:50:50,790 --> 00:50:54,590
+better. For everyone. And tech and science, for me, they
+
+822
+00:50:54,590 --> 00:50:57,550
+overlap a lot. You need the science to build the tech, so you can't have
+
+823
+00:50:57,550 --> 00:51:01,070
+one without the other, really. So it's like, and you need tech to
+
+824
+00:51:01,070 --> 00:51:04,910
+advance science, right? Like, the relationship goes both ways. So it's
+
+825
+00:51:04,910 --> 00:51:08,550
+like, and we do that because of the advancement of
+
+826
+00:51:08,550 --> 00:51:12,150
+humanity. So how is all humanity should be involved to some degree?
+
+827
+00:51:12,150 --> 00:51:15,870
+I think people should know how their phone works to an abstract level. It's
+
+828
+00:51:15,870 --> 00:51:19,630
+like, how does this work, this thing that is a very crucial
+
+829
+00:51:19,630 --> 00:51:23,390
+part of our life. How can you not know how it works? And again,
+
+830
+00:51:23,390 --> 00:51:27,070
+a lot of tech companies and the tech world intentionally
+
+831
+00:51:27,070 --> 00:51:30,030
+want people to be left outside
+
+832
+00:51:30,270 --> 00:51:33,910
+of this knowledge circle, which I do not know because I think knowledge
+
+833
+00:51:33,910 --> 00:51:37,750
+is to be shared, not to be kept. And that's why I
+
+834
+00:51:37,750 --> 00:51:41,070
+like to share it as much as I can
+
+835
+00:51:43,230 --> 00:51:46,870
+to whoever listens. So, so, so what does success mean to you in the
+
+836
+00:51:46,870 --> 00:51:48,510
+context of a long
+
+837
+00:51:52,930 --> 00:51:56,610
+and evolving career? If I manage to
+
+838
+00:51:57,570 --> 00:52:01,330
+get people to, I don't know, overcome their fears and doubts about
+
+839
+00:52:01,330 --> 00:52:05,090
+joining quantum or STEM or tech, then that's success
+
+840
+00:52:05,090 --> 00:52:07,890
+for me, especially if those people are women
+
+841
+00:52:08,690 --> 00:52:12,050
+or young girls. I am,
+
+842
+00:52:12,210 --> 00:52:15,970
+whenever I volunteer to tutor or teach young girls how to
+
+843
+00:52:16,420 --> 00:52:20,180
+code and they then without me knowing, tell people that I am
+
+844
+00:52:20,180 --> 00:52:23,980
+a role model, or why they want to learn more about tech or
+
+845
+00:52:23,980 --> 00:52:27,820
+programming or computer science. For me, that's success. That's why I do this.
+
+846
+00:52:27,820 --> 00:52:30,740
+This and advancing science may be my measure of success.
+
+847
+00:52:31,460 --> 00:52:35,260
+It's not having a lot of money or having a lot of publications, which are
+
+848
+00:52:35,260 --> 00:52:38,860
+the measures of success in academia or industry, but the matter is like,
+
+849
+00:52:38,860 --> 00:52:42,680
+is what I'm doing— is what I do matter to the world, to the, to
+
+850
+00:52:42,680 --> 00:52:45,640
+the people? How can I make something
+
+851
+00:52:46,360 --> 00:52:48,520
+that benefits others? For me, that is the
+
+852
+00:52:50,040 --> 00:52:53,280
+definition of success. Okay. And as we're coming to a close, I have 2 more
+
+853
+00:52:53,280 --> 00:52:56,920
+questions I want to ask you. So what question do you wish
+
+854
+00:52:56,920 --> 00:53:00,440
+more people would ask you? And if you can think
+
+855
+00:53:00,520 --> 00:53:04,120
+of that question, how would you answer it? Oh my God. Okay. That's
+
+856
+00:53:04,120 --> 00:53:07,680
+a difficult question. I need to think about that one. What do I
+
+857
+00:53:07,680 --> 00:53:11,240
+want to be
+
+858
+00:53:11,240 --> 00:53:14,840
+asked? I want to be asked, how does
+
+859
+00:53:15,000 --> 00:53:18,680
+what you do matter, right, to the, to the
+
+860
+00:53:18,680 --> 00:53:22,480
+people, right? Like, not just for me to write a paper and keep my
+
+861
+00:53:23,000 --> 00:53:26,760
+job, but like, how does it benefit or
+
+862
+00:53:27,160 --> 00:53:30,840
+connect to the public, the people? That, that will be a great
+
+863
+00:53:30,840 --> 00:53:34,280
+question to ask. Or what do researchers actually do and
+
+864
+00:53:34,280 --> 00:53:37,240
+how does that benefit the people? That would be a great question because I feel
+
+865
+00:53:37,240 --> 00:53:40,740
+like a lot of misconception goes there. And then
+
+866
+00:53:40,740 --> 00:53:44,340
+I can start yapping about how we're building,
+
+867
+00:53:44,340 --> 00:53:46,740
+hopefully, the future of science,
+
+868
+00:53:47,940 --> 00:53:51,460
+or hopefully we're building the fundamentals, the foundation of how
+
+869
+00:53:51,540 --> 00:53:55,340
+do we build better tools that we use to save lives,
+
+870
+00:53:55,340 --> 00:53:59,100
+hopefully by finding out, again, faster drugs,
+
+871
+00:53:59,100 --> 00:54:02,580
+faster vaccines that can help people with quantum
+
+872
+00:54:02,660 --> 00:54:06,260
+chemistry or better materials. Because again, quantum can be used with
+
+873
+00:54:06,890 --> 00:54:10,730
+material science too. Build better machines that people can use to advance
+
+874
+00:54:10,730 --> 00:54:14,370
+their lives. So that will be a very interesting question. It will be hard
+
+875
+00:54:14,370 --> 00:54:18,130
+to answer because some research are very harder to connect to the public, but
+
+876
+00:54:18,130 --> 00:54:21,730
+it will be a challenge, a mental challenge. She was like, okay, I can answer
+
+877
+00:54:21,730 --> 00:54:25,530
+that. So that would be a very interesting question. Let me
+
+878
+00:54:25,530 --> 00:54:29,170
+ask you this then. What is the best piece of advice someone
+
+879
+00:54:29,170 --> 00:54:29,530
+has
+
+880
+00:54:33,700 --> 00:54:37,500
+ever given you? Does it have to be career-wise? No. The best piece of
+
+881
+00:54:37,500 --> 00:54:41,300
+advice that I've ever gotten is, uh, don't take
+
+882
+00:54:41,300 --> 00:54:43,060
+advice from people you wouldn't want to
+
+883
+00:54:44,980 --> 00:54:48,820
+live their lives, which I loved deeply because some people think that just because
+
+884
+00:54:48,820 --> 00:54:52,620
+they are in a specific state in society that everyone
+
+885
+00:54:52,620 --> 00:54:56,260
+want to do what they did to get there. So it's— and often their
+
+886
+00:54:56,260 --> 00:54:59,970
+advice does not apply to so many people. So I was like, do
+
+887
+00:54:59,970 --> 00:55:03,690
+I want where they're at? Do I want to be where they're at?
+
+888
+00:55:03,690 --> 00:55:07,370
+If the answer is no, then I will take their advice into
+
+889
+00:55:07,370 --> 00:55:10,770
+consideration, right? But it will not have to be the advice that I
+
+890
+00:55:11,090 --> 00:55:14,850
+actually take actions based on. Well, I
+
+891
+00:55:14,850 --> 00:55:18,130
+have to say thank you. This has
+
+892
+00:55:18,690 --> 00:55:22,290
+been very exciting, very educational. I have so many
+
+893
+00:55:22,290 --> 00:55:26,120
+more questions, so I'm, I'm absolutely going to want to have you back on. Um,
+
+894
+00:55:26,120 --> 00:55:29,800
+but I Really enjoyed kind of, you know, getting a sneak peek
+
+895
+00:55:29,800 --> 00:55:33,600
+into, into what you're working, how you're working, how you think about it,
+
+896
+00:55:33,600 --> 00:55:37,400
+how you think about the whole quantum computing industry
+
+897
+00:55:37,400 --> 00:55:41,160
+and the importance of having women recognized
+
+898
+00:55:41,240 --> 00:55:45,040
+and be interested in the field. That's just
+
+899
+00:55:45,040 --> 00:55:48,800
+so exciting. If people want to find out more about you, where would you
+
+900
+00:55:48,800 --> 00:55:52,560
+suggest that we send them to? I would say the most reliable
+
+901
+00:55:52,560 --> 00:55:56,320
+one would be my LinkedIn. So I'm on LinkedIn. I respond to my
+
+902
+00:55:56,320 --> 00:55:59,560
+LinkedIn messages. Because, you know, when you change jobs, emails change. So
+
+903
+00:55:59,800 --> 00:56:03,560
+LinkedIn is where you'll always find me. So I am on
+
+904
+00:56:03,560 --> 00:56:07,000
+LinkedIn. People can find me. It's Sarah A. Metwally, right?
+
+905
+00:56:07,080 --> 00:56:10,520
+A is my middle name initials. And I
+
+906
+00:56:11,000 --> 00:56:13,480
+try to answer as many questions as I can for the
+
+907
+00:56:15,080 --> 00:56:18,600
+people who ask. Thank you so much, Sarah. I really appreciate
+
+908
+00:56:18,600 --> 00:56:22,040
+this. I'm very excited. And I'm going to let— I'm going
+
+909
+00:56:22,120 --> 00:56:23,270
+to let our music take us out.
+

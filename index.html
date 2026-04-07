@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Women in Quantum</title>
+  <meta
+    name="description"
+    content="A showcase of the women featured on the show, with quotes, clips, infographics, and LinkedIn profiles."
+  >
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Syne:wght@400;500;700;800&family=IBM+Plex+Sans:wght@400;500;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="page-shell">
+    <main class="layout">
+      <section class="gallery-panel">
+        <div class="gallery-group">
+          <div class="group-heading">
+            <p class="section-kicker">Women in Quantum</p>
+          </div>
+          <div class="portrait-grid" id="women-portrait-grid" aria-label="Women in Quantum guests"></div>
+        </div>
+
+        <div class="gallery-group gallery-group--secondary">
+          <div class="group-heading">
+            <p class="section-kicker">Impact Quantum</p>
+            <h3>Related guests kept separate from the core Women in Quantum set.</h3>
+          </div>
+          <div class="portrait-grid portrait-grid--secondary" id="impact-portrait-grid" aria-label="Impact Quantum guests"></div>
+        </div>
+      </section>
+
+      <aside class="detail-panel" id="detail-panel" aria-live="polite">
+        <div class="detail-empty" id="detail-empty">
+          <p class="empty-kicker">No guest selected</p>
+          <h2>Start with the portraits on the left.</h2>
+          <p>Select a guest to preview the quote, media, and links that belong to her episode.</p>
+        </div>
+
+        <article class="feature-card is-hidden" id="feature-card">
+          <div class="feature-card__header">
+            <div class="feature-card__identity">
+              <p class="feature-role" id="feature-role"></p>
+              <h2 id="feature-name"></h2>
+              <p class="feature-company" id="feature-company"></p>
+            </div>
+            <a class="linkedin-link" id="feature-linkedin" href="#" target="_blank" rel="noreferrer">LinkedIn profile</a>
+          </div>
+
+          <blockquote class="pull-quote" id="feature-quote"></blockquote>
+
+          <div class="media-grid">
+            <section class="media-card">
+              <div class="media-card__topline">
+                <p>Episode clip</p>
+                <span id="feature-clip-label"></span>
+              </div>
+              <div class="clip-slot" id="feature-clip-slot"></div>
+            </section>
+
+            <section class="media-card">
+              <div class="media-card__topline">
+                <p>Episode infographic</p>
+                <span id="feature-info-label"></span>
+              </div>
+              <div class="info-slot" id="feature-info-slot"></div>
+            </section>
+          </div>
+
+          <div class="episode-meta">
+            <div>
+              <span>Episode</span>
+              <p id="feature-episode"></p>
+            </div>
+            <div>
+              <span>Focus</span>
+              <p id="feature-focus"></p>
+            </div>
+          </div>
+        </article>
+      </aside>
+    </main>
+
+    <header class="hero">
+      <div class="hero-copy">
+        <div class="hero-title-row">
+          <img class="hero-logo" src="logo.jpg" alt="Women in Quantum logo">
+          <div class="hero-title-block">
+            <p class="eyebrow">Quantum storytelling archive</p>
+            <h1>Women in Quantum</h1>
+          </div>
+        </div>
+        <p class="hero-text">
+          A living page featuring every woman who has appeared on the show. Each portrait opens a feature card
+          with a pull quote, episode clip, infographic, and LinkedIn profile.
+        </p>
+      </div>
+      <div class="hero-notes">
+        <div>
+          <span class="note-label">What you can add</span>
+          <p>LinkedIn headshots, pull quotes, short video clips, profile links, and one infographic per guest.</p>
+        </div>
+        <div>
+          <span class="note-label">How it works</span>
+          <p>Update one content file and the gallery plus featured card refresh automatically.</p>
+        </div>
+      </div>
+    </header>
+  </div>
+
+  <script src="data.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>

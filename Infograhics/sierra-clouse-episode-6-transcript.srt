@@ -1,0 +1,3484 @@
+﻿1
+00:00:00,000 --> 00:00:03,255
+But one phrase they used to tell each other is like, I'm not going to
+
+2
+00:00:03,319 --> 00:00:05,002
+jail for you. Oh,
+
+3
+00:00:07,712 --> 00:00:08,931
+welcome to Women in Quantum.
+
+4
+00:00:15,665 --> 00:00:19,498
+Welcome to Women in Quantum, the series where we spotlight the
+
+5
+00:00:19,498 --> 00:00:22,400
+brilliant women shaping the future of deep tech.
+
+6
+00:00:23,218 --> 00:00:26,874
+I'm Candace Gilhooley, and in each episode we go beyond the
+
+7
+00:00:26,874 --> 00:00:30,223
+headlines. To explore the real stories,
+
+8
+00:00:30,560 --> 00:00:34,085
+career pivots, and bold ideas driving the
+
+9
+00:00:34,085 --> 00:00:37,627
+quantum ecosystem forward. Whether you're quantum
+
+10
+00:00:37,691 --> 00:00:40,816
+curious or already building in the space,
+
+11
+00:00:42,018 --> 00:00:44,646
+you're in the right place. Let's dive in.
+
+12
+00:00:45,815 --> 00:00:48,475
+Today we're speaking with Sierra Claus,
+
+13
+00:00:49,950 --> 00:00:53,475
+and she is a managing partner
+
+14
+00:00:53,796 --> 00:00:57,611
+at Barlow Ventures Studios. Hi, Sierra, how are
+
+15
+00:00:57,643 --> 00:01:01,314
+you today? Hi, Candice, I'm doing well. Thanks for having
+
+16
+00:01:01,346 --> 00:01:05,033
+me. How are you? I'm good. I'm really excited because I remember
+
+17
+00:01:05,033 --> 00:01:08,736
+quite a bit about our pre-call and I was
+
+18
+00:01:08,784 --> 00:01:12,455
+like, oh, this is going to be interesting, exciting episode. I really
+
+19
+00:01:12,487 --> 00:01:16,045
+want to talk about your journey. So let's
+
+20
+00:01:16,078 --> 00:01:19,700
+start at the very beginning. Can you tell me where you were born and
+
+21
+00:01:19,781 --> 00:01:23,162
+raised? Yeah, so I was born in Cleveland,
+
+22
+00:01:23,226 --> 00:01:26,768
+Ohio, but I ended up growing up in Denver,
+
+23
+00:01:27,778 --> 00:01:31,367
+just, just outside of Denver in Aurora, Colorado. It's interesting
+
+24
+00:01:31,544 --> 00:01:35,374
+to, to be an adult and have a family, have kids,
+
+25
+00:01:35,390 --> 00:01:39,140
+and make decisions about relocating and all that around career, especially because
+
+26
+00:01:39,156 --> 00:01:42,986
+that's how I ended up growing up in Denver. My parents had
+
+27
+00:01:43,082 --> 00:01:46,544
+at one point both worked for United Airlines. My dad actually ended up
+
+28
+00:01:46,544 --> 00:01:50,102
+retiring from there after 40 years, but they were
+
+29
+00:01:50,150 --> 00:01:53,868
+closing the office in Denver. In Cleveland and they gave him the option
+
+30
+00:01:53,917 --> 00:01:57,668
+to go to Chicago, Charlotte, Honolulu,
+
+31
+00:01:57,748 --> 00:02:01,515
+or Denver, with the added bonus that if he did
+
+32
+00:02:01,515 --> 00:02:05,314
+decide to go to Denver, he could help wind down Stapleton Airport
+
+33
+00:02:05,538 --> 00:02:09,225
+and be part of the brand new build of what would be Denver International
+
+34
+00:02:09,225 --> 00:02:12,960
+Airport as part of customer service. And so
+
+35
+00:02:13,938 --> 00:02:16,920
+he thought that that sounded like a great opportunity and there was so many people
+
+36
+00:02:16,920 --> 00:02:20,607
+moving to the area at the time. So I, I guess I kind of just
+
+37
+00:02:20,607 --> 00:02:23,508
+came from a background of people who would be willing to
+
+38
+00:02:24,374 --> 00:02:28,125
+take a chance, see about bettering, you know, things for themselves,
+
+39
+00:02:28,157 --> 00:02:31,795
+their families, and be open to those sorts of career pivots and those kind of
+
+40
+00:02:31,827 --> 00:02:34,312
+projects that could define the rest of your career.
+
+41
+00:02:34,969 --> 00:02:38,575
+OK, so as a young lady all the way back
+
+42
+00:02:38,704 --> 00:02:42,166
+in grammar school, what was your favorite subject?
+
+43
+00:02:44,234 --> 00:02:46,382
+Oh man, I think it was a tie between
+
+44
+00:02:48,161 --> 00:02:51,801
+English or language arts because I loved to read. Yeah,
+
+45
+00:02:52,587 --> 00:02:55,715
+but one of the things I really love to read was, I guess, more so
+
+46
+00:02:55,715 --> 00:02:59,341
+in the— it would, it would split between like history and geography,
+
+47
+00:02:59,486 --> 00:03:03,208
+that sort of thing, because I've just always been so fascinated with how
+
+48
+00:03:03,321 --> 00:03:05,872
+people have lived in different times and in different places.
+
+49
+00:03:07,284 --> 00:03:10,829
+Okay, so when did you stumble into science?
+
+50
+00:03:13,204 --> 00:03:16,958
+You know, it's interesting, it's less that I stumbled into science and more that
+
+51
+00:03:17,055 --> 00:03:20,824
+I developed an acute awareness that Everything comes from
+
+52
+00:03:20,824 --> 00:03:24,558
+something, you know? OK. And,
+
+53
+00:03:24,671 --> 00:03:28,020
+and when you look out into the world and you give yourself a pause to
+
+54
+00:03:28,117 --> 00:03:31,931
+think about how do things work, like when I was
+
+55
+00:03:31,963 --> 00:03:35,698
+growing up, we didn't have a computer in our house. There were only
+
+56
+00:03:35,714 --> 00:03:39,464
+computers at school. So I grew up in the '90s and our family
+
+57
+00:03:39,577 --> 00:03:42,766
+wasn't in a position to afford a computer, so we would use the computer at
+
+58
+00:03:42,766 --> 00:03:46,437
+school or we'd go to the library. And I remember thinking to myself like, man,
+
+59
+00:03:46,453 --> 00:03:49,033
+what makes these things so expensive? Like
+
+60
+00:03:50,620 --> 00:03:54,355
+they're not like a bike or like something else you could put on your, your
+
+61
+00:03:54,404 --> 00:03:57,770
+wish list and your parents would be like, yeah, that's, that's not like something you,
+
+62
+00:03:58,010 --> 00:04:01,842
+you're allowed to circle in the JCPenney catalog quite yet. It was
+
+63
+00:04:01,858 --> 00:04:05,160
+that time. And so as I grew up and I had more of that awareness,
+
+64
+00:04:05,208 --> 00:04:08,959
+I've just always been very curious. You start to realize that so many
+
+65
+00:04:09,071 --> 00:04:12,229
+of the kind of modern amenities or things that you think are really cool even
+
+66
+00:04:12,261 --> 00:04:15,579
+as a kid, there is like. This basis of
+
+67
+00:04:15,948 --> 00:04:19,618
+engineering and production and shipping and like all of
+
+68
+00:04:19,650 --> 00:04:23,416
+these components that go into the things that you like and use every
+
+69
+00:04:23,416 --> 00:04:27,165
+day. And for me, I kept finding that at the basis of the
+
+70
+00:04:27,181 --> 00:04:30,354
+things that I really liked was a bunch of science and engineering
+
+71
+00:04:31,252 --> 00:04:34,393
+and a lot, a lot of different systems that, that made all of that possible.
+
+72
+00:04:35,851 --> 00:04:39,649
+So where did you go to university and what did you major in?
+
+73
+00:04:40,787 --> 00:04:44,474
+So I did my undergrad at Ohio State. So I grew up in Colorado, came
+
+74
+00:04:44,474 --> 00:04:48,129
+back to Ohio to go to Ohio State. I studied in the business
+
+75
+00:04:48,161 --> 00:04:51,528
+school on a track specialized around supply chain and logistics.
+
+76
+00:04:53,291 --> 00:04:56,754
+Going back to the whole, like, everything comes from something, it's from
+
+77
+00:04:56,754 --> 00:05:00,441
+somewhere with a whole lot of someones behind it. So
+
+78
+00:05:00,746 --> 00:05:04,465
+I had an internship through the InRoads internship program, so I'm an alumni
+
+79
+00:05:04,770 --> 00:05:08,393
+of that. Incredible opportunity, and what it
+
+80
+00:05:08,457 --> 00:05:12,224
+does is it allows college students to
+
+81
+00:05:12,224 --> 00:05:15,702
+be sponsored by a corporation in a specific mentor
+
+82
+00:05:15,751 --> 00:05:19,550
+department. They focus primarily on women and
+
+83
+00:05:19,598 --> 00:05:23,253
+underrepresented groups at the time in engineering, business, and nursing.
+
+84
+00:05:24,182 --> 00:05:27,629
+So I was selected to be a part of the internship track
+
+85
+00:05:28,158 --> 00:05:31,765
+at what's now called L Brands, but at the time it was the
+
+86
+00:05:31,765 --> 00:05:34,634
+Limited and Limited Logistics Services. So that was
+
+87
+00:05:35,227 --> 00:05:39,045
+Victoria's Secret, Bath and Body Works, Abercrombie, Zombie Express, all of those
+
+88
+00:05:39,061 --> 00:05:42,576
+were under one roof at that time. But I was an intern
+
+89
+00:05:43,154 --> 00:05:46,911
+during a lot of that kind of retail consolidation, a lot of
+
+90
+00:05:46,943 --> 00:05:49,576
+things going to private equity, a lot of things spinning out.
+
+91
+00:05:50,860 --> 00:05:54,504
+And really having, you know, that was part of the experience was that
+
+92
+00:05:54,713 --> 00:05:58,084
+you'd be able to take on these different roles, do these different reports, and if
+
+93
+00:05:58,084 --> 00:06:01,777
+you were invited back every summer to be mentored and continue
+
+94
+00:06:01,777 --> 00:06:05,148
+your internships, you could be presented with a full-time offer.
+
+95
+00:06:05,726 --> 00:06:09,224
+And so I did that every summer. Through my undergrad,
+
+96
+00:06:09,577 --> 00:06:13,090
+and I was even invited to do a part-time HR operations gig
+
+97
+00:06:13,427 --> 00:06:16,956
+at the distribution center during a couple of the years I was at Ohio State.
+
+98
+00:06:17,677 --> 00:06:20,934
+And so it was a very hands-on contact sport,
+
+99
+00:06:21,447 --> 00:06:25,104
+a kind of, kind of way to see how things worked across. I had been
+
+100
+00:06:25,136 --> 00:06:28,329
+in regulatory and compliance, distribution center
+
+101
+00:06:28,329 --> 00:06:31,890
+operations, HR for that, upgrades of
+
+102
+00:06:31,890 --> 00:06:35,739
+systems where they're using sensors and conveyor belts and all of that to
+
+103
+00:06:35,739 --> 00:06:38,819
+really upgrade the accuracy of reading shipping labels.
+
+104
+00:06:39,333 --> 00:06:43,154
+And making them on like a streamlined optimized path between
+
+105
+00:06:43,266 --> 00:06:47,039
+inbound and outbound, and then all the different sort of operations and
+
+106
+00:06:47,039 --> 00:06:50,860
+things in tech that would support that. So technology at
+
+107
+00:06:50,892 --> 00:06:54,633
+that point was just embedded in everything that we did, and I didn't
+
+108
+00:06:54,649 --> 00:06:57,796
+realize at the time, because this was the early 2000s, I didn't realize at the
+
+109
+00:06:57,796 --> 00:07:01,215
+time how quickly the industry I was a part of
+
+110
+00:07:02,034 --> 00:07:05,694
+was moving into these sort of optimization models, and they were—
+
+111
+00:07:05,743 --> 00:07:09,259
+we were using simulators and we were using all these things around like
+
+112
+00:07:09,259 --> 00:07:13,000
+logistics and routes because the competition and the cost and everything. When you
+
+113
+00:07:13,081 --> 00:07:16,244
+looked at like UPS having the no left turn rule
+
+114
+00:07:16,903 --> 00:07:20,564
+or Walmart vendors and suppliers having to comply with very
+
+115
+00:07:20,612 --> 00:07:24,048
+specific like specs for the product shelves space that they were even
+
+116
+00:07:24,048 --> 00:07:27,870
+allowed. And then you look at inventory management, palletizers. There was
+
+117
+00:07:28,127 --> 00:07:31,805
+all these different things that had all these underlying technologies and
+
+118
+00:07:31,901 --> 00:07:35,337
+analytics. What people will call later that and
+
+119
+00:07:36,493 --> 00:07:40,246
+What was really fascinating to me, like looking back on it, was that you had
+
+120
+00:07:40,246 --> 00:07:43,679
+to have dashboards, you had to have numbers, you had to have
+
+121
+00:07:43,711 --> 00:07:47,255
+estimates, you had to have risk management. These are all things that were just part
+
+122
+00:07:47,384 --> 00:07:50,768
+of how you do like that, that whole domain of supply chain and
+
+123
+00:07:50,768 --> 00:07:54,505
+logistics and very applied in specific ways. It
+
+124
+00:07:54,618 --> 00:07:58,275
+wasn't until later that I understood that outside of
+
+125
+00:07:58,387 --> 00:08:02,076
+like logistics and supply chain, like marketing would then be
+
+126
+00:08:02,076 --> 00:08:05,668
+introduced to this concept of dashboard. As like a standard
+
+127
+00:08:05,668 --> 00:08:08,634
+practice. Some people call it the metrics, the
+
+128
+00:08:08,634 --> 00:08:12,465
+metricization of American business. So there was like manufacturing,
+
+129
+00:08:12,513 --> 00:08:16,328
+supply chain, logistics, finance. There was like a handful of industries in America where it's
+
+130
+00:08:16,328 --> 00:08:19,550
+like, well, of course you want the biggest, best, smartest
+
+131
+00:08:19,550 --> 00:08:23,317
+calculators and systems and data and all of that to
+
+132
+00:08:23,317 --> 00:08:26,475
+do that. And then that started finding its way into like almost
+
+133
+00:08:26,587 --> 00:08:28,976
+everything in the business world.
+
+134
+00:08:30,370 --> 00:08:33,769
+So, so I, I think about that a lot as we do
+
+135
+00:08:34,218 --> 00:08:37,715
+what we're doing with our venture studio and commercialization. Like how things actually
+
+136
+00:08:38,068 --> 00:08:41,568
+get out of these very niche spaces and
+
+137
+00:08:41,600 --> 00:08:45,020
+find their footing and their value and their application
+
+138
+00:08:45,775 --> 00:08:49,211
+in ways that are specific and tailored to, to other people who might find it
+
+139
+00:08:49,211 --> 00:08:52,984
+useful. OK, OK, so now you're
+
+140
+00:08:53,000 --> 00:08:56,324
+in logistics and business and business process
+
+141
+00:08:56,388 --> 00:08:59,905
+administration organization. So OK, and this is
+
+142
+00:09:00,049 --> 00:09:03,709
+undergrad, so Now what did you do for your
+
+143
+00:09:03,725 --> 00:09:07,513
+master's? Well, we do have a blip between the master's and
+
+144
+00:09:07,513 --> 00:09:11,123
+undergrad because, you know, the best laid plans of getting that full-time offer.
+
+145
+00:09:11,460 --> 00:09:15,071
+I graduated in 2008-2009. Oh,
+
+146
+00:09:15,312 --> 00:09:18,120
+OK, in recession. OK, that's right. So
+
+147
+00:09:19,067 --> 00:09:22,662
+yeah, so they had— so the company had already been consolidating and kind of spinning
+
+148
+00:09:22,758 --> 00:09:26,064
+off different things, and it wasn't that logistics and supply chain was going away, it
+
+149
+00:09:26,064 --> 00:09:29,756
+was just that roles outside the distribution center and some of that
+
+150
+00:09:29,756 --> 00:09:33,435
+seasonality wasn't, wasn't going to be as available. And so I took a break and
+
+151
+00:09:33,435 --> 00:09:37,065
+had my kids and stayed home with them for a
+
+152
+00:09:37,065 --> 00:09:40,166
+bit. And I spent a lot of time reading
+
+153
+00:09:40,760 --> 00:09:43,716
+because when I had 3 little ones at home, there would be times where the
+
+154
+00:09:43,732 --> 00:09:47,411
+only adult I would see was their dad and the
+
+155
+00:09:47,411 --> 00:09:50,656
+ladies I'd see at church on Sunday. And that, that would basically be it.
+
+156
+00:09:51,298 --> 00:09:54,784
+Make you go crazy. It really— that's right. Love, love, love children.
+
+157
+00:09:55,041 --> 00:09:58,589
+I have them. But yes, you need adult
+
+158
+00:09:58,589 --> 00:10:01,862
+interaction and adult conversations about all kinds of things
+
+159
+00:10:02,394 --> 00:10:06,168
+to stay sane, for sure. Yes, it's true. And I love Elmo. I
+
+160
+00:10:06,491 --> 00:10:10,043
+do. I still love Elmo. But there's a time and a place. There's a time
+
+161
+00:10:10,043 --> 00:10:13,660
+and a place, right? You know, and it's nice to wrap your mind around, you
+
+162
+00:10:13,660 --> 00:10:17,123
+know, real world, you know, real world problems and, you know,
+
+163
+00:10:17,203 --> 00:10:20,906
+adult situations. So I completely understand that. OK, so you
+
+164
+00:10:20,922 --> 00:10:23,674
+had the blip. Now you went— so, OK, so then you went to get your
+
+165
+00:10:23,690 --> 00:10:27,301
+master's. That, yes, so I, so I had, so in the
+
+166
+00:10:27,301 --> 00:10:29,228
+time that I was at home and I had a lot of time on my
+
+167
+00:10:29,228 --> 00:10:32,841
+hands and needed to do a lot of reading, I kept, I kept finding
+
+168
+00:10:32,841 --> 00:10:36,630
+myself really once again drawn to how,
+
+169
+00:10:37,417 --> 00:10:41,158
+like, yes, people promise technologies will be disruptive. But
+
+170
+00:10:41,254 --> 00:10:44,450
+then this is also a time where, like, the recession and lots of other things
+
+171
+00:10:44,642 --> 00:10:48,351
+like across housing, construction, supply chain, like all the knockdown
+
+172
+00:10:48,351 --> 00:10:51,882
+effects, retail. I mentioned my dad had— was at United Air
+
+173
+00:10:51,946 --> 00:10:55,524
+Travel. So my dad was
+
+174
+00:10:56,101 --> 00:10:59,614
+at United Airlines and serving in the best capacity he could. He actually got recognition
+
+175
+00:10:59,710 --> 00:11:03,127
+for supporting his coworkers and crew and a lot of people
+
+176
+00:11:03,721 --> 00:11:07,507
+after 9/11. And then from— in very short order, you go from that to what
+
+177
+00:11:07,507 --> 00:11:11,341
+happened in 2008, 2009. And it— and so when I
+
+178
+00:11:11,341 --> 00:11:14,003
+have this blip and I have this pause, I think about like what happened with
+
+179
+00:11:14,003 --> 00:11:16,907
+my dad's career. I thought about what was happening in all the careers around me.
+
+180
+00:11:17,292 --> 00:11:20,257
+I was, I was still living in Ohio at the time. There was a lot
+
+181
+00:11:20,322 --> 00:11:23,800
+of like offshoring impacts that were
+
+182
+00:11:23,800 --> 00:11:27,487
+happening like in parallel to all of this. So I, I really thought
+
+183
+00:11:27,535 --> 00:11:30,180
+long and hard about like what do I want to do when I go back
+
+184
+00:11:30,773 --> 00:11:34,412
+to the workforce? And if I do get something that would
+
+185
+00:11:34,428 --> 00:11:37,346
+help me advance like in terms of my education or career,
+
+186
+00:11:38,195 --> 00:11:41,706
+you know what, what, what would I want that to be? And
+
+187
+00:11:42,700 --> 00:11:46,050
+I ended up like in the course of thinking about this, I knew I wanted
+
+188
+00:11:46,050 --> 00:11:48,823
+to do something within technology because I wanted to
+
+189
+00:11:49,416 --> 00:11:52,974
+understand and maybe be like a more mindful part
+
+190
+00:11:53,503 --> 00:11:57,093
+of like how, how we implement these sorts of technologies and how
+
+191
+00:11:57,205 --> 00:12:00,955
+can we try to minimize some of this like job disruption and how can
+
+192
+00:12:00,971 --> 00:12:04,786
+we be smarter about like talent and skills? All of those things
+
+193
+00:12:04,818 --> 00:12:07,831
+were top of mind for me and a friend of mine at church had
+
+194
+00:12:08,648 --> 00:12:12,430
+offered to introduce me to some folks who had a managed service boutique IT
+
+195
+00:12:12,430 --> 00:12:16,197
+firm and she said like if you're, if you're interested, like she goes, I'm
+
+196
+00:12:16,197 --> 00:12:19,804
+new to IT as well and I got some great mentorship and. It would be
+
+197
+00:12:19,804 --> 00:12:23,143
+like in the recruiting area. And I was like, you know what, that,
+
+198
+00:12:23,577 --> 00:12:27,173
+that does interest me because I had that stint in HR operations at the
+
+199
+00:12:27,173 --> 00:12:30,834
+distribution center. I had done like hiring events, like all those
+
+200
+00:12:30,834 --> 00:12:34,494
+sorts of things as part of that experience. And I also wanted to understand like
+
+201
+00:12:34,494 --> 00:12:37,641
+what does it actually take to do these jobs? Like what are people hiring for?
+
+202
+00:12:37,770 --> 00:12:41,205
+Like what do they pay people for? What are their skills? And so I had
+
+203
+00:12:41,238 --> 00:12:44,978
+that opportunity. I was like, it was definitely, it was so
+
+204
+00:12:45,011 --> 00:12:48,783
+challenging. It was, it was a great learning experience. It was, it
+
+205
+00:12:48,783 --> 00:12:52,085
+was highly competitive because we were at a small boutique firm and you had these
+
+206
+00:12:52,133 --> 00:12:55,884
+like big, like sort of like consultancies
+
+207
+00:12:56,301 --> 00:13:00,100
+and talent recruiting firms like your Tech Systems and your Experis type, type
+
+208
+00:13:00,100 --> 00:13:03,611
+sort of organizations. And so like the, the kind of
+
+209
+00:13:03,611 --> 00:13:07,394
+speed and, and learning why you lost a deal, or even just
+
+210
+00:13:07,394 --> 00:13:10,648
+learning about like how do you even get into these vendor management systems to work
+
+211
+00:13:10,648 --> 00:13:13,870
+with these enterprises. All of those things, it was great
+
+212
+00:13:13,870 --> 00:13:17,525
+experience. They had some hard times as well there on their team,
+
+213
+00:13:17,621 --> 00:13:21,309
+so I ended up transitioning to a role where briefly I was working in financial
+
+214
+00:13:21,309 --> 00:13:24,486
+services. So I was at New York Life. I was getting my
+
+215
+00:13:24,711 --> 00:13:28,482
+series licenses, so I was working my way through it. I just had
+
+216
+00:13:28,482 --> 00:13:31,756
+got the one around mutual funds, and then somebody from the, the
+
+217
+00:13:32,013 --> 00:13:35,832
+IT recruiting team called me and said, hey, you know how we
+
+218
+00:13:35,832 --> 00:13:39,170
+used to recruit for those like project management roles and all of that with, with
+
+219
+00:13:39,202 --> 00:13:42,171
+our clients? I said yeah. They're like, they're actually looking for somebody who could be
+
+220
+00:13:42,187 --> 00:13:45,091
+new to tech. They want them to have a financial background because you're going to
+
+221
+00:13:45,091 --> 00:13:48,348
+need to own budget and scope and schedule. Risk and
+
+222
+00:13:48,348 --> 00:13:51,954
+contingency funds, like that sort of thing, and they can teach you the rest. They
+
+223
+00:13:51,954 --> 00:13:55,657
+have a pretty rigorous system. What do you say? So that's how I got my
+
+224
+00:13:55,657 --> 00:13:59,376
+first proper, proper IT role, was working in healthcare
+
+225
+00:13:59,969 --> 00:14:02,759
+supply chain logistics company. And
+
+226
+00:14:03,672 --> 00:14:07,119
+from there, that's actually when I decided to pursue my
+
+227
+00:14:07,119 --> 00:14:10,117
+master's, and I ended up being in a program for
+
+228
+00:14:10,149 --> 00:14:13,900
+what's called Master's of Science in Information and Knowledge Strategy.
+
+229
+00:14:14,733 --> 00:14:18,244
+Oh, OK, OK, so that's in one of the grad schools at
+
+230
+00:14:18,244 --> 00:14:22,018
+Columbia, the School of Professional Studies. So, and I, and
+
+231
+00:14:22,034 --> 00:14:25,569
+I chose that because, as the name indicates, right, there's a, there's a
+
+232
+00:14:25,569 --> 00:14:28,911
+science to how you take all this information
+
+233
+00:14:29,651 --> 00:14:33,105
+and knowledge that we are flooded with and how do you go,
+
+234
+00:14:33,909 --> 00:14:37,749
+how do you use that science and, and learn your own sort of art around
+
+235
+00:14:37,781 --> 00:14:40,963
+going from strategy to execution to operations.
+
+236
+00:14:41,172 --> 00:14:44,611
+So I had that kind of operations, bottoms up, middle out view.
+
+237
+00:14:45,092 --> 00:14:48,793
+But that strategic piece and having frameworks and knowing how to like
+
+238
+00:14:49,017 --> 00:14:52,591
+know up from down when you analyze a product or a new technology
+
+239
+00:14:53,167 --> 00:14:56,949
+and think about its downstream and upstream implications. So
+
+240
+00:14:56,949 --> 00:15:00,089
+that, that really appealed to me and I was able to get into the program.
+
+241
+00:15:00,153 --> 00:15:03,470
+And so I was, I was working as a— eventually got promoted to,
+
+242
+00:15:03,999 --> 00:15:07,732
+to a project manager. And so I was doing that and
+
+243
+00:15:07,764 --> 00:15:11,273
+going to school. OK, at the same time
+
+244
+00:15:11,353 --> 00:15:15,118
+and raising little ones. Yes, yes, it takes a
+
+245
+00:15:15,118 --> 00:15:18,579
+village. It was very much a team effort. I, I was fortunate enough to get
+
+246
+00:15:18,579 --> 00:15:21,351
+a fellowship from the American Association of University Women
+
+247
+00:15:22,649 --> 00:15:26,318
+as part of being in that program those couple years,
+
+248
+00:15:26,574 --> 00:15:30,211
+and I'm still friends to this day. I'm in the wedding party of
+
+249
+00:15:30,276 --> 00:15:33,833
+one of my buddies from, from that program coming up here pretty soon,
+
+250
+00:15:34,201 --> 00:15:38,030
+and that was over 10 years ago. So it's, it's true what they say. If
+
+251
+00:15:38,030 --> 00:15:40,578
+you find the right sort of program and the right sort of fit for those
+
+252
+00:15:40,610 --> 00:15:44,263
+things, you really can make lifelong friends. You can have these opportunities
+
+253
+00:15:44,295 --> 00:15:47,964
+that like not just change your life, but change the way you see the world
+
+254
+00:15:47,964 --> 00:15:51,296
+so that you can, you can just be more mindful, intentional
+
+255
+00:15:51,585 --> 00:15:55,222
+about where you want to go. You know, with, with a lot of turmoil.
+
+256
+00:15:55,815 --> 00:15:59,211
+I'm definitely one of those like millennial career women who like
+
+257
+00:15:59,516 --> 00:16:03,072
+turmoil has just been the order of the day. Right, and all
+
+258
+00:16:03,120 --> 00:16:06,565
+things work and it's just like what, which kind is it? You know, like I,
+
+259
+00:16:07,206 --> 00:16:09,593
+you know, I mentioned I grew up in Colorado. When I was 12, I was
+
+260
+00:16:09,689 --> 00:16:13,313
+45 minutes away from Columbine. And so we grew up under like that
+
+261
+00:16:13,313 --> 00:16:16,794
+zero tolerance thing at a time when kind of the rest of America was hoping
+
+262
+00:16:16,826 --> 00:16:20,372
+that was like a bit of a one-off. But, you know, so, but the schools
+
+263
+00:16:20,372 --> 00:16:24,174
+and the rules and everything that changed after that for us in Colorado was very
+
+264
+00:16:24,206 --> 00:16:27,784
+distinct. I would learn later, but I mean, it was Columbine and then it was
+
+265
+00:16:27,816 --> 00:16:31,442
+9/11 and then there was the financial crisis. And then, you know, we're
+
+266
+00:16:31,442 --> 00:16:34,603
+still kind of like kind of finding our footing after all of that. And so
+
+267
+00:16:34,859 --> 00:16:38,180
+I actually thought I had a bit of a break until 2020.
+
+268
+00:16:38,950 --> 00:16:42,337
+Right. And then I got a kind of break. Yeah, so, but, but, you know,
+
+269
+00:16:42,642 --> 00:16:46,014
+here we go again. So, but I, I only share that to say that
+
+270
+00:16:46,736 --> 00:16:50,253
+the, the thing about technology and just the way that the world was
+
+271
+00:16:50,285 --> 00:16:54,074
+working was it's just like you have to be adaptable. You can't not
+
+272
+00:16:54,219 --> 00:16:57,815
+be adaptable. I knew that there were a lot of people like
+
+273
+00:16:57,896 --> 00:17:01,364
+culturally, generationally, etc. And just honestly, like the hope
+
+274
+00:17:01,749 --> 00:17:04,704
+of like my dad where like you get to retire after 40 years with one
+
+275
+00:17:04,800 --> 00:17:07,914
+company, like And people like that, like people
+
+276
+00:17:08,588 --> 00:17:11,860
+have a lot of respect for and desire for like the discipline and
+
+277
+00:17:11,941 --> 00:17:15,454
+consistency and stability that comes with growing in a handful of roles
+
+278
+00:17:15,727 --> 00:17:19,209
+that you stay in for years and letting that define your career.
+
+279
+00:17:19,818 --> 00:17:23,492
+But from the time I was an IT recruiter, and I, I think even
+
+280
+00:17:23,508 --> 00:17:27,295
+more so now, there is always this risk of not just disruption, but
+
+281
+00:17:27,343 --> 00:17:30,375
+like obsolescence. Yes, yes,
+
+282
+00:17:31,129 --> 00:17:34,788
+and it happened so many times in so many ways, in so many,
+
+283
+00:17:35,222 --> 00:17:38,897
+like, things I've observed in the world and in my life, that I, I
+
+284
+00:17:38,897 --> 00:17:42,139
+just couldn't— I couldn't really, like, I guess,
+
+285
+00:17:42,283 --> 00:17:45,991
+accept that we were gonna ever go back to that, or that
+
+286
+00:17:46,055 --> 00:17:49,554
+that was like a thing that you as, like, a woman, a working
+
+287
+00:17:49,586 --> 00:17:53,261
+mother, can expect if you really want the job to even cover
+
+288
+00:17:53,261 --> 00:17:54,657
+the cost of your child care.
+
+289
+00:17:58,237 --> 00:18:01,900
+So anyway, I'm like, I'm just like, I'm like, I'm like,
+
+290
+00:18:02,013 --> 00:18:05,612
+I'm all about what you're talking about. I completely understand what you're talking
+
+291
+00:18:05,628 --> 00:18:09,147
+about, right? You know, like when I was in uni, like the
+
+292
+00:18:09,742 --> 00:18:13,100
+first positions I had, like didn't even exist.
+
+293
+00:18:13,277 --> 00:18:16,812
+Like everything kind of was made up. And then it was
+
+294
+00:18:16,812 --> 00:18:19,961
+recession after recession, you know, '07 and
+
+295
+00:18:19,961 --> 00:18:23,673
+9/11 and then, and then 2007 and then again.
+
+296
+00:18:24,026 --> 00:18:27,863
+And then you had pandemic and it made it very hard to get your footing
+
+297
+00:18:28,601 --> 00:18:32,117
+and be able to kind of nurture and build,
+
+298
+00:18:32,454 --> 00:18:34,926
+you know, a singular career path.
+
+299
+00:18:36,163 --> 00:18:39,871
+Right? Yeah. You know, like my father was an
+
+300
+00:18:39,999 --> 00:18:43,820
+IBMer. He worked there for over 35 years, right?
+
+301
+00:18:43,868 --> 00:18:47,304
+I grew up with the same kind of mentality, like my parents worked somewhere and
+
+302
+00:18:47,304 --> 00:18:50,755
+you thought, okay, I find somewhere and I work somewhere and then I
+
+303
+00:18:51,092 --> 00:18:54,555
+develop myself and I'm not leaving, but that's just not
+
+304
+00:18:55,404 --> 00:18:59,235
+the way it's done anymore. So, OK, so now, now do
+
+305
+00:18:59,251 --> 00:19:03,067
+you— so when did quantum enter
+
+306
+00:19:03,099 --> 00:19:06,802
+your world? Yeah, so yeah, this, this is the
+
+307
+00:19:06,802 --> 00:19:10,633
+fun part. So I, I graduate, I'm
+
+308
+00:19:10,633 --> 00:19:13,967
+from Columbia, I get an opportunity to join EY
+
+309
+00:19:14,801 --> 00:19:18,568
+as a consulting gig. They were one of the capstone sponsors, not, not my group
+
+310
+00:19:18,568 --> 00:19:21,116
+sponsor, but one of them. It's, it's, you know, it's why you go to these
+
+311
+00:19:21,149 --> 00:19:24,982
+programs. You hope you can get that aligned next step
+
+312
+00:19:25,063 --> 00:19:28,738
+up in terms of your experience and career. And then I
+
+313
+00:19:28,850 --> 00:19:32,542
+found myself very, like, very quickly working with some of like
+
+314
+00:19:32,782 --> 00:19:36,361
+the Microsoft track folks and all of that. And I ended up relocating
+
+315
+00:19:37,019 --> 00:19:40,775
+in 2019 to Seattle from Ohio. So, so
+
+316
+00:19:40,791 --> 00:19:44,482
+that big move, that's, that's the big move that kind of catalyzed— big move, big
+
+317
+00:19:44,482 --> 00:19:47,756
+move. And I, and, and I had always kind of— I had been in emerging
+
+318
+00:19:47,788 --> 00:19:51,559
+tech without knowing it. 'cause as I had said, like the whole like, oh,
+
+319
+00:19:51,575 --> 00:19:54,575
+like we're going to do big data and analytics and I'm like, oh, I recognize
+
+320
+00:19:54,608 --> 00:19:58,218
+this stuff from logistics, but the rest of the world is just like, hey,
+
+321
+00:19:58,362 --> 00:20:02,149
+like what is this IBM Watson? Like what is this Hadoop thing? Like how do
+
+322
+00:20:02,149 --> 00:20:05,839
+we use it? And now that stuff just like runs in the
+
+323
+00:20:05,839 --> 00:20:09,594
+background. You can have all these APIs. You know, so it's
+
+324
+00:20:09,610 --> 00:20:12,979
+so, so, so I, I hadn't known that, but by the time I moved to
+
+325
+00:20:12,979 --> 00:20:16,429
+Seattle and I'm working at Microsoft, I'm working in the field with
+
+326
+00:20:16,429 --> 00:20:20,277
+enterprise customers. And then I get an opportunity to move to a
+
+327
+00:20:20,277 --> 00:20:23,980
+global strategy team doing playbooks around, once
+
+328
+00:20:23,980 --> 00:20:27,699
+again, a new technology, a new feature in Microsoft 365 security.
+
+329
+00:20:28,051 --> 00:20:31,209
+So I'm right back onto here's a new thing that somebody built, it does cool
+
+330
+00:20:31,257 --> 00:20:35,025
+stuff. How do we get people to know it, use it, like it, buy it
+
+331
+00:20:35,025 --> 00:20:38,856
+kind of thing? And then I had an incredible opportunity to go to Xbox.
+
+332
+00:20:40,715 --> 00:20:43,953
+Which was— I mean, all the things we're talking about were at
+
+333
+00:20:44,306 --> 00:20:48,025
+like at play there, no pun intended, but it was just so fun.
+
+334
+00:20:48,394 --> 00:20:52,161
+I— it was the first time I had worked at a technology, like,
+
+335
+00:20:52,177 --> 00:20:55,447
+based company that is not only not perceived as
+
+336
+00:20:55,607 --> 00:20:59,310
+technology, it's gaming, right? It's not the tech, it's what you do with it. And
+
+337
+00:20:59,310 --> 00:21:02,677
+what you do with it is game, and there are communities. And it's one of
+
+338
+00:21:02,677 --> 00:21:06,011
+those things where you're working on something that is so loved,
+
+339
+00:21:06,908 --> 00:21:10,611
+like, so loved. I, I've only had the chance to work on
+
+340
+00:21:10,611 --> 00:21:13,673
+enterprise tools that were on their best day, like, tolerated, you know,
+
+341
+00:21:14,298 --> 00:21:18,036
+right? And people cannot wait to log off, take their PTO, put that out of
+
+342
+00:21:18,052 --> 00:21:21,518
+office on, they're done. And this was a place where people would want to
+
+343
+00:21:21,599 --> 00:21:25,370
+log off at work so they can log in and play. And I, I loved
+
+344
+00:21:25,370 --> 00:21:28,965
+that. And it was, it was during this time that, um, I had been approached
+
+345
+00:21:28,965 --> 00:21:32,752
+with an opportunity to, uh, to join
+
+346
+00:21:32,897 --> 00:21:36,652
+a blockchain startup that was spinning out of Meta. And
+
+347
+00:21:36,749 --> 00:21:40,263
+this is where it gets interesting because I was starting to be very
+
+348
+00:21:40,295 --> 00:21:44,131
+interested in, um, security. I'm starting to, 'cause it
+
+349
+00:21:44,131 --> 00:21:47,968
+was modern work and security and, and so much
+
+350
+00:21:48,144 --> 00:21:51,724
+of the rightful customer questions and enterprise rigor.
+
+351
+00:21:52,639 --> 00:21:55,753
+It was, it was a lot. It was less of like the sales team having
+
+352
+00:21:55,785 --> 00:21:59,589
+to get budget and all of that, and it was more the security folks wanting
+
+353
+00:21:59,589 --> 00:22:02,495
+to be like, hey, do we have the right like granular controls
+
+354
+00:22:03,410 --> 00:22:07,166
+for this subscription tier that we're looking at? And
+
+355
+00:22:07,166 --> 00:22:10,697
+then, and then within gaming there was obviously their security around like
+
+356
+00:22:10,697 --> 00:22:13,705
+credentials and people's money and like all of that. And you know how they payment
+
+357
+00:22:13,705 --> 00:22:16,739
+methods in Game Pass, but there was also Xbox player safety.
+
+358
+00:22:18,289 --> 00:22:21,485
+My kids love Minecraft. We got a chance to like tour the Minecraft studio. They
+
+359
+00:22:21,598 --> 00:22:25,293
+take that stuff very seriously, and so there's all these technical security
+
+360
+00:22:25,326 --> 00:22:28,925
+components to that as well. And so by the time I'm looking at this blockchain
+
+361
+00:22:28,957 --> 00:22:32,573
+startup, I'm thinking about security. There's a big focus on like decentralization
+
+362
+00:22:32,718 --> 00:22:36,394
+and privacy. There's definitely a gaming use case, and then
+
+363
+00:22:36,620 --> 00:22:39,984
+there's cryptography. Because
+
+364
+00:22:40,418 --> 00:22:44,209
+blockchain. Exactly. And so, you know, I, I guess
+
+365
+00:22:44,209 --> 00:22:46,666
+I put that out there as a plug to some of my, my, like, the
+
+366
+00:22:46,682 --> 00:22:50,393
+blockchain friends or some of the Web3, etc. people. It's like, you know, please
+
+367
+00:22:50,441 --> 00:22:53,878
+remember that blockchain is not just crypto. Blockchain as an applied
+
+368
+00:22:53,974 --> 00:22:57,765
+technology has cryptography, and this, this era
+
+369
+00:22:57,765 --> 00:23:01,090
+that we're going into is going to make cryptographic proficiencies of all
+
+370
+00:23:01,138 --> 00:23:04,865
+kinds very important as
+
+371
+00:23:04,977 --> 00:23:07,850
+we, as we think about how we're going to navigate a lot of of these
+
+372
+00:23:08,027 --> 00:23:11,631
+like, these threat cases is what I call them, right? So you have your use
+
+373
+00:23:11,631 --> 00:23:15,012
+case, but there are threat cases. So whatever, when we think about
+
+374
+00:23:15,252 --> 00:23:18,456
+something that's a tool, there are ways that you do need to think like a
+
+375
+00:23:18,456 --> 00:23:22,269
+bad actor in ways that it could be weaponized.
+
+376
+00:23:23,326 --> 00:23:27,107
+So anyway, that's kind of how like my curiosity, I
+
+377
+00:23:27,107 --> 00:23:30,712
+didn't know that I was on that quantum track looking at
+
+378
+00:23:30,712 --> 00:23:34,541
+security and cryptography until it like clicked. Because
+
+379
+00:23:34,541 --> 00:23:38,385
+it's like you said, like the words and the terminology and the language for it,
+
+380
+00:23:38,802 --> 00:23:42,475
+it didn't really exist, or like it at least
+
+381
+00:23:42,475 --> 00:23:46,179
+hadn't like reached my bubble or like any sort of mainstream or
+
+382
+00:23:46,179 --> 00:23:49,675
+like kind of critical mass for people to know like, oh, that's what that is,
+
+383
+00:23:50,028 --> 00:23:53,428
+right? Like that's, that's what we're talking about here. And so, um,
+
+384
+00:23:54,053 --> 00:23:56,844
+it was during that time with the blockchain startup that I met my current co-founder.
+
+385
+00:23:57,629 --> 00:24:00,724
+Um, so he was, he was working, um, and not just working, he was, he
+
+386
+00:24:00,773 --> 00:24:04,429
+was managing and had founded a really amazing, uh, marketing agency
+
+387
+00:24:04,959 --> 00:24:08,734
+that was doing all kinds of like just— it was really like a creative studio
+
+388
+00:24:08,799 --> 00:24:12,638
+that was doing amazing things around branding, in-person event activations. So they were
+
+389
+00:24:12,638 --> 00:24:16,398
+doing a lot of this ecosystem work where things were just a lot
+
+390
+00:24:16,494 --> 00:24:20,125
+easier, cooler, and more fun the way that they
+
+391
+00:24:20,206 --> 00:24:23,419
+would introduce people to these different products and
+
+392
+00:24:23,419 --> 00:24:27,082
+experiences. And so I really love that about what
+
+393
+00:24:27,178 --> 00:24:29,363
+he, what he was able to do and what he was working on. And we
+
+394
+00:24:29,363 --> 00:24:32,978
+just, we had just stayed in touch over the years. I always give him kudos
+
+395
+00:24:32,978 --> 00:24:35,290
+at this part of the story when people ask about how we met or know
+
+396
+00:24:35,322 --> 00:24:38,727
+each other, because he was literally one of the guys, one of the few guys
+
+397
+00:24:38,920 --> 00:24:42,758
+that I met that like, he liked, he loved
+
+398
+00:24:42,758 --> 00:24:46,596
+his wife, his wife loves him, he loves
+
+399
+00:24:46,596 --> 00:24:50,387
+his kids, his kids love him, and it's, that's still the case
+
+400
+00:24:50,387 --> 00:24:53,855
+to this day. And it was honestly just so refreshing to be around something like
+
+401
+00:24:53,855 --> 00:24:57,517
+that, particularly like at that time within like very tech
+
+402
+00:24:57,549 --> 00:25:01,068
+bro like that, that sort of like kind of heavy crypto
+
+403
+00:25:01,068 --> 00:25:04,667
+culture. Okay, okay, that's fair. There is a very
+
+404
+00:25:04,699 --> 00:25:07,639
+tech bro culture in crypto. You're right,
+
+405
+00:25:08,715 --> 00:25:11,575
+you're right. So that probably was very refreshing.
+
+406
+00:25:12,411 --> 00:25:15,785
+Yeah, yeah, he stood out for all the right reasons, as well as like the
+
+407
+00:25:15,785 --> 00:25:19,207
+guys that he, that he hung out with. So, so,
+
+408
+00:25:19,384 --> 00:25:23,095
+um, so that was, uh, that, that's one of those things when
+
+409
+00:25:23,095 --> 00:25:26,690
+people talk about the intangibles you know, like, how do you know you can work
+
+410
+00:25:26,690 --> 00:25:30,056
+with a person? How, you know, that kind of thing. And for me, I,
+
+411
+00:25:30,537 --> 00:25:34,208
+I, I get very uncomfortable when we kind of have this abstract idea of—
+
+412
+00:25:34,320 --> 00:25:36,789
+I don't know, I don't know, Candace, I feel like you and I might be—
+
+413
+00:25:36,885 --> 00:25:40,476
+we could do a whole separate other episode around how, you know, how we remember
+
+414
+00:25:40,476 --> 00:25:42,897
+how back in the day we talked about business ethics.
+
+415
+00:25:44,260 --> 00:25:47,947
+When's the last time you heard— see, you see
+
+416
+00:25:48,171 --> 00:25:52,005
+it like— so this— so, you know, Especially, well, think about what's going
+
+417
+00:25:52,037 --> 00:25:55,744
+on with AI. I mean, think about what, you know, like, like,
+
+418
+00:25:55,792 --> 00:25:59,564
+you know, Musk's new, you know, AI engine that, you know, will
+
+419
+00:25:59,564 --> 00:26:03,207
+create nudes. Like, why? Like,
+
+420
+00:26:03,271 --> 00:26:06,176
+there's— why? Like, you know, there's, there's no—
+
+421
+00:26:07,203 --> 00:26:10,573
+like, where are the brakes? Where is the
+
+422
+00:26:10,573 --> 00:26:14,312
+governance? There are— there needs to be rules
+
+423
+00:26:14,425 --> 00:26:18,179
+because there are bad actors who will who will do things and we
+
+424
+00:26:18,179 --> 00:26:21,643
+need to protect people. I, it's just, it's the
+
+425
+00:26:21,643 --> 00:26:25,331
+technology is moving so quickly, right? Yeah. And yeah,
+
+426
+00:26:26,293 --> 00:26:29,115
+and, and that was it. Like, that was, I mean, and it's interesting too, right?
+
+427
+00:26:29,179 --> 00:26:33,028
+Because within like the blockchain space, etc., I
+
+428
+00:26:33,028 --> 00:26:35,626
+mean, this has actually been in the news. This is actually somewhat contemporary where
+
+429
+00:26:36,716 --> 00:26:40,324
+part of the reason I was so interested in blockchain as a,
+
+430
+00:26:40,869 --> 00:26:44,494
+for a tool to democratize, like getting people access to finance,
+
+431
+00:26:45,055 --> 00:26:48,745
+right? So, so even now, um, I've advised on and like talked to some folks,
+
+432
+00:26:48,761 --> 00:26:52,530
+it's like, we're like, oh, like stablecoins, crypto is a Ponzi scheme in America.
+
+433
+00:26:52,610 --> 00:26:56,364
+And it's like, well, if you're in Bolivia or if you're in Argentina, um, if
+
+434
+00:26:56,364 --> 00:26:59,861
+you're— there's places where having a stablecoin and it has like backing and
+
+435
+00:26:59,925 --> 00:27:03,149
+liquidity and stuff and it keeps its price and you can transact in it
+
+436
+00:27:03,582 --> 00:27:07,384
+better and more reliably than what you have going on, uh, that's a big deal.
+
+437
+00:27:07,673 --> 00:27:10,721
+Like, that can be life-changing for you, right? That's why I spent a lot of
+
+438
+00:27:10,721 --> 00:27:13,800
+time when I was in blockchain abroad. And there's nothing illegal
+
+439
+00:27:14,330 --> 00:27:18,097
+about like getting people access to like the financial sort of things that they
+
+440
+00:27:18,097 --> 00:27:21,704
+can afford. That's why it was called decentralized finance, right?
+
+441
+00:27:21,945 --> 00:27:25,776
+Exactly. But, but what's in the news now is like people like myself
+
+442
+00:27:25,776 --> 00:27:29,623
+and my co-founder and others who are working in the space around those sorts of
+
+443
+00:27:29,623 --> 00:27:33,375
+applications. We always had— we were always constantly up against this whole thing
+
+444
+00:27:33,471 --> 00:27:37,238
+of like, well, you know, that's the Silk Road currency, right? That's black market,
+
+445
+00:27:37,254 --> 00:27:41,037
+gray market stuff. Like what's happening, this whole like tragic situation
+
+446
+00:27:41,502 --> 00:27:45,029
+with, uh, the kidnapping of Savannah Guthrie's mother, right?
+
+447
+00:27:45,269 --> 00:27:48,860
+They asked for the compensation in Bitcoin and people are like, oh yeah,
+
+448
+00:27:48,956 --> 00:27:52,643
+like all that stuff is criminal. It's like, well, that's, you know, that's how
+
+449
+00:27:52,723 --> 00:27:55,881
+you're socialized, right? Like, if that's how— and I mean, because that's the thing, you
+
+450
+00:27:55,929 --> 00:27:59,151
+could say that about honestly any form of money. I, I don't know a form
+
+451
+00:27:59,151 --> 00:28:02,678
+of currency that isn't used and implicated in criminality anywhere.
+
+452
+00:28:03,223 --> 00:28:06,990
+But when people don't know, or you can have use cases and
+
+453
+00:28:06,990 --> 00:28:10,757
+then you can have something that's useful to them. And so that what I just
+
+454
+00:28:10,757 --> 00:28:14,541
+shared with you about people who don't have access to a credit union or Chase,
+
+455
+00:28:14,910 --> 00:28:18,646
+you know, people don't have the FDIC. That's an American institution, right?
+
+456
+00:28:18,999 --> 00:28:22,831
+Right. You know, like, we— like, they don't have it. Lots of countries, they don't
+
+457
+00:28:22,847 --> 00:28:26,615
+have something like a Federal Reserve. They don't have, like, like, these. And even
+
+458
+00:28:26,776 --> 00:28:29,534
+if they did, they just now got, like, access to, like,
+
+459
+00:28:30,063 --> 00:28:33,590
+internet sometimes, and they're dealing with rolling blackouts.
+
+460
+00:28:34,088 --> 00:28:37,744
+How do you create a financial sort of access point
+
+461
+00:28:38,016 --> 00:28:40,357
+and system for folks in those austere environments?
+
+462
+00:28:42,041 --> 00:28:45,553
+You know, and so, so anyway, so I think about this stuff because it's like
+
+463
+00:28:45,553 --> 00:28:48,119
+going back to like this idea of ethics and like what you can do with
+
+464
+00:28:48,119 --> 00:28:51,887
+technology. And to me, like the green flags, I mean, I
+
+465
+00:28:51,887 --> 00:28:54,918
+think all of us can name our yellow and red flags about what we're comfortable
+
+466
+00:28:54,918 --> 00:28:57,516
+with and who we do and do not want to hang out with. But I
+
+467
+00:28:57,564 --> 00:29:00,996
+bring up the thing around like ethics and like, you know, how I was confident
+
+468
+00:29:01,333 --> 00:29:04,716
+when my, my now co-founder approached me about the venture
+
+469
+00:29:04,716 --> 00:29:08,456
+studio. I don't think I don't really like this whole thing
+
+470
+00:29:08,472 --> 00:29:12,264
+where we don't even talk about ethics, we just talk about compliance. Okay,
+
+471
+00:29:12,424 --> 00:29:16,039
+right, right. It's like we don't, we don't do things like on principle, we do
+
+472
+00:29:16,039 --> 00:29:18,224
+things based off of what we can and can't get away with. It's kind of
+
+473
+00:29:18,224 --> 00:29:21,759
+what that implies, basically, right? Right.
+
+474
+00:29:22,064 --> 00:29:25,325
+So I'm not a fan of that. And maybe it's because like I have kids
+
+475
+00:29:25,582 --> 00:29:28,956
+or whatever, but to me it's like I don't think I should be in business
+
+476
+00:29:28,956 --> 00:29:32,234
+with people like in close proximity that way that I would not want
+
+477
+00:29:32,571 --> 00:29:36,151
+like my kids around. I think that's totally fair.
+
+478
+00:29:36,697 --> 00:29:40,437
+I think that that's a hard line to draw, but I
+
+479
+00:29:40,437 --> 00:29:43,663
+think that if you want to raise your family in a certain way and you
+
+480
+00:29:43,663 --> 00:29:47,402
+want to live by a certain set of ethics, then it should spill over,
+
+481
+00:29:48,061 --> 00:29:51,447
+you know, what you do in your personal life and in your business life. That,
+
+482
+00:29:51,511 --> 00:29:55,347
+you know, you've gotta, you've gotta feel like you're doing the right thing on both
+
+483
+00:29:55,363 --> 00:29:59,119
+sides. And if you're not, then you're doing— obviously you're doing something wrong.
+
+484
+00:29:59,632 --> 00:30:03,272
+Right? I mean, well, yeah, and it's, you know, it's, um, I,
+
+485
+00:30:03,641 --> 00:30:07,458
+I did advise a company briefly, or organization,
+
+486
+00:30:07,490 --> 00:30:11,098
+I should say, where, um, you know, sometimes when they call you in as a
+
+487
+00:30:11,098 --> 00:30:14,385
+consultant, you are accidentally like a family
+
+488
+00:30:14,385 --> 00:30:18,009
+counselor, right? Like you're, you're just thrown into all the dysfunction. Like that's part of
+
+489
+00:30:18,009 --> 00:30:21,345
+why you're there. It's like you're supposed to be a part of a team that
+
+490
+00:30:21,345 --> 00:30:25,129
+helps people navigate all this dysfunction, a lot of hurt feelings, sometimes a
+
+491
+00:30:25,129 --> 00:30:28,790
+lot of bad blood. That kind of thing, and
+
+492
+00:30:28,983 --> 00:30:32,051
+try to reset, find a path forward for whatever, you know, you've been assigned to.
+
+493
+00:30:32,581 --> 00:30:36,163
+And I remember there was this one, this one organization was really rough like that,
+
+494
+00:30:36,597 --> 00:30:39,906
+but one phrase they used to tell each other is like, I'm not going to
+
+495
+00:30:39,906 --> 00:30:41,481
+jail for you. Oh.
+
+496
+00:30:45,931 --> 00:30:49,706
+And while on the one hand it's like, yikes, like I wish
+
+497
+00:30:49,770 --> 00:30:53,465
+that was like not in like the chat on a regular basis, but like.
+
+498
+00:30:54,122 --> 00:30:57,777
+But like going back to what we talked about, like turmoil and
+
+499
+00:30:58,531 --> 00:31:02,218
+desperation has many outlets, you know, and, and
+
+500
+00:31:02,218 --> 00:31:05,055
+the risk. Like I think we used to talk about some of this thing we're
+
+501
+00:31:05,055 --> 00:31:07,972
+talking about, like personal ethics and all this and who we work with, especially with
+
+502
+00:31:07,989 --> 00:31:11,627
+new technology and like money and hype cycles. When
+
+503
+00:31:11,675 --> 00:31:15,491
+those things kick up, there are people who do overreach.
+
+504
+00:31:15,603 --> 00:31:19,322
+There are people who do. It's called a Greed and Fear
+
+505
+00:31:19,370 --> 00:31:23,057
+Index for a reason. Right? So when that greed and
+
+506
+00:31:23,057 --> 00:31:26,904
+fear index thing kicks up around the thing that you're working on, and I promise
+
+507
+00:31:26,904 --> 00:31:29,678
+this is going to get to quantum and why this stuff is important to have
+
+508
+00:31:29,710 --> 00:31:33,205
+many people, is that we know time and time again
+
+509
+00:31:33,621 --> 00:31:37,212
+that that greed-fear dynamic, it leads people to make some pretty risky
+
+510
+00:31:37,244 --> 00:31:40,996
+choices that other people around them may or may not know
+
+511
+00:31:41,076 --> 00:31:44,538
+about, that other people around them may be forced to aid in a bit.
+
+512
+00:31:45,725 --> 00:31:48,835
+And you know, some of the turmoil you and I have been talking about in
+
+513
+00:31:48,931 --> 00:31:52,714
+our careers, you see the collateral damage, and it
+
+514
+00:31:52,714 --> 00:31:55,920
+is a lot of like women's careers, early career folks,
+
+515
+00:31:56,562 --> 00:32:00,121
+you know, that kind of thing. Older, older workers who are closer to retirement.
+
+516
+00:32:00,954 --> 00:32:04,625
+There's a certain kind of worker who is most at
+
+517
+00:32:04,657 --> 00:32:08,360
+risk for the shakeout of those sort of greed and fear
+
+518
+00:32:08,729 --> 00:32:12,578
+and desperation responses. And And so
+
+519
+00:32:12,658 --> 00:32:16,271
+I, I do think it's good and healthy as we talk about
+
+520
+00:32:16,271 --> 00:32:19,675
+innovation and we talk about security and we talk about bad actors.
+
+521
+00:32:20,060 --> 00:32:22,854
+You know, one of the things that we all the time in cybersecurity is the
+
+522
+00:32:22,854 --> 00:32:26,547
+insider threat, right? And so it's like,
+
+523
+00:32:26,627 --> 00:32:30,400
+you know, the more promising and high potential something is, the
+
+524
+00:32:30,400 --> 00:32:34,077
+more it draws in that kind of attention and those
+
+525
+00:32:34,093 --> 00:32:37,289
+sorts of elements. And I, I only wish that, um,
+
+526
+00:32:37,802 --> 00:32:41,012
+maybe, maybe somebody like you, Candace, had a podcast like this, and I, and I
+
+527
+00:32:41,012 --> 00:32:44,270
+was maybe a little younger, but maybe you'll reach somebody now. And somebody
+
+528
+00:32:44,848 --> 00:32:47,689
+would tell me like, hey, sometimes you are going to have to have standards. Like,
+
+529
+00:32:47,994 --> 00:32:50,899
+if I don't want this person around my kid, I only want them this far
+
+530
+00:32:51,445 --> 00:32:54,912
+into my circle, right? If, um,
+
+531
+00:32:55,843 --> 00:32:58,908
+if I have to ever be tempted to say the phrase, I'm not going to
+
+532
+00:32:58,908 --> 00:33:01,171
+jail for you, it's already gone too far.
+
+533
+00:33:03,386 --> 00:33:06,978
+100%. Uh, uh, 100%. I,
+
+534
+00:33:07,235 --> 00:33:09,977
+I totally understand what you're saying, and
+
+535
+00:33:11,420 --> 00:33:14,949
+it kind of blows my mind that you, you actually saw that on a
+
+536
+00:33:14,949 --> 00:33:18,397
+chat internally. That just would give me
+
+537
+00:33:18,397 --> 00:33:21,989
+pause to say, what's going on? Like,
+
+538
+00:33:22,005 --> 00:33:24,491
+what's, what's really going on here, right?
+
+539
+00:33:25,597 --> 00:33:28,580
+Yeah, I mean, and, and that's the thing, right? Because when— as soon as that
+
+540
+00:33:28,580 --> 00:33:32,382
+happens, As soon as that happens, it's like, oh man,
+
+541
+00:33:32,430 --> 00:33:35,944
+do I even want to know what's really going on, right? I'm like, I don't
+
+542
+00:33:35,960 --> 00:33:38,270
+know, I think I want to even know, right? I just know that I want
+
+543
+00:33:38,270 --> 00:33:41,928
+to see my way out of this, right? Yeah. And you know, this,
+
+544
+00:33:42,457 --> 00:33:46,083
+this, so, so when, so this does get into
+
+545
+00:33:46,212 --> 00:33:49,870
+like, you know, how I find myself fully like bought into like what I want
+
+546
+00:33:49,870 --> 00:33:53,255
+to work on within quantum technology and emerging technology because
+
+547
+00:33:54,233 --> 00:33:57,619
+as I'm at that blockchain startup and I'm traveling and we're looking at like all
+
+548
+00:33:57,619 --> 00:34:01,467
+these things around, ecosystem. There's these different Builder House events
+
+549
+00:34:01,467 --> 00:34:04,801
+we would do around like more specific education
+
+550
+00:34:04,817 --> 00:34:08,584
+hackathons. I was on the ecosystem program that
+
+551
+00:34:08,584 --> 00:34:12,047
+worked very closely with developer relations, and then we also had a grants
+
+552
+00:34:12,047 --> 00:34:15,717
+program as well, both academic and for our
+
+553
+00:34:15,798 --> 00:34:19,420
+ecosystem tools. And also just like high
+
+554
+00:34:19,420 --> 00:34:23,027
+potential projects. And so I'm working on that, and then I'm also working on a
+
+555
+00:34:23,027 --> 00:34:26,618
+cybersecurity engagement. So I'm starting to do some freelancing. And so
+
+556
+00:34:27,179 --> 00:34:30,497
+the, the, that conversation we just had about like that human side of ethics,
+
+557
+00:34:30,658 --> 00:34:34,139
+human side of risk, this is where the cybersecurity,
+
+558
+00:34:34,572 --> 00:34:38,422
+privacy, all of that really starts to become very important to me
+
+559
+00:34:38,422 --> 00:34:42,015
+because I'm starting to see the whole thing of you have shadow IT.
+
+560
+00:34:43,138 --> 00:34:46,619
+For those of you who don't know, shadow IT is the thing where you work
+
+561
+00:34:46,619 --> 00:34:49,908
+somewhere, uh, your identity management,
+
+562
+00:34:50,229 --> 00:34:53,870
+CISO, security people are like, sorry, you can't download that
+
+563
+00:34:54,143 --> 00:34:57,945
+on your work computer, or you can't, you know, you need admin permission
+
+564
+00:34:58,073 --> 00:35:01,281
+to add this feature, do this thing. And you say
+
+565
+00:35:01,747 --> 00:35:05,517
+Aba, and you go and get, you go and get it and use work
+
+566
+00:35:05,517 --> 00:35:09,287
+stuff, credentials, content, documents, whatever you want to do, just
+
+567
+00:35:09,303 --> 00:35:13,041
+outside of the digital estate, the ring fence of the systems
+
+568
+00:35:13,057 --> 00:35:16,699
+that your admin hard stop said you couldn't, couldn't have it. So
+
+569
+00:35:16,699 --> 00:35:20,229
+there's a whole kind of, so that's one kind of concrete example of shadow IT.
+
+570
+00:35:21,015 --> 00:35:24,496
+But by the time I'm working on the cybersecurity stuff, we have full-blown shadow AI.
+
+571
+00:35:25,250 --> 00:35:28,797
+Oh, absolutely right. 'cause people are not just like,
+
+572
+00:35:29,664 --> 00:35:33,260
+you know, getting like free freemium kind of like AI subscriptions to
+
+573
+00:35:33,276 --> 00:35:36,567
+work on things, but they're also like they got open source stuff.
+
+574
+00:35:37,065 --> 00:35:40,661
+Mm-hmm. Mm-hmm. So, so we're,
+
+575
+00:35:40,677 --> 00:35:43,872
+so I'm, I'm looking at that and I'm, I'm still like
+
+576
+00:35:44,370 --> 00:35:47,741
+somewhat connected to Johnny and when he reaches out to me and we, we were
+
+577
+00:35:47,741 --> 00:35:51,177
+working on primarily like state, state, federal,
+
+578
+00:35:51,755 --> 00:35:55,188
+like the state, local government kind of and, and Occasionally we try to pitch to
+
+579
+00:35:55,188 --> 00:35:59,004
+federal sort of contracts in terms of like moonlighting and who you'd want
+
+580
+00:35:59,004 --> 00:36:02,178
+to like talk to. But this was, this was
+
+581
+00:36:02,178 --> 00:36:05,784
+2024 and the writing was on the wall that maybe even cybersecurity wasn't going to
+
+582
+00:36:05,784 --> 00:36:09,343
+be safe from a lot of US government budget turmoil, right?
+
+583
+00:36:09,455 --> 00:36:13,158
+Right. I knew people at the time who felt differently, and I think maybe if
+
+584
+00:36:13,158 --> 00:36:16,733
+they— less that they felt differently and more that they hoped
+
+585
+00:36:17,486 --> 00:36:21,093
+differently, that they were like, you know, if there's one thing that's going to like
+
+586
+00:36:21,093 --> 00:36:24,860
+stick it out through like this transition period with the new administration, it's going to
+
+587
+00:36:24,860 --> 00:36:26,671
+be cybersecurity. And then it
+
+588
+00:36:26,703 --> 00:36:30,388
+wasn't necessarily the case.
+
+589
+00:36:30,773 --> 00:36:34,202
+And so I saw that coming.
+
+590
+00:36:34,875 --> 00:36:38,721
+Johnny had approached me and said, hey, I think there's some real there there what's
+
+591
+00:36:38,721 --> 00:36:42,550
+happening in quantum technology around specifically what's
+
+592
+00:36:42,550 --> 00:36:46,171
+available to be commercialized. And
+
+593
+00:36:46,492 --> 00:36:50,305
+I'm exploring doing like this venture studio model. I'm talking to somebody
+
+594
+00:36:50,337 --> 00:36:53,799
+who has worked in these funds and like all that sort of thing before. Would
+
+595
+00:36:54,104 --> 00:36:56,593
+this be something like you'd be interested in? Because you're the first person I thought
+
+596
+00:36:56,593 --> 00:36:59,290
+of in terms of like if we're going to do this thing like end to
+
+597
+00:36:59,386 --> 00:37:01,762
+end and like figure out who and what it takes.
+
+598
+00:37:03,576 --> 00:37:07,027
+Like, I'd like— I'd love your, your help with that. And so I took the
+
+599
+00:37:07,027 --> 00:37:10,078
+holiday break to think about it. And so I did. I decided to like wind
+
+600
+00:37:10,078 --> 00:37:13,914
+down my role, like doing like the moonlight contracting in cybersecurity with that particular
+
+601
+00:37:13,914 --> 00:37:17,735
+group. And then we launched Barklow about a year ago now,
+
+602
+00:37:19,148 --> 00:37:22,902
+and that has been Absolutely fascinating because when you
+
+603
+00:37:22,919 --> 00:37:26,573
+come into quantum technology from the perspective of like, hey, like
+
+604
+00:37:26,815 --> 00:37:30,389
+these are like these papers that are looking good, like I'm seeing like these different
+
+605
+00:37:30,373 --> 00:37:34,071
+like companies of various sizes, you have different funds, and
+
+606
+00:37:34,168 --> 00:37:36,764
+then if you're like me, you're like, great, what can I log into?
+
+607
+00:37:39,796 --> 00:37:43,460
+And folks are like, ah yes, about that. Yeah, not quite, not
+
+608
+00:37:43,460 --> 00:37:46,527
+quite. And so I'm like, great, that's why we're here.
+
+609
+00:37:47,266 --> 00:37:50,960
+So, so yeah, so that's, so that's how
+
+610
+00:37:51,169 --> 00:37:54,927
+we found our way into, into what we've been building. And then it's really
+
+611
+00:37:54,943 --> 00:37:58,171
+kind of taken on a life of its own as we use our
+
+612
+00:37:58,171 --> 00:38:02,010
+methodology. Our big focus when people say like, what does commercialization
+
+613
+00:38:02,010 --> 00:38:05,720
+mean to you? That's a big word. Means kind of like an inkblot test, right?
+
+614
+00:38:05,784 --> 00:38:07,985
+Like it means different things to different people when you hold it up.
+
+615
+00:38:09,864 --> 00:38:13,573
+To us, particularly for like what Barclo focuses on with Quantum and
+
+616
+00:38:13,573 --> 00:38:17,099
+critical tech research, roadmap, revenue.
+
+617
+00:38:18,365 --> 00:38:21,474
+That's what commercialization means to us. So research
+
+618
+00:38:22,067 --> 00:38:25,850
+comes from the basis of science. Science is never through because we are
+
+619
+00:38:26,235 --> 00:38:29,985
+mortals, currently constrained by space and time. So
+
+620
+00:38:29,985 --> 00:38:33,832
+there's always going to be more to learn about the world around us
+
+621
+00:38:33,912 --> 00:38:37,134
+and the world within us and the materials we're made of. So that's science.
+
+622
+00:38:37,759 --> 00:38:41,141
+But then when you get to the roadmap, that's when you can start engineering from
+
+623
+00:38:41,141 --> 00:38:44,976
+science. Into specific technologies. And
+
+624
+00:38:45,056 --> 00:38:47,977
+that's that, that part right there, right? It's like
+
+625
+00:38:48,844 --> 00:38:52,118
+when you go to look at foundational science
+
+626
+00:38:52,921 --> 00:38:56,612
+and you go to apply it, that's when you can start that
+
+627
+00:38:56,612 --> 00:39:00,384
+kind of engineering, like that roadmap sort of lens on it. And then from
+
+628
+00:39:00,400 --> 00:39:03,465
+there it's like, well, I, I think people here want to get this out into
+
+629
+00:39:03,465 --> 00:39:06,980
+the world and get adequately compensated for it. So then that's, that's what we can
+
+630
+00:39:06,980 --> 00:39:10,621
+get to to that revenue part. But that is the supply
+
+631
+00:39:10,829 --> 00:39:13,540
+value chain and lifecycle like unto itself
+
+632
+00:39:14,743 --> 00:39:17,918
+in terms of just even using that, that kind of framework for, for how we,
+
+633
+00:39:18,110 --> 00:39:19,682
+how we assess things and pursue them.
+
+634
+00:39:21,911 --> 00:39:25,423
+So let me ask you, so every deep tech career hits
+
+635
+00:39:25,423 --> 00:39:28,888
+bottlenecks. You know, what is, what has been your most
+
+636
+00:39:28,952 --> 00:39:32,720
+frustrating stuck moment and how did you work your way
+
+637
+00:39:32,801 --> 00:39:35,739
+through it? Man,
+
+638
+00:39:37,858 --> 00:39:41,631
+it's, you know, the thing is, is that what,
+
+639
+00:39:42,354 --> 00:39:46,111
+what could have been perceived as a bottleneck when we started this
+
+640
+00:39:46,111 --> 00:39:48,809
+work, and it definitely created a lot of friction for sure,
+
+641
+00:39:50,141 --> 00:39:53,915
+is really just that as soon as we started the Venture Studio and we
+
+642
+00:39:53,915 --> 00:39:57,463
+just even soft launched that we were like looking at doing this, there
+
+643
+00:39:57,527 --> 00:40:01,253
+was excitement. Like, like in terms of like our community and all of
+
+644
+00:40:01,301 --> 00:40:04,624
+that, because we're right now the only venture studio like in our region and in
+
+645
+00:40:04,673 --> 00:40:08,510
+the Pacific Northwest that even focuses on quantum tech and like critical
+
+646
+00:40:08,526 --> 00:40:12,059
+tech applications specifically. And we were, you know, of course, like we're new
+
+647
+00:40:12,219 --> 00:40:15,109
+people, you know, they're rooting for you. They hope you make it like, you know,
+
+648
+00:40:15,190 --> 00:40:18,931
+they're like, I'm not really sure what a venture studio is. So there's like excitement,
+
+649
+00:40:18,947 --> 00:40:22,431
+there's hope, there's good vibes. But then there was also like
+
+650
+00:40:22,736 --> 00:40:26,241
+the realization that like, hey, like, You guys, you guys want to do this now
+
+651
+00:40:26,290 --> 00:40:28,523
+when Washington State still doesn't have a quantum hub?
+
+652
+00:40:30,371 --> 00:40:33,974
+You know, and many people have tried, right? Like, people have
+
+653
+00:40:34,072 --> 00:40:37,786
+like worked very, very closely with, with who they could,
+
+654
+00:40:37,835 --> 00:40:41,308
+when they could, how they could. And you know, they made
+
+655
+00:40:41,308 --> 00:40:45,124
+organizations and they've made pitches and proposals and all of that.
+
+656
+00:40:45,543 --> 00:40:49,117
+And so, you know, it's one of those things where, and I think this happens
+
+657
+00:40:49,150 --> 00:40:52,782
+like honestly with all sorts of things in innovation, right? Where it's like, like, how
+
+658
+00:40:52,782 --> 00:40:55,618
+are you going to make it and how are you going to hang in there
+
+659
+00:40:56,227 --> 00:41:00,056
+when, like, it feels like everybody else is kind of, like, striking out,
+
+660
+00:41:00,312 --> 00:41:04,093
+like, despite, like, their best efforts? And, you know, we
+
+661
+00:41:04,109 --> 00:41:07,682
+didn't— we couldn't really, like, answer that question per se,
+
+662
+00:41:08,082 --> 00:41:11,783
+right? Because it's like, first of all, we're just getting started and we're
+
+663
+00:41:11,847 --> 00:41:15,420
+still, like, learning and discovering, like, how we want to do this. But, but
+
+664
+00:41:15,436 --> 00:41:19,217
+second, you know, on the one hand, you could look at it like we're
+
+665
+00:41:19,217 --> 00:41:23,031
+making this regional play and that isn't here yet in our backyard. But the
+
+666
+00:41:23,063 --> 00:41:25,855
+flip side of it was by the time we were looking at Barclo, like there
+
+667
+00:41:25,855 --> 00:41:28,728
+was like a dozen states that did have
+
+668
+00:41:29,241 --> 00:41:32,932
+programs and hubs, right? Maryland, Colorado,
+
+669
+00:41:33,654 --> 00:41:37,104
+like what's going on in Chicago and Illinois, New York, New
+
+670
+00:41:37,104 --> 00:41:40,731
+Mexico. So like there were things.
+
+671
+00:41:40,940 --> 00:41:44,165
+So, so I think that, that was the one thing where it was like,
+
+672
+00:41:44,791 --> 00:41:48,514
+you know, I, I was excited
+
+673
+00:41:48,514 --> 00:41:52,089
+to show people that we don't have to like wander in the dark.
+
+674
+00:41:52,570 --> 00:41:56,095
+You know, success leaves clues and you know, there was just such a low awareness
+
+675
+00:41:56,111 --> 00:41:59,604
+that, you know, there were those sorts of hubs that you could be learning from.
+
+676
+00:42:00,181 --> 00:42:02,665
+So that, that's kind of how I took it. It's like, yeah, like, is that
+
+677
+00:42:02,665 --> 00:42:06,431
+a bottleneck? For sure, in terms of like scale and traction and
+
+678
+00:42:06,431 --> 00:42:09,620
+what's like kind of in the advantage of these other states and their initiatives.
+
+679
+00:42:09,972 --> 00:42:13,786
+But we now have like several years, like a couple years I should say, of
+
+680
+00:42:13,802 --> 00:42:16,992
+data from multiple deep tech hubs
+
+681
+00:42:18,212 --> 00:42:21,985
+that we could learn from. And I actually, I actually credit like that sort
+
+682
+00:42:22,065 --> 00:42:25,613
+of like body of work with how we were able to make heads or
+
+683
+00:42:25,613 --> 00:42:29,338
+tails of like directionally, like how do we assess like where
+
+684
+00:42:29,450 --> 00:42:32,902
+we fit and what we want to work on and really like make that roadmap
+
+685
+00:42:32,902 --> 00:42:36,691
+ourselves. Because I would like to use like Colorado, you know, I grew up
+
+686
+00:42:36,691 --> 00:42:40,271
+there, but for you, like, you know, their translational funding,
+
+687
+00:42:40,624 --> 00:42:43,818
+the way that they are so intentional and structured, I mean, CU Boulder, I think,
+
+688
+00:42:43,834 --> 00:42:46,049
+is up to like 10 unicorn spinouts alone.
+
+689
+00:42:47,831 --> 00:42:51,297
+That's across deep tech areas, right? And then I gotta give a shout out to
+
+690
+00:42:51,297 --> 00:42:54,925
+my buddy Jason Yeager and everybody out in Montana, the Montana Photonics Hub.
+
+691
+00:42:55,149 --> 00:42:58,728
+Amazing work going on in Montana. And so it's one of those
+
+692
+00:42:58,825 --> 00:43:02,275
+things where, once again, you know, if you wanna, if you wanna go fast, go
+
+693
+00:43:02,356 --> 00:43:06,159
+alone. If you wanna go far, go together. And so, so
+
+694
+00:43:06,320 --> 00:43:09,995
+it's like, hey, you might not have that in your backyard, or maybe your company
+
+695
+00:43:09,995 --> 00:43:11,905
+doesn't have like a quantum initiative, your state,
+
+696
+00:43:11,985 --> 00:43:15,710
+your or whatever doesn't. But man, this is a big world and there's a lot
+
+697
+00:43:15,710 --> 00:43:19,338
+of countries, over 40, that do. And there's a bunch of states that do,
+
+698
+00:43:19,691 --> 00:43:23,416
+and you can learn from those folks. And they're actually really cool and really helpful,
+
+699
+00:43:23,464 --> 00:43:27,124
+by the way. And they're excited to hear more and more people want to learn
+
+700
+00:43:27,237 --> 00:43:30,993
+from them and, and especially learn from their mistakes and their frustrations.
+
+701
+00:43:32,486 --> 00:43:36,243
+So from your vantage point, what separates deep tech venture
+
+702
+00:43:36,307 --> 00:43:38,699
+building from traditional startup building?
+
+703
+00:43:40,738 --> 00:43:44,495
+I, I say in the US it will all building in like
+
+704
+00:43:44,495 --> 00:43:48,317
+many things in life, everything has to do with context. OK, and I
+
+705
+00:43:48,445 --> 00:43:52,106
+think in this case in the US the context of
+
+706
+00:43:52,138 --> 00:43:55,430
+regular venture, regular, regular venture, like
+
+707
+00:43:56,698 --> 00:44:00,455
+venture in the US that has had
+
+708
+00:44:00,568 --> 00:44:03,891
+like an established kind of like track record model,
+
+709
+00:44:03,939 --> 00:44:07,440
+etc. Has been very software-oriented in
+
+710
+00:44:07,472 --> 00:44:11,101
+tech. Okay. And
+
+711
+00:44:11,229 --> 00:44:15,002
+so when you have an industry that looks to de-risk and
+
+712
+00:44:15,083 --> 00:44:18,920
+analyze and kind of pick winners based off of
+
+713
+00:44:19,338 --> 00:44:21,489
+historical lagging indicators,
+
+714
+00:44:23,111 --> 00:44:26,611
+and particularly lagging indicators around things more like software,
+
+715
+00:44:26,965 --> 00:44:30,641
+or like in some cases like consumer packaged goods, like that sort of thing. As
+
+716
+00:44:30,673 --> 00:44:33,241
+soon as you call it, I know some people call it deep tech. I kind
+
+717
+00:44:33,241 --> 00:44:35,648
+of have started referring to it as more built world.
+
+718
+00:44:36,932 --> 00:44:40,623
+OK, and the reason I use that turn of phrase is because like, well, first
+
+719
+00:44:40,623 --> 00:44:43,769
+of all, like kind of like Internet of Things used to be Internet of Things
+
+720
+00:44:43,769 --> 00:44:47,524
+and now that's just Alexa. I think that deep tech is going to take
+
+721
+00:44:47,540 --> 00:44:51,231
+that same track where we used to call it deep tech and now
+
+722
+00:44:51,231 --> 00:44:54,858
+it's just like, like, well, like, well, of course, like we need that for
+
+723
+00:44:54,858 --> 00:44:58,437
+satellites in space. Like, like, you know, of course I need that for like
+
+724
+00:44:58,662 --> 00:45:02,468
+my internet, like my modular energy kind of thing, right? So
+
+725
+00:45:02,468 --> 00:45:05,138
+yeah, I think, I think that that's part of it. There's this, the software piece
+
+726
+00:45:05,138 --> 00:45:08,660
+that detects like just what we consider is going to
+
+727
+00:45:08,660 --> 00:45:12,130
+change, but also like the economics, the cycle time, the
+
+728
+00:45:12,146 --> 00:45:14,845
+implications, the talent needed for software,
+
+729
+00:45:16,030 --> 00:45:19,765
+fundamentally different than things you need for the physical world or things that
+
+730
+00:45:19,765 --> 00:45:23,080
+have a huge dependency on a physical world hardware component.
+
+731
+00:45:23,662 --> 00:45:26,027
+And I, I know some people are like, well, just call it hardware. I'm like,
+
+732
+00:45:26,094 --> 00:45:29,573
+well, Well, I, we've tried that and what happens is you say hardware and people
+
+733
+00:45:29,573 --> 00:45:33,410
+are like, oh, so you mean like chips, right? You mean like, well,
+
+734
+00:45:33,427 --> 00:45:37,007
+what do you mean when you say hardware, right? Right. It's like I try to
+
+735
+00:45:37,023 --> 00:45:39,929
+use something more inclusive like physical and built world because like
+
+736
+00:45:40,395 --> 00:45:44,104
+you're like these like headphones, right? Some like people are
+
+737
+00:45:44,104 --> 00:45:47,588
+like, oh, like that's auxiliary equipment hardware, right?
+
+738
+00:45:48,038 --> 00:45:51,314
+But there's also these like, like really cool like
+
+739
+00:45:52,149 --> 00:45:54,943
+sort of like the way that you have like the VR immersive reality AR like
+
+740
+00:45:54,943 --> 00:45:58,637
+headsets, they have versions of those and kind of like the Google Glass sort of
+
+741
+00:45:58,637 --> 00:46:01,576
+thing for mechanics working on engines.
+
+742
+00:46:01,945 --> 00:46:05,671
+Okay, right. So that's an application of all these
+
+743
+00:46:05,704 --> 00:46:09,173
+different types of technology, and people still don't think of that as like hardware per
+
+744
+00:46:09,173 --> 00:46:12,674
+se. But the cycle time to have a quality product like that,
+
+745
+00:46:13,011 --> 00:46:16,303
+figure out who's gonna make it, who's gonna buy it, how much is it gonna
+
+746
+00:46:16,303 --> 00:46:19,866
+cost, like once again that commercialization side like for software,
+
+747
+00:46:20,636 --> 00:46:23,986
+the friction points, the cost, like that physical, the physical world
+
+748
+00:46:24,002 --> 00:46:26,487
+constraints just aren't
+
+749
+00:46:28,090 --> 00:46:31,536
+there the way that they are in deep tech. And so I think that
+
+750
+00:46:31,536 --> 00:46:35,239
+that sort of thing where you're talking about like everything from
+
+751
+00:46:35,303 --> 00:46:39,134
+timelines to like the ramp-up cost, that's the thing everybody always talks about is like
+
+752
+00:46:39,134 --> 00:46:42,533
+the upfront capital to even get started with this stuff
+
+753
+00:46:43,479 --> 00:46:46,864
+is a big barrier to entry as well. And so yeah, I think, I think
+
+754
+00:46:46,864 --> 00:46:50,588
+it's those sorts of like functional, financial,
+
+755
+00:46:50,685 --> 00:46:54,522
+operational, etc. differentiators. And then with it is
+
+756
+00:46:54,554 --> 00:46:57,893
+the risk, right? So some people don't, don't really want to stomach the
+
+757
+00:46:57,925 --> 00:47:01,345
+risk of like a failed, like these failed prototypes,
+
+758
+00:47:02,035 --> 00:47:05,166
+etc., because like that, that's kind of like one of those sort of sunk cost
+
+759
+00:47:05,230 --> 00:47:08,826
+things. And this is also why, you know, governments and like the
+
+760
+00:47:08,826 --> 00:47:11,379
+US, you know, we have these like grants and everything really starting to kick up.
+
+761
+00:47:11,813 --> 00:47:15,250
+Nondilutive funding to help underwrite some of those risks,
+
+762
+00:47:15,266 --> 00:47:18,928
+because our grants programs like that have known
+
+763
+00:47:19,040 --> 00:47:21,963
+for a very long time that what the market will bear
+
+764
+00:47:22,172 --> 00:47:25,995
+doesn't necessarily align with what we probably
+
+765
+00:47:26,011 --> 00:47:29,689
+can and should be working on. But businesses and
+
+766
+00:47:29,881 --> 00:47:33,511
+budgets and all of that don't necessarily want to take that
+
+767
+00:47:33,560 --> 00:47:37,318
+risk, or necessarily should, right? Because they're accountable to investors, shareholders,
+
+768
+00:47:37,366 --> 00:47:40,257
+etc. That, you know, that's not necessarily in thesis
+
+769
+00:47:40,321 --> 00:47:44,137
+or what they signed up for. Let me ask you
+
+770
+00:47:44,137 --> 00:47:47,416
+this. What misconceptions about quantum investing do you
+
+771
+00:47:47,432 --> 00:47:51,235
+encounter the most often? That everything's a computer.
+
+772
+00:47:52,709 --> 00:47:56,249
+And until we have the big, the big one, nothing,
+
+773
+00:47:56,346 --> 00:48:00,076
+nothing works. Nothing's ready. Okay. Very, very all or
+
+774
+00:48:00,076 --> 00:48:03,887
+nothing. And also very like only computer.
+
+775
+00:48:03,999 --> 00:48:07,653
+So like I ask people about like, well, what do you think about like quantum
+
+776
+00:48:07,653 --> 00:48:10,787
+sensors? And they're like, What are those? And
+
+777
+00:48:11,060 --> 00:48:14,431
+I'm like, awesome. Like, here, let me show you a couple
+
+778
+00:48:14,431 --> 00:48:17,996
+examples. So, so I think that's one is
+
+779
+00:48:18,044 --> 00:48:21,705
+that the, the, I think the primary kind of
+
+780
+00:48:21,801 --> 00:48:25,478
+like education or awareness for a lot of investors, even like an emerging
+
+781
+00:48:25,510 --> 00:48:28,834
+tech around quantum, is the news cycle, is the US news cycle,
+
+782
+00:48:30,391 --> 00:48:32,896
+at least like where we're at. And so if you're only looking at the US
+
+783
+00:48:32,896 --> 00:48:36,075
+news cycle and you kind of train your algorithm to give you those sort of
+
+784
+00:48:36,172 --> 00:48:39,766
+updates or whatever about it, you're seeing like stock news about D-Wave and
+
+785
+00:48:39,862 --> 00:48:43,087
+IonQ. You're seeing stuff about like IBM and
+
+786
+00:48:43,087 --> 00:48:46,584
+HSBC and their latest thing. You're seeing like, that's what you're seeing,
+
+787
+00:48:46,777 --> 00:48:50,547
+right? And so some of the stuff like
+
+788
+00:48:50,547 --> 00:48:54,124
+that really lives like behind the curtain, even if it is useful,
+
+789
+00:48:54,156 --> 00:48:57,525
+successful, etc. Like you're not going to necessarily see it until it's like
+
+790
+00:48:57,670 --> 00:49:01,007
+newsworthy that way. And it can create this perception
+
+791
+00:49:01,456 --> 00:49:05,227
+that if it's not in the news cycle, Or if like my, you know, my
+
+792
+00:49:05,227 --> 00:49:08,776
+timeline and people are like still debating about it, there must not be,
+
+793
+00:49:09,161 --> 00:49:12,051
+be anything out there to use or buy. Okay,
+
+794
+00:49:13,015 --> 00:49:16,772
+so I'm going to ask you my last question is there's a lot of quantum
+
+795
+00:49:16,852 --> 00:49:20,433
+corridors that are, that are populating
+
+796
+00:49:20,706 --> 00:49:24,142
+around the world. Do you,
+
+797
+00:49:24,495 --> 00:49:28,285
+where do you see the most, the next unexpected quantum hub
+
+798
+00:49:28,285 --> 00:49:32,007
+emerging? Ooh, like around the world
+
+799
+00:49:32,263 --> 00:49:35,936
+or like within the domain? Let's say
+
+800
+00:49:35,968 --> 00:49:39,786
+around the world. Hmm, you know what, I, I,
+
+801
+00:49:40,123 --> 00:49:43,924
+I can't answer that question yet. But
+
+802
+00:49:44,213 --> 00:49:47,629
+I will say this, I will, I think I will have a bet. I will
+
+803
+00:49:47,982 --> 00:49:51,655
+have some, some contenders in mind very shortly
+
+804
+00:49:51,768 --> 00:49:55,216
+because I'm actually leaving for Japan tomorrow. Oh my gosh,
+
+805
+00:49:55,377 --> 00:49:58,667
+Japan, there's so much. In Japan.
+
+806
+00:49:59,278 --> 00:50:01,967
+I'm like, I want to talk to you after you come back. Yes, I was
+
+807
+00:50:01,999 --> 00:50:04,898
+going to say, I was like, so I'm going to— I haven't been there yet,
+
+808
+00:50:05,059 --> 00:50:08,873
+but like, I haven't. So I've been there for leisure. I love it
+
+809
+00:50:08,873 --> 00:50:12,559
+in Japan. I'm leaving for a trade delegation, Quantum Ecosystem
+
+810
+00:50:12,559 --> 00:50:15,986
+trade delegation trip. Awesome. That Barclay was selected for. We were
+
+811
+00:50:16,292 --> 00:50:19,827
+so excited. We were one of 15 organizations, companies like
+
+812
+00:50:19,843 --> 00:50:23,152
+enterprises, that kind of thing between US and Canada that were selected to go to
+
+813
+00:50:23,120 --> 00:50:26,925
+this one. So, so I'm heading to Japan tomorrow and then I'm also
+
+814
+00:50:26,925 --> 00:50:30,682
+part of Quantum Tech World Boston and
+
+815
+00:50:30,859 --> 00:50:34,295
+there's a whole bunch of amazing folks from national labs and quantum
+
+816
+00:50:34,295 --> 00:50:37,924
+corridors who are planning to be there. And I'm serving on the
+
+817
+00:50:37,924 --> 00:50:41,569
+startup advisory board. So we're preparing— excuse me,
+
+818
+00:50:41,617 --> 00:50:45,358
+we're preparing to do some like VIP events. We're excited
+
+819
+00:50:45,390 --> 00:50:48,296
+to meet so many people. If you just Google Quantum Tech
+
+820
+00:50:48,842 --> 00:50:51,794
+Boston 2026, you'll see it. Peter Shore is the
+
+821
+00:50:51,794 --> 00:50:55,034
+keynote. I know, like,
+
+822
+00:50:55,564 --> 00:50:58,869
+come on. So anyway, what I'm saying is I'm going to have a much more
+
+823
+00:50:58,869 --> 00:51:02,639
+informed answer here in the next few months, but I think
+
+824
+00:51:02,639 --> 00:51:06,136
+more than like what's unexpected, like surprise, like, I mean,
+
+825
+00:51:06,409 --> 00:51:08,671
+one of the things I tell people, it's like, yeah, they're like, oh, you're going
+
+826
+00:51:08,735 --> 00:51:12,168
+to Japan for quantum stuff. I'm like, yeah, like they built their own quantum computer,
+
+827
+00:51:12,184 --> 00:51:15,921
+like in-country, vertically integrated. And you know me, like, I like supply chain
+
+828
+00:51:15,953 --> 00:51:19,783
+logistics, the Toyota way. They do it, they lean it out. That's where we
+
+829
+00:51:19,863 --> 00:51:22,619
+get Six Sigma, you know, the land of kaizen. So
+
+830
+00:51:22,923 --> 00:51:26,465
+I'm geeked for lots of reasons. And so, um,
+
+831
+00:51:27,073 --> 00:51:30,727
+so I think that that surprises people even here, uh, that, that, you know,
+
+832
+00:51:30,775 --> 00:51:34,476
+that they built out that capability and now they're thinking about talent, they're thinking
+
+833
+00:51:34,476 --> 00:51:38,226
+about materials, they're thinking about like all those things. And they're thinking about, hey, we
+
+834
+00:51:38,226 --> 00:51:41,527
+built the computer, what do we run on it? Uh, which is where we come
+
+835
+00:51:41,575 --> 00:51:44,734
+in and love that stuff. And so that's why I asked if you want to
+
+836
+00:51:44,942 --> 00:51:47,685
+like surprise and be domain, because I think that that's going to be where the
+
+837
+00:51:47,685 --> 00:51:51,293
+surprise is going to come from. It's going to be on like this data
+
+838
+00:51:51,293 --> 00:51:55,061
+layer and like people realizing like, oh, like if you build a
+
+839
+00:51:55,061 --> 00:51:58,830
+MacBook and you don't have like a suite or like an internet connection, like
+
+840
+00:51:58,830 --> 00:52:02,342
+what, like what are you gonna do with the computer, right? So like it's a
+
+841
+00:52:02,358 --> 00:52:06,191
+really pretty paperweight, you know. Yeah, yeah. And so I think like that, and
+
+842
+00:52:06,271 --> 00:52:09,750
+particularly I think that we are going to see some like
+
+843
+00:52:09,878 --> 00:52:13,628
+application algorithms, that sort of thing. And what's really gonna surprise people
+
+844
+00:52:13,724 --> 00:52:17,442
+is they didn't even have to know it was quantum to like it and to
+
+845
+00:52:17,442 --> 00:52:20,952
+know it was really cool. Oh, that's fantastic. That's, that's my
+
+846
+00:52:20,968 --> 00:52:24,366
+prediction. This has been such a great conversation.
+
+847
+00:52:24,943 --> 00:52:28,196
+Where can people find out more about what you're doing
+
+848
+00:52:29,510 --> 00:52:32,731
+currently? Where can I send them to? Yeah, so
+
+849
+00:52:32,843 --> 00:52:36,625
+definitely you can send them to our website. It's barclow.ventures.
+
+850
+00:52:37,042 --> 00:52:40,392
+You can find me on LinkedIn. I'm posting on there pretty much all the time.
+
+851
+00:52:41,932 --> 00:52:45,701
+I'm doing the building out loud sort of thing. And yeah,
+
+852
+00:52:45,813 --> 00:52:49,165
+I'm happy to follow up with you as well, Candace,
+
+853
+00:52:49,710 --> 00:52:53,559
+if your listeners have any specific questions. That's
+
+854
+00:52:53,559 --> 00:52:56,462
+excellent. I think you and I are going to be chatting, I hope anyway.
+
+855
+00:52:57,168 --> 00:53:00,792
+Absolutely, because I want to hear about how the trip goes and what happened. I
+
+856
+00:53:00,792 --> 00:53:04,545
+just, I want to be involved. So we will be speaking again for
+
+857
+00:53:04,545 --> 00:53:08,141
+sure. I— you were a fantastic interview. I really
+
+858
+00:53:08,238 --> 00:53:11,915
+enjoyed— I really enjoyed our conversation. I really— Candace, this was a
+
+859
+00:53:11,915 --> 00:53:14,677
+lot of fun. I hope it was helpful, and I hope to see you guys
+
+860
+00:53:14,677 --> 00:53:18,370
+around. Excellent. Well, thank you so much. I'm gonna let the music
+
+861
+00:53:18,370 --> 00:53:22,064
+take us out. Oh yeah, thank you again. I
+
+862
+00:53:22,224 --> 00:53:25,612
+really, really appreciate your time today. It was wonderful, and
+
+863
+00:53:25,741 --> 00:53:29,370
+enjoy your trip, and I want to hear all about it. Oh, thank you so
+
+864
+00:53:29,370 --> 00:53:32,389
+much. So this was a lot of fun, and yeah, I hope— I hope that
+
+865
+00:53:32,501 --> 00:53:35,295
+the audience likes that we just got— we had like a little Quantum Ladies talk.
+
+866
+00:53:35,858 --> 00:53:39,666
+Honestly, we did. It was wonderful. It went like that. It flowed.
+
+867
+00:53:39,714 --> 00:53:43,202
+It was beautiful. I really, really enjoyed it. And I really like your perspective. And
+
+868
+00:53:43,202 --> 00:53:47,042
+that's what I think is so important, is just to show the different perspectives that
+
+869
+00:53:47,042 --> 00:53:50,658
+there are. And people, younger ladies, can find the data
+
+870
+00:53:50,658 --> 00:53:54,402
+points that match with them, that they're like, they can relate better. So this
+
+871
+00:53:54,515 --> 00:53:56,202
+was exactly what I was going for.
+

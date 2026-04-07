@@ -1,0 +1,3144 @@
+﻿1
+00:00:00,176 --> 00:00:03,998
+The other one that drives me crazy is people think that you need to have
+
+2
+00:00:04,046 --> 00:00:07,257
+a PhD in physics in order to do anything in the industry. I have a
+
+3
+00:00:07,257 --> 00:00:10,148
+business degree and I've done pretty well, and I'm sure there are lots of other
+
+4
+00:00:10,148 --> 00:00:13,648
+people who have— who don't have
+
+5
+00:00:13,680 --> 00:00:16,394
+PhDs in physics and, you know, they work in quantum.
+
+6
+00:00:17,213 --> 00:00:18,545
+Welcome to Women in Quantum.
+
+7
+00:00:24,920 --> 00:00:28,212
+Welcome back to Women in Quantum, the podcast where
+
+8
+00:00:28,212 --> 00:00:31,968
+curiosity meets the quantum frontier. I'm Candace
+
+9
+00:00:31,968 --> 00:00:35,433
+Gilhooley, and in each episode, we spotlight the
+
+10
+00:00:35,497 --> 00:00:38,993
+brilliant women shaping the future of quantum computing,
+
+11
+00:00:39,843 --> 00:00:43,468
+quantum sensing, quantum communications, and beyond.
+
+12
+00:00:44,030 --> 00:00:47,591
+From researchers and founders to ecosystem
+
+13
+00:00:47,767 --> 00:00:50,959
+builders and bold career switchers,
+
+14
+00:00:51,392 --> 00:00:54,568
+these are the voices expanding what is possible
+
+15
+00:00:55,226 --> 00:00:58,979
+in one of the world's most transformative technologies.
+
+16
+00:00:59,748 --> 00:01:03,305
+If you've ever wondered whether there's a place for you in quantum,
+
+17
+00:01:04,042 --> 00:01:07,598
+you are exactly in the right place. Let's
+
+18
+00:01:07,598 --> 00:01:10,066
+step into the quantum realm together.
+
+19
+00:01:11,171 --> 00:01:14,311
+Today we have the pleasure of speaking with Petra
+
+20
+00:01:14,792 --> 00:01:18,332
+Soderling. She is CEO,
+
+21
+00:01:18,717 --> 00:01:21,601
+advisor, EU and USA,
+
+22
+00:01:22,081 --> 00:01:25,013
+quantum, dual use, government.
+
+23
+00:01:25,510 --> 00:01:29,339
+Petra, tell us all, what is it that you do? You do so much.
+
+24
+00:01:29,852 --> 00:01:32,865
+Thanks so much. It's great to be here. When you were saying like this is
+
+25
+00:01:32,897 --> 00:01:36,728
+for quantum computing and sensing and communications and beyond, I felt like,
+
+26
+00:01:36,744 --> 00:01:40,559
+yeah, beyond. That's me. I'm beyond. What is
+
+27
+00:01:40,607 --> 00:01:43,925
+it that I do? That's a good question. So what I do
+
+28
+00:01:43,941 --> 00:01:47,643
+currently is I am the CEO of my consulting
+
+29
+00:01:47,643 --> 00:01:51,426
+company or advisory services. I haven't— I've been doing this for 4 years.
+
+30
+00:01:51,490 --> 00:01:55,145
+I still don't know what to call it. I help people to achieve
+
+31
+00:01:55,177 --> 00:01:58,592
+things. I do that with quantum. Mainly,
+
+32
+00:01:59,026 --> 00:02:02,847
+and with governments mainly. I do work with some companies, so
+
+33
+00:02:02,863 --> 00:02:06,588
+I help some U.S. companies to set up in Europe. I help
+
+34
+00:02:06,588 --> 00:02:10,345
+some European companies to set up in the U.S., but mainly I work with,
+
+35
+00:02:11,148 --> 00:02:14,777
+with governments and NGOs and large institutions,
+
+36
+00:02:15,483 --> 00:02:19,257
+banks and such. So take us back to the
+
+37
+00:02:19,257 --> 00:02:22,869
+beginning, okay? You're, you're a young girl, you're in grammar
+
+38
+00:02:22,869 --> 00:02:26,193
+school. What was the— what were the subjects that you had a proclivity for?
+
+39
+00:02:26,866 --> 00:02:30,537
+Arts, um, philosophy,
+
+40
+00:02:32,236 --> 00:02:36,052
+maybe public policy later, but first it was just arts
+
+41
+00:02:36,100 --> 00:02:39,418
+and humanities. I, I was not interested in science at all.
+
+42
+00:02:40,732 --> 00:02:43,762
+And where is it that you grew up? I grew up in Finland,
+
+43
+00:02:44,179 --> 00:02:47,625
+Helsinki. Okay. And that's where I went to school,
+
+44
+00:02:48,443 --> 00:02:52,097
+and that's where I started my very, very long and very windy
+
+45
+00:02:52,113 --> 00:02:55,080
+path towards where I am today in quantum and
+
+46
+00:02:55,802 --> 00:02:59,636
+governments. Well, tell us about your journey. Okay, so you
+
+47
+00:02:59,652 --> 00:03:01,240
+have time? This is a long story.
+
+48
+00:03:03,438 --> 00:03:07,095
+So I graduated in Finland in the middle of the
+
+49
+00:03:07,192 --> 00:03:10,961
+worst recession ever. There were no jobs at all. So I had to
+
+50
+00:03:10,961 --> 00:03:13,849
+find a job. I found a job selling forklift trucks.
+
+51
+00:03:15,052 --> 00:03:18,886
+As I was selling forklift trucks, I advanced in
+
+52
+00:03:18,934 --> 00:03:22,736
+the company and was also able to market them. So I became the
+
+53
+00:03:22,768 --> 00:03:26,600
+marketing manager of this forklift truck company. And the
+
+54
+00:03:26,600 --> 00:03:29,869
+company also sold Suzuki motorbikes and outboard engines.
+
+55
+00:03:30,527 --> 00:03:34,261
+And I was the person responsible for doing
+
+56
+00:03:34,389 --> 00:03:38,204
+the events, so the showcasing the Suzuki
+
+57
+00:03:38,236 --> 00:03:41,906
+motorcycle. So I did the motorcycle events and the
+
+58
+00:03:42,002 --> 00:03:45,497
+boat boating events. And then year
+
+59
+00:03:45,673 --> 00:03:49,375
+2000, Nokia was a big thing in Finland and they were
+
+60
+00:03:49,375 --> 00:03:53,110
+looking for an events manager and I got the job. Doing
+
+61
+00:03:53,286 --> 00:03:56,236
+events for products I had never heard of,
+
+62
+00:03:56,989 --> 00:04:00,532
+text messaging service centers and multimedia
+
+63
+00:04:00,532 --> 00:04:03,610
+messaging service centers in the telecommunications
+
+64
+00:04:03,722 --> 00:04:07,248
+infrastructure realm. And I'm like a forklift truck
+
+65
+00:04:07,329 --> 00:04:10,903
+person, I have no idea what's going on here. But as I was doing those
+
+66
+00:04:11,015 --> 00:04:14,734
+events, I also had to be responsible for the,
+
+67
+00:04:15,664 --> 00:04:19,479
+you know, the printed materials. And we were selling
+
+68
+00:04:19,656 --> 00:04:23,006
+these service centers to mobile operators, carriers,
+
+69
+00:04:23,824 --> 00:04:27,511
+and all of this material was written by the engineers, but the buyers were not
+
+70
+00:04:27,527 --> 00:04:31,181
+engineers, they were business people. So I realized I have to help the engineers
+
+71
+00:04:31,678 --> 00:04:35,526
+write their pitch, their, you know, their decks so that the buyers would understand
+
+72
+00:04:35,542 --> 00:04:38,988
+how to do this. And as I did
+
+73
+00:04:39,068 --> 00:04:42,883
+this, I got really interested in the technology. I really wanted to understand
+
+74
+00:04:43,220 --> 00:04:47,051
+how these products work and what they do. So I went into writing
+
+75
+00:04:47,083 --> 00:04:50,850
+white papers. So I left the events stage behind and I
+
+76
+00:04:50,850 --> 00:04:54,473
+started to write white papers for these products for
+
+77
+00:04:54,473 --> 00:04:57,890
+Nokia Networks. And then With that job,
+
+78
+00:04:58,307 --> 00:05:02,033
+these white papers were used in standardization. So I went into
+
+79
+00:05:02,097 --> 00:05:05,839
+standardization, helping Nokia standardize these new products,
+
+80
+00:05:06,241 --> 00:05:10,015
+which was the telecommunications infrastructure. But then later
+
+81
+00:05:10,095 --> 00:05:13,773
+also, I went to work for the device unit, which
+
+82
+00:05:13,869 --> 00:05:17,708
+was the mobile phones and the smartphones. So then I was in standardization,
+
+83
+00:05:17,997 --> 00:05:21,193
+standardizing user interfaces and
+
+84
+00:05:21,835 --> 00:05:25,669
+different layers in the stack for, for Nokia. Then I
+
+85
+00:05:25,669 --> 00:05:29,437
+jumped into research center and blah blah. I was at Nokia for 12
+
+86
+00:05:29,437 --> 00:05:33,284
+years in different roles. Um, then, um, at one
+
+87
+00:05:33,380 --> 00:05:37,211
+point, um, a new product came into the market, was called the iPhone, and
+
+88
+00:05:37,211 --> 00:05:41,010
+just killed all the phone business for everyone else. And
+
+89
+00:05:41,010 --> 00:05:44,713
+so I left the company and I left Finland. I started my own
+
+90
+00:05:44,777 --> 00:05:48,448
+startup company. I moved to New York City. Um, I spent,
+
+91
+00:05:49,234 --> 00:05:52,937
+um, how many years, maybe 10 years in the U.S. running two different
+
+92
+00:05:52,937 --> 00:05:56,783
+startup companies. I lived in New York, New Orleans, Colorado. And
+
+93
+00:05:56,783 --> 00:05:59,812
+then at some point, I think it was 2018, I was called to
+
+94
+00:06:01,094 --> 00:06:04,827
+represent Finland. So I lived in the U.S. and the Finnish government asked
+
+95
+00:06:04,860 --> 00:06:08,657
+me to do foreign direct investment for Finland, meaning find
+
+96
+00:06:08,657 --> 00:06:12,455
+American companies, science or technology companies,
+
+97
+00:06:12,551 --> 00:06:15,980
+who might be interested in setting up, you know, their operations in Finland.
+
+98
+00:06:16,717 --> 00:06:20,547
+And I'm taking this role very seriously, of course, so I kind of
+
+99
+00:06:20,595 --> 00:06:24,315
+start to think to myself How do I find something in
+
+100
+00:06:24,428 --> 00:06:28,214
+Finland that's so interesting that American companies would listen to
+
+101
+00:06:28,214 --> 00:06:31,889
+me? Like, why would they want to go to Finland to do something? And that's
+
+102
+00:06:31,889 --> 00:06:35,499
+how I discovered quantum, because in 2020, the
+
+103
+00:06:35,499 --> 00:06:39,237
+Finnish government was buying a quantum computer and it was an open call.
+
+104
+00:06:39,751 --> 00:06:42,895
+So I thought, hey, this is a good opportunity for me to go talk to
+
+105
+00:06:42,960 --> 00:06:46,746
+the American quantum companies and say, you should submit a
+
+106
+00:06:46,810 --> 00:06:50,645
+bid to this call. And, and that was 6 years ago.
+
+107
+00:06:50,886 --> 00:06:54,556
+And I just fell in love with quantum, and I've been all in, in
+
+108
+00:06:54,588 --> 00:06:56,848
+quantum ever since. And that's the story.
+
+109
+00:06:58,338 --> 00:07:01,688
+That's fantastic. That's honestly, that's a fantastic story.
+
+110
+00:07:02,184 --> 00:07:05,726
+I like, it's so incredibly singular. I
+
+111
+00:07:05,951 --> 00:07:08,435
+haven't heard anything else like that. That was great.
+
+112
+00:07:10,374 --> 00:07:14,220
+Did you have any early mentors or influencers that helped shape,
+
+113
+00:07:14,845 --> 00:07:18,692
+you know, your entrepreneurial direction, your desire for
+
+114
+00:07:18,692 --> 00:07:22,524
+startups, your inquisitive nature? Did you
+
+115
+00:07:22,524 --> 00:07:26,296
+have any mentors that helped you with that? I wish I had. I
+
+116
+00:07:26,393 --> 00:07:29,908
+wish I had. There was one role model early on.
+
+117
+00:07:30,181 --> 00:07:33,680
+She was the CEO of Nokia Networks business. Her name is Sari
+
+118
+00:07:33,856 --> 00:07:37,612
+Baldorf. And she is an
+
+119
+00:07:37,645 --> 00:07:40,935
+iconic woman because in the early days, so
+
+120
+00:07:41,962 --> 00:07:45,702
+those listeners who remember the times before the iPhone,
+
+121
+00:07:46,553 --> 00:07:50,389
+you had Motorola was number one in mobile phones back in
+
+122
+00:07:50,389 --> 00:07:54,194
+the 1990s and early 2000s. And then Nokia came, it was number 2.
+
+123
+00:07:55,286 --> 00:07:58,674
+And Sari, my role model, she was responsible for setting up the
+
+124
+00:07:58,674 --> 00:08:02,480
+telecommunications, the networks business, while all the men went to work with the
+
+125
+00:08:02,480 --> 00:08:06,141
+mobile phones, the sexier parts. So she was doing the boring part and the
+
+126
+00:08:06,141 --> 00:08:09,947
+guys were doing the sexy part. And lo and behold, the boring
+
+127
+00:08:09,995 --> 00:08:13,656
+part, the telecommunications run by her, ended up being
+
+128
+00:08:13,752 --> 00:08:17,414
+more successful and is still alive today. And it is what Nokia is today.
+
+129
+00:08:17,847 --> 00:08:21,540
+And all the sexy stuff that all the guys did is long gone. It's
+
+130
+00:08:21,540 --> 00:08:24,704
+gone. So she's still my, my icon and my role model.
+
+131
+00:08:25,651 --> 00:08:29,248
+She's no longer there, right? So when you look back, what
+
+132
+00:08:29,248 --> 00:08:32,539
+part of your path feels the most non-linear or
+
+133
+00:08:32,539 --> 00:08:36,377
+unexpected? All of it. All of it. I never had any plans.
+
+134
+00:08:36,569 --> 00:08:40,230
+I like— I just go where the wind blows. Not, not really where the wind
+
+135
+00:08:40,246 --> 00:08:43,763
+blows, but if there's a really interesting opportunity, I
+
+136
+00:08:43,795 --> 00:08:47,071
+just go there. I, I don't,
+
+137
+00:08:47,633 --> 00:08:51,343
+I don't have big plans ever. I do, um, sometimes my husband
+
+138
+00:08:51,343 --> 00:08:54,909
+and I, we make, um, these treasure maps for
+
+139
+00:08:55,102 --> 00:08:58,652
+like a year or two years, and then we're really excited about our
+
+140
+00:08:58,652 --> 00:09:02,490
+treasure maps and we kind of forget about it, but then it
+
+141
+00:09:02,490 --> 00:09:05,398
+stays in the back of our minds. And then a couple of years later, we
+
+142
+00:09:05,398 --> 00:09:08,433
+go back and look at the treasure map, if, uh, you know, if we follow
+
+143
+00:09:08,450 --> 00:09:12,273
+it. And usually pretty much, but not exactly So there is some
+
+144
+00:09:12,369 --> 00:09:15,518
+kind of planning and thinking, but not, not like
+
+145
+00:09:15,904 --> 00:09:19,470
+exactly. So for our listeners who
+
+146
+00:09:19,760 --> 00:09:23,551
+are new to your work, how would you describe your current focus in the
+
+147
+00:09:23,551 --> 00:09:24,323
+quantum space?
+
+148
+00:09:27,568 --> 00:09:29,834
+Well, I guess,
+
+149
+00:09:30,910 --> 00:09:34,477
+yeah, that's a really good question. I would say
+
+150
+00:09:35,264 --> 00:09:38,444
+what I would like to be is an expert on how
+
+151
+00:09:38,573 --> 00:09:42,420
+governments invest in deep tech, including quantum,
+
+152
+00:09:42,965 --> 00:09:46,748
+for economic growth. That was the subject of my book
+
+153
+00:09:46,748 --> 00:09:50,194
+that I wrote, actually. So when I went to work for the Finnish
+
+154
+00:09:50,194 --> 00:09:53,849
+government, I also realized that I have experience from working
+
+155
+00:09:54,042 --> 00:09:57,232
+in a big corporate environment, working as a startup
+
+156
+00:09:57,472 --> 00:10:00,983
+entrepreneur, and working for the government. And then during
+
+157
+00:10:01,095 --> 00:10:04,846
+COVID I was thinking like, this is a pretty unique point of view that I've
+
+158
+00:10:04,846 --> 00:10:08,469
+been working in all of these three different domains. So I wrote a
+
+159
+00:10:08,533 --> 00:10:12,235
+book about how how governments should look at
+
+160
+00:10:12,475 --> 00:10:16,113
+deep tech and innovation in general and how
+
+161
+00:10:16,241 --> 00:10:19,766
+to use that, how to grow that, how to create new industries like
+
+162
+00:10:19,830 --> 00:10:23,227
+quantum for long-term economic growth.
+
+163
+00:10:23,788 --> 00:10:27,121
+So my, my role broadly currently is to help
+
+164
+00:10:27,601 --> 00:10:31,271
+regions, governments with,
+
+165
+00:10:31,383 --> 00:10:34,828
+with their strategy. So I've been writing quite a few quantum
+
+166
+00:10:34,828 --> 00:10:37,039
+strategies for countries and regions.
+
+167
+00:10:38,821 --> 00:10:42,128
+So what problem in quantum are you personally most
+
+168
+00:10:42,128 --> 00:10:45,853
+excited to help solve right now? It's, it's
+
+169
+00:10:46,126 --> 00:10:49,964
+create, turning it into an industry, which we're kind of there already,
+
+170
+00:10:50,703 --> 00:10:54,235
+but we're still like,
+
+171
+00:10:54,556 --> 00:10:58,153
+we have it. We're very still very foundational, I think. Yes,
+
+172
+00:10:58,426 --> 00:11:01,958
+exactly. And if you benchmark the
+
+173
+00:11:01,958 --> 00:11:05,669
+learnings from other deep tech industries, it's always been
+
+174
+00:11:05,734 --> 00:11:09,172
+very government-driven. So you cannot create these new
+
+175
+00:11:09,188 --> 00:11:13,013
+industries without government. You think about nuclear energy,
+
+176
+00:11:13,511 --> 00:11:16,982
+for a long time it was publicly funded, and now
+
+177
+00:11:17,207 --> 00:11:20,887
+there's a private industry. Space, space was completely
+
+178
+00:11:20,919 --> 00:11:24,582
+publicly funded for a long time. Only recently, after decades,
+
+179
+00:11:25,080 --> 00:11:28,439
+has there been a private space industry.
+
+180
+00:11:28,968 --> 00:11:32,321
+So I want to help governments
+
+181
+00:11:32,562 --> 00:11:35,947
+realize their potential, invest in quantum, and
+
+182
+00:11:35,995 --> 00:11:39,027
+ensure that it's going to be turned into a private
+
+183
+00:11:39,604 --> 00:11:43,342
+industry that will then in turn help the governments by
+
+184
+00:11:43,887 --> 00:11:47,015
+offering jobs, paying taxes, creating infrastructure,
+
+185
+00:11:47,641 --> 00:11:50,625
+help with the national security concerns and, and so forth.
+
+186
+00:11:52,470 --> 00:11:56,223
+So you might have just answered this, but where do you see the biggest
+
+187
+00:11:56,223 --> 00:11:59,031
+technical bottleneck in your domain today?
+
+188
+00:12:01,756 --> 00:12:05,122
+To be honest, I'm not following the quantum technology that
+
+189
+00:12:05,122 --> 00:12:08,537
+closely because I feel that my role is
+
+190
+00:12:08,873 --> 00:12:12,657
+to take a step back and look at things more holistically.
+
+191
+00:12:14,484 --> 00:12:18,171
+If so, for example, every morning I open my LinkedIn and
+
+192
+00:12:18,187 --> 00:12:21,521
+there's a new quantum breakthrough. There's always a company saying,
+
+193
+00:12:21,938 --> 00:12:25,689
+oh, we've just, you know, completed this major milestone. This is
+
+194
+00:12:25,785 --> 00:12:29,504
+the big thing. Now this is going to solve everything. And then wait a week
+
+195
+00:12:29,504 --> 00:12:32,922
+or a couple of days, there's a new company or new technology, a new breakthrough.
+
+196
+00:12:33,419 --> 00:12:37,241
+So I see my role as being like the more long-term
+
+197
+00:12:37,594 --> 00:12:41,175
+projectory type of person that looks at things with
+
+198
+00:12:41,207 --> 00:12:44,819
+perspective of the history and, and a longer-term view,
+
+199
+00:12:45,125 --> 00:12:48,801
+and then looking at it from the whole society's point of
+
+200
+00:12:48,834 --> 00:12:52,238
+view, not just a company or a country even, but
+
+201
+00:12:52,527 --> 00:12:56,139
+globally, because this is a global international industry.
+
+202
+00:12:58,146 --> 00:13:01,565
+But what is one misconception people still have
+
+203
+00:13:02,240 --> 00:13:05,338
+about quantum that drives you a little crazy?
+
+204
+00:13:07,762 --> 00:13:10,892
+There's so many, Candace. Oh my gosh.
+
+205
+00:13:12,835 --> 00:13:16,318
+Well, I mean, one of the things that people ask is, when am I going
+
+206
+00:13:16,350 --> 00:13:20,139
+to have a quantum computer on my desk? So that's like, that's one. Like,
+
+207
+00:13:20,476 --> 00:13:24,088
+never. Well, maybe never. Okay, I don't want to be the IBM guy, but You
+
+208
+00:13:24,088 --> 00:13:27,589
+know, probably not ever. The other one that drives me
+
+209
+00:13:27,589 --> 00:13:31,378
+crazy is people think that you need to have a PhD in physics in order
+
+210
+00:13:31,378 --> 00:13:34,879
+to do anything in the industry. I have a business degree and I've done pretty
+
+211
+00:13:34,895 --> 00:13:37,288
+well, and I'm sure there are lots of other people who have,
+
+212
+00:13:38,765 --> 00:13:42,475
+who don't have PhDs in physics and, you know, they work in quantum.
+
+213
+00:13:43,486 --> 00:13:46,987
+And then there's this binary belief that quantum
+
+214
+00:13:47,340 --> 00:13:51,018
+will solve everything or quantum will solve nothing.
+
+215
+00:13:52,395 --> 00:13:56,235
+On, like, it drove me crazy when the CEO of NVIDIA said,
+
+216
+00:13:56,332 --> 00:14:00,172
+like, quantum is so far away, like, it's not going to solve anything.
+
+217
+00:14:00,590 --> 00:14:03,963
+And all the stock prices of the quantum companies crashed
+
+218
+00:14:04,222 --> 00:14:07,956
+overnight because of what he said. And then a week later, he's like,
+
+219
+00:14:08,037 --> 00:14:11,756
+no, actually, I think it does have potential. And then the stock prices come up
+
+220
+00:14:11,756 --> 00:14:15,275
+and it's not a binary thing. It's not something that
+
+221
+00:14:15,730 --> 00:14:19,550
+will be there one day or will not be there one day. It's, Like, people
+
+222
+00:14:19,598 --> 00:14:23,421
+don't realize the gradual adoption and
+
+223
+00:14:23,469 --> 00:14:27,212
+the hybrid architectures and so forth. And
+
+224
+00:14:27,308 --> 00:14:30,794
+one important thing, I've just spoke to some African
+
+225
+00:14:30,858 --> 00:14:34,681
+governments, is that people think that it's way too expensive.
+
+226
+00:14:35,050 --> 00:14:38,745
+So there is a possibility for even for developing
+
+227
+00:14:38,793 --> 00:14:42,070
+countries to get into the game without having
+
+228
+00:14:42,985 --> 00:14:45,780
+huge budgets. You have online access,
+
+229
+00:14:46,679 --> 00:14:50,336
+you have physics departments in universities. So you
+
+230
+00:14:50,368 --> 00:14:54,201
+already have all this stuff. Just get in the game and don't think about the
+
+231
+00:14:54,201 --> 00:14:57,953
+budget. So what skills
+
+232
+00:14:58,049 --> 00:15:01,802
+do you think are underrated but critical for success
+
+233
+00:15:02,940 --> 00:15:05,650
+in quantum today? People skills,
+
+234
+00:15:06,885 --> 00:15:10,365
+communication skills, human skills. It's
+
+235
+00:15:10,894 --> 00:15:13,748
+so many times people talk about the technology,
+
+236
+00:15:15,298 --> 00:15:18,902
+But they don't think that it's people doing all these
+
+237
+00:15:19,015 --> 00:15:22,618
+things. It's people in labs creating the science.
+
+238
+00:15:22,877 --> 00:15:26,613
+It's people in the business development talking to other people in other
+
+239
+00:15:27,098 --> 00:15:30,463
+business development departments. It's people in the government talking
+
+240
+00:15:31,126 --> 00:15:34,243
+to, you know, the government
+
+241
+00:15:34,291 --> 00:15:37,239
+relationships people in the quantum companies.
+
+242
+00:15:39,430 --> 00:15:42,322
+That's one. And then, oh
+
+243
+00:15:42,339 --> 00:15:46,175
+my gosh, I lost my train of thought. It'll
+
+244
+00:15:46,175 --> 00:15:46,689
+come back to me.
+
+245
+00:15:50,670 --> 00:15:54,507
+Should I go on with another? Yeah. What was the question? So it was
+
+246
+00:15:54,539 --> 00:15:58,343
+the, the skill, the skills, the skills that people need
+
+247
+00:15:58,392 --> 00:16:02,052
+today. And we talked about communication, people skills.
+
+248
+00:16:03,111 --> 00:16:06,354
+Those are more soft skills, interdisciplinary
+
+249
+00:16:06,354 --> 00:16:09,578
+skills. I think are incredibly vital
+
+250
+00:16:10,042 --> 00:16:13,521
+to this field. That's what we were talking about.
+
+251
+00:16:13,697 --> 00:16:17,480
+Okay, let's leave it at that. Okay. So you said that you take a
+
+252
+00:16:17,657 --> 00:16:20,975
+step back and you're kind of looking at the whole thing
+
+253
+00:16:21,873 --> 00:16:25,207
+holistically. So which regions or
+
+254
+00:16:25,239 --> 00:16:29,006
+ecosystems are you watching the most closely right
+
+255
+00:16:29,022 --> 00:16:32,308
+now? So
+
+256
+00:16:32,693 --> 00:16:36,444
+I'm Finnish American, so I have two passports. I
+
+257
+00:16:36,460 --> 00:16:40,164
+have one leg in the, in North America, in the United States. One leg in
+
+258
+00:16:40,164 --> 00:16:43,853
+Europe. So those are my two regions. I, I look at public policy,
+
+259
+00:16:44,174 --> 00:16:47,832
+technology policy from both perspectives, the US and
+
+260
+00:16:47,928 --> 00:16:51,665
+EU, what they're doing separately and what they're doing together, and hopefully more
+
+261
+00:16:52,355 --> 00:16:55,772
+rather than less. That's one thing. And then
+
+262
+00:16:56,205 --> 00:17:00,007
+the other thing is what governments can do. So there's a lot
+
+263
+00:17:00,119 --> 00:17:03,889
+that governments can do. There's the education, there's tariffs, there's
+
+264
+00:17:03,889 --> 00:17:05,798
+regulation, export controls.
+
+265
+00:17:07,288 --> 00:17:10,621
+Movement of talent. There is public funding, there's
+
+266
+00:17:10,621 --> 00:17:14,130
+public-private financing, there's a whole,
+
+267
+00:17:15,508 --> 00:17:18,489
+you know, there's a rich plethora of things that governments can do.
+
+268
+00:17:19,867 --> 00:17:23,713
+It's a long list, but my goal is to bring it all together
+
+269
+00:17:24,001 --> 00:17:27,831
+and kind of showcase to governments, you need to think of all of these different
+
+270
+00:17:27,863 --> 00:17:30,603
+things when you're advancing or kicking off
+
+271
+00:17:30,667 --> 00:17:32,766
+your quantum industry.
+
+272
+00:17:34,589 --> 00:17:37,316
+So what signals should investors,
+
+273
+00:17:37,494 --> 00:17:40,643
+policymakers, or industry leaders
+
+274
+00:17:41,309 --> 00:17:43,045
+be paying closer attention to?
+
+275
+00:17:44,960 --> 00:17:48,367
+Well, technology breakthroughs, obviously. So I'm not saying that it's not
+
+276
+00:17:48,529 --> 00:17:51,884
+important. It is important. But more
+
+277
+00:17:51,948 --> 00:17:55,627
+important is— I mean, I'm biased, of course,
+
+278
+00:17:55,707 --> 00:17:59,244
+but I would look at the government strategies. I think because these are so much
+
+279
+00:17:59,261 --> 00:18:03,065
+government-funded technologies, You should take a
+
+280
+00:18:03,065 --> 00:18:05,763
+look at what the government strategies say, which, which
+
+281
+00:18:06,597 --> 00:18:10,355
+countries or which regions are focused
+
+282
+00:18:10,355 --> 00:18:13,711
+more on the national security aspect of it, which
+
+283
+00:18:13,967 --> 00:18:17,388
+regions are more focused on enabling their, their
+
+284
+00:18:17,436 --> 00:18:21,016
+companies to grow, which, which sectors
+
+285
+00:18:21,273 --> 00:18:24,549
+are maybe focusing only on one modality rather than
+
+286
+00:18:25,207 --> 00:18:27,487
+all of the modalities and so forth.
+
+287
+00:18:30,041 --> 00:18:33,591
+It's a long-term investment. It's a risky investment. So
+
+288
+00:18:34,041 --> 00:18:37,639
+obviously, you know, investors are going to be looking at all of these
+
+289
+00:18:37,815 --> 00:18:41,462
+things. But I like, you know, my
+
+290
+00:18:41,847 --> 00:18:45,558
+spiel is the government angle. So I hope they're also looking at the
+
+291
+00:18:45,606 --> 00:18:49,220
+government strategies. Well, as you
+
+292
+00:18:49,220 --> 00:18:52,770
+said, you have one foot in the States, you've got one foot in Finland.
+
+293
+00:18:53,252 --> 00:18:56,496
+What has your experience been as a woman? Building a
+
+294
+00:18:56,529 --> 00:18:57,958
+career in quantum?
+
+295
+00:19:00,061 --> 00:19:03,562
+Yeah, that's, you know, when I knew that I would be
+
+296
+00:19:03,755 --> 00:19:07,593
+coming to this podcast and I knew you would be asking me that question,
+
+297
+00:19:09,215 --> 00:19:12,892
+I thought like, I don't really have a good answer for that. And
+
+298
+00:19:12,925 --> 00:19:16,714
+that really bothered me. I, you know, I have— I consider myself
+
+299
+00:19:16,714 --> 00:19:20,119
+a feminist. I've always worked to make sure that we lift all the
+
+300
+00:19:20,151 --> 00:19:23,651
+women. I'm lifting the women around me. Um,
+
+301
+00:19:24,470 --> 00:19:28,290
+but lately I've been thinking that it's not enough for me to just
+
+302
+00:19:28,499 --> 00:19:31,998
+lift the women close to me and around me. I need to
+
+303
+00:19:32,030 --> 00:19:35,673
+broaden the horizon and lift all of the women, even the ones that
+
+304
+00:19:35,817 --> 00:19:39,381
+I don't know and the ones that work with me. So actually,
+
+305
+00:19:39,798 --> 00:19:43,586
+last week, because I knew I would be coming here, I wrote my weekly
+
+306
+00:19:43,586 --> 00:19:47,165
+newsletter on women and technology for this very reason,
+
+307
+00:19:47,983 --> 00:19:51,831
+and This is not my personal experience, but just
+
+308
+00:19:51,847 --> 00:19:55,262
+I wanted to look at the generic role of women in
+
+309
+00:19:55,358 --> 00:19:59,077
+technology, and there are surprising things. OK, now I want to
+
+310
+00:19:59,141 --> 00:20:01,802
+pull up this chart. So there are a few things
+
+311
+00:20:02,972 --> 00:20:06,707
+that we don't really talk about
+
+312
+00:20:06,836 --> 00:20:09,609
+that much. So one of them is
+
+313
+00:20:10,282 --> 00:20:11,404
+the
+
+314
+00:20:11,468 --> 00:20:14,819
+role of
+
+315
+00:20:14,915 --> 00:20:18,746
+women in the early 1800s and 1900s. There is
+
+316
+00:20:18,842 --> 00:20:22,112
+a number of women who have invented amazing things.
+
+317
+00:20:22,609 --> 00:20:26,087
+Like, there's, uh, Ada Lovelace, said to be the inventor of
+
+318
+00:20:26,087 --> 00:20:29,677
+software. Hedy Lamarr invented the frequency-hopping radio.
+
+319
+00:20:29,757 --> 00:20:33,316
+Grace Hopper invented the COBOL programming language that we still
+
+320
+00:20:33,428 --> 00:20:37,066
+use in the government infrastructure today. There's
+
+321
+00:20:37,066 --> 00:20:40,576
+Marie Curie in radiation and so forth. So these women who
+
+322
+00:20:40,881 --> 00:20:44,231
+lived in an era when they were not able to own a bank account or
+
+323
+00:20:44,343 --> 00:20:48,093
+own any property, they weren't able to work, they weren't able
+
+324
+00:20:48,093 --> 00:20:51,525
+to go to a bar, these women managed to invent these
+
+325
+00:20:52,198 --> 00:20:55,967
+incredible groundbreaking technologies. So that's
+
+326
+00:20:55,967 --> 00:20:58,646
+like one aspect of it. But the other one
+
+327
+00:20:59,800 --> 00:21:02,270
+I want to show your viewers—
+
+328
+00:21:03,810 --> 00:21:07,595
+oh, by the way, is this going on an audio-only? No,
+
+329
+00:21:07,611 --> 00:21:10,562
+no, it's audio and video. Okay, so
+
+330
+00:21:11,604 --> 00:21:15,309
+what I'm sharing now on screen, can you see it? Yes. This is a
+
+331
+00:21:15,438 --> 00:21:18,549
+chart. This is the percentage of bachelor's degrees
+
+332
+00:21:18,902 --> 00:21:22,752
+conferred to women in the USA starting from 1970,
+
+333
+00:21:23,218 --> 00:21:26,651
+ending in 2010. So 1970,
+
+334
+00:21:27,004 --> 00:21:29,940
+excuse me, you can see that women entered
+
+335
+00:21:30,855 --> 00:21:34,593
+in all these fields. So you've got agriculture, social sciences,
+
+336
+00:21:34,705 --> 00:21:38,283
+business, math, architecture, physical sciences,
+
+337
+00:21:39,342 --> 00:21:42,695
+including computer science. So computer science is very
+
+338
+00:21:43,048 --> 00:21:46,770
+thin gray line, if you— that. So women
+
+339
+00:21:47,780 --> 00:21:51,438
+jumped into computer science just like they jumped into these
+
+340
+00:21:51,614 --> 00:21:55,272
+other fields. But something happened here in 1984,
+
+341
+00:21:55,945 --> 00:21:59,507
+and what happened was the launch of the personal computer. So
+
+342
+00:21:59,507 --> 00:22:03,036
+1984, those of us who were alive might remember,
+
+343
+00:22:03,325 --> 00:22:07,062
+um, uh, the Christmas present for
+
+344
+00:22:08,153 --> 00:22:10,688
+girls was the Cabbage Patch doll.
+
+345
+00:22:11,682 --> 00:22:15,423
+Christmas present for boys was a personal computer for
+
+346
+00:22:15,519 --> 00:22:17,991
+gaming, and that was groundbreaking
+
+347
+00:22:19,211 --> 00:22:21,522
+for this gray line. So women
+
+348
+00:22:22,662 --> 00:22:25,857
+felt that because the personal computer was
+
+349
+00:22:26,852 --> 00:22:30,319
+mainly marketed to boys and it was mainly
+
+350
+00:22:30,319 --> 00:22:33,899
+marketed to play games, you know, it created
+
+351
+00:22:33,995 --> 00:22:37,735
+this kind of bubble where games and
+
+352
+00:22:37,832 --> 00:22:41,588
+PCs and computers and computer science was seen as something for boys
+
+353
+00:22:41,765 --> 00:22:45,538
+only. And that really had a huge effect, and computer science
+
+354
+00:22:45,554 --> 00:22:49,295
+never, never recovered from that. So even
+
+355
+00:22:49,327 --> 00:22:52,876
+today we have, we have slightly more
+
+356
+00:22:53,261 --> 00:22:57,082
+people in computer science in than in 1970. Isn't that amazing?
+
+357
+00:22:57,355 --> 00:23:00,727
+That's, that's shocking, but completely like
+
+358
+00:23:00,952 --> 00:23:04,485
+remembering that's exactly what was going on. I mean,
+
+359
+00:23:04,501 --> 00:23:08,178
+exactly, exactly what's going on. Only field. That never
+
+360
+00:23:08,178 --> 00:23:11,694
+recovered. All these other fields, women are more than
+
+361
+00:23:11,710 --> 00:23:14,344
+half of biology, communications,
+
+362
+00:23:15,580 --> 00:23:19,257
+math is up there. So people, the women are almost 50%
+
+363
+00:23:19,514 --> 00:23:22,485
+of bachelors in math and statistics,
+
+364
+00:23:23,288 --> 00:23:26,901
+but not in computer science and engineering. So that's
+
+365
+00:23:26,901 --> 00:23:30,739
+kind of crazy. So those are kind of like the talking points or the
+
+366
+00:23:30,739 --> 00:23:34,561
+messages that I want to put out there when we talk about women
+
+367
+00:23:34,593 --> 00:23:38,334
+in technology. And of course there are all these other
+
+368
+00:23:38,366 --> 00:23:41,995
+things like you want diversity in your team, your product
+
+369
+00:23:41,995 --> 00:23:45,784
+development team or your management team. You
+
+370
+00:23:45,784 --> 00:23:49,365
+need diversity, diverse voices so you can create products for
+
+371
+00:23:49,365 --> 00:23:52,785
+diverse groups of people. And you want a
+
+372
+00:23:52,833 --> 00:23:56,655
+diverse management team so that you make decisions
+
+373
+00:23:56,751 --> 00:24:00,331
+that are looked at from different angles, from different
+
+374
+00:24:00,364 --> 00:24:03,763
+points of view. So women tend to have a lower
+
+375
+00:24:03,891 --> 00:24:07,609
+risk tolerance threshold than men. Sometimes it's good,
+
+376
+00:24:07,898 --> 00:24:11,664
+sometimes it's bad, but it's really good to look at things from,
+
+377
+00:24:11,825 --> 00:24:15,639
+from both perspectives. Right now, that was fascinating. That
+
+378
+00:24:15,687 --> 00:24:18,941
+was, that was really fascinating, that chart. So
+
+379
+00:24:20,800 --> 00:24:24,038
+have there been moments where you had to push past
+
+380
+00:24:24,166 --> 00:24:27,997
+doubt, either internally or externally,
+
+381
+00:24:28,013 --> 00:24:31,187
+and how did you manage that? As a woman?
+
+382
+00:24:31,860 --> 00:24:34,409
+Yes. Oh yeah, as a professional, as a woman.
+
+383
+00:24:35,627 --> 00:24:39,058
+Yeah, I have— oh my gosh, I have so many examples.
+
+384
+00:24:39,875 --> 00:24:43,578
+Um, I think I'm the type of person, even in my
+
+385
+00:24:43,578 --> 00:24:46,800
+private life, that I always want— I always want to
+
+386
+00:24:47,345 --> 00:24:50,311
+make things better. I always want to push for a better outcome,
+
+387
+00:24:51,096 --> 00:24:53,773
+and I've been that person in all of the
+
+388
+00:24:54,623 --> 00:24:58,326
+boardrooms or conference rooms or meeting rooms wherever I've
+
+389
+00:24:58,326 --> 00:25:01,902
+been. And I, I remember so many examples examples.
+
+390
+00:25:02,255 --> 00:25:05,983
+One of them was in a product development
+
+391
+00:25:06,112 --> 00:25:09,229
+meeting with Nokia. It was like 40 people in the room.
+
+392
+00:25:10,049 --> 00:25:13,648
+We were looking at the roadmaps and everyone in the room, there's
+
+393
+00:25:13,648 --> 00:25:17,151
+like 3 women and 40 guys. Everyone is like, yeah,
+
+394
+00:25:17,183 --> 00:25:21,024
+yeah, whoever is presenting, yeah, this looks good. And I'm the only person
+
+395
+00:25:21,040 --> 00:25:24,816
+who stands up and like, this is like, guys, this is not good
+
+396
+00:25:24,816 --> 00:25:28,575
+enough. You have to raise the bar. At least 20-30%.
+
+397
+00:25:29,153 --> 00:25:32,123
+This is not good enough. And everyone's just looking at me like,
+
+398
+00:25:32,685 --> 00:25:36,443
+shut up, Petra, sit down. They're like, we want to
+
+399
+00:25:36,475 --> 00:25:39,782
+go home and we want to go play tennis and do our things. Like, we
+
+400
+00:25:39,831 --> 00:25:43,459
+don't want to stay here over time because, you know, you
+
+401
+00:25:43,459 --> 00:25:46,478
+think that, you know, we should do better. Um,
+
+402
+00:25:47,554 --> 00:25:51,327
+there was, um, oh, I should tell this story. There
+
+403
+00:25:51,327 --> 00:25:55,144
+was, um, I was at the Nokia Research Center. I wasn't in
+
+404
+00:25:55,241 --> 00:25:58,816
+the management team. I was the head of marketing, but I wasn't in the management
+
+405
+00:25:58,864 --> 00:26:02,695
+team because marketing is not important enough. But I was very close to the management
+
+406
+00:26:02,695 --> 00:26:06,302
+team and they wanted to launch a fellowship program. And
+
+407
+00:26:06,623 --> 00:26:10,038
+all the people in the management team suggested their
+
+408
+00:26:10,406 --> 00:26:13,949
+people for the long list of fellows, like
+
+409
+00:26:15,119 --> 00:26:17,925
+the long list of people who, where they would pick the fellow from.
+
+410
+00:26:18,887 --> 00:26:22,718
+And I looked at the list, it was about 100 names, and
+
+411
+00:26:23,231 --> 00:26:27,062
+maybe 5% were women or something, 5-15, I can't remember exactly, it was
+
+412
+00:26:27,078 --> 00:26:30,444
+such a long time ago. And I went to the team like, what is this?
+
+413
+00:26:30,765 --> 00:26:34,260
+Like, guys, what's going on here? And
+
+414
+00:26:34,692 --> 00:26:38,524
+they're like, well, you know, we just named the best. Then I
+
+415
+00:26:38,700 --> 00:26:42,451
+was really pushing back. I said, no, you like, really, you named the
+
+416
+00:26:42,451 --> 00:26:46,074
+best? I'm gonna, I'm gonna give you a list of 100 women's
+
+417
+00:26:46,074 --> 00:26:49,568
+names. And I worked with HR and I did my own list, which was 100%
+
+418
+00:26:49,584 --> 00:26:53,272
+women. And, you know, I've
+
+419
+00:26:53,369 --> 00:26:56,944
+done things like this. I was a year ago in
+
+420
+00:26:57,121 --> 00:27:00,408
+a quantum conference in Europe, big
+
+421
+00:27:00,408 --> 00:27:03,743
+conference room. They were talking about standardization.
+
+422
+00:27:04,417 --> 00:27:08,057
+And I represent Finland in the ISO
+
+423
+00:27:08,185 --> 00:27:11,729
+IEC JTC3 group where they
+
+424
+00:27:11,729 --> 00:27:15,208
+standardize quantum. And all of the European
+
+425
+00:27:15,321 --> 00:27:18,364
+member states are there independently. They don't have an
+
+426
+00:27:18,559 --> 00:27:22,281
+EU-wide strategy on standards, whereas the
+
+427
+00:27:22,378 --> 00:27:26,062
+US has a huge delegation, China has a huge delegation. So I
+
+428
+00:27:26,062 --> 00:27:29,216
+stand up, I'm like, guys, we have to get together. We have to get a
+
+429
+00:27:29,344 --> 00:27:33,190
+European strategy for standards, not just the Finnish strategy
+
+430
+00:27:33,302 --> 00:27:37,054
+or German strategy. And the people on the
+
+431
+00:27:37,054 --> 00:27:40,895
+stage are saying, well, yeah, but it's not so simple. You know, Petra,
+
+432
+00:27:40,911 --> 00:27:44,405
+it's really difficult. I'm like, yeah, it's difficult. That's why we have to solve it.
+
+433
+00:27:44,471 --> 00:27:48,139
+Come on, guys, we're in quantum. It's difficult. It's a challenge, let's do it.
+
+434
+00:27:48,701 --> 00:27:51,927
+And everyone's just like, you know, she's such a troublemaker.
+
+435
+00:27:53,115 --> 00:27:56,806
+So I have had a lot of situations like
+
+436
+00:27:56,806 --> 00:28:00,530
+that. And looking back, I don't regret
+
+437
+00:28:00,915 --> 00:28:04,574
+being the person standing up. I don't regret being
+
+438
+00:28:04,686 --> 00:28:07,944
+the person raising the issue, raising the
+
+439
+00:28:07,976 --> 00:28:11,395
+awareness. But if I had to correct anything,
+
+440
+00:28:12,214 --> 00:28:15,730
+I would correct the way I presented myself. Because,
+
+441
+00:28:16,227 --> 00:28:19,984
+you know, especially I've been thinking about the guys
+
+442
+00:28:20,482 --> 00:28:24,320
+in the management team nominating the best people
+
+443
+00:28:24,336 --> 00:28:28,093
+they think to be the technology fellow of Nokia Research
+
+444
+00:28:28,109 --> 00:28:31,737
+Center. All of these men were thinking about people they
+
+445
+00:28:31,737 --> 00:28:35,398
+know, you know, from their, from their school or their friends,
+
+446
+00:28:35,511 --> 00:28:39,299
+people they trust, people they genuinely thought would be
+
+447
+00:28:39,363 --> 00:28:43,164
+the best person. And if they would nominate 5 people, it would be 4
+
+448
+00:28:43,212 --> 00:28:46,627
+men and 1 woman. Whereas the women in the
+
+449
+00:28:46,627 --> 00:28:50,476
+management team, they would usually nominate 50% men,
+
+450
+00:28:50,733 --> 00:28:54,260
+50% women. That's like, that is statistical
+
+451
+00:28:54,597 --> 00:28:58,414
+in voting patterns. Men tend to vote for men, women tend
+
+452
+00:28:58,510 --> 00:29:02,262
+to vote men and women. So none of
+
+453
+00:29:02,294 --> 00:29:05,839
+those people, none of those men had bad intentions. When
+
+454
+00:29:05,903 --> 00:29:09,644
+they nominated. So for me to go in and
+
+455
+00:29:09,740 --> 00:29:13,498
+hurt their feelings was bad. It was bad judgment. I was very young,
+
+456
+00:29:13,674 --> 00:29:17,431
+so I regret that. So it's just something that I've learned
+
+457
+00:29:17,704 --> 00:29:21,205
+to be better at communications and empathy. Empathy,
+
+458
+00:29:21,381 --> 00:29:24,994
+that's the key word. What's one piece of
+
+459
+00:29:24,994 --> 00:29:28,623
+advice— maybe you just answered it— what's one piece of advice you'd give your younger
+
+460
+00:29:28,623 --> 00:29:32,316
+self at the start of your quantum journey? Yeah, have more
+
+461
+00:29:32,316 --> 00:29:35,769
+empathy for sure. Yeah, and just,
+
+462
+00:29:35,994 --> 00:29:39,141
+um, I don't want to give advice to anyone, well, for myself, but,
+
+463
+00:29:40,089 --> 00:29:43,172
+um, one of the things that we often have to do,
+
+464
+00:29:43,461 --> 00:29:46,978
+especially for younger women in the industry, is to
+
+465
+00:29:47,412 --> 00:29:51,106
+do a lot of homework, make sure we have answers to all the
+
+466
+00:29:51,106 --> 00:29:54,109
+questions. We don't want to be caught in a technical
+
+467
+00:29:54,157 --> 00:29:57,417
+conversation, you know, without having all the answers.
+
+468
+00:29:58,396 --> 00:30:00,704
+Um, um,
+
+469
+00:30:01,842 --> 00:30:05,610
+also so many times people push back and say, well, you
+
+470
+00:30:05,610 --> 00:30:09,457
+don't have a tech technical background, you don't have a technology degree, so
+
+471
+00:30:09,457 --> 00:30:13,288
+you can't understand what we're talking about. So to
+
+472
+00:30:13,464 --> 00:30:17,167
+identify what your value is and communicate,
+
+473
+00:30:17,247 --> 00:30:21,079
+being able to communicate, and I'm still learning this, like in the
+
+474
+00:30:21,095 --> 00:30:24,589
+intro you said, what are you doing now? I was like, I'm not sure. So
+
+475
+00:30:24,701 --> 00:30:28,453
+to, to learn to identify your value and to communicate
+
+476
+00:30:28,453 --> 00:30:31,613
+your value in a very concise is, is important.
+
+477
+00:30:32,785 --> 00:30:36,494
+And yeah, always prepare for a plan, Plan B. That's
+
+478
+00:30:36,494 --> 00:30:40,235
+my advice. How do you stay motivated during
+
+479
+00:30:40,268 --> 00:30:43,206
+setbacks or complex research challenges?
+
+480
+00:30:46,835 --> 00:30:50,415
+I love to work with young people. I'm mentoring 2 young people.
+
+481
+00:30:50,608 --> 00:30:54,446
+It's fantastic. I, I just have
+
+482
+00:30:54,462 --> 00:30:57,927
+hope for the future. And, um, I also stay
+
+483
+00:30:58,232 --> 00:31:01,984
+motivated by logging off from the computer and from social
+
+484
+00:31:02,032 --> 00:31:05,673
+media. It's very— that is very healthy. I have— I
+
+485
+00:31:05,769 --> 00:31:09,233
+got chicken yesterday. I have 5 chickens now, and I have 3 dogs. So,
+
+486
+00:31:10,099 --> 00:31:13,771
+uh, just go for a walk with, with the dogs and play with the
+
+487
+00:31:13,803 --> 00:31:16,818
+chicken. That's one way of staying motivated,
+
+488
+00:31:17,636 --> 00:31:21,228
+um, especially with quantum. It's because it's a natural science,
+
+489
+00:31:21,373 --> 00:31:24,986
+so I I just love to think about not just
+
+490
+00:31:25,195 --> 00:31:28,970
+quantum as computers, which is, by the way, one of the things why I
+
+491
+00:31:28,970 --> 00:31:32,744
+got so fascinated about quantum in the first place is it's not computer
+
+492
+00:31:32,744 --> 00:31:36,471
+science, it's not plastic and metal and wire. Well, it has
+
+493
+00:31:36,471 --> 00:31:39,957
+some wires, but because it's a natural science, because it's
+
+494
+00:31:40,117 --> 00:31:43,201
+atoms, it's nature. So finally, we're like
+
+495
+00:31:43,812 --> 00:31:46,864
+really merging biology and
+
+496
+00:31:47,185 --> 00:31:49,819
+computers. And I think that's really fascinating.
+
+497
+00:31:51,777 --> 00:31:55,627
+What does success mean to you in the context of
+
+498
+00:31:55,627 --> 00:31:57,954
+a long and evolving career?
+
+499
+00:31:59,221 --> 00:32:01,435
+Um, success.
+
+500
+00:32:03,874 --> 00:32:06,569
+Um, I, uh,
+
+501
+00:32:07,901 --> 00:32:10,949
+someone told me a few weeks ago
+
+502
+00:32:11,655 --> 00:32:15,441
+they were moving on with their career, and they told me that, you know, Petra,
+
+503
+00:32:15,666 --> 00:32:19,420
+There are 3 stages in your career. One is,
+
+504
+00:32:19,677 --> 00:32:23,142
+um, first stage is you work for other people,
+
+505
+00:32:24,024 --> 00:32:27,040
+and then the second stage is you work with other people,
+
+506
+00:32:28,179 --> 00:32:31,307
+and then the third stage is other people work for you.
+
+507
+00:32:32,591 --> 00:32:36,409
+And that kind of stuck with me. I thought like, that doesn't feel
+
+508
+00:32:36,521 --> 00:32:40,259
+complete, and I was thinking about it, um, and I
+
+509
+00:32:40,291 --> 00:32:43,967
+would add a fourth stage is when you go back in the beginning
+
+510
+00:32:44,706 --> 00:32:47,855
+and work for other people again. So
+
+511
+00:32:48,481 --> 00:32:52,032
+the ability to make a difference, the ability
+
+512
+00:32:53,381 --> 00:32:56,867
+to help others and be the change. You know, when you
+
+513
+00:32:56,996 --> 00:33:00,626
+have a big movement like a political or I don't know,
+
+514
+00:33:00,771 --> 00:33:04,594
+any big movements and you track back in history, it always
+
+515
+00:33:04,594 --> 00:33:08,144
+starts with one person. There's whatever it is,
+
+516
+00:33:08,337 --> 00:33:11,790
+there's one person. Always in the very beginning. So
+
+517
+00:33:11,790 --> 00:33:15,579
+like, to me, a success— like, when
+
+518
+00:33:15,627 --> 00:33:19,240
+I die, and if there's anything in the world that
+
+519
+00:33:19,240 --> 00:33:22,917
+somebody tracks back and said she was the person, like, that would
+
+520
+00:33:22,949 --> 00:33:26,610
+be a total success for me. That, that would
+
+521
+00:33:26,642 --> 00:33:30,415
+make me happy. Was there a time when you were tempted to
+
+522
+00:33:30,415 --> 00:33:33,964
+give up, and what kept you going? Uh,
+
+523
+00:33:35,393 --> 00:33:39,153
+Never, never give up. No, I mean, there, there have been
+
+524
+00:33:39,153 --> 00:33:42,945
+times when I have reinvented myself over and over and
+
+525
+00:33:42,945 --> 00:33:45,950
+over. I, like the example
+
+526
+00:33:46,882 --> 00:33:50,481
+that I gave, I mentioned that I was the head of marketing at Nokia
+
+527
+00:33:50,481 --> 00:33:54,080
+Research Center. You know, in large corporations, they
+
+528
+00:33:54,176 --> 00:33:57,968
+do reorgs every year or every other year, and the
+
+529
+00:33:57,968 --> 00:34:01,460
+people who don't have a place, you know, they get
+
+530
+00:34:01,460 --> 00:34:05,296
+sacked basically. And I found after one reorg, I found
+
+531
+00:34:05,312 --> 00:34:09,051
+myself in the Nokia Research Center with scientists
+
+532
+00:34:09,358 --> 00:34:13,120
+having a business degree. And I had, I
+
+533
+00:34:13,169 --> 00:34:16,945
+think I had 2 months to create a new job for
+
+534
+00:34:16,945 --> 00:34:20,587
+myself and my team. I had a team
+
+535
+00:34:20,587 --> 00:34:24,411
+before we would be laid off. And I just figured like, hey, this
+
+536
+00:34:24,524 --> 00:34:27,721
+is research. Who gives the money to research? It's
+
+537
+00:34:27,721 --> 00:34:31,097
+investors. What do investors get in return? They get
+
+538
+00:34:31,097 --> 00:34:34,741
+long-term plants, they get long-term revenue. We should have a
+
+539
+00:34:34,741 --> 00:34:38,578
+marketing department that tells investors why they should invest
+
+540
+00:34:38,594 --> 00:34:42,143
+in long-term research and what they're getting in return. So I, you know,
+
+541
+00:34:42,351 --> 00:34:45,996
+I pitched my case and was able to
+
+542
+00:34:47,168 --> 00:34:50,716
+basically create this marketing department for the
+
+543
+00:34:50,716 --> 00:34:54,039
+research unit from scratch. And then,
+
+544
+00:34:54,409 --> 00:34:58,101
+you know, I've been moving to different countries, uh,
+
+545
+00:34:58,519 --> 00:35:00,639
+starting many, many companies.
+
+546
+00:35:02,453 --> 00:35:06,147
+So yeah, reinventing yourself is, is something that
+
+547
+00:35:06,516 --> 00:35:10,338
+keeps you going. How do you keep learning
+
+548
+00:35:10,386 --> 00:35:14,208
+and growing when technology moves so fast? Well,
+
+549
+00:35:14,224 --> 00:35:17,917
+I think the thing is to step back. That's like my safety
+
+550
+00:35:18,319 --> 00:35:21,771
+valve. I cannot, you know, focus on the
+
+551
+00:35:21,771 --> 00:35:25,304
+technical development because it's so fast, especially in
+
+552
+00:35:25,304 --> 00:35:27,135
+quantum. There are different modalities.
+
+553
+00:35:28,612 --> 00:35:30,986
+Different use cases,
+
+554
+00:35:32,398 --> 00:35:35,991
+if you look at the tools and the supply chains, it's just
+
+555
+00:35:35,991 --> 00:35:39,664
+so complicated. You have to take a step back and figure
+
+556
+00:35:39,744 --> 00:35:43,016
+out where, where your strength is. And
+
+557
+00:35:43,209 --> 00:35:44,300
+that's what I'm doing.
+
+558
+00:35:46,818 --> 00:35:50,154
+What book, idea, or person has
+
+559
+00:35:50,411 --> 00:35:53,250
+influenced your thinking most
+
+560
+00:35:54,020 --> 00:35:56,089
+outside or inside of quantum?
+
+561
+00:35:59,638 --> 00:36:02,753
+What book? Oh, I know what it is. It is—
+
+562
+00:36:04,455 --> 00:36:06,237
+ah, you should have warned me. Hold on.
+
+563
+00:36:13,608 --> 00:36:17,397
+Good thing I had it close by because I can't remember. It is Sparks
+
+564
+00:36:17,397 --> 00:36:21,058
+of Genius. Oh, you can't see it. The 13 Thinking Tools
+
+565
+00:36:21,171 --> 00:36:24,125
+of the World's Most Creative People. It's about polymaths.
+
+566
+00:36:25,567 --> 00:36:27,874
+It's a really good book, actually.
+
+567
+00:36:29,332 --> 00:36:32,793
+I met a person in the, the launch party of the
+
+568
+00:36:32,793 --> 00:36:35,581
+International Year of Quantum in Paris more than a year ago.
+
+569
+00:36:36,782 --> 00:36:39,346
+I was sitting in a dinner and there was a young man beside me and
+
+570
+00:36:39,442 --> 00:36:43,031
+he had this book. And, you know, I reached over and said, what is that
+
+571
+00:36:43,047 --> 00:36:46,299
+book? And he told me that he always carries this book with him.
+
+572
+00:36:47,292 --> 00:36:50,881
+So I went back home and I got the book, and then he approached me
+
+573
+00:36:50,881 --> 00:36:53,733
+and asked me to be his mentor. So I've been mentoring him for a year.
+
+574
+00:36:54,407 --> 00:36:57,555
+And we did a podcast episode on my podcast,
+
+575
+00:36:58,198 --> 00:37:01,763
+The Pockets, on this book. And I
+
+576
+00:37:01,812 --> 00:37:05,634
+think the polymath thinking is marrying
+
+577
+00:37:05,811 --> 00:37:08,799
+different fields into your experience
+
+578
+00:37:09,987 --> 00:37:13,698
+really helps be creative. For example, my husband makes
+
+579
+00:37:13,778 --> 00:37:17,360
+wine. So when I watch him design
+
+580
+00:37:17,537 --> 00:37:20,797
+new wines and go into the fields and doing the
+
+581
+00:37:21,151 --> 00:37:24,696
+whole agriculture thing, It helps me figure out,
+
+582
+00:37:25,177 --> 00:37:29,024
+you know, things for me in quantum or things for me in consulting or advisory
+
+583
+00:37:29,024 --> 00:37:32,871
+services, which is strange, but that's, that's how
+
+584
+00:37:32,951 --> 00:37:36,542
+the human mind works. I've asked you
+
+585
+00:37:36,542 --> 00:37:40,390
+about advice you'd give your younger self. What's the best
+
+586
+00:37:40,390 --> 00:37:42,345
+piece of advice someone has given you?
+
+587
+00:37:44,253 --> 00:37:47,892
+Oh, what is the piece of advice someone has given
+
+588
+00:37:48,004 --> 00:37:51,751
+me? Oh, I guess it's my dad. It's just,
+
+589
+00:37:51,832 --> 00:37:54,872
+be yourself, Petra. Just be yourself always.
+
+590
+00:37:57,630 --> 00:38:01,413
+Probably the most powerful piece of advice you could
+
+591
+00:38:01,510 --> 00:38:04,907
+ever give a woman would be that. To trust
+
+592
+00:38:04,907 --> 00:38:08,484
+yourself. Believe in yourself. Don't let
+
+593
+00:38:08,517 --> 00:38:12,319
+people make you think
+
+594
+00:38:12,319 --> 00:38:15,762
+you're less. Exactly,
+
+595
+00:38:16,339 --> 00:38:20,024
+right? Yeah, yeah. He always said like, I trust
+
+596
+00:38:20,024 --> 00:38:23,774
+you, and that was like the biggest push. Big. Like when
+
+597
+00:38:23,806 --> 00:38:27,620
+he said like he trusts me, I have to give it
+
+598
+00:38:27,796 --> 00:38:30,665
+all I have. I have to give my best to whatever I'm doing,
+
+599
+00:38:31,578 --> 00:38:35,312
+right? I remember, I think I must have been about 12,
+
+600
+00:38:35,344 --> 00:38:38,052
+and I said something and my mother turned to me and she said, okay, this
+
+601
+00:38:38,052 --> 00:38:41,115
+is the last moment that you doubt yourself ever. Yeah,
+
+602
+00:38:42,063 --> 00:38:45,838
+yeah, good advice. Like, what? And she's like, yeah, let's say
+
+603
+00:38:45,838 --> 00:38:48,697
+it again. And I'm like, yeah,
+
+604
+00:38:49,371 --> 00:38:53,130
+right. Yeah, it was really powerful. Looking
+
+605
+00:38:53,226 --> 00:38:56,663
+ahead, what future in quantum are you
+
+606
+00:38:56,679 --> 00:38:59,345
+personally most excited to help build?
+
+607
+00:39:01,835 --> 00:39:05,610
+It's something I don't know too much about, but what excites
+
+608
+00:39:05,610 --> 00:39:09,449
+me the most is the intersection of quantum and biology. So what
+
+609
+00:39:09,449 --> 00:39:13,048
+is going to happen? Because I— the reason why I love
+
+610
+00:39:13,080 --> 00:39:16,872
+quantum is because it's a natural science. So how do we
+
+611
+00:39:16,872 --> 00:39:20,599
+take the atoms and the physics and the biology and
+
+612
+00:39:20,873 --> 00:39:24,456
+marry those and what's going to happen from there? So I'm really looking
+
+613
+00:39:24,472 --> 00:39:27,541
+forward to seeing developments in that, that area.
+
+614
+00:39:28,328 --> 00:39:31,445
+Oh, me too. I know it's crazy.
+
+615
+00:39:32,538 --> 00:39:36,233
+So for young women or career switchers, who are
+
+616
+00:39:36,233 --> 00:39:39,900
+listening today, what's the single most important first
+
+617
+00:39:39,900 --> 00:39:43,194
+step they could take to
+
+618
+00:39:44,309 --> 00:39:47,870
+enter into the quantum ecosystem? Yeah, I, I think it's probably what I
+
+619
+00:39:47,870 --> 00:39:50,752
+mentioned already, is identify your value
+
+620
+00:39:51,638 --> 00:39:55,424
+and, um, practice how to communicate your value.
+
+621
+00:39:56,570 --> 00:40:00,185
+Because to me, you know, I have a business degree,
+
+622
+00:40:00,217 --> 00:40:04,052
+so to me everything is selling and buying. So whatever it is that— even
+
+623
+00:40:04,255 --> 00:40:07,751
+when you're a researcher, even if you don't realize it, you're
+
+624
+00:40:07,751 --> 00:40:11,216
+selling something every time you open your mouth or you send out an email.
+
+625
+00:40:11,825 --> 00:40:15,643
+So for young women, identify where you're really good
+
+626
+00:40:15,820 --> 00:40:19,606
+at, what it is that you can bring to the table, and, and
+
+627
+00:40:19,606 --> 00:40:23,424
+just be courageous and go out there and
+
+628
+00:40:23,600 --> 00:40:26,953
+give it all you got and do your homework. And also, something
+
+629
+00:40:27,707 --> 00:40:31,364
+that's not talked about very much is, as a young
+
+630
+00:40:31,380 --> 00:40:34,910
+woman or a woman or anybody, If you're in a team or in an
+
+631
+00:40:34,910 --> 00:40:38,602
+environment where you are trying to do your best
+
+632
+00:40:38,682 --> 00:40:42,389
+and you still feel that you're not appreciated, it's okay
+
+633
+00:40:42,389 --> 00:40:46,225
+to quit. Don't stick around forever if it's
+
+634
+00:40:46,225 --> 00:40:50,028
+not working. Someone else will appreciate you. Like,
+
+635
+00:40:50,109 --> 00:40:53,848
+it's not a failure to leave if things are not working out for you.
+
+636
+00:40:54,265 --> 00:40:57,716
+I think I've seen so many people push, push, push and be
+
+637
+00:40:57,716 --> 00:41:01,487
+miserable if like If they don't appreciate you,
+
+638
+00:41:01,968 --> 00:41:05,626
+someone else will. So
+
+639
+00:41:05,802 --> 00:41:09,492
+what role do partnerships between academia,
+
+640
+00:41:09,685 --> 00:41:12,557
+startups, and large enterprises play
+
+641
+00:41:13,583 --> 00:41:17,385
+in accelerating progress in this, in this sector? That is
+
+642
+00:41:17,385 --> 00:41:19,439
+such an important question. Like
+
+643
+00:41:22,423 --> 00:41:26,193
+I mentioned, I, the reason why I wrote my book is I have worked for
+
+644
+00:41:26,193 --> 00:41:29,754
+a big corporation. I've worked as a startup entrepreneur. Entrepreneur
+
+645
+00:41:30,027 --> 00:41:33,699
+and in the government. And they, all
+
+646
+00:41:33,811 --> 00:41:37,547
+these different entities, they really have a different language. They
+
+647
+00:41:37,723 --> 00:41:41,395
+have just different acronyms, but they speak a different language.
+
+648
+00:41:42,132 --> 00:41:45,708
+Um, they're all important and they all have a
+
+649
+00:41:45,756 --> 00:41:49,364
+part to play. Um, but I think we also
+
+650
+00:41:49,444 --> 00:41:53,196
+should be mindful that they need to work together better
+
+651
+00:41:53,596 --> 00:41:57,428
+than they are. And I'll give you examples. So when
+
+652
+00:41:58,503 --> 00:42:02,303
+When I worked in a big corporate, we would often get
+
+653
+00:42:02,496 --> 00:42:06,328
+emails or phone calls saying, hey, I have a really great idea for you,
+
+654
+00:42:06,440 --> 00:42:10,208
+a product idea. You should do this and this product. And, you know, we would
+
+655
+00:42:10,208 --> 00:42:13,993
+say, yeah, we just spent 6 months investigating this and
+
+656
+00:42:14,201 --> 00:42:17,344
+decided it's not worth it, but thanks so much for your idea. And they would
+
+657
+00:42:17,344 --> 00:42:20,808
+get offended every time, like, oh, you don't understand, this is the greatest idea ever.
+
+658
+00:42:20,872 --> 00:42:23,838
+And we're like, no, you don't understand, it doesn't have business value.
+
+659
+00:42:24,736 --> 00:42:28,460
+So, so So for people to understand that just because
+
+660
+00:42:28,492 --> 00:42:32,072
+you don't see a company put out a product that you think would be great,
+
+661
+00:42:32,281 --> 00:42:35,572
+it doesn't mean they never thought about it. They're not stupid.
+
+662
+00:42:36,038 --> 00:42:39,795
+People think that the corporates didn't come, they
+
+663
+00:42:39,795 --> 00:42:43,423
+just didn't think to do this thing. But yes, they did, and they
+
+664
+00:42:43,423 --> 00:42:46,425
+decided not to do it. So that's one thing.
+
+665
+00:42:47,276 --> 00:42:50,952
+The other example that I noticed very quickly when I went
+
+666
+00:42:51,033 --> 00:42:54,629
+from the corporate environment to the startup world is
+
+667
+00:42:54,725 --> 00:42:58,266
+that that corporate people tend to think that startup people are
+
+668
+00:42:58,266 --> 00:43:01,919
+just innovative guys hanging around with nothing to
+
+669
+00:43:01,951 --> 00:43:05,620
+do and are a free resource. So for example,
+
+670
+00:43:06,662 --> 00:43:10,507
+corporates, they organize hackathons and they think
+
+671
+00:43:10,507 --> 00:43:14,272
+that the startup company is going to spend weeks of their time coming up
+
+672
+00:43:14,352 --> 00:43:18,053
+with ideas or prototypes for this corporate. They're going to fly to
+
+673
+00:43:18,053 --> 00:43:21,514
+another country and with the whole management team and spend
+
+674
+00:43:21,578 --> 00:43:24,992
+days in your location for free. No, they have
+
+675
+00:43:25,024 --> 00:43:28,712
+investors. They have to, you know, do their own work. So they're not a
+
+676
+00:43:28,712 --> 00:43:31,454
+free resource for you, Mr. Corporate Guy.
+
+677
+00:43:33,346 --> 00:43:37,098
+That is something like I've over and over I had to explain to
+
+678
+00:43:37,114 --> 00:43:39,375
+corporates like, no, startups don't work that way.
+
+679
+00:43:41,203 --> 00:43:44,345
+And then another thing that still kind
+
+680
+00:43:44,345 --> 00:43:47,584
+of rubs me the wrong way is how
+
+681
+00:43:47,777 --> 00:43:51,192
+private sector people think that people in the government are
+
+682
+00:43:51,224 --> 00:43:54,881
+stupid. And so, for example,
+
+683
+00:43:55,186 --> 00:43:59,036
+I don't know if you remember if you saw when Mark Zuckerberg
+
+684
+00:43:59,245 --> 00:44:02,998
+went to Congress 2 years ago and
+
+685
+00:44:03,111 --> 00:44:06,656
+there was a senator like in his 80s who didn't understand the
+
+686
+00:44:06,720 --> 00:44:10,265
+business model. He asked like, how do you make money? And
+
+687
+00:44:10,265 --> 00:44:14,099
+Zuckerberg said, well, you know, we run ads and everyone in the
+
+688
+00:44:14,099 --> 00:44:17,708
+private tech industry were laughing like, oh, these senators are so stupid. They have no
+
+689
+00:44:17,789 --> 00:44:21,560
+idea what's going on. That's not true. There are, there are super smart
+
+690
+00:44:21,560 --> 00:44:25,091
+people in the government. Um, uh, the White
+
+691
+00:44:25,091 --> 00:44:28,766
+House Office of Science and Technology, for example,
+
+692
+00:44:29,183 --> 00:44:32,794
+the quantum person that was there, Charles Tahan, went to work for Microsoft.
+
+693
+00:44:32,859 --> 00:44:36,293
+Super smart scientist. Like, he didn't go from being
+
+694
+00:44:36,951 --> 00:44:40,113
+a stupid government person to being a brilliant
+
+695
+00:44:40,113 --> 00:44:43,885
+scientist at Microsoft overnight. No, he was always a brilliant scientist.
+
+696
+00:44:44,334 --> 00:44:47,690
+So we have We have all these super smart, brilliant people in
+
+697
+00:44:47,722 --> 00:44:51,238
+government, and the people in the private sector should not overlook
+
+698
+00:44:51,640 --> 00:44:54,947
+that talent. I forgot what you asked me, but
+
+699
+00:44:55,734 --> 00:44:59,106
+anyway, that was a long rant. It was good. It was good. I liked it.
+
+700
+00:45:00,005 --> 00:45:03,698
+What recent breakthrough in the field made you sit up and
+
+701
+00:45:03,698 --> 00:45:06,861
+say, oh, okay, this is moving faster than people think?
+
+702
+00:45:08,740 --> 00:45:11,887
+I, you know, I don't follow that. I don't follow that.
+
+703
+00:45:13,958 --> 00:45:17,795
+I'm— I will let the scientists do the science, and
+
+704
+00:45:18,694 --> 00:45:22,466
+whichever science wins, I will take it to the government and help the
+
+705
+00:45:22,482 --> 00:45:26,111
+government invest in it. Okay. Okay.
+
+706
+00:45:28,888 --> 00:45:32,484
+Are there any tools or communities or resources
+
+707
+00:45:32,580 --> 00:45:36,080
+that you would recommend to anyone who's curious
+
+708
+00:45:36,193 --> 00:45:39,946
+about quantum? Um, I, I'm probably
+
+709
+00:45:39,962 --> 00:45:43,714
+not the best person to ask that question at Impact Quantum, of
+
+710
+00:45:43,746 --> 00:45:46,120
+course. Um,
+
+711
+00:45:47,098 --> 00:45:50,690
+yeah, I mean, I'm a member in a lot of women in
+
+712
+00:45:50,802 --> 00:45:54,603
+quantum groups on LinkedIn. I think they're all great. I can't name one
+
+713
+00:45:54,651 --> 00:45:58,307
+over another. Has there been a moment
+
+714
+00:45:58,980 --> 00:46:01,995
+where you felt particularly supported and heard
+
+715
+00:46:02,669 --> 00:46:05,396
+by other women in in technology?
+
+716
+00:46:08,124 --> 00:46:09,937
+Oh my gosh, Candice, your questions.
+
+717
+00:46:13,484 --> 00:46:17,320
+Ah, sadly
+
+718
+00:46:17,737 --> 00:46:21,412
+I can't remember. That's so sad.
+
+719
+00:46:23,113 --> 00:46:26,820
+There must have been. There— was there like a, a tech conference that
+
+720
+00:46:26,820 --> 00:46:30,511
+you'd gone to and, you know, and then you, you know,
+
+721
+00:46:30,976 --> 00:46:34,053
+what someone else had said really resonated with you, and then you,
+
+722
+00:46:34,582 --> 00:46:38,316
+you know, it really turned into something. But no, not yet.
+
+723
+00:46:38,412 --> 00:46:42,242
+Well, let me answer this way. Um, when I wrote
+
+724
+00:46:42,274 --> 00:46:45,863
+my newsletter last week about women and technology, one of the things that I was
+
+725
+00:46:45,879 --> 00:46:49,645
+thinking about is, you know, whenever you go to a tech conference, there's
+
+726
+00:46:49,725 --> 00:46:53,555
+a track for women and whatever the technology is, and I
+
+727
+00:46:53,652 --> 00:46:57,403
+rarely attend those tracks. For two reasons.
+
+728
+00:46:58,623 --> 00:47:02,235
+One is the timing and the location of that track is
+
+729
+00:47:02,315 --> 00:47:05,943
+always the worst possible. They shove that track wherever there's like free
+
+730
+00:47:05,943 --> 00:47:09,362
+time. So it usually overlaps with something more interesting,
+
+731
+00:47:09,860 --> 00:47:13,681
+which is the actual subject or the topic of the conference. And the
+
+732
+00:47:13,713 --> 00:47:17,549
+other one is the reason why I rarely
+
+733
+00:47:17,645 --> 00:47:21,434
+go or attend is because it's just women. It's women on
+
+734
+00:47:21,434 --> 00:47:24,933
+stage and women in the audience. It's women talking to women and it's very
+
+735
+00:47:24,965 --> 00:47:27,984
+cozy and fuzzy and it's really nice. Um,
+
+736
+00:47:28,739 --> 00:47:32,146
+but like, what is happening now
+
+737
+00:47:32,981 --> 00:47:36,324
+in the world, in society, in
+
+738
+00:47:36,452 --> 00:47:39,602
+politics, in gender—
+
+739
+00:47:41,176 --> 00:47:45,016
+I don't know what to call it— what's happening has, um,
+
+740
+00:47:45,852 --> 00:47:49,676
+made me think that, like I mentioned earlier, I need to broaden
+
+741
+00:47:49,773 --> 00:47:52,826
+my sphere of influence. I need to talk to
+
+742
+00:47:53,323 --> 00:47:57,144
+wider audience, a wider audience of women, wider audience of men.
+
+743
+00:47:58,204 --> 00:48:00,869
+And I've revised my thinking. I actually think—
+
+744
+00:48:01,576 --> 00:48:05,364
+excuse me— I actually think that these tracks are
+
+745
+00:48:05,364 --> 00:48:08,543
+useful because women need safe spaces. Women
+
+746
+00:48:11,064 --> 00:48:14,821
+need that fuzzy and cozy environment once in a while because it's so
+
+747
+00:48:14,821 --> 00:48:18,530
+harsh out there. I think that's fair. I think that's fair to
+
+748
+00:48:18,530 --> 00:48:21,660
+say. And I think that the more that we get out there and show
+
+749
+00:48:22,366 --> 00:48:26,196
+you know, different faces. I think that really does
+
+750
+00:48:26,292 --> 00:48:29,882
+help younger women see themselves in
+
+751
+00:48:30,058 --> 00:48:33,904
+other people to say, wait a minute, you know, I like business, I
+
+752
+00:48:34,144 --> 00:48:37,926
+like this, I like that. She'd like business, she went here, she
+
+753
+00:48:37,926 --> 00:48:41,660
+did that. You know, it opens up, it opens up the
+
+754
+00:48:41,756 --> 00:48:45,298
+path for those that are coming up. And I just think it's so
+
+755
+00:48:45,298 --> 00:48:48,874
+vitally important that we show them. That there is a space.
+
+756
+00:48:49,773 --> 00:48:53,418
+Absolutely, absolutely. I think it's funny, I, I
+
+757
+00:48:53,418 --> 00:48:57,223
+never had an imposter syndrome in technology. So when I was
+
+758
+00:48:57,320 --> 00:49:01,077
+in those rooms with all the guys, I always felt like I belong
+
+759
+00:49:01,173 --> 00:49:04,882
+here. This is— I have a role here, I belong here. But I think I
+
+760
+00:49:04,882 --> 00:49:08,190
+might have had a little bit of imposter syndrome with, with the women.
+
+761
+00:49:08,640 --> 00:49:12,236
+Like, I felt that, who am I to tell any
+
+762
+00:49:12,590 --> 00:49:16,069
+woman what they should do or what they shouldn't do, or
+
+763
+00:49:16,742 --> 00:49:20,092
+I'm not successful enough to be a role model to anyone.
+
+764
+00:49:20,669 --> 00:49:24,517
+So I think I'm just discovering, like, I'm over 50 and
+
+765
+00:49:24,517 --> 00:49:28,283
+I'm discovering all these new aspects
+
+766
+00:49:28,283 --> 00:49:31,746
+of myself and my thinking. So I think I need to work on my
+
+767
+00:49:31,746 --> 00:49:35,064
+imposter syndrome with women. And I
+
+768
+00:49:35,176 --> 00:49:38,687
+am mentoring women, and women approach
+
+769
+00:49:38,799 --> 00:49:41,672
+me and ask me how how I, you know,
+
+770
+00:49:43,118 --> 00:49:46,717
+how I've done my career or how I ended up where I am. And,
+
+771
+00:49:47,777 --> 00:49:51,505
+and I hope I can help, help them. I hope I have
+
+772
+00:49:51,505 --> 00:49:55,328
+something to offer. If I do, that's great. I think you, I think you
+
+773
+00:49:55,328 --> 00:49:58,654
+do. I think the fact that you're trying to take such positive steps to make
+
+774
+00:49:58,654 --> 00:50:02,269
+it better for other women, again, lifting up those around us
+
+775
+00:50:02,880 --> 00:50:06,527
+and, and leading by example, putting ourselves out there.
+
+776
+00:50:07,057 --> 00:50:10,601
+And saying, you know, you too, you too can do this and you too
+
+777
+00:50:10,601 --> 00:50:14,258
+deserve it. And I— that's, that's really kind of
+
+778
+00:50:14,290 --> 00:50:18,123
+what Women in Quantum to me is all about. You know,
+
+779
+00:50:18,700 --> 00:50:22,534
+where can, where can people find out more about what you're doing and
+
+780
+00:50:22,534 --> 00:50:25,838
+who you are if they want to reach out? Petra
+
+781
+00:50:25,838 --> 00:50:29,687
+Soderling.com or LinkedIn. You heard
+
+782
+00:50:29,687 --> 00:50:33,263
+it here first. You heard it here first. There you go. So,
+
+783
+00:50:33,440 --> 00:50:37,230
+Petra, again, this has been fantastic. I thank you
+
+784
+00:50:37,230 --> 00:50:39,967
+so much for your time and doing this with us today,
+
+785
+00:50:40,676 --> 00:50:44,443
+and I hope that we get to speak again. Super. Thanks so much,
+
+786
+00:50:44,459 --> 00:50:44,685
+Candace.
+
