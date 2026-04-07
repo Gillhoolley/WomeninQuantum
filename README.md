@@ -1,6 +1,12 @@
 # Women in Quantum
 
-Static page for showcasing women featured on the show.
+Static site for showcasing guests featured on the `Women in Quantum` podcast.
+
+The page includes:
+
+- a portrait gallery for `Women in Quantum`
+- a separate `Impact Quantum` section
+- guest detail cards with pull quotes, episode info, LinkedIn links, transcripts, clips, and infographics
 
 ## Files
 
@@ -8,10 +14,13 @@ Static page for showcasing women featured on the show.
 - `styles.css`: visual design and responsive layout
 - `data.js`: guest content and asset links
 - `app.js`: gallery and feature-card behavior
+- `logo.jpg`: Women in Quantum logo
+- `Images/`: guest portraits
+- `Infograhics/`: local infographics and downloaded transcript files
 
 ## Update content
 
-Edit `data.js` and replace the placeholder guest entries with real guests. For each person you can add:
+Edit `data.js`. Each guest entry can include:
 
 - `name`
 - `role`
@@ -21,17 +30,26 @@ Edit `data.js` and replace the placeholder guest entries with real guests. For e
 - `quote`
 - `linkedinUrl`
 - `imageSrc`
+- `transcriptUrl`
 - `clipSrc` or `clipExternalUrl`
 - `infographicSrc` or `infographicUrl`
 
 ## Asset paths
 
-If you place local media in this folder, use relative paths such as:
+Use relative paths that match the current folder structure, for example:
 
-- `imageSrc: "assets/jane-doe.jpg"`
-- `clipSrc: "assets/jane-doe-clip.mp4"`
-- `infographicSrc: "assets/jane-doe-infographic.png"`
+- `imageSrc: "Images/jane-doe.jpg"`
+- `clipSrc: "clips/jane-doe-clip.mp4"`
+- `infographicSrc: "Infograhics/S1E1.png"`
 
-## Next step
+## Preview
 
-Create an `assets` folder inside `WomeninQuantum` and start dropping in real images, clips, and infographics.
+Open:
+
+- `file:///C:/Users/Candace/WomeninQuantum/index.html`
+
+## Notes
+
+- Clicking an infographic opens the full-size image in a new tab.
+- The main guest data is driven from `data.js`, so most content updates happen in one place.
+- `Impact Quantum` guests are intentionally separated from the core `Women in Quantum` gallery.
