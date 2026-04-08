@@ -314,7 +314,7 @@ a {
 
 .theme-map {
   position: relative;
-  min-height: 640px;
+  min-height: 860px;
   margin-top: 18px;
   border: 1px solid var(--line);
   border-radius: 28px;
@@ -353,7 +353,7 @@ a {
 .theme-map-node {
   position: absolute;
   transform: translate(-50%, -50%);
-  width: 164px;
+  width: 172px;
   padding: 14px;
   border: 1px solid rgba(255, 255, 255, 0.08);
   border-radius: 20px;
@@ -378,7 +378,7 @@ a {
 }
 
 .theme-node {
-  width: 196px;
+  width: 208px;
 }
 
 .episode-node {
@@ -775,11 +775,15 @@ a {
   }
 
   .theme-map {
-    min-height: 980px;
+    min-height: 1180px;
   }
 
   .theme-map-node,
   .theme-node {
-    width: 148px;
+    width: 156px;
+  }
+
+  .theme-node {
+    width: 172px;
   }
 }

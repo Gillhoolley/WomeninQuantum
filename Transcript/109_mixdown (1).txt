@@ -1,0 +1,437 @@
+Candace Gillhoolley [00:00:00]:
+So how do you navigate moments when you feel less confident, especially when the stakes are high and you're trying to convey something deeply technical?
+
+Sahar Hajazi [00:00:11]:
+Well, I go always prepared. I always go prepared. I gather information I need, I know who I'm going to talk to, who is in the room. But always they come surprises. I generally step back and have a bridge and then say we are in the new position, how we can interact and make communication with another human being. End of the day, back of our facade, we are human being. Welcome to Women in Quantum.
+
+Candace Gillhoolley [00:00:43]:
+Hi, welcome back. Today on Women in Quantum, I'm joined by Sahar Hajazi, a quantum physicist, founder and global voice shaping how deep tech research moves from the lab into the real world. Sahar's journey spans academia, industry and entrepreneurship, offering a powerful perspective on what it takes to build inclusive, impactful quantum ecosystems at a pivotal moment for the field. Hi, Sahar, how are you today?
+
+Sahar Hajazi [00:01:19]:
+Thank you so much for having me. I'm good.
+
+Candace Gillhoolley [00:01:22]:
+I'm glad to hear it. So let's start at the very beginning. Can you tell me where you grew up?
+
+Sahar Hajazi [00:01:29]:
+Yeah, I'm originally from Iran. I grew up in Iran, Tehran and then I did my bachelor and master in theoretical physics there. Then I moved to United Kingdom. So still I think I'm growing up. So depends on where you're putting the limit. But at the moment I'm in Sweden and learning a lot about quantum system and then how to integrate it to the industry.
+
+Candace Gillhoolley [00:01:54]:
+So tell me a little bit more about Iran and the culture around developing women's capabilities in math and sciences. Were you supported in this pursuit?
+
+Sahar Hajazi [00:02:08]:
+So one thing that I should mention that the schools in Iran is segregated, so girls school and guys school. And it has its own benefit and disadvantages for sure. But one thing that it helped me that I never question myself as a woman, I never go and say I'm not good at math. And this hit me when I was in the UK first time and I had female classmate and they were so hesitant to ask question. And that was a time I realized because how the school was in Iran, we never question as a woman if we are smart enough because we were in the room full of women and and I would say that had a good impact. There are issues that globally people are aware of it, but it has some issues. It prevent at least me and my classmate to question ourselves as a woman if we are good enough to ask question if we are good enough to pursue science. So yeah, that's how I answer the question.
+
+Candace Gillhoolley [00:03:06]:
+Did you have support at home? Was Your mother professional?
+
+Sahar Hajazi [00:03:12]:
+My mom was teacher and my dad was also engineer and entrepreneur. They were very encouraging. But I would say the community and the school and friends also have big impact on your success. To have a good friend and good colleague, it always help you to grow.
+
+Candace Gillhoolley [00:03:31]:
+So after you were in Iran, were there other countries that you traveled to to continue your education?
+
+Sahar Hajazi [00:03:39]:
+Yes, after finishing my master, I moved to United Kingdom as a researcher. There I was working with optics and ion trapping. And after that I moved to Japan to get my PhD in quantum optics and Noemi. Then doing my second postdoc or done my second postdoc in superconducting qubits. And now I have the startup.
+
+Candace Gillhoolley [00:04:05]:
+Okay, so let me ask you then. So you said it was. You were very supported in school, you were surrounded by women, so you never felt like you were like the only woman or one of like three that were pursuing something in math and sciences. So when you went to the UK as a woman in computing, did you notice any kind of gender dynamics influencing how you were going to contribute?
+
+Sahar Hajazi [00:04:31]:
+Absolutely. That was the first time my class was biased, so or different than usual. My bachelor and master majority were Roma. And that's very unique that bachelor, master in physics and math, mostly women in Iran. So that was the first time I felt a little bit uncomfortable. Where are the girls, why they're not coming to the class? And then I see that girls are more passive to ask questions, to contribute to class, questioning themselves. I was teaching then as well and I have to push girls to be more involved and more active. And that never has happened before.
+
+Sahar Hajazi [00:05:09]:
+So for me was I had to put extra effort to bring the student to the class to be more involved. And that was interesting experience, I would say.
+
+Candace Gillhoolley [00:05:20]:
+So let me ask you, either in Iran or then when you were in the uk, were there any specific mentors or supporters that helped you recognize, you know, potentially your leadership, your leadership potential?
+
+Sahar Hajazi [00:05:36]:
+Not those countries. But when I moved to Japan, I had amazing mentor. I had two great mentor. I wrote their name to share with you. Gay Tripp and Sheila Nikormik, both been amazing mentor, helped me a lot. One physicist, one neuroscientist, and coming from different background, both women and really helped me to navigate my own journey. Not forcing me to do what they've been doing in their life to be successful, but understanding where I'm coming from, where I want to go and guide me in that line.
+
+Candace Gillhoolley [00:06:09]:
+So I think it's hard as a woman, you know, sometimes our confidence is shaken, sometimes we're uncomfortable. Maybe in a situation and we're not really sure how to navigate it. So how do you navigate moments when you feel less confident, especially when the stakes are high and you're trying to convey something deeply technical?
+
+Sahar Hajazi [00:06:29]:
+Well, I go always prepared. I always go prepared. I gather information I need. I know who I'm going to talk to, who is in the room. But always they come surprises. I generally step back and have a breath and then say we are in the new position. How we can interact and make communication with another human being. End of the day, back of our facade, we are human being and we want to know, we want to understand the person and problem and move forward.
+
+Sahar Hajazi [00:06:59]:
+So then I try to connect deeper and that's how generally overcome if there is a fear or judgment. I'm just like, they are also human. They have so many things going in their life and I want to connect with them and they want to connect with me me that way in the. They are in the room. That's one way I approach the problem.
+
+Candace Gillhoolley [00:07:19]:
+Okay, so let me, let me ask you this. So we've talked about confidence. Let's talk about doubt for a second. So when you're facing doubt internally, what's your process for deciding whether to speak up or to step back?
+
+Sahar Hajazi [00:07:33]:
+Doubt about myself or the situation.
+
+Candace Gillhoolley [00:07:36]:
+Like how you would, how you would approach it.
+
+Sahar Hajazi [00:07:39]:
+I think that really depends on the situation. Sometimes you, you doubt your judgment or your preparation for something and then you are in the position and you have to evaluate. Maybe you come unprepared, maybe you don't have all of the information. So it's sometimes good to listen and hear the other person, what they are saying. Maybe they are right and it doesn't reflect on me. You know, that's, that's me as a human being. I have a value for, for myself. But my knowledge and my skills, they are questionable.
+
+Sahar Hajazi [00:08:10]:
+I'm always developing, I'm always learning. So I separate myself from things that I provide. I also do some art and also do a sport. And yeah, sometimes I play tennis and it's really bad tennis, but it doesn't mean I'm a bad person. You know, that day didn't work, next day I'm going to do better. So as a human that has different aspect in the life, you cannot be always correct, you cannot be always confident, but you could always be kind to yourself.
+
+Candace Gillhoolley [00:08:39]:
+I think that's a fantastic point. I really do. I always tell people, you know what, why don't you give yourself some grace, right? Like you work hard, you try to be a good person, you Try to do wonderful things. Every once in a while you have to step back and say, you know, be kind to yourself the way you want your kind to other people. It's a hard thing. You know, when you were back in Iran, when you were studying, if I, if I recall you, you first were, they were having you focus on being an engineer, is that correct?
+
+Sahar Hajazi [00:09:13]:
+Exactly, yes.
+
+Candace Gillhoolley [00:09:15]:
+Okay, so. And that's kind of where they boxed you into doing that. So what first drew you away from engineering and into quantum.
+
+Sahar Hajazi [00:09:24]:
+Oh, so when I was back in Iran, mostly mechanical engineering was designed for men or majority of the student was men. So it was not possible to study mechanical engine. Later on they changed it and the closest things was maths and physics. And I like both of this field. And as I learned more about physics, I realized you can do all of the engineering based on physics and math. So like I go to the core and now I, I was more satisfied that yeah, there is a limitation, but always you can redirect your energy to somewhere else and then get the same level satisfaction and joy. But I want to go back to your ex question before, if I could do that, what I told you that ideal situation. That doesn't mean I don't question myself.
+
+Sahar Hajazi [00:10:19]:
+I, that doesn't mean I never come back out of meeting in tears and sad and why this thing goes wrong, why people, they judge me, why, why it is like that. But I always try after that, maybe after, after a few minutes, after an hour, after a walk, try to be kind to myself. And that what I explained that I don't want your audience take it wrong, that I always happy out of the meeting and nothing happened.
+
+Candace Gillhoolley [00:10:45]:
+That's fair, I guess. Totally fair. So I want to know more about Japan. Where were you, where were you studying in Japan and how long were you there for?
+
+Sahar Hajazi [00:10:56]:
+So I moved to Japan 2015 and I was there for seven and a half years, five and a half. I was a student there in Okinawa, a beautiful subtropical island. And I got my degree from oisd Okinawa Institute of Science and Technology.
+
+Candace Gillhoolley [00:11:15]:
+Now what drew you to go to Japan after you had been in England? If that, if I'm incorrect, you would gone from Iran to the UK and then went to Japan?
+
+Sahar Hajazi [00:11:26]:
+Yes, I actually met my mentor then in one of the conferences in the UK and we discussed about opportunities and what I like to do in my life and where I am. And she encouraged me to come to Japan. And I always wanted to go to Japan as lots of people they do and that was a great opportunity to go to see this institute that they were talking about and how it looked like. So I end up going there for a week and explore how is this institute, how they are integrating to the Japanese society, how they are pushing the science forward.
+
+Candace Gillhoolley [00:12:03]:
+Okay, okay. So you take all this international experience that you've had. How do you think that shaped your perspective on science and collaboration?
+
+Sahar Hajazi [00:12:15]:
+I would like to answer the collaboration part and doesn't need to be always the science. You as you leave different places you realize not the way you think is correct is the correct way. Not one way is the correct way of doing something. As I lived in the Europe and then later in in Japan and come back here, each country they have their own way of doing things and doesn't mean any of them is right or wrong. And then I had collaborator from all over the world. And you learned that this stop in this pose doesn't mean they are not going to do that. Maybe they are not the one talking that much based on their culture. They need time to go and process what you asked them and they come back to you with the correct answer.
+
+Sahar Hajazi [00:12:59]:
+And then you learn that to be more understanding and more agile to people's background and personality. And then if you're working in the science then that how you handle it. If you have a collaborator from China or Japan, it would be different. If you have a colleague from Australia or New Zealand, the personality different. And that is a big recognition that I have to learn how to interact with different people and what the pose mean, what how they get upset, how it is too much work, how it's too little work and it takes time and you learn. And personality is not just nationality. It's also you have to add the personality of people are different and their experiences.
+
+Candace Gillhoolley [00:13:46]:
+So your work bridges quantum research and real world application. How do you choose which problems you want to focus on or you feel like you you could really do something to come up with some solutions.
+
+Sahar Hajazi [00:14:00]:
+So at the moment I am reaching out to different companies that they are not quantum technology based company and explaining what is quantum. And it mostly would be who come back to me and what's the problem they have and how we can solve it. So that's how I choose what project we can do. So it's mostly the companies that they come back to me with the problem they have.
+
+Candace Gillhoolley [00:14:23]:
+Okay, what's one quantum concept or technology that you find most exciting right now and why?
+
+Sahar Hajazi [00:14:32]:
+I would say not just now, but when I explain quantum, let's say entanglement or measurement. I see people, their eyes start sparkling when I Say oh, how does it work? It look like these two particles, they entangle and you send one of them to the moon and then one of them is you and you rotate this one and what happened? I see people like this is, this is so strange. This is so cool. I never understand, I love this feedback from people that I get. And then lots of people now know about quantum, they read about it and then sometimes they've been sadly misinformed. So I try to fix that part and give them the reality. And sometimes there is a conversation with psychology and with different things and I'm like, yeah, I'm as physicist, I cannot go farther. So what excites me to tell people about the true physics and see their excitement.
+
+Sahar Hajazi [00:15:24]:
+But going toward technology, we are moving way forward than before with the technology. So hopefully in our lifetime we're going to use I would say personalized part of the quantum technology in our life and that excites me.
+
+Candace Gillhoolley [00:15:41]:
+Okay, that's very exciting. How do you explain the relevance of quantum tech to someone outside the scientific community and non technical person?
+
+Sahar Hajazi [00:15:51]:
+That's why it is important for them or why, why, why it's important just
+
+Candace Gillhoolley [00:15:56]:
+to know a little bit about it, you know how it's going to affect, affect our world. The kind of answers it can help provide.
+
+Sahar Hajazi [00:16:04]:
+Yeah, I take a little bit with, with the store back with the story that you may have a grandpa or grandma that they want the one to see that the light come to their room. So electricity is not that far. So we have people that that was the time they remember the time the electric their home or the town. Then television come, radio come and then these are for us it's things that we get it for granted. We don't question, we just switch the light and we have the light. The same with Internet. I think you might remember the time we didn't have Internet accessible for everyone. We used dial up, we didn't have a smartphone.
+
+Sahar Hajazi [00:16:44]:
+We used to go and find a location by map and how much it changed us. And then you can go toward pharmaceutical and how much it changed our life, how much we can protect people's life from deadly diseases and how we can cure them. So so much happen and then again AI is no more feasible to people that suddenly AI now is part of everyone now instead of googling lots of people they go and look at things in ChatGPT. So it is this next thing that's coming. So you have to know what it is. You might not want to use it now, but you have to know what it is the true concept of it and possibly how it's going to affect you.
+
+Candace Gillhoolley [00:17:27]:
+I agree. What do you think is the biggest misconception about quantum science right now in the general public?
+
+Sahar Hajazi [00:17:35]:
+Oh, there are a lot. And that's one of the things I've been doing a lot since I left academia. Misinformation. There are a lot of misinformation that what is quantum? And I get it, you want you to find a cool concept and you want to implement it to your business and using it. But it creates an illusion misunderstanding of what is quantum that I have to always go and fix. This is not quantum. You cannot talk about human connecting to another human by quantum because at the moment biological entities, they are warm enough so we cannot do this. It's little bit science fiction.
+
+Sahar Hajazi [00:18:12]:
+So I try to bring people to reality. But also what I would say also from academia view over promise. So many things. We over promise what we are going to achieve in five, 10 years. And now people are like where are the things you promise? Where is the quantum computer that you promise we are going to have? So there are miscommunication, misinformation, little bit over promising. And it's good to be optimistic. But also when we talk into public, we should be honest because then over time people judge you based on your honesty.
+
+Candace Gillhoolley [00:18:50]:
+So I mean it's interesting because you know, you were on the academic side and then you went over the bridge into industry. And I find there's a lot of people that are on the academic side that want to make that transition and they're not exactly sure on how to do it, what type of, what type of skills, the skill set should, should people start to develop if they're interested in making a transition from the academic to the industry side of quantum.
+
+Sahar Hajazi [00:19:21]:
+That's a big question. There are lots of now we have quantum scientists and there hopefully in future we are going to have industry that welcoming them. But the mindset should change. I think that one thing that when you are in academia, everything you do is to publish a paper to find something interesting for you to solve it. But when you go to industry, it's not always about something interesting. It's about how this could affect the society, how it's going to affect the product line, how it's going to change new feature of the system they already have. So it's not about your interest, it's about how it's going to benefit society. And that's, I think that the shift of mindset and not always you need to publish a paper to be useful so that's.
+
+Sahar Hajazi [00:20:07]:
+That's one thing I would say. And teamwork, Teamwork, Teamwork, teamwork. When you go to industry, you have to share all of your data, your information, your simulation with someone else and they're going to use it to build something more. In academia, sometimes people they hold things back to themselves because how academia is. So I would say they have to change their mindset that looking for collaboration, looking for how they are going to affect the society as large.
+
+Candace Gillhoolley [00:20:39]:
+What changes would you like to see in how institutions support women and underrepresented groups in the stem?
+
+Sahar Hajazi [00:20:51]:
+You know, I think I mentioned to you I've been part of different working group for female to bring more women more EDI work. We always have so much money, we don't know how to spend it and where we can spend it. It's a funny one. I know you're laughing, but sometimes you cannot spend money on the EDI easily because there is not that much thing has been done that you can bring people in and talk. But sometimes if the money that let's say in situ has to advertise EDI or help it should be more flexible that now you see a woman, it's not a problem. For example, in Sweden is going to have a kid. How are they going to pay their tuition fee? Maybe you need to support them financially. Maybe someone getting to the age that they're not going to have baby by themselves so they want to freeze their existence.
+
+Sahar Hajazi [00:21:45]:
+How you're going to do that? And maybe someone going to divorce. Maybe they need a psychology. So it's not one solution for all. And we doing that with the EDI that becomes. Oh, we have to put workshop and seminar. Yes, but if you help individual they are going to be successful, they're going to help someone else. So I think we need other support group for individual also to to help them through rough time. And doesn't go for women or minority.
+
+Sahar Hajazi [00:22:11]:
+It could for go for everyone. That having someone or organization within your organization that actually help you to be successful and overcome their life challenges.
+
+Candace Gillhoolley [00:22:24]:
+Okay, okay, so let me ask you this. Have you noticed any shifts in culture or opportunities for women in Quantum over the past decade?
+
+Sahar Hajazi [00:22:38]:
+Surely like when I was in UK over almost 12, 13 years ago, quantum was new. So talking about Quantum was a new concept and there were not that many companies that they would hiring. So now you see there are more opportunities for quantum physicists to join different startups or more bigger companies. I don't know how can I address female or minorities because there are limitations and I Don't have access to the real data. But for sure there are more opportunities. But how much this opportunity is distributed fairly, I cannot comment about that.
+
+Candace Gillhoolley [00:23:19]:
+Okay, so when you look back on your career so far, which decision felt the riskiest and ended up paying off the most?
+
+Sahar Hajazi [00:23:29]:
+Moving to Japan for sure. I totally thought that's what it was. I just want to hear you say,
+
+Candace Gillhoolley [00:23:34]:
+I just love it. Okay, so it's moving to Japan. It just. Did it just open up your whole world?
+
+Sahar Hajazi [00:23:39]:
+Absolutely. Because I had different perspective about how the Japanese institute work. And my institute was very different from what I heard. And also having really good environment to, to grow. And that was the first time I could be myself and feel comfortable. And I've been telling this to people that you should find a place you feel comfortable to be who you are and you can thrive. That was for me Okinawa. That's fantastic.
+
+Candace Gillhoolley [00:24:07]:
+That's fantastic. You know, you're not the only one who I've spoken to in the pre call before we tape of other, other women in Quantum that ended up going to Japan for seven to 10 years to get their doctorate and just completely change their perspective on things. Just opened it up. The whole society, the, the culture, the safeness of the society just really, it just really opened up so much for people. I think that's fantastic. So how would you. I'm sorry, how do you balance deep technical rigor with the need to communicate clearly to investors or partners or policymakers?
+
+Sahar Hajazi [00:24:58]:
+I would try to explain it to someone that has no idea like when I'm trying to say. And you never have to go with pre assumption, they know this. So then, then you build over it. It's always good to start from base and build over it. What is quantum? What is fundamental of quantum that is interesting. Which part of it using and where are you going give the whole journey but not with technical word, not with. With so much detail. These are the thing that people, if they want they can go back and learn or ask you, I would say tell the whole story, but very light story of where you are or what was your motivation of this project and where you're going to go.
+
+Candace Gillhoolley [00:25:39]:
+Okay, so what skills do you think future Quantum leaders will need that aren't taught. Excuse me, in the traditional physics programs.
+
+Sahar Hajazi [00:25:54]:
+Innovation. Innovation. I would say that's one thing that I see some of the universities now like Chalmers, they are trying to mix these things together. Innovation and management. I would say things that we don't learn in physics degree in general. And then when you're stepping out of academia or even staying in academia, you learn that you need to know about them.
+
+Candace Gillhoolley [00:26:19]:
+Have you ever experienced imposter syndrome in high level scientific spaces? And how did you work through it?
+
+Sahar Hajazi [00:26:29]:
+It's a. I want to tell you a story. We had this workshop about imposter syndrome. So we as a group of friends, we were going to do that to, to go to it. And then I saw my supervisor coming and I was like, like, why you are here? I was like, I also question myself. He is a white man. And he was like, yeah, I, of course I question myself. And that was a moment for me to realize someone that was my ideal model for academic achievement.
+
+Sahar Hajazi [00:26:57]:
+He also questioned himself. And as I go forward and ask Nobel Prize holders, they also say the same thing. So it comes to everyone, they come and question themselves. I think recognizing this that you are not only one questioning yourself and questioning position. Lots of people they do. I think there is A study shows 70% of women. For the position they are at. So knowing that you are one of the statistic that this is normal, this is normal, this is part of human nature.
+
+Sahar Hajazi [00:27:38]:
+And that's why you question and that's why you move forward. But it should not stop you from pursuing your dream.
+
+Candace Gillhoolley [00:27:47]:
+Well said. I like that. So what's one project or collaboration you're especially proud of and why did it matter to you personally?
+
+Sahar Hajazi [00:27:58]:
+Oh, there are so many things I can say, but I would say the most interesting one was working with people I never worked with. Like colleague from South Africa, for example. I never had a friend or colleague from South Africa. And over this collaboration you got to know about the culture, you got to know about geography, you get to know about food. So I always look at this like collaboration as opportunity to know about other people's life, who they are, where they coming from alongside of the main project you're going through that you learn quite a lot from each other, but also you can learn from their background. So I would say majority of the collaboration I had, except the main scientific achievement, I also made some friends through that. So that's what I can answer for this question. That most of them it was very fruitful collaboration.
+
+Candace Gillhoolley [00:28:55]:
+So how do you stay grounded and resilient in such a fast moving, high pressure field?
+
+Sahar Hajazi [00:29:03]:
+Mindfulness.
+
+Candace Gillhoolley [00:29:04]:
+Okay.
+
+Sahar Hajazi [00:29:06]:
+It's a rough time. Science is one part of it. You're always pushing the boundary, you're always questioning yourself, you are stepping in unknown. You're exploring something that doesn't exist. You don't know if when you're moving forward, you can explore it or not. But also when you go toward entrepreneurship again, you're going from zero to one and you're exploring if this is going to work and always questioning yourself. And this is the right choice. I think there is no right choice or wrong one is how we react, how we learn from it.
+
+Sahar Hajazi [00:29:39]:
+So this is like a river going and you are doing some experience or experiment in it and then what you take out of it. That's how I look at it.
+
+Candace Gillhoolley [00:29:47]:
+Okay, what. What role do storytelling and communication play in accelerating quantum adoption?
+
+Sahar Hajazi [00:30:02]:
+I would say we need example and fact more than a storytelling. We need to show this is example of quantum technology. Cancel one of the problem in automobile industry. We need to show there is a quantum sensing that we currently one company can use. Instead of storytelling. I would say we need actual example to show this is feasible. This is reality. This is not just a talking science.
+
+Sahar Hajazi [00:30:29]:
+We are moving to R and D. We are in the border of technology.
+
+Candace Gillhoolley [00:30:35]:
+So if you were designing the perfect quantum education pathway, what would you. What would you think is the most important to include
+
+Sahar Hajazi [00:30:47]:
+instead of the context? I would go back when we started and how we are starting it. I would like to go and talk to kids from the primary school and tell them about quantum and listen what they are dreaming about, what they can come with their energy, full energy. And then like creative mind that you give them some concept in quantum and let them draw, let them build something. And that's the part. And then don't suppress that, don't put in the box, no, this is wrong. You should not do this way. We have to go back because the quantum physics is very counterintuitive to our understanding as an adult. If you hear it and you say, oh, this is working well, then I would question you.
+
+Sahar Hajazi [00:31:30]:
+This is against what we have experienced in the whole world. This is completely new and we have to go back and let kids to understand quantum and play with it. And then we build over that till university.
+
+Candace Gillhoolley [00:31:47]:
+Okay, what excites you the most about the next generation of women entering quantum right now?
+
+Sahar Hajazi [00:31:59]:
+I don't know it excites me or not, but I wish that they know that not just in quantum physics, in anything that they do, there is no difference. If you want to do something, you can do it. It is if it is quantum physics. It's quantum physics. If you want to be top athletes, you can be. If you want to be mechanic and fixed car, you could be the. The best one. So you should never question yourself because you are woman.
+
+Sahar Hajazi [00:32:25]:
+And that's what I want to see in any woman. In next generation that they never question themselves or ability. They could say, oh I'm not good at it, I have to work harder, I have to practice more, I have to study more, but not because I'm woman. So go and find the problem and try to solve it the way that can be solved, not reflect on yourself.
+
+Candace Gillhoolley [00:32:49]:
+I like that, I like that. How do you see the relationship between industry adoption of quantum tech and academic research evolving?
+
+Sahar Hajazi [00:33:01]:
+I think we need more collaboration from earlier stage. We don't need to just go and talk to companies that they are already using Quantum are interested to use Quantum. We have to go find the industries that they are not interested that much, they don't know what is quantum and bring them in and then trying to develop a project together instead of just working and talking to people that they think the same way as us and they think this is a good idea, we need the opposite side. They say why they don't want to work with quantum, what is the barrier and that how we can stimulate more of the industry to come towards quantum.
+
+Candace Gillhoolley [00:33:39]:
+So how could, how can startups and mid sized companies be better supported in the quantum ecosystem?
+
+Sahar Hajazi [00:33:49]:
+Very good question. As you know quantum technology, if you want to actually build flower, build any of this system, you need quite a lot of money and not any startup can do it. So I think the financial support from government institute should go toward also supporting small and medium sized companies and also creating environment that you can share things between each other. It should not be one person get, or one company get this and buy this all of the equipment and no one else can use it. It should be like a library should go around and people, they use it and this would also help sustainability. Instead of we all buy same equipment and use it once maybe every week and that's then another company and institute have to buy it. We could share equipment, we could share resources together and it helps to develop the project forward.
+
+Candace Gillhoolley [00:34:44]:
+So let's look ahead 10 to 20 years. What is one development in Quantum technology you hope to see?
+
+Sahar Hajazi [00:34:55]:
+That's a really difficult part because I'm cheering for different branches of quantum technology. But I would like to see effect of it on biology and health care and then how we are going to for example fight cancer or other diseases that we get to the limit with biology or chemistry that we can push these things forward.
+
+Candace Gillhoolley [00:35:20]:
+Okay, what's a lesson that you've learned either technical or personal that you wish you'd known earlier in your career?
+
+Sahar Hajazi [00:35:31]:
+Oh, that's a really good question. I would say the first one is sometimes Changing the direction and pivoting doesn't mean failure. You have to learn that. This is a big lesson I think for lots of people in, in research or something. You pick, you are pursuing and you're trying and you're trying and you're trying and you learn you should never give up. You, you're, you are really good at resilient. But then at some point you have to realize when, when is the time you have to shift your energy to something else. And that shift doesn't mean failure.
+
+Sahar Hajazi [00:36:03]:
+That means didn't work. And that's a big lesson. I would say I wish I knew sooner and I tell so many of my mentees that redirection doesn't mean failure. Trying something different doesn't mean failure. If you give up or never start, that's a failure.
+
+Candace Gillhoolley [00:36:21]:
+Okay, I like that. Okay. Have you ever turned down an opportunity because it didn't align with your values or long term vision?
+
+Sahar Hajazi [00:36:30]:
+Absolutely, yes.
+
+Candace Gillhoolley [00:36:32]:
+And did you feel good about that opportunity, feel good about that decision?
+
+Sahar Hajazi [00:36:38]:
+Yes. Because I think you as a human, you have core values. And if, if what you're doing and the money that you're earning doesn't align with what, what make you happy and make you as a human doesn't align, then what you're doing. So I turned it down, the opportunity almost a year ago and was a big decision financially for me. But whenever I think I'm happy that I did that decision.
+
+Candace Gillhoolley [00:37:08]:
+Okay, what's one underrated role in the quantum ecosystem that deserves more visibility?
+
+Sahar Hajazi [00:37:17]:
+Management, Management and leadership. I want to say this. I work in different institute, different countries, work between different, between industry, between like research. So many times you see people that they are in the position of management. They don't know management skills, they don't have human skills. And they are, because of their academic achievement, they became supervisor, they became group leader, they became line manager. And they don't how to listen to someone, how to support them. So I think we need to teach people how to understand other human being and how to help them to grow.
+
+Sahar Hajazi [00:37:59]:
+And that's part of a supervisor job and then also other technical things with management. So I think we need to move toward different way of managing people.
+
+Candace Gillhoolley [00:38:12]:
+How do you think interdisciplinary collaboration will shape the next phase of quantum breakthroughs?
+
+Sahar Hajazi [00:38:20]:
+I think this has been an inevitable part of science. We always collaborated, we always inter exchange ideas and help each other to grow. And also now it's global, we have to do it globally. We cannot just limit it to one country. We don't have enough resources. It will have an impact. But also we have some limitation due to import export regulation that you cannot work with with specific group of people or this circumstances. But we have to see where, where we can find the middle that we can work together.
+
+Sahar Hajazi [00:38:56]:
+But also yeah, respect the regulation.
+
+Candace Gillhoolley [00:39:02]:
+So what personal habits or routines help you stay creative and focused in such a, in such complex work?
+
+Sahar Hajazi [00:39:12]:
+I would say doing a sport and doing my mindfulness and it's not always regular, I should say I don't want to create the ideal version of myself. But always when I have a problem and I stick with the problem doesn't mean just a quantum physics problem that I cannot solve. It could be other problems. Doing a sport, going hiking, taking a walk, take you back from the problem and you approached it differently. And then mindfulness and being kind to yourself. So I think these are the things and I'm adding to, to the list to help myself. But I would say sports and then mindfulness is the top of the list.
+
+Candace Gillhoolley [00:39:52]:
+Is there a failure or setback that ended up teaching you something essential?
+
+Sahar Hajazi [00:39:58]:
+Absolutely. It's not always. We just always talk about successes. We always look at the paper that got published, the research that was successful, the startup that make it out. But always there. If you see 10% you, you always see 10% of someone's work. So always you learn from a small to big failure that and sometimes it takes years to, to digest it and what, what could you done differently to. To be successful.
+
+Sahar Hajazi [00:40:29]:
+But I would say just remember when you look at someone's profile you see 10% of their effort and 90% was failure.
+
+Candace Gillhoolley [00:40:41]:
+Isn't that, isn't that true? I like that. How do you see community building influencing the success of quantum startups and research hubs?
+
+Sahar Hajazi [00:40:54]:
+Always community. We are human. We need community. And I could just go back to your previous questions about women. We need community. We need allies, we need mentorship, we need peer support. And the same with quantum startups and research institute. We need a connection between them.
+
+Sahar Hajazi [00:41:12]:
+We need things flowing between different organization and helping each other and connecting. This is, it's avoidable. We have to go toward communities in any direction we're going.
+
+Candace Gillhoolley [00:41:30]:
+So if you could change one thing about how the quantum industry operates today, what would that be and why?
+
+Sahar Hajazi [00:41:40]:
+I would say sustainability. We are not thinking about sustainability and that is bothering me. We're going to go forward in 20 years and then we are going to think how we can add part of sustainability to this workflow that everything's work. No, you cannot do that. You have to have a mental and understanding of sustainability from the beginning when you are producing a product. So I wish people more talk about sustainability in quantum technology.
+
+Candace Gillhoolley [00:42:15]:
+What's your definition of success in the context of pioneering a field like quantum
+
+Sahar Hajazi [00:42:21]:
+technology for the person or for the company?
+
+Candace Gillhoolley [00:42:26]:
+Do first for the person
+
+Sahar Hajazi [00:42:28]:
+I would say happiness and satisfaction. That's end of the day we going to work in different area. You are as someone in more communication as a scientist. End of the day when we go back, when we are 17, 18 years old, we want to be happy that we had a good influence on people and we feel like. Like we did something for society. So that's the part I I would say very important as a success for a person. When you look at back your look back at your career, you see that you had a positive impact on society. And it.
+
+Sahar Hajazi [00:43:05]:
+When I talk about society, it could be two person.
+
+Candace Gillhoolley [00:43:10]:
+Okay, if you were mentoring your younger self today, what would you tell her? First
+
+Sahar Hajazi [00:43:19]:
+I would say it's okay to fail and understand that the failure is not really failure is redirection. And that's okay. That doesn't. That's not end point. You have more to live and more to explore and more to learn. That's one big lesson that was not expected to learn.
+
+Candace Gillhoolley [00:43:39]:
+Now that's going to be my cold open. I'm very excited about that. Okay, so how do you personally define impact in your work?
+
+Sahar Hajazi [00:43:51]:
+Well, because now I'm working in industry, impact would be generally more characterized by the financial reward or change the sales. So that's one way. But then for me personal impact is to see that we are going to use quantum technology in the areas we didn't think about it.
+
+Candace Gillhoolley [00:44:11]:
+Okay. Okay. How do you evaluate whether hype is helping or hurting the field?
+
+Sahar Hajazi [00:44:19]:
+Oh, that's a hard question. But I could say no, the hype is doing both. And we are quantum. We're talking about quantum. So I could say it is doing both till you do the measurement and depends on when do you do the measurement. It could be it could have a positive impact or negative impact. The hype we have in quantum technology. So I think now we have both and depends on what you're measuring.
+
+Candace Gillhoolley [00:44:45]:
+What's one area of quantum research you think deserves more funding and attention?
+
+Sahar Hajazi [00:44:52]:
+Interdisciplinary, we need to go toward different field. We need to go toward biology, we need to work quantum chemistry. We need to go to the areas that we never explore. Quantum can be helpful. So those areas I think we need to more be more generous with funding toward them.
+
+Candace Gillhoolley [00:45:12]:
+What's been your most surprising learning experience outside of physics that Shaped your leadership style
+
+Sahar Hajazi [00:45:24]:
+that you have to be patient. You have to learn to be patient. And not things would work the way you wish things would work. And living in different countries learn teach you how different society function. And that's a part takes some time for you to understand how the society works and how you can build the trust. How can you build a community around yourself and how can you help them. So being patient when you are learning in your career.
+
+Candace Gillhoolley [00:45:59]:
+Let me ask you what's one assumption about quantum technology that you think needs to be challenged right now?
+
+Sahar Hajazi [00:46:08]:
+Concept?
+
+Candace Gillhoolley [00:46:10]:
+Yes or one assumption?
+
+Sahar Hajazi [00:46:13]:
+One assumption. I think there are few of them. I think we talk about it. We little bit over promise. There is a bit misinformation. We have to go back and fix so many of the things society thinks about physics that you going to have a quantum computer at home in 10 years. This is not going to happen. If you need it, you will use it online.
+
+Sahar Hajazi [00:46:38]:
+And it would be overclouded. If you are going to use quantum sensing is not going to be big equipment that you have to carry. It might be another provider like do the same measurement and simulation and you get to access data. So you would not as a general audience, general public. You would not directly use quantum machines. But you would use quantum technology through different platform.
+
+Candace Gillhoolley [00:47:05]:
+Okay, and how do you approach leadership differently as a woman in a highly technical field?
+
+Sahar Hajazi [00:47:17]:
+As a woman to be the position of leadership or as a woman?
+
+Candace Gillhoolley [00:47:21]:
+As a woman in leadership, you know.
+
+Sahar Hajazi [00:47:23]:
+Well, that's a big question. And not just in quantum technology. As a woman in the glass ceiling, you always have issues that you have to deal with. If you are assertive, you might consider be considered as aggressive. If you are very clear about your communication, then you then you get different labels. I think you should be okay with to be uncomfortable. We have as a woman we have to learn that this. The society was not made for women by women.
+
+Sahar Hajazi [00:47:54]:
+So you have to make change. And this is going to take years. I hope it's not hundred years, but years and years things to change. And be aware that you are living in the society was not designed or made for you. And you have to. You could change. And lots of people they have changed to be more masculine side of them to to drive. Because that's what especially in the leadership expected.
+
+Sahar Hajazi [00:48:23]:
+But you have to change small and be supported supporting other women. Be understanding the challenges you have and not expect things would change maybe within your lifetime. But this is a small step for future. So I would say be realistic, be resilient and also be supportive to other people.
+
+Candace Gillhoolley [00:48:46]:
+And I think that's a great place to leave this. This was an absolutely fantastic, fantastic conversation. I feel very honored that we could discuss this and we can talk about, you know, why there is so much room for women in Quantum.
+
+Sahar Hajazi [00:49:05]:
+Absolutely. Yep. Thank you so much for having me. It was very great conversation. There is more to say and more to learn. But maybe we leave it for now. Okay.
+
+Candace Gillhoolley [00:49:16]:
+And then we'll come back and have another. Another. Another talk. How does that sound?
+
+Sahar Hajazi [00:49:19]:
+That sounds perfect.

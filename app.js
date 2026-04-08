@@ -36,23 +36,23 @@ const transcriptClusters = [
     summary: "Across the series, guests return to non-linear careers, stepping into quantum from adjacent disciplines, and learning in public rather than waiting for perfect credentials.",
     themeFamily: "career",
     themes: ["Career pivots", "Interdisciplinary paths", "Commercial translation"],
-    episodes: ["Anna Beata", "Sabine", "Sara", "Petra", "Jennifer"]
+    episodes: ["Anna Beata", "Sabine", "Sara", "Petra", "Jennifer", "Sahar"]
   },
   {
     id: "human-signals",
     title: "Human Signals",
     summary: "The conversations repeatedly center confidence, curiosity, leadership, and the practical challenge of sustaining ambition without losing the human part of the work.",
     themeFamily: "human",
-    themes: ["Curiosity", "Confidence", "Leadership", "Community"],
-    episodes: ["Anna Beata", "Devika", "Sabine", "Jennifer", "Sierra"]
+    themes: ["Curiosity", "Confidence", "Leadership", "Community", "Mentorship"],
+    episodes: ["Anna Beata", "Devika", "Sabine", "Jennifer", "Sierra", "Sahar"]
   },
   {
     id: "technical-signals",
     title: "Technical Signals",
     summary: "A second cluster connects applied themes such as networking, security, useful infrastructure, and making quantum approachable beyond pure research settings.",
     themeFamily: "technical",
-    themes: ["Security by design", "Quantum networking", "Accessibility", "Applied infrastructure"],
-    episodes: ["Devika", "Marie-Eve", "Petra", "Sara"]
+    themes: ["Security by design", "Quantum networking", "Accessibility", "Applied infrastructure", "Real-world translation"],
+    episodes: ["Devika", "Marie-Eve", "Petra", "Sara", "Sahar"]
   }
 ];
 
@@ -152,6 +152,18 @@ const transcriptNodes = [
     top: 16,
     themes: ["security", "networking", "applied-infrastructure"],
     detailSummary: "Marie-Eve concentrates the technical side of the map around networking, infrastructure, and designing future systems with security in mind."
+  },
+  {
+    id: "episode-9",
+    type: "episode",
+    guestId: "sahar-hejazi",
+    guestName: "Sahar Hejazi",
+    label: "Episode 9",
+    subtitle: "Leadership, mentorship, and translating quantum beyond academia",
+    left: 50,
+    top: 88,
+    themes: ["confidence", "leadership", "mentorship", "real-world-translation"],
+    detailSummary: "Sahar adds a strong bridge between leadership, mentorship, and the practical work of translating quantum from research into real-world impact."
   }
 ];
 
@@ -229,6 +241,15 @@ const themeNodes = [
     top: 42
   },
   {
+    id: "mentorship",
+    type: "theme",
+    family: "human",
+    label: "Mentorship",
+    subtitle: "Supportive mentors and visible allies help people navigate the field without losing themselves.",
+    left: 34,
+    top: 82
+  },
+  {
     id: "applied-infrastructure",
     type: "theme",
     family: "technical",
@@ -236,6 +257,15 @@ const themeNodes = [
     subtitle: "The show repeatedly returns to systems, tools, and usable deployment rather than theory alone.",
     left: 76,
     top: 42
+  },
+  {
+    id: "real-world-translation",
+    type: "theme",
+    family: "technical",
+    label: "Real-World Translation",
+    subtitle: "A recurring challenge is moving quantum ideas out of the lab and into language, products, and decisions people can use.",
+    left: 66,
+    top: 82
   }
 ];
 
