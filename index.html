@@ -89,31 +89,53 @@
       </aside>
     </main>
 
-    <header class="hero">
-      <div class="hero-copy">
-        <div class="hero-title-row">
-          <img class="hero-logo" src="logo.jpg" alt="Women in Quantum logo">
-          <div class="hero-title-block">
-            <p class="eyebrow">Quantum storytelling archive</p>
-            <h1>Women in Quantum</h1>
-          </div>
+    <section class="insights-panel" aria-labelledby="theme-map-heading">
+      <div class="insights-header">
+        <div>
+          <p class="section-kicker">Transcript Theme Map</p>
+          <h2 id="theme-map-heading">Common ideas carried across the Women in Quantum conversations.</h2>
         </div>
-        <p class="hero-text">
-          A living page featuring every woman who has appeared on the show. Each portrait opens a feature card
-          with a pull quote, episode clip, infographic, and LinkedIn profile.
+        <p class="insights-note">
+          Prototype built from the 8 Women in Quantum transcript assignments currently mapped in this project, showing the ideas that echo from one episode to another.
         </p>
       </div>
-      <div class="hero-notes">
-        <div>
-          <span class="note-label">What you can add</span>
-          <p>Portraits, pull quotes, video clips, LinkedIn links, transcripts, and one infographic per guest.</p>
-        </div>
-        <div>
-          <span class="note-label">How it works</span>
-          <p>Update the guest entries in the data file and the gallery plus feature card refresh automatically.</p>
-        </div>
+
+      <div class="theme-overview" id="theme-overview" aria-label="Theme overview cards"></div>
+
+      <div class="theme-map-layout">
+        <section class="theme-map-panel">
+          <div class="group-heading">
+            <p class="section-kicker">Interactive Graph</p>
+            <h3>Click a theme or episode node to see how ideas connect across the series.</h3>
+          </div>
+          <div class="theme-legend" aria-label="Theme legend">
+            <span><i class="legend-dot legend-dot--career"></i>Career themes</span>
+            <span><i class="legend-dot legend-dot--human"></i>Human themes</span>
+            <span><i class="legend-dot legend-dot--technical"></i>Technical themes</span>
+          </div>
+          <div class="theme-map" id="theme-map" role="img" aria-label="Interactive network map of Women in Quantum transcript themes"></div>
+        </section>
+
+        <aside class="theme-detail-panel" id="theme-detail-panel" aria-live="polite">
+          <p class="empty-kicker">Theme Lens</p>
+          <h3 id="theme-detail-title">Select a node</h3>
+          <p class="theme-detail-summary" id="theme-detail-summary">
+            Choose a theme to see which episodes reinforce it, or choose an episode to see the strongest recurring ideas it shares with the rest of the series.
+          </p>
+          <div class="theme-detail-meta">
+            <div>
+              <span>Connected episodes</span>
+              <ul id="theme-detail-episodes"></ul>
+            </div>
+            <div>
+              <span>Shared ideas</span>
+              <ul id="theme-detail-themes"></ul>
+            </div>
+          </div>
+        </aside>
       </div>
-    </header>
+    </section>
+
   </div>
 
   <script src="data.js"></script>
