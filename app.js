@@ -13,7 +13,9 @@ const featureName = document.getElementById("feature-name");
 const featureRole = document.getElementById("feature-role");
 const featureCompany = document.getElementById("feature-company");
 const featureQuote = document.getElementById("feature-quote");
+const featureReleaseNote = document.getElementById("feature-release-note");
 const featureLinkedin = document.getElementById("feature-linkedin");
+const featureMediaGrid = document.getElementById("feature-media-grid");
 const featureClipLabel = document.getElementById("feature-clip-label");
 const featureClipSlot = document.getElementById("feature-clip-slot");
 const featureInfoLabel = document.getElementById("feature-info-label");
@@ -539,6 +541,120 @@ function createPortraitMarkup(guest) {
   return `<div class="avatar-fallback" aria-hidden="true">${initialsFor(guest.name)}</div>`;
 }
 
+function youtubeEmbedUrl(url) {
+  if (!url) {
+    return "";
+  }
+
+  const shortMatch = url.match(/youtube\.com\/shorts\/([^?&/]+)/i);
+  if (shortMatch) {
+    return `https://www.youtube-nocookie.com/embed/${shortMatch[1]}?playsinline=1&rel=0`;
+  }
+
+  const watchMatch = url.match(/[?&]v=([^?&/]+)/i);
+  if (watchMatch) {
+    return `https://www.youtube-nocookie.com/embed/${watchMatch[1]}?playsinline=1&rel=0`;
+  }
+
+  const shareMatch = url.match(/youtu\.be\/([^?&/]+)/i);
+  if (shareMatch) {
+    return `https://www.youtube-nocookie.com/embed/${shareMatch[1]}?playsinline=1&rel=0`;
+  }
+
+  return "";
+}
+
+function youtubeVideoId(url) {
+  if (!url) {
+    return "";
+  }
+
+  const shortMatch = url.match(/youtube\.com\/shorts\/([^?&/]+)/i);
+  if (shortMatch) {
+    return shortMatch[1];
+  }
+
+  const watchMatch = url.match(/[?&]v=([^?&/]+)/i);
+  if (watchMatch) {
+    return watchMatch[1];
+  }
+
+  const shareMatch = url.match(/youtu\.be\/([^?&/]+)/i);
+  if (shareMatch) {
+    return shareMatch[1];
+  }
+
+  return "";
+}
+
+function mediaTypeForUrl(url) {
+  if (!url) {
+    return "";
+  }
+
+  const cleanUrl = url.split("?")[0].toLowerCase();
+
+  if (/\.(mp4|webm|mov|m4v)$/.test(cleanUrl)) {
+    return "video";
+  }
+
+  if (/\.(mp3|wav|m4a|ogg)$/.test(cleanUrl)) {
+    return "audio";
+  }
+
+  return "";
+}
+
+function youtubeEmbedPreviewSrcdoc(title, thumbnailUrl, embedUrl) {
+  const safeTitle = (title || "Episode clip")
+    .replace(/&/g, "&amp;")
+    .replace(/"/g, "&quot;")
+    .replace(/</g, "&lt;")
+    .replace(/>/g, "&gt;");
+  const safeThumbnail = (thumbnailUrl || "").replace(/&/g, "&amp;").replace(/"/g, "&quot;");
+  const safeEmbed = `${embedUrl}${embedUrl.includes("?") ? "&" : "?"}autoplay=1`
+    .replace(/&/g, "&amp;")
+    .replace(/"/g, "&quot;");
+
+  return `
+    <!doctype html>
+    <html lang="en">
+      <head>
+        <style>
+          * { box-sizing: border-box; margin: 0; }
+          body {
+            display: grid;
+            place-items: center;
+            width: 100vw;
+            height: 100vh;
+            background: #0f1720 center / cover no-repeat url('${safeThumbnail}');
+            font-family: Arial, sans-serif;
+          }
+          a {
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
+            min-width: 132px;
+            min-height: 46px;
+            padding: 0 18px;
+            border-radius: 999px;
+            background: rgba(11, 15, 29, 0.82);
+            border: 1px solid rgba(255, 255, 255, 0.18);
+            color: #eef5ff;
+            font-weight: 700;
+            text-decoration: none;
+          }
+        </style>
+      </head>
+      <body>
+        <a href="${safeEmbed}" aria-label="Play ${safeTitle}">Play clip</a>
+      </body>
+    </html>
+  `
+    .replace(/\n\s+/g, " ")
+    .trim();
+}
+
 function renderClip(guest) {
   if (guest.clipSrc) {
     const poster = guest.clipPoster ? ` poster="${guest.clipPoster}"` : "";
@@ -551,9 +667,52 @@ function renderClip(guest) {
   }
 
   if (guest.clipExternalUrl) {
+    const embedUrl = youtubeEmbedUrl(guest.clipExternalUrl);
+    const youtubeId = youtubeVideoId(guest.clipExternalUrl);
+    const mediaType = mediaTypeForUrl(guest.clipExternalUrl);
+
+    if (embedUrl) {
+      const thumbnailUrl =
+        guest.clipPoster || (youtubeId ? `https://i.ytimg.com/vi/${youtubeId}/hqdefault.jpg` : "");
+      const previewSrcdoc = youtubeEmbedPreviewSrcdoc(`${guest.name} episode clip`, thumbnailUrl, embedUrl);
+      return `
+        <div class="clip-embed">
+          <iframe
+            src="${embedUrl}"
+            srcdoc="${previewSrcdoc}"
+            title="${guest.name} episode clip"
+            loading="lazy"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+            allowfullscreen
+          ></iframe>
+          <a class="asset-link" href="${guest.clipExternalUrl}" target="_blank" rel="noreferrer">Open on YouTube</a>
+        </div>
+      `;
+    }
+
+    if (mediaType === "video") {
+      return `
+        <video controls preload="metadata">
+          <source src="${guest.clipExternalUrl}">
+          Your browser does not support the video tag.
+        </video>
+      `;
+    }
+
+    if (mediaType === "audio") {
+      return `
+        <div class="clip-audio">
+          <audio controls preload="metadata">
+            <source src="${guest.clipExternalUrl}">
+            Your browser does not support the audio tag.
+          </audio>
+        </div>
+      `;
+    }
+
     return `
       <div class="clip-fallback">
-        <p>Add a hosted clip link for this guest.</p>
+        <p>Hosted clip available for this guest.</p>
         <a class="asset-link" href="${guest.clipExternalUrl}" target="_blank" rel="noreferrer">Open clip</a>
       </div>
     `;
@@ -592,6 +751,7 @@ function renderInfographic(guest) {
 
 function renderDetail(guest) {
   activeGuestId = guest.id;
+  const isUnreleased = Boolean(guest.releaseStatus);
 
   detailEmpty.classList.add("is-hidden");
   featureCard.classList.remove("is-hidden");
@@ -599,14 +759,18 @@ function renderDetail(guest) {
   featureRole.textContent = detailRole(guest);
   featureName.textContent = guest.name;
   featureCompany.textContent = guest.company;
-  featureQuote.textContent = `"${guest.quote}"`;
+  featureQuote.textContent = isUnreleased ? "" : `"${guest.quote}"`;
+  featureQuote.classList.toggle("is-hidden", isUnreleased);
+  featureReleaseNote.textContent = guest.releaseStatus || "";
+  featureReleaseNote.classList.toggle("is-hidden", !isUnreleased);
   featureLinkedin.href = guest.linkedinUrl || "#";
   featureClipLabel.textContent = guest.clipLabel || "";
   featureInfoLabel.textContent = guest.infographicLabel || "";
   featureEpisode.textContent = guest.episode;
   featureFocus.textContent = guest.focus;
-  featureClipSlot.innerHTML = renderClip(guest);
-  featureInfoSlot.innerHTML = renderInfographic(guest);
+  featureMediaGrid.classList.toggle("is-hidden", isUnreleased);
+  featureClipSlot.innerHTML = isUnreleased ? "" : renderClip(guest);
+  featureInfoSlot.innerHTML = isUnreleased ? "" : renderInfographic(guest);
 
   document.querySelectorAll(".portrait-button").forEach((button) => {
     button.classList.toggle("is-active", button.dataset.guestId === guest.id);
