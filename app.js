@@ -66,8 +66,8 @@ const transcriptNodes = [
     guestName: "Anna Beata Hedegaard",
     label: "Episode 1",
     subtitle: "Fearless curiosity and human-centered leadership",
-    left: 16,
-    top: 16,
+    left: 12,
+    top: 14,
     themes: ["curiosity", "leadership", "accessibility"],
     detailSummary: "Anna Beata anchors the map around fearless curiosity, human-centered leadership, and making quantum feel navigable for people entering from different backgrounds."
   },
@@ -78,8 +78,8 @@ const transcriptNodes = [
     guestName: "Devika Mehra",
     label: "Episode 2",
     subtitle: "Confidence, resilience, and security-first thinking",
-    left: 16,
-    top: 42,
+    left: 10,
+    top: 35,
     themes: ["confidence", "leadership", "security"],
     detailSummary: "Devika links the human side of confidence and resilience to a more infrastructure-oriented conversation about building secure systems from the start."
   },
@@ -90,8 +90,8 @@ const transcriptNodes = [
     guestName: "Sabine Mehr",
     label: "Episode 3",
     subtitle: "Bridging business, engineering, and family life",
-    left: 16,
-    top: 70,
+    left: 12,
+    top: 60,
     themes: ["career-pivots", "leadership", "community"],
     detailSummary: "Sabine’s episode reinforces that quantum careers can sit at the intersection of business, engineering, and real-life tradeoffs, not just research credentials."
   },
@@ -102,8 +102,8 @@ const transcriptNodes = [
     guestName: "Sara Metwalli",
     label: "Episode 4",
     subtitle: "Breaking in through curiosity, coding, and applications",
-    left: 36,
-    top: 86,
+    left: 35,
+    top: 94,
     themes: ["accessibility", "career-pivots", "applied-infrastructure"],
     detailSummary: "Sara pushes the graph toward practical access: entering through engineering, learning by doing, and connecting abstract quantum ideas to real applications."
   },
@@ -114,8 +114,8 @@ const transcriptNodes = [
     guestName: "Jennifer Prendki",
     label: "Episode 5",
     subtitle: "Confidence, leadership, and ignoring the noise",
-    left: 64,
-    top: 86,
+    left: 66,
+    top: 94,
     themes: ["confidence", "leadership", "career-pivots"],
     detailSummary: "Jennifer sharpens the confidence cluster and adds a strong signal around executive presence, leadership, and continuing forward despite noise."
   },
@@ -126,8 +126,8 @@ const transcriptNodes = [
     guestName: "Sierra Clouse",
     label: "Episode 6",
     subtitle: "Taking chances and building through trust",
-    left: 84,
-    top: 70,
+    left: 88,
+    top: 61,
     themes: ["confidence", "community", "career-pivots"],
     detailSummary: "Sierra extends the community and confidence clusters, emphasizing opportunity, trust, and the importance of people willing to take a chance on emerging talent."
   },
@@ -138,8 +138,8 @@ const transcriptNodes = [
     guestName: "Petra Soderling",
     label: "Episode 7",
     subtitle: "Breaking the PhD stereotype around quantum work",
-    left: 84,
-    top: 42,
+    left: 90,
+    top: 35,
     themes: ["accessibility", "career-pivots", "applied-infrastructure"],
     detailSummary: "Petra is a major bridge node for accessibility, showing that quantum work does not require a single academic path and can benefit from business fluency."
   },
@@ -150,8 +150,8 @@ const transcriptNodes = [
     guestName: "Marie-Eve Boulanger",
     label: "Episode 8",
     subtitle: "Security-forward networking infrastructure",
-    left: 84,
-    top: 16,
+    left: 88,
+    top: 14,
     themes: ["security", "networking", "applied-infrastructure"],
     detailSummary: "Marie-Eve concentrates the technical side of the map around networking, infrastructure, and designing future systems with security in mind."
   },
@@ -162,7 +162,7 @@ const transcriptNodes = [
     guestName: "Sahar Hejazi",
     label: "Episode 9",
     subtitle: "Leadership, mentorship, and translating quantum beyond academia",
-    left: 50,
+    left: 78,
     top: 88,
     themes: ["confidence", "leadership", "mentorship", "real-world-translation"],
     detailSummary: "Sahar adds a strong bridge between leadership, mentorship, and the practical work of translating quantum from research into real-world impact."
@@ -176,8 +176,8 @@ const themeNodes = [
     family: "human",
     label: "Curiosity",
     subtitle: "The recurring permission to explore without having every answer first.",
-    left: 34,
-    top: 18
+    left: 31,
+    top: 16
   },
   {
     id: "leadership",
@@ -185,8 +185,8 @@ const themeNodes = [
     family: "human",
     label: "Leadership",
     subtitle: "Human-centered leadership, voice, and responsibility show up across multiple episodes.",
-    left: 50,
-    top: 28
+    left: 48,
+    top: 24
   },
   {
     id: "security",
@@ -194,8 +194,8 @@ const themeNodes = [
     family: "technical",
     label: "Security By Design",
     subtitle: "Build security into quantum infrastructure early instead of bolting it on later.",
-    left: 66,
-    top: 18
+    left: 69,
+    top: 16
   },
   {
     id: "career-pivots",
@@ -203,8 +203,8 @@ const themeNodes = [
     family: "career",
     label: "Career Pivots",
     subtitle: "Non-linear paths into quantum are normal, useful, and often an advantage.",
-    left: 34,
-    top: 54
+    left: 24,
+    top: 44
   },
   {
     id: "accessibility",
@@ -212,8 +212,8 @@ const themeNodes = [
     family: "career",
     label: "Accessibility",
     subtitle: "Quantum becomes stronger when the field is understandable beyond a narrow expert circle.",
-    left: 50,
-    top: 66
+    left: 44,
+    top: 69
   },
   {
     id: "networking",
@@ -221,8 +221,8 @@ const themeNodes = [
     family: "technical",
     label: "Quantum Networking",
     subtitle: "Infrastructure, communication, and entanglement-aware systems form a distinct technical thread.",
-    left: 66,
-    top: 54
+    left: 71,
+    top: 52
   },
   {
     id: "confidence",
@@ -230,8 +230,8 @@ const themeNodes = [
     family: "human",
     label: "Confidence",
     subtitle: "Several guests describe confidence as persistence, not certainty.",
-    left: 50,
-    top: 44
+    left: 49,
+    top: 40
   },
   {
     id: "community",
@@ -239,8 +239,8 @@ const themeNodes = [
     family: "human",
     label: "Community",
     subtitle: "Progress often depends on trust, advocates, and people willing to open doors.",
-    left: 24,
-    top: 42
+    left: 31,
+    top: 58
   },
   {
     id: "mentorship",
@@ -248,8 +248,8 @@ const themeNodes = [
     family: "human",
     label: "Mentorship",
     subtitle: "Supportive mentors and visible allies help people navigate the field without losing themselves.",
-    left: 34,
-    top: 82
+    left: 27,
+    top: 88
   },
   {
     id: "applied-infrastructure",
@@ -257,8 +257,8 @@ const themeNodes = [
     family: "technical",
     label: "Applied Infrastructure",
     subtitle: "The show repeatedly returns to systems, tools, and usable deployment rather than theory alone.",
-    left: 76,
-    top: 42
+    left: 82,
+    top: 45
   },
   {
     id: "real-world-translation",
@@ -266,8 +266,8 @@ const themeNodes = [
     family: "technical",
     label: "Real-World Translation",
     subtitle: "A recurring challenge is moving quantum ideas out of the lab and into language, products, and decisions people can use.",
-    left: 66,
-    top: 82
+    left: 58,
+    top: 81
   }
 ];
 
@@ -587,6 +587,16 @@ function youtubeVideoId(url) {
   return "";
 }
 
+function youtubeThumbnailUrl(url) {
+  const videoId = youtubeVideoId(url);
+
+  if (!videoId) {
+    return "";
+  }
+
+  return `https://i.ytimg.com/vi/${videoId}/hqdefault.jpg`;
+}
+
 function mediaTypeForUrl(url) {
   if (!url) {
     return "";
@@ -605,56 +615,6 @@ function mediaTypeForUrl(url) {
   return "";
 }
 
-function youtubeEmbedPreviewSrcdoc(title, thumbnailUrl, embedUrl) {
-  const safeTitle = (title || "Episode clip")
-    .replace(/&/g, "&amp;")
-    .replace(/"/g, "&quot;")
-    .replace(/</g, "&lt;")
-    .replace(/>/g, "&gt;");
-  const safeThumbnail = (thumbnailUrl || "").replace(/&/g, "&amp;").replace(/"/g, "&quot;");
-  const safeEmbed = `${embedUrl}${embedUrl.includes("?") ? "&" : "?"}autoplay=1`
-    .replace(/&/g, "&amp;")
-    .replace(/"/g, "&quot;");
-
-  return `
-    <!doctype html>
-    <html lang="en">
-      <head>
-        <style>
-          * { box-sizing: border-box; margin: 0; }
-          body {
-            display: grid;
-            place-items: center;
-            width: 100vw;
-            height: 100vh;
-            background: #0f1720 center / cover no-repeat url('${safeThumbnail}');
-            font-family: Arial, sans-serif;
-          }
-          a {
-            display: inline-flex;
-            align-items: center;
-            justify-content: center;
-            min-width: 132px;
-            min-height: 46px;
-            padding: 0 18px;
-            border-radius: 999px;
-            background: rgba(11, 15, 29, 0.82);
-            border: 1px solid rgba(255, 255, 255, 0.18);
-            color: #eef5ff;
-            font-weight: 700;
-            text-decoration: none;
-          }
-        </style>
-      </head>
-      <body>
-        <a href="${safeEmbed}" aria-label="Play ${safeTitle}">Play clip</a>
-      </body>
-    </html>
-  `
-    .replace(/\n\s+/g, " ")
-    .trim();
-}
-
 function renderClip(guest) {
   if (guest.clipSrc) {
     const poster = guest.clipPoster ? ` poster="${guest.clipPoster}"` : "";
@@ -668,25 +628,23 @@ function renderClip(guest) {
 
   if (guest.clipExternalUrl) {
     const embedUrl = youtubeEmbedUrl(guest.clipExternalUrl);
-    const youtubeId = youtubeVideoId(guest.clipExternalUrl);
     const mediaType = mediaTypeForUrl(guest.clipExternalUrl);
 
     if (embedUrl) {
-      const thumbnailUrl =
-        guest.clipPoster || (youtubeId ? `https://i.ytimg.com/vi/${youtubeId}/hqdefault.jpg` : "");
-      const previewSrcdoc = youtubeEmbedPreviewSrcdoc(`${guest.name} episode clip`, thumbnailUrl, embedUrl);
+      const posterSrc =
+        guest.clipPoster || guest.imageSrc || youtubeThumbnailUrl(guest.clipExternalUrl);
+      const posterAlt = guest.clipLabel
+        ? `${guest.clipLabel} for ${guest.name}`
+        : `${guest.name} episode clip`;
+
       return `
-        <div class="clip-embed">
-          <iframe
-            src="${embedUrl}"
-            srcdoc="${previewSrcdoc}"
-            title="${guest.name} episode clip"
-            loading="lazy"
-            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-            allowfullscreen
-          ></iframe>
-          <a class="asset-link" href="${guest.clipExternalUrl}" target="_blank" rel="noreferrer">Open on YouTube</a>
-        </div>
+        <a class="clip-thumb-link" href="${guest.clipExternalUrl}" target="_blank" rel="noreferrer" aria-label="Open YouTube clip for ${guest.name}">
+          <div class="clip-thumb">
+            <img src="${posterSrc}" alt="${posterAlt}">
+            <span class="clip-thumb__play" aria-hidden="true"></span>
+            <span class="clip-thumb__label">Play on YouTube</span>
+          </div>
+        </a>
       `;
     }
 
