@@ -1,0 +1,308 @@
+Noel Ibrahim [00:00:00]:
+So they would cast these images on the wall of these very psychedelic, colorful designs that everyone would love. And I got curious about how those designs came about and it turned out that they were fractals. And so the fact that they were mathematically generated really captured my imagination. And I, you know, this was back in the late, oh, sorry, not even late, but like early 90s that people were just getting PCs and I had like a little program that ran on our family P that could generate like the Mandelbrot set, fractal, etc. And I'd torture my friends by bringing them over and, and showing them how this worked. Welcome to Women in Quantum.
+
+Candace Gillhoolley [00:00:49]:
+Hi, I'm Candice and this is Women in Quantum. This is where we go beyond the job titles and into the real stories. How women find their way into Quantum, what keeps them there and what they're building at the edge of what's possible. Because there's no single path into this space. Just curiosity, persistence, and moments that quietly change everything. If you've ever wondered where you might fit in in Quantum, you're in the right place. Today we have Noel Ibrahim. She is an independent consultant.
+
+Candace Gillhoolley [00:01:27]:
+Good morning, Noel. How are you?
+
+Noel Ibrahim [00:01:29]:
+Great, thank you. Thanks for having me, Candace. It's a real pleasure to be here and thanks for the great introduction.
+
+Candace Gillhoolley [00:01:37]:
+Well, thank you so much. I always like to start off with, can you tell me where you were born and raised?
+
+Noel Ibrahim [00:01:44]:
+Yes, I was born here in Canada, actually in Victoria, B.C. and I was raised in Victoria until I was eight. Then my parents moved to Niagara in Ontario and I lived there. I was a teenager. So born and raised in Canada, but had like one immigrant parent from Egypt who came in the 60s and another my mom's family. I think I'm like fifth generation on her side. So that's my story. Yeah.
+
+Candace Gillhoolley [00:02:13]:
+Okay. And so when you were, you know, a young girl in school, you know, were you always curious? Was there some, were there certain topics that really excited you?
+
+Noel Ibrahim [00:02:26]:
+Well, definitely starting in high school, I found a passion for physics and for science, especially toward the last few years of school. When I went through high school, you know, many moons ago, we still actually had grade 13 in Ontario. So I'm probably very much dating myself here. And I was not, you know, overly ambitious about. There was an option to only to, to fast track and do only grade 12. I didn't take that option because I was busy having fun. But yes, towards like grade 11, 12, 13, I really found a passion for science and especially physics. So.
+
+Noel Ibrahim [00:03:06]:
+But I think we, we talked about earlier that Some of that came from these parties that I would go to where they would ask.
+
+Candace Gillhoolley [00:03:14]:
+Yeah, I wanted to talk about that because I thought it was fascinating. So go ahead, go ahead.
+
+Noel Ibrahim [00:03:20]:
+So I, they would cast these images on the wall of these very psychedelic, colorful designs that everyone would love. And I got curious about how those designs came about and it turned out that they were fractals. And so the fact that they were mathematically generated really captured my imagination. And I, you know, this was back in the late, oh, sorry, not even late, but like early 90s, the people were just getting PCs and I had like a little program that ran on family PC that could generate like the Mandelbrot set, fractal, etc. And I'd torture my friends by bringing them over and, and showing them how this worked in real life. So that kind of like drew my attention towards mathematics and physics in a bit of a non traditional way. But yes, that's how I got interested in it.
+
+Candace Gillhoolley [00:04:11]:
+I remember in our previous conversation you also mentioned your love of literature and history. And I'm wondering like, did you ever feel torn between the creative and then the scientific identities?
+
+Noel Ibrahim [00:04:26]:
+Absolutely, absolutely. So even though I did have the passion for science, I also, you know, loved literature. I like loved Shakespeare back in the day. And I did feel very torn when I had to go to undergrad and I had to choose between like a Bachelor of Science or a Bachelor of Arts. That was like a trauma for me. I ended up choosing the Bachelor of Science and especially physics. And actually what did weigh into my decision is I wanted to be like a groundbreaker because I didn't see as many women, you know, in the physical sciences. And so I thought, okay, well if I have to toss a coin, it might as well be the coin of where can I, you know, have the biggest impact in terms of like showing what women are capable of and what we can feel passionate about, et cetera.
+
+Noel Ibrahim [00:05:18]:
+So of course like there's like many amazing women in, you know, history, literature and the arts, but it's kind of like a unlived life that unfortunately, I guess it has to exist in another quantum multiverse or something. So.
+
+Candace Gillhoolley [00:05:35]:
+So what about quantum computing has you the most excited right now?
+
+Noel Ibrahim [00:05:43]:
+Well, I actually think that there's a lot of potential for like near term pathways and in commercialization. But I think that we, you know, when I say near term, obviously that's not like tomorrow, but maybe in the next couple of years potentially if there's a lot of imagination, creativity put into the algorithm space, I think the hardware Roadmaps are developing rapidly. You know, as IBM is saying. I worked at IBM for five years before becoming an independent consultant. You know, they're calling this the age of utility. And so I think that there's a lot of experimental algorithms that can now be, you know, explored on the hardware that's available today. And I think that if people think creatively and you know, collaborate with those who have the industry and domain knowledge, working in industry, that there's a lot of potential there. And like I have some specific ideas I'm following on too.
+
+Noel Ibrahim [00:06:46]:
+So I'm excited about that. Of course, everybody loves their own babies, right?
+
+Candace Gillhoolley [00:06:50]:
+Absolutely, absolutely. Now.
+
+Noel Ibrahim [00:06:52]:
+Right.
+
+Candace Gillhoolley [00:06:53]:
+We're talking about when we're saying near term, you know, we're talking like you know, three to five, maybe three to five years or so. I mean like we're not exactly talking about it happening tomorrow. But out of everything out there, you know, precision medicine and climate prediction and the finance, financial implications applications and, and post quantum cryptography, what do you think? If you were going to hedge a bet, what do you think is one of the most promising near term applications?
+
+Noel Ibrahim [00:07:33]:
+I personally am excited about quantum machine learning and I, I know that there's, there's like a couple different camps there, like so there are some more traditional camps looking for exponential separation, etc. And provable, mathematically provable quantum advantages in quantum machine learning. I think that those might be a little bit more remote than in other fields like for example chemistry and pure scientific applications. But I think if you look at quantum machine learning as just a heuristic tool that is treated equitably with classical machine learning, I think that there's actually a lot of potential for quantum machine learning to become an option in the data scientists toolkit and that that has a lot to do with like lowering the cost, et cetera. So that's something that, that I've been focused on, that I personally believe in, although I don't know how widespread that mechanism for lowering the cost is yet. There are a few people tackling the same problem in different ways. But I think that's a really great pathway forward because then you don't necessarily need the exponential separation that might require say a fault tolerant quantum computer to access. It's okay to have an incremental advancement.
+
+Noel Ibrahim [00:09:00]:
+And some of the firms that are out there like there's some results from Haiku, from Khipu, Quantum, from Cognitive and even IBM had a paper where heuristically against strong classical baselines they're showing like 3 to 10% improvement which isn't an exponential improvement, but in the world of classical machine learning, it's actually quite a lot. So when you think about these massive problems at scale like processing billions of transactions, etc. I think that the pathway forward is to find a way to do that with quantum machine learning so that you can get that 5 to 10% at an economically meaningful cost. And so that's something that I'm excited about, that I've been focusing on. But I do think chemistry is an amazing use case. It's really intuitive. Of course, chemical systems are quantum mechanical systems. I do think that the workflows and the pathways are more complicated when it comes to material simulation, because what you're really doing there is from a commercial standpoint, not from a scientific standpoint.
+
+Noel Ibrahim [00:10:10]:
+So from a scientific standpoint, it's more straightforward. The chemical and the material science pathways to quantum advantage, more measurable, more provable, more straightforward, less heuristic. But from the commercial standpoint, if you're simulating a molecule, you're actually reducing wet lab experiments. In principle, these materials that, you know, we could find and could be able to simulate in the future of a quantum computer could also be found in wet lab experiments. But those are just very, very expensive. And I think it's an interesting commercial question to look at how much cost reduction actually comes from using simulation instead of having to do all those wet lab experiments. And I think that there is actually not a lot of focus on in that area because it is a complex commercial problem to map those workflows and see how the quantum simulation will impact it. So I think like, financial workflows are much more straightforward.
+
+Noel Ibrahim [00:11:11]:
+Like if you can reduce fraud losses by 5%, like that's, that very easily translates to, you know, profit capture. Right. Whereas I think the profit capture equation in the chemical material space from a commercial standpoint is a little more complex, but definitely an interesting area. So, as you can see, I'm really opinionated about these things.
+
+Candace Gillhoolley [00:11:35]:
+No, it's fascinating. And you can see also it's very exciting to you. And so I can see you kind of working it out in your mind. So just to unpack a little bit, when you think about quantum chemistry, what's the first concept that actually click for you and made it, made it finally make more sense?
+
+Noel Ibrahim [00:11:56]:
+Well, to be honest, like, I studied quantum chemistry during my PhD, like 20 years ago. So that. Yeah, so I don't know that. And I also took a quantum computing class during my master's degree 25 years ago. So, like the con, the idea of putting those two together is not really that new to me. So. And it seems very, very intuitive based on, you know, some of the challenges that we would have with classically simulating chemical systems. And often there's like a portion of the system that's like an active site that needs like a quantum mechanical treatment.
+
+Noel Ibrahim [00:12:33]:
+And I think it's very intuitive to think that a quantum computer could, you know, improve some of the approximations that we've had to use in, you know, simulating those quantum subsystems, et cetera. So I think it always made sense to me, you know, just because of my background in quantum chemical simulation from a classical standpoint. So.
+
+Candace Gillhoolley [00:12:59]:
+So maybe you can help with what's, what's one misconception about quantum computing you wish more people understood?
+
+Noel Ibrahim [00:13:09]:
+Let me see. I think, you know, I mean, if you're, if you're just talking about the broad world that they're not, people within the industry are close to the field. A lot of people do think that a quantum computer can address like big data problems. And the thing is, there is a challenge with loading data into the quantum computer. So quantum computing, yes, it does access a very large state space of, you know, an exponentially large state space with fewer qubits. But that doesn't mean that it's easy to map that exponentially large state space to an exponentially large data set. So that is something that classical computers right now, and I think, you know, the typical view in the industry is that that is something that classical computers will be better at for the foreseeable future. But what quantum computers are good at is finding structure within data.
+
+Noel Ibrahim [00:14:10]:
+So finding structure that's difficult for a classical computer to find. So you know, if you have like a decision boundary, for example, that is could be computed with a classical computer, but might take longer, that's something of interest and that's something that people are looking for in terms of this exponential separation. And you can also just test heuristically whether that adds any value to a classical machine learning pipeline, for example. And then in the chemical space, obviously you're able to look at some of these, map some of these quantum states onto the quantum computer in new and unique ways. But it's not necessarily about like, you know, simulating the hugest molecule, especially not today. So it's more about capturing those patterns that are hard for a classical computer to capture.
+
+Candace Gillhoolley [00:15:06]:
+So what surprised you the most about working in quantum in a commercial client facing environment?
+
+Noel Ibrahim [00:15:13]:
+What surprises me the most is actually the fact that I think the sales cycle is much Slower than I would expect. And it's because, you know, quantum, even if there's a very, a great value proposition, it's not urgent for a lot of enterprises. And in general, I think innovation is not necessarily urgent. So it's not like, you know, the business is fighting a fire today and needs quantum to put it out. So that makes the sales cycle a lot longer, even for like things that seem like no brainers, like quantum safe. Like so I mean, there's a problem today where bad actors can harvest data and save it and then decrypt that later with a cryptographically relevant quantum computer. And that could happen today. And it's almost practically like a fire that you need to put out.
+
+Noel Ibrahim [00:16:12]:
+But still, because it's a new technology and a new way of thinking, there's still a bit of inertia, I think, when it comes to adoption that I was surprised by. But I guess that's just, you know, the way it is in innovation in general.
+
+Candace Gillhoolley [00:16:32]:
+In our previous conversation, you said something that really stood out to me. It was about shifting quantum from future promise to present value. What does that shift unlock? Can you speak a little bit more to that?
+
+Noel Ibrahim [00:16:49]:
+Well, definitely. That takes a lot of, I think, research in the algorithm space especially, especially so now that we have like utility scale systems. I think like shifting it from the future view to the like, well, trying to get present value like nobody has anything in production yet is really about like looking very honestly at the algorithms and what you can get out of the computer. And like, what are in. In my opinion, I think people should be mapping the milestones to return on investment. It doesn't mean that you're saying that you can get a return on investment today, but I think it really helps to analyze and dissect specific problems and ask questions like, well, how many qubits do we really need to address this problem? How many, you know, molecules do we need to process? Or how many transactions do we need to process? How much would that cost? How much time would it take? And what would be the uplift, you know, per unit cost and time? And then does that make sense from an ROI perspective? And if it doesn't make sense today, what advance, what specific advancements are needed to cause us to make sense? And I see that there's a lot of like, people who like, it seems like they leap from like the problem definition right to the experimentation. And I think that's great for getting research papers, but I do think that that very meticulous kind of detailed mapping could be, is something that's really useful for figuring out how do we bring that quantum value closer to the present. And I think, you know, you might not even necessarily pick the definitive ROI pathway.
+
+Noel Ibrahim [00:18:32]:
+I mean, there's a lot of ways to skin a cat. You might come up with a different way of answering that problem later. But it still helps to analyze, in my opinion, in detail, one or two methodologies for solving the problem to really get a good view of the maturity of the technology. And I think it's okay to say, you know, maybe this use case won't yield value or, you know, this one will, or this one will yield value when we have, you know, 1,000 qubits or 500 qubits. But it's good to be have a resolution to one's knowledge, I think, of the quantum technology and the specific problems that we're interested in.
+
+Candace Gillhoolley [00:19:14]:
+So, you know, I think you mentioned you revisited algorithms that you had learned about years before and now how does it feel to see that theory becoming reality?
+
+Noel Ibrahim [00:19:29]:
+That is amazing, actually. So, yes, during my master's degree, I took a quantum computing course at the University of Toronto. And it was actually from one of the founders of psi Quantum. Lucky for me. And I remember, like, he was like a lecturer at the time and everybody was kind of making fun of him for doing these quantum coin flipping papers and thought experiments. And people were like, why are you designing an algorithms for computer that doesn't exist? So I guess today he's been vindicated. Yeah.
+
+Candace Gillhoolley [00:20:08]:
+So you studied under some really incredible minds. What's one lesson or mindset that has stayed with you?
+
+Noel Ibrahim [00:20:17]:
+I. Well, I'm a physicist at heart and I really admire the ability to think intuitively about a problem as well as be able to think about it with mathematical precision. And yes, some of the professors I have, like, one of them comes to mind, like, he's like my physics idol, the guy at U of T E from Steinberg. He was like an assistant Prof. I think he taught me like he and Terry Rudolph taught me like almost everything I know about quantum mechanics. And another professor, Janice McKenna at UBC and I think, like, you can think intuitively about problems but also apply mathematical rigor. I think that is a real winning formula for solving these types of problems. And I think I was very lucky to have some role mod who demonstrated that for me as like throughout my education.
+
+Candace Gillhoolley [00:21:14]:
+So was there ever a moment when where someone underestimated you and how did you respond to that?
+
+Noel Ibrahim [00:21:24]:
+Those moments are like, continual and ongoing. Like I was actually talking to another female colleague in the field and she was saying, oh, you know, I think they underestimated me. And I was like, well, you are a woman, right? We were both laughing. So, like, honestly, I feel like there's just too many moments to, like, single out any moment, any one moment. I do feel that as women, especially when we're doing things that are, like, creative and where we're just counter to what people expect, right. And I think the general principle is not just, you know, that women may be underestimated. I think anyone who's creative, thinking out of the box, doing things a little bit differently is going to be underestimated because others aren't in the same time and place. Right.
+
+Noel Ibrahim [00:22:12]:
+They don't have all the same information. So if you have a vision or you have a unique, you know, angle on something, it's not that people are. Have malice or they want to underestimate you. They just don't have all the same information that you do. So they can't necessarily evaluate your direction with the same, you know, level of knowledge that you have. So I think that's something that creative people in general, and probably in particular women struggle with all the time. Like, even presidents, like, right.
+
+Candace Gillhoolley [00:22:48]:
+When facing doubt internally, what's your process for deciding whether to speak up or to step back?
+
+Noel Ibrahim [00:22:56]:
+Oh, he means doubt from others. I think I try to, like, take the. Like, skepticism is always very helpful, right? So, like, I try to take whatever are the nuggets of truth and nuggets of learning from the skepticism. Like, oh, yeah, maybe I hadn't thought of that loophole. Right. Maybe there's a way to fix that loophole. So I don't know if you know that song by Britney Spears, like, you know, what does she say? Thanks for making me. She's got a song that says, thanks for making me better.
+
+Noel Ibrahim [00:23:32]:
+Anyways, so that's. I try to address it that way, so I think it's actually helpful. And I try to improve myself by taking learnings and then, you know, as much as possible, like, acknowledge those learnings and, like, even thank the person. Right. I mean, unless they're completely ridiculous, which most people aren't. There's usually something that you can take to improve your model thought process or whatever it may be, so that I take that kind of attitude and approach. At least I try to.
+
+Candace Gillhoolley [00:24:04]:
+You said one of the reasons you chose physics was because there were fewer women. What did that decision mean to you at the time?
+
+Noel Ibrahim [00:24:15]:
+I think it's just. Yeah, I don't know. Like, I loved physics. I loved solving physics problems, and I Kind of wanted to represent the fact that I think, like, women can be just as good as physics, at physics, as men. And I honestly think it's not just even just about women. It's about people who have different ways of approaching problems and different ways of thinking. I think there's. I mean, I'm not like a psychologist or psychiatrist or psychometrician or anything like that, but there have always.
+
+Noel Ibrahim [00:24:48]:
+There were all these studies about how men outperform women in spatial tasks, like spatial orientation tasks, but women outperform men in linguistic tasks. And I always felt like I was kind of good at something in between. Like, so where there was, like, a mathematical formula or mathematical expression of a problem that you had to relate to a spatial distribution. I was amazing at. Like, I'm patting myself on the back here, but I was, like, uncannily good at solving those kinds of. Some of those problems in some of my classes. And I was like, well, but I'm a woman. Like, how can women not be good at spatial skills? But then a lot of what they're testing in those psychometric assessments is just the raw spatial orientation.
+
+Noel Ibrahim [00:25:37]:
+Like, if I have this shape and I put it in this direction, I put it in that direction, like, what angle is it? And those problems. I was like, good, but, okay, good. Not, you know, I'm always first kind of good. Like, I'm sorry, I'm being like. I'm being a little bit like I'm embarrassing myself here. But I'm just. I'm just saying this for other women, right? Like, it's not like, I'm not good at every problem, but every physicist has their little niche problems that they think they're good at, right? And I have mine. So I thought, you know, did these characterizations of women and people that we're getting out of these kind of superficial assessments really correlate, Relate to, like, our real capabilities, Right? Like, just because you take a test and it says, oh, you're not good at these spatial problems, doesn't mean that actually there's not going to be a particular twist on spatial problems that you're not going to really be really good at or that women aren't better at men than.
+
+Noel Ibrahim [00:26:38]:
+You know what I mean? Like, I just felt skeptical. So I was like, I just don't feel like. Like I fit into these boxes and probably other people don't as well. So I don't know. I just took it upon myself, I guess, to not fit into a box.
+
+Candace Gillhoolley [00:26:54]:
+But I also think, you know, you had mentioned that you had Strong support from your father.
+
+Noel Ibrahim [00:26:58]:
+Yeah.
+
+Candace Gillhoolley [00:26:59]:
+And you know, I think that that had something to do with, you know, how that shaped your confidence, entering a male dominated field.
+
+Noel Ibrahim [00:27:09]:
+Oh, absolutely, absolutely. Like I was lucky. My dad was a doctor himself and he studied extensively. So I kind of grew up in a bit of a privileged environment in that respect. And my dad did really bolster my confidence. He very much believed in my abilities, like more than I did. And I think that backdrop. And also my dad, you know, like he grew up in the south of Egypt.
+
+Noel Ibrahim [00:27:38]:
+His family was not, you know, particularly privileged or anything like that. But he, you know, managed to improve his life by excelling in school and he won a scholarship to come over to North America, etc, and that's, you know, why I was born and raised here. And I think like his story and the challenges that he overcame were an example for me that I could also overcome the same prejudice. Well, not prejudices, but same challenges. And the other thing is, like my dad came over in the 60s and he was like a person of color. Right. Like, I think that, you know, most people, like when I was growing up, there were no other Egyptians. I mean, there were very few other Egyptian people of Egyptian origin around.
+
+Noel Ibrahim [00:28:28]:
+Like, there's been a lot more immigration from that part of the world recently. And I think the fact that my dad never let that bother him or, you know, didn't really consider that an obstacle, I think was an example for me in terms of, you know, not letting being a woman like, be an obstacle. Right. And not like internalizing the, whatever kinds of frictions I might encounter because of it.
+
+Candace Gillhoolley [00:29:02]:
+So you mentioned changing your sense of self to succeed. What does that actually look like in practice?
+
+Noel Ibrahim [00:29:12]:
+So I think that we were talking about when I went from high school to university is that, I mean, there have been many evolutions of my sense of self, but I think that was one of the most dramatic ones because when I was in high school, I was not actually, you know, the most studious person. I mean, high school, I think, in North America is not necessarily always that challenging. So I it. But when I went to university, it was a different environment. I had to learn study skill, like, you know, study habits. I was, you know, it was a shock to my system because my sense of self very much had revolved around being like that party girl, right. Even if I dragged, I like we'd go to the mall and I'd drag my friends to the bookstore to look at Scientific American. But you know, that was the only thing I was really doing.
+
+Noel Ibrahim [00:30:04]:
+And I think that that was like a. Like, it kind of was a bit of an existential crisis for me, like, having to, like, you know, be one of the people that had to study and, you know. But I think it was good. It helped me, you know, learn a lot of discipline, you know, grow up, you know, I mean, when you're in high school, you're a kid, and that was kind of my rite of passage, I guess, to adulthood. So, yeah, I mean, I'm not sure what else to say about it. I think it was definitely a formative experience, for sure. And I'm sure a lot of people have, you know, very similar transitions. And of course, that's not the only one.
+
+Noel Ibrahim [00:30:46]:
+Like, that continues to happen throughout your life.
+
+Candace Gillhoolley [00:30:47]:
+So what challenges did you face early on in your career that you didn't necessarily expect?
+
+Noel Ibrahim [00:30:57]:
+So, definitely, you know, challenges around. I think if you want to approach problems in a different way or you have a new idea, it can make you less easy for others to collaborate with or help or, you know, facilitate. And I think that that was and perhaps continues to be hopefully a little bit less so, a challenge, I think, in my career because, like, I'm pretty independent, I think, like. So, for example, in graduate school, there's a lot of funding going toward, like, the biological physics and biological sciences. And I did end up finding some overlap between the quantum mathematics that I was doing and some polymer problems that were of relevance to biophysics. But I was very stubborn about, you know, I want to address a quantum mechanical problem, I want to simulate a quantum problem. I want to address, like, you know, these kinds of issues. Like, this is what I want to do.
+
+Noel Ibrahim [00:32:04]:
+Right. I wasn't very amenable to being molded, I think, by the powers that be, if you will. And I think that's something that I've learned to hopefully be a bit better at or a bit. But I don't know if I'm ever going to be that great at it. So, yeah, so I think, like, the kids at grad school who had the easier time were the ones that were focused on the problems where the funding was at that time and that the professor was more focused on himself and the. That type of thing. So.
+
+Candace Gillhoolley [00:32:40]:
+Okay. I mean, I always have this conversation with people about, you know, you know, saying that failure is an option and, you know, sometimes if you're going to fail, better to fail when you're young and then recover. Right? And then learn how to be flexible and adaptable, which are too, you know, essential skills that you need in any environment that you live and Work in. I wonder what are other, what other skills beyond the technical knowledge do you think are important for, for women to have who want to be involved in the quantum computing ecosystem?
+
+Noel Ibrahim [00:33:27]:
+Well, specific to Quantum, I do think that there's a lot of like, there's a gap in terms of like being able to explain and articulate the why of quantum to commercial audiences. I think that's an incredibly important skill and not only to communicate in the direction of, from the scientific advancements to the commercial environments, but also the other way, like what commercial problems are potentially addressable by Quantum? So if you have you know, like, not necessarily the technical depth to like solve the problems yourself, but if you have enough technical depth to relate the structure of the problem to problems in your work environment that are of interest, that's of huge value I think in quantum computing right now. And of course there's also just like the communication and the education piece. Right. For non initiated audiences that probably requires even less technical knowledge than being able to relate the structure of the problems. But I do think that there's a huge, even a gap, you know, for involving people that can map those problems to the structure of the technology in a conceptual level. Yeah. And like you know, just directing strategies around like building algorithms and that type of thing.
+
+Noel Ibrahim [00:35:03]:
+Not, not so much building, doing the building of the algorithms, them, but where should resources and attention be deployed? I think that's a really important area. But also more generally I would say like, I think a very important skill like relating back to your earlier question about failure modes and challenges, etc. I think that as women, at least when I was growing up, we're not as trained to listen to our own voice. Right. There's so much telling us like listen to your own intuition, listen to your own voice, have your own opinion. And at least when I was growing up, I felt like I always had the need to draw a conclusion that was like socially friendly. Like, oh, this is something that takes everyone's interest into account and balances the opinions that other people might have. But as I've grown older I've found it's more useful to say like what is the most useful interpretation of this situation for me to hold so that I can move my goals forwards.
+
+Noel Ibrahim [00:36:06]:
+And it sounds really selfish, but I think it's think that's how men think. And I think we were never like, men don't sit there where I don't know. I mean I'm generalizing, but I don't think men are like, is this a nice opinion? They're Just like, oh, yeah, that guy's doing that because he's like. He's like, wants to win and he's a competitor. And like, of course he has that opinion. That's his subjective reality. Right. And I was always like, but shouldn't we take this opinion account into account? They're like, no, that's just like, he's like a competitor, you know, And I think that.
+
+Noel Ibrahim [00:36:37]:
+But I've learned, hopefully, to listen to my own voice, even if it's imperfect, because I'm the only person in the world who has my interests, like, at heart. Everybody else, as they should, has their own interests at heart. So I can take those interests into account and I can negotiate with those interests, but I don't have to believe that those interests are my interest only to be a nice person. Right. Like,
+
+Candace Gillhoolley [00:37:07]:
+Agreed, agreed. It's true. Men don't think about if they're being nice. There's a huge generalization. But it's, It's. It doesn't stop them from performing.
+
+Noel Ibrahim [00:37:22]:
+Yeah.
+
+Candace Gillhoolley [00:37:22]:
+The way it can stop women, like, women. Women tend to be more collaborative. Right. They want to, like, you know, they want to derive from a consensus, which I think gives you a much more powerful foundation to work from.
+
+Noel Ibrahim [00:37:36]:
+Yeah.
+
+Candace Gillhoolley [00:37:37]:
+Men don't typically like to do that.
+
+Noel Ibrahim [00:37:40]:
+I think we should definitely continue to, like, you know, collaborate and work from consensus, et cetera. But you can achieve consensus through understanding what your interests are and understanding what other people's interests are and coming up to a solution that. That takes into account all of those interests. Right. I think that actually is a better way of collaborating than fooling yourself into thinking that someone else's interests are your interests. Like, that's called false consciousness. Right. Like, I think there's a concept in, like, I don't know, political science or something like that, false consciousness.
+
+Noel Ibrahim [00:38:15]:
+Like, I internalize the interests of, like, a more powerful class as my own interests in order to get along in society. And I think that women, like, we've been raised with, like, false consciousness, less so or more so than men have. So if you don't have, like, a false consciousness, that is believing someone else's interest is your interest, it doesn't mean that you're not cooperative. It just means that you can now actually treat this like a problem. Like, okay, how do I solve for your interest and my interests in a way that is collectively meaningful? And, and that's what I try to do now. But I, I think it's been a journey to, you know, get to that point. I mean, maybe, you know, Maybe this is embarrassing to admit publicly, but it's true.
+
+Candace Gillhoolley [00:39:08]:
+How do you stay motivated during setbacks or complex research or difficult client interactions, or take, you know, getting an idea off the ground.
+
+Noel Ibrahim [00:39:21]:
+It's, it can be sometimes hard, to be honest. I think, you know, having great conversations like this where there's positive energy etc, actually does really help. So, yeah, I think, you know, I do, you know, talk to friends, colleagues, etc, and to be honest, sometimes I even use ChatGPT these days. Like if I want to talk about something that, you know, was disturbing and I don't necessarily want to share it with other people. I gripe to ChatGPT, but I don't know, it's, it's hard. I think I'm constantly learning with respect to that, with respect to that challenge of staying motivated. So far I'm still here, I'm still doing things, so. But I can't say I found the perfect formula.
+
+Candace Gillhoolley [00:40:10]:
+So if you could host a workshop for young, for young women around the world and talking about quantum computing, quantum discovery, quantum chemistry, what would it, what would it look like?
+
+Noel Ibrahim [00:40:27]:
+That's interesting. Well, I think I'm a real geek when it comes to like the use cases and, and that type of thing. So I think I'd want to have a kind of like, yes, a collaborative workshop where, you know, I'd essentially run probably like something that we did with clients at IBM, like use case ideation and prioritization. Forget even the prioritization. Well, a little bit of prioritization, but mostly like the ideation and talk about, you know, these are the structures of some of the problems that quantum computing may be able to solve. What are your ideas for problems that you see that might fit into these structures? Because obviously from a selfish standpoint, I'd learn from all these diverse opinions, et cetera. And hopefully it would also inspire the young women to, you know, follow some of their own ideation and, you know, have an impact on the field, et cetera. So I think I'd want to, at first blush, do something like that.
+
+Candace Gillhoolley [00:41:32]:
+Outside of Quantum, what are you currently passionate about?
+
+Noel Ibrahim [00:41:37]:
+My cat.
+
+Candace Gillhoolley [00:41:42]:
+My catty helps you relax. Honestly, I say it all the time. I'm like, I'm like, you know, with my kitties and I'm like, it relaxes me. So I can understand that. I think that's totally fair.
+
+Noel Ibrahim [00:41:52]:
+I'm a mom as well. Like, so my daughter is amazing. She's like eight years old going on 18.
+
+Candace Gillhoolley [00:41:59]:
+Eight is so much fun. So much fun.
+
+Noel Ibrahim [00:42:01]:
+Yeah, yeah. She started to do things like this Morning. She's like, mommy, you're so cringe.
+
+Candace Gillhoolley [00:42:08]:
+Like, yes, the new language, it's a whole new language. And you know what though? It's, it's. We all had our own language that way, you know, and we all are, all of our parents thought we were totally wackadoo and the things that we would say and. But it's exciting, right? I think it's exciting.
+
+Noel Ibrahim [00:42:25]:
+It is, it is. And she's got an amazing little personality that's emerging and so I love, love, you know, watching that. So.
+
+Candace Gillhoolley [00:42:32]:
+Oh, that's fantastic. That's fantastic. I'm on the other side. I have an 18 year old daughter, so. So I went, I already, I went through the super fun and then I went through the tough and now I'm actually back in the super fun, which is really, really exciting because like, you know, when it's tough, it's tough. But the truth is, boy or girl, 14 sucks.
+
+Noel Ibrahim [00:42:56]:
+Oh really?
+
+Candace Gillhoolley [00:42:56]:
+That's all I'm gonna say. It doesn't matter if it's a boy or a girl. All those hormones inside those little bodies, they just can't even handle themselves and you just have to kind of go with it and get through it. And then you see, you'll see that you'll, you'll stand in the sun, you'll stand in the light again. So let me ask you what, what is, what's a question do you wish more people would ask you and, and how would you answer it?
+
+Noel Ibrahim [00:43:22]:
+About Quantum or.
+
+Candace Gillhoolley [00:43:23]:
+I just about Quantum, about yourself, about being a professional woman, about being, you know, in deep tech. It's, it's open ended, a question that
+
+Noel Ibrahim [00:43:33]:
+I wish people would ask me more about. I think, you know, I really do enjoy like deeply technical questions about the type of things that I'm working on. I think those are, are good questions. But obviously there's like only so many people that can ask those questions because they have to be in the same train of thought. And that's, you know, as, you know, in like academia, it's like five people in the world. Not that I'm in academia anymore, but you know, it's kind of similar. And then I think, you know, I'd like to like, if people ask me more questions about, you know, like being an innovator and that type of thing. I don't know, I don't know if people necessarily, I think people might see me and maybe it's happened to other women too as like, like the innovative impulse is like disruptive, right? It's like, oh, you're messing things up, you're doing something different.
+
+Noel Ibrahim [00:44:35]:
+You don't fit in here. And I wonder if, like, I don't know, I just wonder myself, like, is that as pronounced like if I'm a man? Or is it seen as like, oh, he's taking leadership. Like he's got this great idea, right? Like, is it easier men to like, gain traction and support etc. For their creative ideas? Like, I think it's hard for anyone, but I feel like as a woman you stick out more like, like more of a sore thumb. I don't know, but maybe I'm just, maybe, maybe it's not true. I think, I think also as women, like, we're always asking ourselves that question, is it because I'm a woman, right? And you don't know, like, like you have to go to the literature and see, is there a study that says it's because I'm a woman, right?
+
+Candace Gillhoolley [00:45:24]:
+And we're just so much more critical on ourselves than, than, than is ever necessary. With all honesty, right? Like, if we could just take a step back and be like, wait a second, we judge ourselves harsher than we need to. We're innovative, exciting and brilliant. Like, let's take a moment of pause and let's sink in that you know, we have an opinion, it does matter. And it's important that we share our know with younger generation, especially as women to lift up others. They need it. And it's essential as leaders to do that, in my opinion.
+
+Noel Ibrahim [00:46:04]:
+Exactly. Like, I feel a bit embarrassed that earlier I was saying, oh, I was good at these particular types of problem. But like, I'm trying to, like, in part I'm saying that because I do think that women need to, like, we need to at least know within ourselves and believe in ourselves about our own strengths, right? Like, and I, I think that that's something that like, we've also been taught not to do as well. So. And because how can you grow your strengths and how can you contribute, you know, appropriately to the world if you're always second guessing or trying to be polite, like, oh, no, I'm not really that good at that, right? Like, so I don't know. And okay, so there's this hilarious clip I saw of like Sofia Vergara and a guy saying to her, oh, you're one of the most beautiful women in the world who doesn't really know it. And she's like, no, I know, it's like, good, right? Like, why should we be so. Because that's a way of someone else taking your value away from you so they can reap the rewards of your, you know, strengths.
+
+Noel Ibrahim [00:47:13]:
+Right. I don't know. Anyway, no, I think that's great.
+
+Candace Gillhoolley [00:47:16]:
+I think that's great. I'm glad you shared it. It resonated with you. So if anybody would like to find out more about you, where can we send them?
+
+Noel Ibrahim [00:47:25]:
+Oh, definitely, like my. My LinkedIn profile. Like, anyone can connect with me there, send me messages. I think that's probably the best way to get in touch with me. I also have, like, a website for, like, my consulting, like, company that I'm kind of working on at the moment. It's bizalgos.com biz-algos.com and there's, like, a contact form there that people can fill out. So those are probably the best ways.
+
+Candace Gillhoolley [00:47:57]:
+Perfect. Perfect. We'll make sure that everybody is aware. And I want to thank you again so much for coming on today, sharing your story and your experiences, you know, and your point of view. It was brilliant, and I hope everybody gets out of it. What I did, it was great.
+
+Noel Ibrahim [00:48:15]:
+Thank you, Candace. I appreciate it. Thanks for having me.
+
+Candace Gillhoolley [00:48:19]:
+It was my pleasure. And I will let the music take us out.

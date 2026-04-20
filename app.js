@@ -38,7 +38,7 @@ const transcriptClusters = [
     summary: "Across the series, guests return to non-linear careers, stepping into quantum from adjacent disciplines, and learning in public rather than waiting for perfect credentials.",
     themeFamily: "career",
     themes: ["Career pivots", "Interdisciplinary paths", "Commercial translation"],
-    episodes: ["Anna Beata", "Sabine", "Sara", "Petra", "Jennifer", "Sahar"]
+    episodes: ["Anna Beata", "Sabine", "Sara", "Petra", "Jennifer", "Sahar", "Noelle"]
   },
   {
     id: "human-signals",
@@ -46,7 +46,7 @@ const transcriptClusters = [
     summary: "The conversations repeatedly center confidence, curiosity, leadership, and the practical challenge of sustaining ambition without losing the human part of the work.",
     themeFamily: "human",
     themes: ["Curiosity", "Confidence", "Leadership", "Community", "Mentorship"],
-    episodes: ["Anna Beata", "Devika", "Sabine", "Jennifer", "Sierra", "Sahar"]
+    episodes: ["Anna Beata", "Devika", "Sabine", "Jennifer", "Sierra", "Sahar", "Noelle"]
   },
   {
     id: "technical-signals",
@@ -54,7 +54,7 @@ const transcriptClusters = [
     summary: "A second cluster connects applied themes such as networking, security, useful infrastructure, and making quantum approachable beyond pure research settings.",
     themeFamily: "technical",
     themes: ["Security by design", "Quantum networking", "Accessibility", "Applied infrastructure", "Real-world translation"],
-    episodes: ["Devika", "Marie-Eve", "Petra", "Sara", "Sahar"]
+    episodes: ["Devika", "Marie-Eve", "Petra", "Sara", "Sahar", "Noelle"]
   }
 ];
 
@@ -66,8 +66,8 @@ const transcriptNodes = [
     guestName: "Anna Beata Hedegaard",
     label: "Episode 1",
     subtitle: "Fearless curiosity and human-centered leadership",
-    left: 12,
-    top: 14,
+    left: 50,
+    top: 10,
     themes: ["curiosity", "leadership", "accessibility"],
     detailSummary: "Anna Beata anchors the map around fearless curiosity, human-centered leadership, and making quantum feel navigable for people entering from different backgrounds."
   },
@@ -78,8 +78,8 @@ const transcriptNodes = [
     guestName: "Devika Mehra",
     label: "Episode 2",
     subtitle: "Confidence, resilience, and security-first thinking",
-    left: 10,
-    top: 35,
+    left: 66,
+    top: 14,
     themes: ["confidence", "leadership", "security"],
     detailSummary: "Devika links the human side of confidence and resilience to a more infrastructure-oriented conversation about building secure systems from the start."
   },
@@ -90,8 +90,8 @@ const transcriptNodes = [
     guestName: "Sabine Mehr",
     label: "Episode 3",
     subtitle: "Bridging business, engineering, and family life",
-    left: 12,
-    top: 60,
+    left: 78,
+    top: 26,
     themes: ["career-pivots", "leadership", "community"],
     detailSummary: "Sabine’s episode reinforces that quantum careers can sit at the intersection of business, engineering, and real-life tradeoffs, not just research credentials."
   },
@@ -102,8 +102,8 @@ const transcriptNodes = [
     guestName: "Sara Metwalli",
     label: "Episode 4",
     subtitle: "Breaking in through curiosity, coding, and applications",
-    left: 35,
-    top: 94,
+    left: 78,
+    top: 42,
     themes: ["accessibility", "career-pivots", "applied-infrastructure"],
     detailSummary: "Sara pushes the graph toward practical access: entering through engineering, learning by doing, and connecting abstract quantum ideas to real applications."
   },
@@ -114,8 +114,8 @@ const transcriptNodes = [
     guestName: "Jennifer Prendki",
     label: "Episode 5",
     subtitle: "Confidence, leadership, and ignoring the noise",
-    left: 66,
-    top: 94,
+    left: 76,
+    top: 60,
     themes: ["confidence", "leadership", "career-pivots"],
     detailSummary: "Jennifer sharpens the confidence cluster and adds a strong signal around executive presence, leadership, and continuing forward despite noise."
   },
@@ -126,8 +126,8 @@ const transcriptNodes = [
     guestName: "Sierra Clouse",
     label: "Episode 6",
     subtitle: "Taking chances and building through trust",
-    left: 88,
-    top: 61,
+    left: 70,
+    top: 74,
     themes: ["confidence", "community", "career-pivots"],
     detailSummary: "Sierra extends the community and confidence clusters, emphasizing opportunity, trust, and the importance of people willing to take a chance on emerging talent."
   },
@@ -138,8 +138,8 @@ const transcriptNodes = [
     guestName: "Petra Soderling",
     label: "Episode 7",
     subtitle: "Breaking the PhD stereotype around quantum work",
-    left: 90,
-    top: 35,
+    left: 60,
+    top: 84,
     themes: ["accessibility", "career-pivots", "applied-infrastructure"],
     detailSummary: "Petra is a major bridge node for accessibility, showing that quantum work does not require a single academic path and can benefit from business fluency."
   },
@@ -150,8 +150,8 @@ const transcriptNodes = [
     guestName: "Marie-Eve Boulanger",
     label: "Episode 8",
     subtitle: "Security-forward networking infrastructure",
-    left: 88,
-    top: 14,
+    left: 40,
+    top: 86,
     themes: ["security", "networking", "applied-infrastructure"],
     detailSummary: "Marie-Eve concentrates the technical side of the map around networking, infrastructure, and designing future systems with security in mind."
   },
@@ -162,10 +162,22 @@ const transcriptNodes = [
     guestName: "Sahar Hejazi",
     label: "Episode 9",
     subtitle: "Leadership, mentorship, and translating quantum beyond academia",
-    left: 78,
-    top: 88,
+    left: 24,
+    top: 74,
     themes: ["confidence", "leadership", "mentorship", "real-world-translation"],
     detailSummary: "Sahar adds a strong bridge between leadership, mentorship, and the practical work of translating quantum from research into real-world impact."
+  },
+  {
+    id: "episode-10",
+    type: "episode",
+    guestId: "noelle-ibrahim",
+    guestName: "Noelle Ibrahim",
+    label: "Episode 10",
+    subtitle: "Mapping quantum milestones to ROI and near-term value",
+    left: 22,
+    top: 56,
+    themes: ["confidence", "leadership", "real-world-translation", "applied-infrastructure"],
+    detailSummary: "Noelle connects technical rigor with commercialization, emphasizing milestone-to-ROI mapping, practical utility, and near-term business value."
   }
 ];
 
@@ -176,8 +188,8 @@ const themeNodes = [
     family: "human",
     label: "Curiosity",
     subtitle: "The recurring permission to explore without having every answer first.",
-    left: 31,
-    top: 16
+    left: 32,
+    top: 30
   },
   {
     id: "leadership",
@@ -185,8 +197,8 @@ const themeNodes = [
     family: "human",
     label: "Leadership",
     subtitle: "Human-centered leadership, voice, and responsibility show up across multiple episodes.",
-    left: 48,
-    top: 24
+    left: 50,
+    top: 30
   },
   {
     id: "security",
@@ -194,8 +206,8 @@ const themeNodes = [
     family: "technical",
     label: "Security By Design",
     subtitle: "Build security into quantum infrastructure early instead of bolting it on later.",
-    left: 69,
-    top: 16
+    left: 68,
+    top: 30
   },
   {
     id: "career-pivots",
@@ -203,7 +215,7 @@ const themeNodes = [
     family: "career",
     label: "Career Pivots",
     subtitle: "Non-linear paths into quantum are normal, useful, and often an advantage.",
-    left: 24,
+    left: 32,
     top: 44
   },
   {
@@ -212,8 +224,8 @@ const themeNodes = [
     family: "career",
     label: "Accessibility",
     subtitle: "Quantum becomes stronger when the field is understandable beyond a narrow expert circle.",
-    left: 44,
-    top: 69
+    left: 32,
+    top: 58
   },
   {
     id: "networking",
@@ -221,8 +233,8 @@ const themeNodes = [
     family: "technical",
     label: "Quantum Networking",
     subtitle: "Infrastructure, communication, and entanglement-aware systems form a distinct technical thread.",
-    left: 71,
-    top: 52
+    left: 68,
+    top: 44
   },
   {
     id: "confidence",
@@ -230,8 +242,8 @@ const themeNodes = [
     family: "human",
     label: "Confidence",
     subtitle: "Several guests describe confidence as persistence, not certainty.",
-    left: 49,
-    top: 40
+    left: 50,
+    top: 44
   },
   {
     id: "community",
@@ -239,8 +251,8 @@ const themeNodes = [
     family: "human",
     label: "Community",
     subtitle: "Progress often depends on trust, advocates, and people willing to open doors.",
-    left: 31,
-    top: 58
+    left: 32,
+    top: 72
   },
   {
     id: "mentorship",
@@ -248,8 +260,8 @@ const themeNodes = [
     family: "human",
     label: "Mentorship",
     subtitle: "Supportive mentors and visible allies help people navigate the field without losing themselves.",
-    left: 27,
-    top: 88
+    left: 50,
+    top: 72
   },
   {
     id: "applied-infrastructure",
@@ -257,8 +269,8 @@ const themeNodes = [
     family: "technical",
     label: "Applied Infrastructure",
     subtitle: "The show repeatedly returns to systems, tools, and usable deployment rather than theory alone.",
-    left: 82,
-    top: 45
+    left: 68,
+    top: 58
   },
   {
     id: "real-world-translation",
@@ -266,8 +278,8 @@ const themeNodes = [
     family: "technical",
     label: "Real-World Translation",
     subtitle: "A recurring challenge is moving quantum ideas out of the lab and into language, products, and decisions people can use.",
-    left: 58,
-    top: 81
+    left: 68,
+    top: 72
   }
 ];
 
