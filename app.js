@@ -38,7 +38,7 @@ const transcriptClusters = [
     summary: "Across the series, guests return to non-linear careers, stepping into quantum from adjacent disciplines, and learning in public rather than waiting for perfect credentials.",
     themeFamily: "career",
     themes: ["Career pivots", "Interdisciplinary paths", "Commercial translation"],
-    episodes: ["Anna Beata", "Sabine", "Sara", "Petra", "Jennifer", "Sahar", "Noelle"]
+    episodes: ["Anna Beata", "Sabine", "Sara", "Petra", "Jennifer", "Sahar", "Noelle", "Bruna"]
   },
   {
     id: "human-signals",
@@ -46,7 +46,7 @@ const transcriptClusters = [
     summary: "The conversations repeatedly center confidence, curiosity, leadership, and the practical challenge of sustaining ambition without losing the human part of the work.",
     themeFamily: "human",
     themes: ["Curiosity", "Confidence", "Leadership", "Community", "Mentorship"],
-    episodes: ["Anna Beata", "Devika", "Sabine", "Jennifer", "Sierra", "Sahar", "Noelle"]
+    episodes: ["Anna Beata", "Devika", "Sabine", "Jennifer", "Sierra", "Sahar", "Noelle", "Bruna"]
   },
   {
     id: "technical-signals",
@@ -54,7 +54,7 @@ const transcriptClusters = [
     summary: "A second cluster connects applied themes such as networking, security, useful infrastructure, and making quantum approachable beyond pure research settings.",
     themeFamily: "technical",
     themes: ["Security by design", "Quantum networking", "Accessibility", "Applied infrastructure", "Real-world translation"],
-    episodes: ["Devika", "Marie-Eve", "Petra", "Sara", "Sahar", "Noelle"]
+    episodes: ["Devika", "Marie-Eve", "Petra", "Sara", "Sahar", "Noelle", "Bruna"]
   }
 ];
 
@@ -178,6 +178,18 @@ const transcriptNodes = [
     top: 56,
     themes: ["confidence", "leadership", "real-world-translation", "applied-infrastructure"],
     detailSummary: "Noelle connects technical rigor with commercialization, emphasizing milestone-to-ROI mapping, practical utility, and near-term business value."
+  },
+  {
+    id: "episode-11",
+    type: "episode",
+    guestId: "bruna-shinohara",
+    guestName: "Bruna Shinohara",
+    label: "Episode 11",
+    subtitle: "Science communication, access, and asking for support",
+    left: 30,
+    top: 88,
+    themes: ["accessibility", "confidence", "community", "real-world-translation", "career-pivots"],
+    detailSummary: "Bruna extends the map toward global access and science communication, connecting Portuguese-language outreach, visible role models, and the confidence to ask for mentorship and opportunity."
   }
 ];
 
@@ -722,6 +734,10 @@ function renderInfographic(guest) {
 function renderDetail(guest) {
   activeGuestId = guest.id;
   const isUnreleased = Boolean(guest.releaseStatus);
+  const hasQuote = Boolean(guest.quote && !guest.quote.startsWith("Add a pull quote"));
+  const hasLocalClip = Boolean(guest.clipSrc || guest.clipExternalUrl);
+  const hasInfographic = Boolean(guest.infographicSrc || guest.infographicUrl);
+  const showEpisodeFields = !isUnreleased || hasQuote || hasLocalClip || hasInfographic;
 
   detailEmpty.classList.add("is-hidden");
   featureCard.classList.remove("is-hidden");
@@ -729,18 +745,18 @@ function renderDetail(guest) {
   featureRole.textContent = detailRole(guest);
   featureName.textContent = guest.name;
   featureCompany.textContent = guest.company;
-  featureQuote.textContent = isUnreleased ? "" : `"${guest.quote}"`;
-  featureQuote.classList.toggle("is-hidden", isUnreleased);
+  featureQuote.textContent = hasQuote ? `"${guest.quote}"` : "";
+  featureQuote.classList.toggle("is-hidden", !hasQuote);
   featureReleaseNote.textContent = guest.releaseStatus || "";
-  featureReleaseNote.classList.toggle("is-hidden", !isUnreleased);
+  featureReleaseNote.classList.toggle("is-hidden", !isUnreleased || showEpisodeFields);
   featureLinkedin.href = guest.linkedinUrl || "#";
   featureClipLabel.textContent = guest.clipLabel || "";
   featureInfoLabel.textContent = guest.infographicLabel || "";
   featureEpisode.textContent = guest.episode;
   featureFocus.textContent = guest.focus;
-  featureMediaGrid.classList.toggle("is-hidden", isUnreleased);
-  featureClipSlot.innerHTML = isUnreleased ? "" : renderClip(guest);
-  featureInfoSlot.innerHTML = isUnreleased ? "" : renderInfographic(guest);
+  featureMediaGrid.classList.toggle("is-hidden", !showEpisodeFields);
+  featureClipSlot.innerHTML = showEpisodeFields ? renderClip(guest) : "";
+  featureInfoSlot.innerHTML = showEpisodeFields ? renderInfographic(guest) : "";
 
   document.querySelectorAll(".portrait-button").forEach((button) => {
     button.classList.toggle("is-active", button.dataset.guestId === guest.id);
