@@ -607,12 +607,20 @@ a {
   font-size: clamp(2rem, 4vw, 3.4rem);
 }
 
+.feature-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  justify-content: flex-end;
+}
+
 .feature-company {
   color: var(--muted);
   font-size: 1rem;
 }
 
-.linkedin-link {
+.linkedin-link,
+.transcript-link {
   display: inline-flex;
   align-items: center;
   justify-content: center;
@@ -623,6 +631,16 @@ a {
   text-decoration: none;
   white-space: nowrap;
   font-weight: 700;
+}
+
+.transcript-link {
+  border: 1px solid rgba(134, 231, 255, 0.42);
+  background: rgba(134, 231, 255, 0.1);
+  color: var(--ink);
+}
+
+.transcript-link.is-hidden {
+  display: none;
 }
 
 .pull-quote {

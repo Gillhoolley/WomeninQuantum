@@ -15,6 +15,7 @@ const featureCompany = document.getElementById("feature-company");
 const featureQuote = document.getElementById("feature-quote");
 const featureReleaseNote = document.getElementById("feature-release-note");
 const featureLinkedin = document.getElementById("feature-linkedin");
+const featureTranscript = document.getElementById("feature-transcript");
 const featureMediaGrid = document.getElementById("feature-media-grid");
 const featureClipLabel = document.getElementById("feature-clip-label");
 const featureClipSlot = document.getElementById("feature-clip-slot");
@@ -750,6 +751,8 @@ function renderDetail(guest) {
   featureReleaseNote.textContent = guest.releaseStatus || "";
   featureReleaseNote.classList.toggle("is-hidden", !isUnreleased || showEpisodeFields);
   featureLinkedin.href = guest.linkedinUrl || "#";
+  featureTranscript.href = guest.transcriptUrl || "#";
+  featureTranscript.classList.toggle("is-hidden", !guest.transcriptUrl);
   featureClipLabel.textContent = guest.clipLabel || "";
   featureInfoLabel.textContent = guest.infographicLabel || "";
   featureEpisode.textContent = guest.episode;

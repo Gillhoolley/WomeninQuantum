@@ -1,0 +1,682 @@
+Rachel Noek & Candace Gillhoolley (Women in Quantum Podcast) Recording-20260324_120245-Meeting Recording
+
+March 24, 2026, 4:02PM
+
+53m 37s
+
+
+Candace Gillhooley started transcription
+
+
+Candace Gillhooley   0:03
+Perfect. OK, boom. Shakalaka. OK, and let me just get this open to me so I can see it. Uh, one second.
+One second. I'm just trying to get certain things out of my out of my purview so I don't get confused. OK, all righty, Roo. OK, our.
+Are you ready?
+
+
+Rachel Noek   0:31
+I think so.
+
+
+Candace Gillhooley   0:33
+OK, OK. Welcome back to Women in Quantum, the podcast where we explore the stories behind the science. I am Candace Gillhooley, and in each episode we go beyond the technical to uncover the journeys, challenges and perspectives of.
+women shaping the future of Quantum. From the unexpected career paths to bold ideas and real conversations about what it takes to lead in deep tech, this is a space to learn, connect, and be inspired. Whether you're quantum curious or already in the field,
+You belong here. Today we're going to be speaking with Rachel Nowick, and she is a technical program manager in quantum computing. How are you today, Rachel?
+
+
+Rachel Noek   1:26
+I'm great, Candace. Thanks for having me.
+
+
+Candace Gillhooley   1:29
+It is absolutely my pleasure. So again, I told you this will be a really easy and easy conversation to have. I want to know more about you. Where are you originally from and how did that environment shape your early interests and ambitions?
+
+
+Rachel Noek   1:36
+Mhm.
+I am from New Mexico. I grew up in New Mexico, stayed here all the way through undergraduate. My family, a lot of them are from South Dakota, so very rural. And when I was eight, we moved to kind of this outskirts of Albuquerque in this community called Corrales where we had horses and.
+And, you know, it's very rural. And yeah, it was it was very interesting being in that area. Well, my dad actually worked at Sandia National Labs and was an electrical engineer there.
+
+
+Candace Gillhooley   2:18
+OK, OK, so you had science in the home. So would you say that's what first sparked your curiosity in the sciences?
+
+
+Rachel Noek   2:21
+I did.
+Definitely. My my dad was always doing really interesting things. You know, he's that guy that can fix anything. He can fix anything. The broken TV, the broken coffee maker that, you know, he could take it apart, he can fix it and he can put it back together, which is always, you know, very inspiring as a kid.
+
+
+Candace Gillhooley   2:42
+Absolutely. So were there certain subjects that you had a proclivity to when you were first starting out in school and then into high school?
+
+
+Rachel Noek   2:51
+I have always loved math more than more than anything. Math and the sciences, you know, so the answers tended to be more concrete, right? And I I was drawn to how you could sort of know if you got the right answer. And there were sort of, you know.
+Medications if you had the right answer, whereas some of the, you know, softer subjects it was it was harder for me to tell like am I on the right path or you know what? Where are we going with this?
+
+
+Candace Gillhooley   3:22
+OK, so then you were. So you went to school and then you went to university. What did you specialize in in university?
+
+
+Rachel Noek   3:29
+So I studied a lot of math. I focused in math. I minored in chemistry, and there was a while, you know, where I wasn't sure, was I going to do chemistry or was I going to do math? Ultimately, I really love math, so that's where I chose to focus.
+
+
+Candace Gillhooley   3:46
+OK, so you you're on your path, you're doing your math, you're enjoying it. Like, what are you thinking about what you want to do after university?
+
+
+Rachel Noek   3:56
+Now, while I was in university, I was an intern at Sandia Labs the entire time. So it actually, I think I started. I think I started working at Sandia within within a number of weeks after graduating from high school. So I was an intern there from like, you know, from the get go as soon as I was out of high school.
+And I continued there through undergrad and actually after I graduated for three more years. So I worked closely with pH. D chemists doing a couple of different things. I worked first in a gas analysis lab, so I was a sole operator of a magnetic sector mass spectrometer for those who are more technical in our audience.
+And you know, the working with them was really inspiring, just watching how they, you know, they would be introduced to various problems and they would, you know, creatively come up with these interesting solutions. And so that was probably the my biggest pull towards chemistry was that I worked with these chemists.
+And I could see what they did. You know, I had sort of access to here's what some chemists do. So I also had the, you know, my here's the kinds of things my dad does EE, but also here's what chemists do. And I thought that the the chemists, you know.
+You know, these PhD chemists were solving these really like sometimes ambiguous problems, right? And so that was really interesting to me. So I although it's still, but still I majored in math, you know? Yeah.
+
+
+Candace Gillhooley   5:17
+OK.
+So you had your concrete, you had your concrete, you know, with math, the answers were real, everything was concrete, and now you're also exploring a little bit into the uncertain. And that's kind of exciting too.
+
+
+Rachel Noek   5:32
+That's right. That's right. Yeah. And I did, you know, I probed into engineering a little bit. Like I took a lot of early classes in in other engineering fields and just wasn't drawn to it, you know, just wasn't drawn to anything as much as math and.
+I did take a lot of physics also. So chemistry and physics were where I spent a lot of my time. And that was where it was like, like this is, this is hard and it's interesting, you know? So the challenge there was what pulled me later on.
+
+
+Candace Gillhooley   6:04
+So when did OK, so that's that's uh, you got your masters. OK, now did you then go on to your pH. D while you were still working at the lab?
+
+
+Rachel Noek   6:15
+So I actually am one of those people that skipped a master's. So I actually got my undergrad degree in math at UNM, University of New Mexico. And like I said, I stayed and worked as a technologist at Sandia for a few years, realized I would never get to like kind of pick my projects, decide like what is the next thing that's that's.
+That I'm gonna do, right? Like I would never get to do that as a technologist and I wanted to be able to do that. So I said, you know, I think I'm gonna have to go to Graduate School and and I so I applied to several different programs like this is what you do, right? You're applied to several different programs and.
+I also wasn't totally sure what I wanted to do, and if I would, for example, only get into programs very closely related to the experience that I had from working at the labs. So I applied to some programs that were, you know, maybe bio-related.
+And I also applied to some things that were just purely interesting to me, like electrical and computer engineering. And so when I went to do these interviews at these schools, I realized that, you know, like I wasn't as interested in this bio.
+You know, biological related engineering as I was in the, you know, the electrical and computer engineering. And so talking to all these professors at different universities, you know, afterwards I just remember.
+I couldn't stop thinking about this quantum computing one. You know, it's like everything. There's so many cool things. Everybody, everybody was doing something interesting. You know, like there was no, no, no doubt about that. There were no projects at the universities that I thought, yeah, that's boring. I don't want to do that. Actually, they were all interesting to me.
+But quantum computing, I just thought, wow, in like 20 years or something, quantum computing is, it's going to change a lot of things. There's going to be a huge impact there. Like the potential for impact is enormous with this field. And I thought, wow, I can get in now when I can like make some impact.
+Sort of the fundamental science. So that was really exciting to me is like like entering and it turns out quantum has blown up, right? So I guess I chose well.
+
+
+Candace Gillhooley   8:30
+It's it's it's incredibly exciting. And so when you combine it with your your interest in math and you know and you already have the interest in physics, so it it makes it such a compelling field for you. So when would you? So when was that moment when kind of quantum clicked?
+
+
+Rachel Noek   8:51
+Uh, it clicked as in it made sense or it clicked as in this is what I want to do.
+
+
+Candace Gillhooley   8:56
+Oh, how about first when it made sense?
+
+
+Rachel Noek   9:00
+Um.
+I think that early on, you know, my advisor would always say like.
+You know, quantum shouldn't make sense to you. It shouldn't be intuitive, right? And she's like, and you know, so I guess I I started with that expectation that it shouldn't make sense, but it was very supported by math, which, you know, I love. And I was like, OK, well, I can.
+
+
+Candace Gillhooley   9:14
+Well, you say that makes me feel so good.
+
+
+Rachel Noek   9:29
+Accept that this is not intuitive to me and that it's something that I don't see. But there's lots of things you don't see, you know, like like these just with your eyes. I mean, I believe in germs, but I can't see them on the doorknob or on the, you know, on the bathroom counter or whatever. So I guess.
+You know, you know, I guess I don't want to say like believing in it too too much, you know, but like that you could sort of understand it with math, describe it with math and probe it. And then, you know, science is always this like.
+Feedback cycle, right? Where you you get to the point you think you understand something, but if there's ever information that comes back that that makes you question, scientists do stop and question, right? We do stop and question and we reevaluate and we may, you know, change.
+Change our minds if there's new information. And so that's always something that, you know, so I could, I was given that that's how science works. You know, I was willing to accept like, yeah, I don't see this in everyday life, but this behavior could exist in the world, right?
+
+
+Candace Gillhooley   10:43
+OK, so let me ask you. So how would you explain what you do every day?
+To a non-technical person.
+
+
+Rachel Noek   10:56
+So.
+It's kind of a it's it's interesting because I I like to say sometimes that I'm not always sure when my PhD kicks in, but I so my specialty is in basically delivering projects or programs.
+And in doing that, you know, I'm kind of the person as a program manager. A really good program manager, in my opinion, is someone who helps the team figure out what to do when it's not clear what needs to be done or when there's a lot of.
+You know, disagreement about what needs to be done. Either of those things, when it's not clear or there's disagreement, we help forge the path forward. My pH. D would be useful there because I understand technically and you know, I can help people weigh weigh things and help lead a team to decisions.
+And I'm trying to think like.
+So I I do things like I help define and manage risks. I help, you know, plan out the work. I a big thing I do is like communicate the work, like what what do we plan to do?
+What have we done? Like how are we progressing? You know, if something went awry, why did it go awry? Like what happened? So along with like, like those are kind of standard program manager things, but also the best program managers can help people like make their way through ambiguity and also solve problems in the background like.
+You know, hopefully half the team doesn't even know there's a problem, right? But there could be some major problem and the program manager is the one saying like, OK, I see what the problem is, let's figure out a solution and leads the way in helping figure out solutions to these problems that would prevent us from delivering the project.
+program either at all or on time or on budget or whatever. So we're we're master problem solvers is you know our superpower.
+
+
+Candace Gillhooley   12:59
+OK, I like that. So what does a typical day look like for you?
+
+
+Rachel Noek   13:07
+It can vary quite a bit in industry. I spent a lot of time. I mean, communication is a huge part of our role, making sure that, you know, our our stakeholders know what's going on, that we understand what our stakeholders need.
+Um, that, you know, the program owners like know what's going on, have their say when they need to have a say. Um, you know, I mean, they would be a stakeholder, but when I'm saying stakeholders in this context, I kind of mean like, you know.
+There's the program owner and then there's the the people outside of the program owner that we're like sort of delivering something to, right? And you know, I think.
+Like today, this week I'm writing a program management plan, but you know, in another week, you know, I was like focusing on helping, helping the team define their risks in a way that like is something that we can track over the course of the program and then and then helping understand.
+Understand like, well, what do we, what do we do with it now that we've defined it? What do we do with it? Like how do we manage it? How do we, how do we prevent ourselves from realizing it or mitigating it as much as possible? Sometimes, you know, I have.
+Work, help teams work through like conflicts, like I mentioned before, lead meetings, helping people figure out what to do when it's not clear what to do. Like the ambiguity can really stall progress. So you always want to make sure as a program manager that you're on top of.
+Where the next steps are not certain, like people don't know what to do next. They they're not. There's not a cohesive decision about what to do. So yeah, so I would just, I would just lead the team through things like that by helping, you know, break down the problem, what has to be answered today.
+Well, you know, let's decide on that. Then let's take the next step and you just nibble away at it. It's like, you know, it's how to eat the elephant. You know, I I don't believe in eating elephants. It's just an expression.
+
+
+Candace Gillhooley   15:15
+Totally understand. Totally fair. I know some of them are just really too good, like to to not continue to use, but you're like, you know, like how you how to skin a cat. Like I would never skin a cat, right? But like it's certain certain expressions just stay with you, right? So as someone who's part of building next generation quantum systems.
+
+
+Rachel Noek   15:26
+Yeah.
+Yep.
+
+
+Candace Gillhooley   15:35
+What's the hardest? Is it the science itself? Is it coordinating people and systems? Or is it communicating the value proposition of what's going on to make sure that?
+The stakeholders and everyone understands.
+
+
+Rachel Noek   15:55
+That's a little bit of a tricky question.
+
+
+Candace Gillhooley   16:00
+And I promised you no tricky ones, OK? I'm sorry.
+
+
+Rachel Noek   16:03
+Oh, it's OK. I think, you know, they each have their challenges when I think about the science itself.
+We have a lot of of brilliant scientists that are really excited about this right now. And so the last thing I would say is that the science is easy. It's certainly not. And like, you know, pushing the frontier right now is a lot of work and sometimes, you know, you look at this next.
+We want to demonstrate this next thing and you're looking at 6 to 12 months at least to just do this one next thing, right? Because of all the changes you might have to make to a system or all the designs, it can just be very long timelines, so the patience.
+I think is probably the hardest part of all, right? Is the, you know, how do you do this as fast as you can, but also, you know, communicate what you're doing in a way that's like understandable so that people will be sort of patient with the process because the frontier that we're at now is.
+Because, you know, there's been a lot that we can sort of hurry, hurry, hurry through. But now if we hurry, hurry, like we we need things to be done really well at this point, right? Like we cannot slap things together anymore. So yeah, because we want, we want these like lower error rates and computation.
+
+
+Candace Gillhooley   17:22
+'Cause it's foundational, right? Exactly. Exactly right.
+
+
+Rachel Noek   17:30
+And you know we just need more precision in everything we do. And so we have to be more deliberate and more careful. So I think like in the science side, um we have the people that are focused and interested in that. And that's like in that sense, it's less of a problem if we let those those experts go.
+go do their thing. But sometimes I think like right now a challenge is you know transitioning that towards usable products, right? That's a That's a tough thing and that where the sort of like physics needs to meet the engineering.
+Needs to meet the customer.
+
+
+Candace Gillhooley   18:11
+OK, OK. So how do you navigate moments when you feel less confident, especially when the stakes are so high?
+
+
+Rachel Noek   18:25
+Well, you've you've always got to have your people, right? The people that have your back, the people that believe in you. You know, I have those people and you know, if I'm just feeling uncertain about my own ability or my own, you know, just.
+Capacity to do what needs to be done. As a project manager, I don't feel that way too often. I felt more like I had impostor syndrome a lot as when I was working strictly as a technical person. But yeah, I mean, there's always times of uncertainty, right? And as a program manager, sometimes you have to make.
+Really big decisions for the team and then you own it and you're so, so if it's sort of like if I'm having an emotional sort of like I need support, I will go to my people when I have.
+You know, less confidence in the program or the project in like making a decision. For example, I just bring in data. I go get more data. Like I try to be as confident as I can in my decisions and the way that I feel confident is if I have indicators.
+Quan preferably as quantitative as possible that tell me that that's the right decision to make.
+
+
+Candace Gillhooley   19:43
+That's fair. I mean, the data's the support. It makes complete sense. Has confidence become easier for you as you've risen in influence, or has it simply changed shape?
+
+
+Rachel Noek   19:45
+Yes, yes.
+It is definitely, definitely increased as as I have sort of grown in my roles, right? Like as I have been trusted with more and told I've been doing well with more, that has definitely helped my confidence a lot.
+So I was, I was at flashback for a minute to the the childhood aspect. And when I was a kid, you know, I just was not a very confident person at all. And part of my rural family in South Dakota had told my parents, you know, if you feel like she's struggling with confidence.
+You should consider getting her a horse. I was a horse crazy girl when I was younger and they did get me a horse and it did help with my confidence. And there's like something about working with this very large animal, you know, that that can really help build confidence.
+And so, yeah, by the time I was, I think 11, certainly by 13, I was giving writing lessons to like 6 year old girls. It was pretty awesome. But all of that experience, so that that those kinds of experiences helped to build my confidence in myself as a person and my capabilities. Like, yes, I know how to do this. I could teach someone else.
+And similarly, you know, with quantum computing, you know, as you as you get into senior graduate student or like research scientist positions, you know you're you're teaching the others. So you you gain some confidence in your ability because you're like, oh, I guess I do know something about this. Now I can teach somebody else.
+So.
+
+
+Candace Gillhooley   21:32
+Did you ever have a mentor in in one of these fields where you were just so excited by how they saw things that you were like, I want to be you, you know, and then take, you know, take me in and teach me everything you know. Did you ever have that kind of mentor experience?
+
+
+Rachel Noek   21:50
+I have had several mentor experiences like that, but you know, there's always someone that you're like, wow, everything they touch works and it just seems to go so well for them and for me, you know, early.
+I'm trying to think like maybe even my second, second or third year in graduate school, Peter Mounds joined our lab and he was, he was that, he was that guy, right? Where he just like things were, you know, we were all struggling. I was the, I was the, I was the first student in Jung Sengkin's lab to trap.
+Ions. And so we didn't have a big setup. Everything was not perfect by any means, but I was building it and with the help of a post doc and Peter came, Peter Mounds came and made such an amazing difference and was that person and I was like, he's.
+So good at all these different aspects of this work. And you know, he was, he also set great examples of like documenting, you know, documenting your work and making it available for the future students and things like that, that, you know, I just really admired that about him.
+So he was, he was, he was that guy for me early on, yeah.
+
+
+Candace Gillhooley   23:02
+Oh, that's pittance.
+No, that's fantastic. Would you like to in turn be a mentor, you know, either either professionally or or you know, personally, academically with, you know, reaching out to a certain type of student or something?
+
+
+Rachel Noek   23:25
+OK.
+
+
+Candace Gillhooley   23:25
+That you would like to be involved with doing.
+
+
+Rachel Noek   23:27
+Definitely. You know, I think like it's all by the time you get to my point in my career, right? I've been mentored unofficially, I would say by or non formally by a lot of people. And for science it was Peter Mones for program management a lot.
+From from a couple of my bosses, JPEC and Kevin Kramer, that are outstanding TPMS. And you know when you receive that kind of mentorship where people are really teaching you not only how to do the job, but.
+Like how to handle situations and things like that. You know, you just, at least for me, like I really want to give back, right? Like that helped me so much. I want to be able to do that for someone else.
+
+
+Candace Gillhooley   24:17
+OK, so when you face doubt internally, what's your process for deciding whether to speak up or to step back?
+
+
+Rachel Noek   24:27
+I always take time to digest. I'm always very, you know, um.
+I try to be very objective about things. Like, OK, here is what my concerns are. You know, are they valid? Like I try to answer that question for myself. Is this valid? What are the indicators that this would be valid? What are the indicators that this is not valid, right?
+
+
+Candace Gillhooley   24:54
+Very scientific. OK, mhm.
+
+
+Rachel Noek   24:55
+It.
+And then and then I, you know, if if I feel like it's not an obvious answer or you know, like sometimes I said, like I said, you know, sometimes I need that build up, right? Like I'm not, I'm not like the I'm not always a super confident person. Like, you know, I don't, you know, some people are just like exuding so.
+much confidence all the time. And I know I'm a good program manager, but you know that doesn't mean that every second of every day that I'm like 100% sure I'm doing everything right, right? Like I'm doing the best I can every day. So you know I will go to my cohort, right? Like those people that
+That I trust to give me honest feedback and you know, and then go always try to do better and then review it retroactively too, right? Like look back, like look back not to beat myself up, but to say like, OK, I think I rocked this part. I really rocked it.
+other part, I think I have room for improvement, right? And that like constant improvement is you know one of my goals, like always constant improvement.
+
+
+Candace Gillhooley   26:03
+Absolutely. I think that's a a a a goal for just about everybody. Frankly, you know it it you should want, you should want to do that for yourself. I think it changes your perspective tremendously, right? Like you don't really know what how great your home might be until you leave, go somewhere else and then realize how great your home was, right?
+
+
+Rachel Noek   26:08
+Yeah.
+Yeah, Yup, you like it.
+
+
+Candace Gillhooley   26:23
+Some of those things, right? I I might have been speaking as a parent that way. I had a moment, a parental moment there for a moment. I have, I have a child in university. So it's kind of like, you know, because you know when you're 20, you know everything, right? So you know.
+
+
+Rachel Noek   26:34
+Huh. Yeah.
+Yep.
+
+
+Candace Gillhooley   26:38
+It's one of those moments, right? So let me ask you, um, what do you see is the most promising near term applications of quantum computing?
+
+
+Rachel Noek   26:48
+Oh, most. It's like the applications question. Let me just first say I am not an expert in applications. I have what I've always been really excited about for quantum though would be.
+
+
+Candace Gillhooley   26:57
+OK.
+
+
+Rachel Noek   27:06
+The impact that it can have on healthcare and so when I think about that.
+
+
+Candace Gillhooley   27:10
+Huh.
+
+
+Rachel Noek   27:14
+I lean towards things like chemistry applications because biology to to me in some sense, and I'm sure I'm going to offend someone with a statement. No, no offense intended that like at the root of.
+Eology of a whole lot of chemistry.
+And so I feel like as we start solving chemistry problems that will lead into solving biology problems and you know, ultimately impacting healthcare a lot.
+
+
+Candace Gillhooley   27:48
+Right. Like like with in terms of drug discovery.
+
+
+Rachel Noek   27:51
+Drug discovery or even like how how do you set off a series of events so that your body cures itself of cancer, you know?
+Like how do you, how do you like get that immune system boost that doesn't attack your, you know, doesn't doesn't prompt like autoimmune responses for example? Like how do you boost your immune system without boosting your autoimmune response?
+
+
+Candace Gillhooley   28:17
+No, really. Absolutely. Right. That's really. I mean, I think that's kind of what got me the most excited about quantum when I someone kind of opened up the whole idea of quantum biology to me. And I'm like, wait a minute, my sight is quantum my.
+
+
+Rachel Noek   28:17
+For instance.
+
+
+Candace Gillhooley   28:32
+My hearing is quantum. Like nature is quantum, is life science. And just because, you know, we're first kind of beginning to put a wrapper on it doesn't mean that it hasn't been existing in front of us this whole time.
+We just didn't understand it exactly, right. I mean, that just, I love that kind of thing. I just, I think my blows my mind completely. So when you're talking about quantum biology just really basically coming down to quantum chemistry, it's so incredibly true, right? Why? Why do some people, you know, have a disease?
+
+
+Rachel Noek   28:49
+You.
+
+
+Candace Gillhooley   29:08
+And and yet, like their brother, their sister, they don't. And they come from the same genetic pool. Like why? You know, why do certain things react differently in in different people? I could go on and on. I I find that absolutely fascinating. So I'm curious.
+
+
+Rachel Noek   29:22
+Me too.
+
+
+Candace Gillhooley   29:24
+Were there any, like, challenges that you didn't necessarily expect to face early on in your career?
+
+
+Rachel Noek   29:33
+Challenges in particular. Um.
+I feel like my pause is gonna make people think I had a silver spoon. Um.
+
+
+Candace Gillhooley   29:42
+No, don't worry because I can eliminate all pauses, so don't worry about that.
+
+
+Rachel Noek   29:47
+Um, I'm trying to think. Um, what challenges would I have had?
+You know, I think when, like early in my career, I.
+Oh.
+You're gonna have to cut some of these, probably. I'm trying to think. Um.
+
+
+Candace Gillhooley   30:20
+Take your time.
+
+
+Rachel Noek   30:24
+Change.
+Mm.
+So I think something that was a career challenge for me, that's.
+May not immediately be what people think of when they think of career challenges. Maybe maybe other women will think of this, but it was how to have my cake and eat it too when I wanted to have a family and you know when.
+When I was getting my PhD, it was like, OK, well then you go to your postdoc and then you go get a full-time position and you're just like from the time you start your PhD, you're really on this like steep career growth trying to really.
+Just grow quickly and make an impression in your field. And that doesn't. That's really hard to connect with taking a lot of time off for having children or spending a lot of time with your young children. And so that was something that always worried me about being in.
+And science in general. No, I ended up with a very special situation. My husband was able to work part time and he carried the family for a few years in terms of taking care of things at home a lot during my early years.
+And also, I did end up taking about a year off when I had my first child. I actually had this moment where I thought, you know what, I will just spend the young years of their lives with my children. It turns out I'm just not cut out for that. I couldn't do it.
+Tried. I do love them. I love them to pieces, but I couldn't. I couldn't do it. So I ended up. Yeah, that's actually how I started in technical program management was my advisor, Jung Sang Kim. He had a big.
+Grant and he said, you know, like, I need help managing this. I need someone who's technical. I don't have time to train someone in what this is about. And I think that you would do a good job at this. And you know, are you willing to try? And I said that sounds interesting and you know, I'd like to try that. I would love.
+To not.
+Be in the lab at 10:00 at night, you know doing other things at 10:00 at night if needed, sure. But you know being in the cold lab, it was never my favorite thing. So I tried it and that path worked out really well. For many years I've been able to work from home, so when my kids were young I was able to sort of like flip back and forth.
+A little bit as needed. So that enabled this lifestyle where I could spend a lot of time with my kids when they were young. So that was probably the biggest challenge. And definitely during those years, I chose to slow down. I chose to slow down my career a little bit.
+In an, you know, in an effort to spend more time with my kids. But I feel like today I'm in a very good spot, regardless of having done that, because I did keep going, right. I may not have been on as steep of a curve at that time, but I did. I was accumulating that time and that experience.
+Just sort of at a different different rate.
+
+
+Candace Gillhooley   33:48
+And so my next question would be, you know, what's a one piece of advice that you would give your younger self at the start of your quantum journey, at the start of your career journey?
+
+
+Rachel Noek   34:00
+Oh, that I would give advice. I would give myself. Yeah, just be open to what comes. Just be open to what comes. You know, don't don't have this fixed idea of what your career has to look like before you're really in it.
+You know.
+
+
+Candace Gillhooley   34:19
+I like that. I like that. Beyond Tech, what personal values drive your work in science and community building?
+
+
+Rachel Noek   34:29
+My number one value is integrity. To me, it's really important that you know you you're very, like, honest and forthright. You communicate, you know, with your stakeholders honestly.
+And yeah, just like, no, no trickery, no, no subterfuge, you know, just just like always being very upfront and honest about what's happening. I think like it always allows, you know.
+Program owner or stakeholders to adapt to what's happening also, you know, I think, but just like knowing what you're getting from someone at face value is just really important to me. So so having that integrity and that honesty is just.
+I think you know my number one driving value.
+
+
+Candace Gillhooley   35:30
+How do you stay motivated personally during setbacks or in complex research challenges?
+
+
+Rachel Noek   35:39
+I am always very focused on the outcome and you know, final final results. Something useful is going to come of this. Things do slow down. Sometimes it can be frustrating, but it's always like considering like you know to use.
+Program management terms like plan of record, like what is the plan of record? How are we working against it? You know, are we, are we going as planned? If we're not going as planned, well then what are we doing about it? So in that sense like that focus on the the project or the program?
+Helps me not get too lost in those phases. When I was working strictly as a technical person, I would just feel like this is going on forever. You know, some some things you know quantum is it can be very challenging.
+You know, I used to say that trapping ions is like aligning the moon and stars, right? It's just like a lot of things have to be right at the same time. And by the time you get the last one right, the first one could be wrong again, like could have drifted. So, you know, it's very challenging and there would be, you know, periods where, especially as the first.
+Ion Trapper in Cheng Tsang's lab, or first student to Ion Trapper, that you know things would just go slow. And it was harder to see my way past that you know as a graduate student looking very close, sort of in front of my face at the progress.
+But as a program manager, that's the other thing I love about this job in particular, and I'm not trying to advertise program management necessarily, but I can't help it, is that you're always looking at the project holistically and how things are progressing and how did you expect them to be going and are you outside the bounds of what's reasonable?
+And you need to just like, really change something. So in that sense, like, I don't ever feel that I'm like, really stuck. I feel like there's a time that that I know when I want to do something about it, right?
+
+
+Candace Gillhooley   37:44
+OK, what does success mean to you in the context of a long and evolving career?
+
+
+Rachel Noek   37:54
+Oh, success. You know, I want to see quantum computers be used for these applications and I want to look back and to and to be able to say like I helped deliver that.
+Like I played a pivotal role in in getting things to where they are because I, you know, those projects or programs that were stuck or would have been stuck. I was there and I made sure they didn't get stuck and I kept them moving. And that, you know, meant that we're like two or three years ahead.
+In on this one thing, you know, because it really can impact the duration like a lot, you know, to not have a project manager that's paying attention. So you know, I I know that I can be that I can have a high impact and and you know that's that's what I want for my career is to be able to look back and say like.
+Wow, look at what we delivered and look at, look at, look at the role I played in helping deliver those really amazing things.
+
+
+Candace Gillhooley   38:57
+That that's that's a heck of a legacy, right? I like that. What do you think people misunderstand the most about quantum?
+
+
+Rachel Noek   38:59
+Oh.
+Yeah.
+Oh.
+Um.
+I feel like.
+Quantum is not easy, but you know, looking at a lot of other scientists and other students getting their PhDs, like there are a lot of hard things out there. People shouldn't be intimidated by quantum just because it has the name quantum and it has some.
+You know, funky things that you don't observe with your eye, right? In the end, like, it takes time to learn like everything else that you master. And you know, I think people sometimes just kind of shy away from the the weird ideas and the fact that it's not super intuitive, but.
+Certainly, like I said, like the the math, the math describes it and it is predictable, just like what many, you know, just like other areas of science.
+
+
+Candace Gillhooley   40:10
+OK, so you've seen both research and you've also been in the in the execution environment. So where do you think the real breakthroughs are gonna come from?
+
+
+Rachel Noek   40:21
+Engineering. I really believe that because at this point we need, we've demonstrated the basic fundamentals. We need more and we need better. How do you get more and how do you get better? Engineering.
+Like we have to engage the engineers like full stop. Like it, it it just has, it has to. That's my opinion. It has to go to the engineers if we want it, yeah, we want it like faster, better, smaller, more stable, like all those things.
+Engineering 100%.
+
+
+Candace Gillhooley   40:59
+OK, what's something about working in quantum that people don't don't see the harder or less visible parts of it?
+
+
+Rachel Noek   41:14
+Oh.
+Something that they don't see.
+Um.
+I guess do you mean like like in terms of technical or in terms of business or in terms of like what aspect?
+
+
+Candace Gillhooley   41:56
+You know, I I think more of business, but I can see how that's a little too vague. So I'll give you something else.
+
+
+Rachel Noek   42:06
+Mhm.
+
+
+Candace Gillhooley   42:08
+What would you say to a woman who is curious about quantum but doesn't see herself reflected in the field?
+
+
+Rachel Noek   42:19
+Doesn't see herself reflected in the field, as in she doesn't see someone like her already there. Uh.
+
+
+Candace Gillhooley   42:26
+Correct.
+
+
+Rachel Noek   42:31
+Well.
+In general, I would say that, you know, everything benefits from diversity. So if there's no one like you in that field, you have a whole lot of potential for impact and.
+You know, when I think about just in program management, how many people have tried to basically tell me that they do program management right? And so I should copy them. But I am not them. And you know, I I am different and I should embrace my style and when I embrace my style.
+
+
+Candace Gillhooley   42:56
+OK.
+
+
+Rachel Noek   43:05
+I've been very successful, right? So we shouldn't necessarily try to be like other people and we shouldn't think that because we don't see people like us there, that that doesn't mean we, that doesn't mean we don't have value to add. And in many cases, I think we have much more value to add because of that.
+Because of diversity, right? Because there's there's like difference in approach, right? Like the same approach doesn't always work in my, you know, in my experience, like same to everybody is, you know, same to every situation. You can have like a formula that frequently works.
+
+
+Candace Gillhooley   43:26
+OK.
+Mhm.
+Thank you.
+
+
+Rachel Noek   43:44
+But it's not. You can't. I don't see there being something that just works perfectly every time, is ideal every time, right. And so in that, like the diversity really brings that opening for like just more efficiency, more optimization.
+more creativity, more more lots of things. So.
+
+
+Candace Gillhooley   44:08
+What's something about you that people often find surprising?
+
+
+Rachel Noek   44:15
+I think I have a lot more grit than people think I do at the beginning when they first met me. Oh, she's so nice. But yeah, it's actually pretty hard to get past me sometimes, you know, like if, you know, as a program manager.
+I think people that haven't really worked with me frequently think that I will have trouble holding the line and I don't, right. But that's like just just based on my sort of friendly face and you know, like kind of outward niceness, I guess that they that they think that that you know.
+will be difficult and that I don't want to hurt people's feelings, but like, I think I can, I, you know, manage really well to not hurt people's feelings and also make decisions that aren't necessarily what they want.
+
+
+Candace Gillhooley   45:05
+What question do you wish more people asked you?
+
+
+Rachel Noek   45:10
+Oh.
+
+
+Candace Gillhooley   45:12
+And then what? How would you answer it?
+
+
+Rachel Noek   45:22
+Oh.
+If I'm gonna, I'm gonna take this and run with it a little bit. What what I would like is I'd like to see more people asking about.
+
+
+Candace Gillhooley   45:36
+Go right ahead.
+
+
+Rachel Noek   45:47
+Different working sort of.
+Not conditions, but like more part-time options and things like that where we could be more supportive of families if like so many jobs are like we want you 100% of the time or we want you really 120% of the time.
+You know, in the end, like I think it could help families a lot if businesses could start coming up with better solutions for having like like just more options and more normalization of not full time hours.
+So that we can support young families better because I just don't see us culturally supporting young families very well right now, which I think makes it hard for women because we we we just like are hardwired. We deeply care about, you know, our families and our children and we want to spend time.
+With them, we want to, we want to be able to go to that, that science fair. We want to, we want to go pick them up in the middle of the day at preschool and not be completely stressed out about it because I have five more hours worth of work to do when it's 3:00 PM. You know, there's things like that that like.
+
+
+Candace Gillhooley   47:04
+Right.
+
+
+Rachel Noek   47:05
+For for reasons like that, we just don't support that period in life very well for people and.
+
+
+Candace Gillhooley   47:11
+And if we went, I I think your part-time idea makes a lot of sense also just because you you could have twice the amount of innovation and and with with with you know twice the amount of people filling up you know the amount of time needed but you know people aren't taking a section of it. I think it would just.
+Allow for a lot more freedom, I think. And with that freedom would come innovation, you know, just sitting there kind of allowing yourself to sit and think, you know, as well as, you know, be productive at work and you know you, you.
+
+
+Rachel Noek   47:39
+Yep.
+
+
+Candace Gillhooley   47:44
+For those of us who have children, we have them for a reason. You know, we want to spend time with them and but yet we still want to, you know, be professional and contribute to society and feel exciting about, you know, everything that's going on in our lives. So I think that's fair. So I want to leave with.
+
+
+Rachel Noek   47:51
+Mm.
+
+
+Candace Gillhooley   48:04
+With with this, what's the best piece of advice?
+Someone has ever given you.
+
+
+Rachel Noek   48:11
+Oh.
+This advice someone has given me.
+So a couple of times, once personally, once professionally, I've had people say to me.
+Essentially, don't assume this is forever.
+And you know, that was like something about that mindset of, you know, you're gonna do this while it's good, you're gonna in invest yourself and you're gonna do your best.
+And you'll pursue it while it's the right thing, and then you're gonna just move on when the time is right. It gives you this sort of, like, freedom.
+That like, sometimes you just do better when you let go a little bit. And you know, for me, just thinking, well, it's OK, like I'm not. I'm not stuck doing quantum computing for the rest of my life because I did it in grad school, for example.
+If there's something else that interests me, you know, I would jump, right? Coincidentally, both times I was given that advice, it's more, I think like I have stuck with that thing that they were talking about.
+In an unusual way, but probably because my approach and philosophy changed because I adopted that attitude of like, I don't have to make this work, you know it can work. And if it works, celebrate that it works.
+
+
+Candace Gillhooley   49:54
+OK.
+
+
+Rachel Noek   49:59
+And enjoy it. But don't try to make it work. You know, it's when you feel like there's something about feeling like you have to that just makes everything a little bit less fun, right? And so, like, so that that sort of like, don't assume you're gonna do this forever.
+
+
+Candace Gillhooley   50:09
+Yeah, much harder.
+
+
+Rachel Noek   50:17
+Kind of mentality is that you know, you let go and you don't feel so much like you have to, which frees you up to just feel adventurous doing that thing, which is something I think, you know, we all need a little bit of adventure.
+Yeah, it's kind of the same idea.
+
+
+Candace Gillhooley   50:42
+It's exactly all you have to do is turn the bracelet around. You know what I'm saying? Like that's that's, you know, you're right. Don't get stuck, you know, and and allow yourself that.
+
+
+Rachel Noek   50:42
+Sure.
+
+
+Candace Gillhooley   50:55
+That peace and that chance to explore. And when you you kind of open yourself up, I think then that's when the quantum comes in from all all directions that you didn't necessarily know about, right? And it allows you to.
+
+
+Rachel Noek   51:10
+Yes.
+
+
+Candace Gillhooley   51:12
+Even bring yourself to to a higher degree of understanding something, even about yourself or what it is that you're doing.
+
+
+Rachel Noek   51:19
+Yeah, yeah. I think like even thinking about that way, one of the things is that it kind of prevents you from having a victim mentality too, you know, like you're not you create.
+Your opportunities. A lot of them, right? You don't just take opportunities that land in your lab. You also create them by how you interact with others, how you, how you do your work, how you show up and deliver, right? Like you create opportunities for yourself.
+That way, and you know, as you're living, as you're living your life and you're living your career, you're not a victim. You're not in the job that you're in because you're a victim, right? You're there because of what you've done so far.
+You chose to do. It's a choice, right? It's an active choice that you're choosing to stay where you are, right? Even though sometimes I think people convince themselves that that's not the case, I think it is typically the case, right? And so, like, I like that aspect that it prevents prevents me from having a victim mentality.
+
+
+Candace Gillhooley   52:15
+Mhm.
+This was fascinating. I really enjoyed our conversation. I truly did, Rachel. I I thought it was fantastic. Where can people find out more about you?
+
+
+Rachel Noek   52:40
+Thanks, Candace.
+LinkedIn is probably the best place.
+
+
+Candace Gillhooley   52:45
+Fantastic. Well, make sure to include your LinkedIn, your, your LinkedIn bio. And again, thank you so much for your generosity and showing other people, you know, different different parts of the ecosystem, you know, and show and allowing people to see, you know there's there's.
+So many of us in the ecosystem that you should probably be able to find yourself in the data points to see you too can be part of something that's just so exciting and is only just beginning to start, right? Excellent.
+
+
+Rachel Noek   53:15
+For sure. Absolutely. Thanks so much for having me, Candace. I really appreciate it.
+
+
+Candace Gillhooley   53:20
+It's my pleasure. I wish you a wonderful rest of the day, and thank you so much for today.
+
+
+Rachel Noek   53:25
+Thanks. Thanks, Candace.
+
+
+Candace Gillhooley stopped transcription
