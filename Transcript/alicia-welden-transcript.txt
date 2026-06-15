@@ -1,0 +1,582 @@
+Alicia Welden & Candace Gillhoolley Women in Quanum Podcast recording-20260428_130214-Meeting Recording
+
+April 28, 2026, 5:02PM
+
+46m 14s
+
+
+Candace Gillhooley started transcription
+
+
+Candace Gillhooley   0:04
+Okay, perfect.
+OK, when you're ready.
+Let me know.
+
+
+Welden, Alicia   0:13
+I think I'm good to go.
+
+
+Candace Gillhooley   0:14
+Okay.
+
+
+Welden, Alicia   0:15
+Ohh.
+
+
+Candace Gillhooley   0:17
+Welcome back. Today's conversation feels like it sits in that in-between space where deep science meets real world application and where curiosity doesn't quite follow a straight line. I'm joined by Alisa Weldon, a theoretical chemist working across quantum computing.
+AI and complex systems. Someone who doesn't just work in the field, but seems to question how we understand it. And this episode...
+We're not just talking about the technology. We're talking about the thinking behind it. Elisa, I'm really glad you're here today. Welcome to Women in Quantum.
+
+
+Welden, Alicia   1:00
+Hi, thanks for having me.
+
+
+Candace Gillhooley   1:02
+It's my pleasure. So let's start at the very beginning. I'd like to start here with everybody. Can you tell me where you grew up?
+
+
+Welden, Alicia   1:10
+Sure. So I grew up in a really small kind of rural area down in southern New Jersey, so East Coast person. And then after that, I kind of moved a little more N to go to college. So I went to, I lived first in a suburb outside of Philly and then a little town outside of New York.
+
+
+Candace Gillhooley   1:28
+Okay, and so when you were a young girl in school, what did you have a proclivity for? What did you enjoy?
+
+
+Welden, Alicia   1:31
+Oh.
+Proclivity. I think broadly speaking, I kind of just liked going to school. So I like being around the other kids. I like playing outside. I like learning new things and kind of being around my teachers and stuff like that. So I wouldn't say early on I had a natural inclination for anything. I think I was just very like open-minded and playful and I didn't have a lot of pressure on me to choose one thing over another. So
+I kind of just sampled everything. You see, you know, later on I specialized a bit, but, you know, that was just kind of out of necessity.
+
+
+Candace Gillhooley   2:08
+Okay, so then when you went on to university, what did you decide to do your discipline in?
+
+
+Welden, Alicia   2:13
+Yeah, so when I was choosing a major, once again, I was kind of like very, you know, my problem has always been kind of closing the decision space on things I'm interested in, right? So I think at first I was kind of open-minded. So I did go to an engineering college just because I liked those kind of topics, but I wasn't really sure what I wanted to do. So I
+I ended up starting off kind of as engineering undecided because they told me I would be able to switch into other majors more simply later on, which I did end up doing. But I think it was a really good experience to have those engineering classes early on and kind of get a feel for it before I really decided. So I ultimately chose chemistry and mathematics, which is kind of
+kind of the two subjects that I really enjoyed and they had a lot of intersection and they had a lot of really good transferable skills, I thought. So that's just kind of how I, you know, how I, you know, I kind of walked to it gradually just by kind of going out and exploring. So, and so, yeah, that's pretty much it.
+
+
+Candace Gillhooley   3:12
+So, when you first encountered quantum chemistry...
+
+
+Welden, Alicia   3:15
+Okay.
+
+
+Candace Gillhooley   3:16
+Did it feel like clarity or like stepping into something unresolved?
+
+
+Welden, Alicia   3:23
+So I would say the first time I really came in contact with it, I was an undergraduate. So I was in this, I was in this kind of quantum class where they were showing us different topics and things like that. And I think for a lot of people, and especially for me, I was like, this is not intuitive, right? Because you begin by taking these kind of like physics courses.
+that are very like the things you can kind of observe and see and measure. So you take classes like that. And then quantum is a little bit different. It's very like mathematically motivated. It's very motivated by the fact that there were experiments done that scientists could not explain. So they kind of had to come up with new theories. And I would say the way I walked to quantum chemistry specifically is that
+Inside my class, we were using these codes to kind of model molecules and things like that, but they were pieces of software. So we would kind of run these things and get answers back out. And I was kind of like, hey, I don't really understand what this is doing. And it turns out that under the hood, it's actually doing a lot of quantum chemistry calculations. So my first, one of my first research experiences was in that area where I was kind of like,
+just studying those topics and trying to figure out like what are all the different little bits and bobs that go into a quantum chemistry calculation. So then when I was applying to graduate schools and things like that, once again, I wasn't committing to anything, but I was looking really heavily at theory groups. So that's kind of how it all started, which is maybe like a boring story, but it's just like, yeah, I was at school, I was studying something and I kind of got curious about it.
+
+
+Candace Gillhooley   4:53
+So would you say like that was kind of the moment when you realized you weren't just learning about a field, but that you were going to stay in it?
+
+
+Welden, Alicia   5:00
+I would say.
+You know, when I first got started as an undergraduate, once again, it's kind of like your undergraduate research is really like a good experience. It helps you learn how to be, like how to do a project like that, how to be a scientist. So yeah, when I went to graduate school, I was still pretty open-minded. I was like, I'm not sure if I want to do theory or experiments. You know, in some sense, it's like experiments feel more real, whatever that means. So I was like, yeah, I want to get some experience doing that.
+I actually picked a program that had a rotation, like a research rotation program. So the first three semesters, you can kind of just choose, you know, you're kind of like a little intern in people's lab. You do a small project, you kind of test drive each other as an advisor and a student to kind of see if the relationship works. So through that, I got to do a theory
+a theory project and like a laser spectroscopy experimental project. And then kind of in the end, I decided that I really was like a theory person. I wanted to like learn to program. I wanted to, you know, do these calculations. I was really into mathematics. I got my undergraduate degree in it also. So I wanted to like use those skills A lot.
+And I think that's kind of, you know, why it felt more natural and it felt like something that, you know, even if I don't stay a quantum chemist, I can like have all these great skills that would transfer to kind of other areas.
+
+
+Candace Gillhooley   6:20
+Was there a version of you that almost chose another direction?
+
+
+Welden, Alicia   6:27
+I'd say in some sense, yeah. So I thought about going to school like a PhD program for mathematics.
+And, you know, the field of mathematics is very broad. Like I said, I love the subject. I liked working in it, but a lot of it felt kind of abstract and not tangible. So I applied to one program that I was really excited about and didn't get in, but, you know, all the chemistry programs I applied for just felt like more of a natural fit.
+So yeah, I was only, I was kind of like dabbling with that idea and I was like, I'll only do it if like, you know, if the planets line up right. So in principle, there's another version of me where the planets did line up and I did that. But I think this kind of worked out for the best. Like I still really got to dabble in lots of different, like quantum chemistry sits at the intersection of a lot of subject areas.
+So like mathematics, chemistry, computer science, a little bit of software development. You know, I got to be a teacher also. That's very important. So yeah, I felt like that kind of was the path that looked the most like appealing at the time.
+
+
+Candace Gillhooley   7:37
+OKOK.
+Let me ask you, you bridge quantum chemistry, AI, and computing. Do you feel like you belong to one of the spaces, or are you intentionally kind of floating in between the intersection of them?
+
+
+Welden, Alicia   7:53
+Uh-uh.
+I would say, you know, the intersection of them is a little bit interesting because once again, I think the root of it is mathematics. Like all of those subjects have something to do with mathematics. So because I have like that kind of, you know, I can speak in that language to an extent, I can kind of dabble in all of them.
+I spent the best, I spent way more time in quantum chemistry, and I think that's the truth. So that was what my PhD was about. That's what I worked on for 5 1/2 years. I think I ended up being there. And then I went and did a postdoc for two more years. So most of my experience, especially on the research and academic side, has to do with that. So I would say at the end of the day, I would consider myself a quantum chemist.
+I did work in an AI company for about a year. And that's where I learned, you know, this was a very new topic for me, as it is for a lot of people. I think it kind of came out of left field if you weren't already studying it in academic, like an academic setting. So I think I spent, so I spent a little bit of time there. And I think the reason I was able to ramp up and learn about it so fast had a lot to do with the fact that
+I studied mathematics, worked in quantum chemistry, which is very applied. So it's kind of like some big applied mathematical framework. And then I was able to kind of get my hands dirty with that immediately just by having those skills.
+
+
+Candace Gillhooley   9:21
+So how do you explain to someone outside of your field what you do without losing kind of the nuance?
+
+
+Welden, Alicia   9:28
+Hmm.
+Oh, you mean for quantum chemistry or for my role currently?
+
+
+Candace Gillhooley   9:35
+Well, first, your current role, if we could.
+
+
+Welden, Alicia   9:40
+Okay, so yeah, so my current role is actually not a research or academic role. So I kind of sit between R&D and kind of external parties. So that could be universities, companies, other groups who are interested in what Fujitsu is working on. And basically, I feel like I have the role of translator. So I represent our whole R&D portfolio. I show people what we're working on.
+And we try to come up with ways to either form partnerships or form, you know, partnerships around commercial activities, around business activities and things like that. So once again, it comes back to this matter of, you know, I can speak in a technical language. I've seen a lot of things. And like, you know, at its core, a lot of these things are either mathematical principles or...
+you know, leveraging the scientific method to answer a question, and I can kind of just translate from there. So a lot of these subjects, you know, I'm not an expert in like graph technologies, for example, but because I know mathematics, the researchers can explain it to me decently well, I can get the gist of it, and then I can kind of go out and
+maybe some commercial settings and say, hey, like maybe this is something you could use and we can, I can talk with that party as well. So that's pretty much what I'm working on now. And I think my academic background really prepared me for that.
+
+
+Candace Gillhooley   10:59
+Okay.
+What's A misconception in quantum right now that is fairly pervasive but quietly frustrates you?
+
+
+Welden, Alicia   11:04
+Ohh.
+It's a, you know, I think this is kind of like a cop-out answer, but usually scientists and myself included, like I see a lot of news articles with people talking about it where everything is very oversimplified. And I kind of understand why that needs to be done because it, you know, you shouldn't need to become a quantum chemist to have a conversation about quantum chemistry or
+quantum computing or whatever, right? That's not reasonable. Everybody can't be a quantum expert. But what I really want, what I really wish these news outlets would do instead is instead of just getting people excited about it and saying buzzwords and like promising people things or scaring people into thinking something's going to happen.
+They would really just kind of showcase the complexity of it. You know, there's been a lot of good progress in the last handful of years, but there's actually still a lot to work out. So, you know, people are always asking like, what's the timeline on it? What's the timeline on it? And the truth is, I think it's hard for anybody here to say a number. We're not like, you know, psychics or soothsayers just because we're...
+You know, people who work in the field are, you know, they know more of the subject matter, but they don't know what the future is going to be like. They don't know what the next experiment's going to work in those kind of topics. So I guess there's just that mismatch between, you know, what people want to be true, what people think should be true, and kind of like what is true.
+So I would say that the thing that frustrates me is people want to know when is it going to be, how is it going to affect me? And the answer is, I don't know. We kind of need to work on it together. You know, the future will simply be like what happens tomorrow, in my opinion. I can't predict what quantum will be like in 10 years. So, and so, yeah, I don't know if that was a good answer or not, but I
+Yeah.
+
+
+Candace Gillhooley   12:51
+So let me ask you, because, you know, I think that there must be moments where you're facing doubt internally. And what is your process for deciding whether to speak up or to step back in those moments?
+
+
+Welden, Alicia   13:06
+I'd say, yeah, well, well, my gut reaction is always to not immediately do something based off my gut reaction, because, like I said, I'm a very scientific person. So, you know, when something happens, I try to just kind of view it very clinically, like, what are the facts, what happened, those kind of things. So I guess my immediate stance is to step back.
+But I think the question that comes right after that is, what should I do next?
+Right. So I, once again, I try, I try to just be scientific about this, like, what's the next thing I can do that's going to get me a little bit, you know, one little crumb closer to the next thing I want to achieve. And that's kind of just how I think about everything.
+Is he uh, um, do you have like a concrete example of something that maybe I could speak to?
+
+
+Candace Gillhooley   13:52
+No, I just kind of want to know where you were with it. You know, like there's so much going on. You're in the midst of, you know, research and R&D. And so I just kind of wanted to know where you felt about it. But no, that was good.
+
+
+Welden, Alicia   13:54
+Oh.
+Mm-hmm.
+
+
+Candace Gillhooley   14:09
+How about...
+What do you see as the most promising near-term application of quantum computing?
+
+
+Welden, Alicia   14:16
+But.
+See, that's another tricky question, but I think where I've seen the most interest has just been in these kind of large optimization problems, which I think, once again, like from a mathematics standpoint, like those exist in almost every field. People are always trying to optimize their supply chain. Banks are trying to optimize their portfolios. Quantum chemists are trying to optimize, like,
+
+
+Candace Gillhooley   14:21
+Okay.
+
+
+Welden, Alicia   14:40
+molecular shapes and things like that. So
+I would say at the core, like that's probably the most promising area. But once again, this is a broad blanket statement. Each one of those fields has their own caveats, has their own considerations, and it's not clear where quantum is going to fit in yet. People are still kind of exploring that topic. So there's a lot of good
+you know, both theory work, software kind of experiments like simulation and hardware experiments going on right now to kind of uncover the answer to those questions. So once again, super early, but I have no doubt that it will be some type of optimization problem because that's kind of what computers are for.
+Uh, these days, so yeah, exciting stuff.
+
+
+Candace Gillhooley   15:26
+You know, I'd say a third of our audience is academic, a third of our audience is industry, and the other third is curious. And I think there are many academics that are very interested to understand the transition that you went through after you finished and then going into industry. And what was that like?
+
+
+Welden, Alicia   15:30
+Okay.
+Mhm.
+Mhm.
+
+
+Candace Gillhooley   15:46
+Jake.
+
+
+Welden, Alicia   15:48
+So yeah, it was a big cultural difference, which people had kind of hinted at, but I didn't really know what it meant. So I guess just the things that are asked of you and the expectations are very different. So I'll talk about my path once again. So I did my PhD at University of Michigan. After that, I went and did a postdoc in a national lab. So I worked at Lawrence Livermore National Lab in the quantum simulation.
+
+
+Candace Gillhooley   15:51
+Okay.
+Is it?
+
+
+Welden, Alicia   16:12
+group. The work I was doing was very similar, but the environment I was in was a little bit different. So very academically flavored. But the types of problems we work on, we're kind of more positioned toward defense applications. And I would say, you know, in the grand scheme of things, you're still just working on quantum chemistry problems. You're still modeling molecules and materials and things like that.
+It's just that their motivation for funding that is a bit different. So that didn't feel very different at first. When I finished my postdoc, I went to work at a quantum computing software company out here in Palo Alto. So I was there for about five years. And when I started out there,
+We were basically doing consulting projects for large companies that were thinking about quantum computing. Basically, they were thinking, how is it going to affect my business? What types of problems can it solve? Should I be looking at this now or should I be waiting? And those were kind of the questions we were trying to answer. So once again, their motivation for looking at that topic was very different. It wasn't just kind of pie in the sky research.
+about like, what is a quantum computer? Can it do something? It was very much like, how does it affect my business? And when you're trying to answer that question rather than, you know, a more academically flavored question, you kind of have to think about what can help that person, what is their business like? And you have to learn a lot about them.
+So, and like I said, that's in stark contrast to academia, where it was like, come up with, you know, there's funding agencies, they have their agendas, but it's like, come up with a good question that can kind of be used as basic science. Like that wasn't this. So it was a little bit different, but like, you can see that it's kind of like a gradient between the topics. So
+It's not like a completely new topic that I had never heard of. It's just like, how does this topic fit in with kind of this agenda or this business application or something like that. So I would say the biggest difference was kind of, once again, like what the output is.
+also. So, you know, in academia, you're looking at papers for the government, you're looking at kind of like, you know, doing some work toward like a bigger project maybe. And then in industry, the currency is kind of currency. So they're looking for like either money or to answer a question that will help them get money. So, yeah, that's kind of how I...
+how I ventured across those 3 landscapes.
+
+
+Candace Gillhooley   18:39
+So what type of soft skills would be important for, you know, other others in academia to work on so that they can make the transition into industry a little easier?
+
+
+Welden, Alicia   18:58
+I would say the biggest thing I got from academia that's helped me in my work has been being a teacher. So kind of working with the students, you know, being patient with people, communicating well, showing up prepared. I think that's really important too, like putting yourself in their shoes. Like how does a student think about a topic or how did I think about that topic five years ago?
+like those kind of ideas. And I'd say, yeah, the other big one I think is because my job had a lot to do with, it was very like outwardly facing and working with people is just listening. So listening to people, asking them about their, you know, what are they confused about? What are the, what can I help them with?
+And just learning a lot that way. I think sometimes in academia, we were kind of pushed to like, just show up and show everybody your project and explain like how smart you are and stuff. And like that kind of thing doesn't kind of fly in industry. Like you're there to meet with that person and like learn about what they're working on and learn about how you can help basically.
+So yeah, I think that kind of stuff is very valuable.
+
+
+Candace Gillhooley   20:09
+What challenges did you face early in your career that you didn't necessarily expect?
+
+
+Welden, Alicia   20:16
+Okay.
+Let's see, early in my career, I guess the first thing that happened when I joined, well, like I said, looking for a job is always tough, but I eventually landed a couple things. I had a couple choices for postdocs and I didn't really know which one to choose. And I would say,
+The challenging thing is to know what environment is good for you kind of before you show up. So I ended up at, you know, I ended up working in a national lab and postdocs are a little bit temporary. So I think.
+I think it went fine, but it was another like kind of exploratory thing for me where I was like, I'm not sure if I want to stay here long term. A postdoc is a good way to test drive that. And I really liked it, but I kind of got more excited about the idea of being in a startup in Silicon Valley and things like that. I guess another challenge is that when...
+When you're a PhD student, you have an advisor. So you have someone who hopefully is kind of committed to mentoring you and is committed to your success and all of that good stuff. When you start showing up in these other environments, like there are people there who want to help you and who kind of want to
+you know, be supportive of you, but there's no like formal relationship, right? Where it's like, oh, you know, you could have a boss and I did, but it's kind of like, no, there's no, there's not someone who's going to like make sure that you're on the right path or like guide you or things like that. So you can kind of seek those things out on your own. Like the lab I worked at had some great resources. There were lots of ways to meet people.
+But I would say like, yeah, the training wheels kind of come off the more you go out in the industry, I think.
+
+
+Candace Gillhooley   22:01
+So what advice would you give someone who's curious about quantum but doesn't have a physics background?
+
+
+Welden, Alicia   22:08
+I would say just, you know, there are lots of ways to learn about that topic. So you can learn about it on the internet yourself. You can listen to talks over the internet anywhere in the world. Depending on where you live, there are probably universities around where the talks are open. So my advice is kind of just go out and talk to people and learn about it. Like, don't
+you know, just get started. Yeah, that's another thing. So if anyone's interested about those topics who's listening, you know, you can always shoot me a message on LinkedIn. I get those every once in a while of students who are like, how did you, you know, how do I, how do I apply for this job? How do I do something? And I think, I think the truth is that like people want to help you. Like people want.
+people to be involved in this and to kind of contribute. So that's another thing. If you just show up and say, hey, I want to learn about it, but also I want to contribute somehow, I don't think anyone will turn you away. So that's kind of my advice.
+
+
+Candace Gillhooley   23:02
+I like that. I like that. To tell people to reach out and that people are interested in helping. So beyond technology, what personal values drive your work in science?
+
+
+Welden, Alicia   23:03
+Mhm.
+Mhm.
+And say, yeah, it's definitely not technology. It's just how can we be better tomorrow than we were yesterday? Like, how can we use this to make people's lives better and to kind of drive ourselves forward? I guess another one is fundamentally, like, I'm interested in how things work. Like, I live on this planet. You know, I run into situations all the time where I'm thinking like, you know, why is this the way it is?
+I'm just like a naturally curious person. So that always drives me as well. The fun thing about science is I can always write down 1000 questions that nobody can answer yet. So you're not going to run out of things to do. But hopefully one of those things will end up being useful and, you know, kind of be leveraged for something that helps people.
+and kind of improves their lives, makes their lives easier, or kind of like frees them from nonsense, in my opinion. So yeah, that's kind of how I think about it.
+
+
+Candace Gillhooley   24:10
+How do you stay motivated during setbacks or complex, you know, challenges that you're working on?
+
+
+Welden, Alicia   24:18
+I see, yeah, I think that the older I get, the easier it gets, right? Because every new setback is kind of like, oh, this is like, you know, the five other ones I had last week. You know what I mean? Like, it's, you know, so experience is good. But yeah, I would say like your first big setbacks, like once again, I just go back to that clinical thing of like,
+give it a little time and a little space and try to think, you know, what happened, right? So what actually happened? What were the facts? What did you do? And just kind of view that with clear eyes and a clear head. Once again, that probably means a little bit of distance from it, but I think.
+In the end, basically, there's always some like lesson you can extract from it, hopefully. So yeah, just carry that lesson with you. Go to the next thing. Try not to do it again. Don't beat yourself up when you do it again. But yeah, that's pretty much it.
+
+
+Candace Gillhooley   25:09
+So what does success mean to you in the context of a long and evolving career?
+
+
+Welden, Alicia   25:16
+Success. I mean, my philosophy about it has always been like, I don't want to wake up dreading going to work. And I don't mean like every once in a while, like, oh, I have a meeting I want to go to. It's just like, I don't want to wake up every day and be like, oh man, I can't believe like this is what my job is and this is what I have to do. If it ever starts feeling like that, once again, I would take a couple steps back and regroup because there are lots of jobs in the world. So
+You don't have to continue with, you know, some thing you don't want to work on, like a bad environment. I'd say there's always just lots of opportunities. It's really an open world game. So for me, it's kind of just taking it one day at a time. Like I'm working towards specific goals for like this quarter, this year, like maybe this decade, right?
+And I'm always kind of reassessing, like, am I doing the right thing? Am I walking toward them? Am I walking backward? That's never a good thing. But also standing still. Like if I start standing still too long, I start thinking like, how can I like make progress? How can I move forward a little bit?
+And I would say, yeah, without saying any details, that's just kind of how I move through my week, basically. I just kind of have a little cycle and reassess every week.
+
+
+Candace Gillhooley   26:26
+What's the best piece of advice someone has ever given you?
+
+
+Welden, Alicia   26:33
+Yeah, so someone when I was a child kind of told me that, you know, I shouldn't stress too much about what my job is going to be, because the job that I'm going to have probably doesn't exist yet. And I think I found that to be true a lot of the time, because the truth is when I started graduate school,
+
+
+Candace Gillhooley   26:47
+It's true.
+
+
+Welden, Alicia   26:51
+You know, once again, I started with quantum chemistry, super excited. Definitely don't regret going into in that field. People were not talking about quantum computing that much. And like there were a couple of bits and bobs here and there, but it was very new. Not a lot of people knew about it. I think it was still in like the corners of academia. And then by the time I graduated, it had gotten hot all of a sudden. It was like, oh, there was 1000.
+quantum computing jobs, like anybody who knows anything about quantum can get a job there. There was a lot of investor interest. So a lot of these companies were popping up. And I would say, yeah, like that's, I'm talking about a five year span of my life. And it's like I was beginning graduate school and choosing a direction and the thing that I ended up doing didn't.
+like kind of wasn't really in anybody's eye line very strongly yet. So I think I found that to be true once again, this AI thing. So I worked at the quantum computing company for five years. By the time I got to the end of it, AI was the hot thing. And it was like, yeah, like not a ton of people were talking about AI when I started at the quantum computing company. Like people knew about it. Like I said, you hear bits and bobs.
+people in act, there were a couple academics who were working on it. Then all of a sudden, everyone's talking about it. So I would say being open-minded is extremely important. And yeah, just trying not to think ahead too much, because once again, we really don't know what the future is going to be like. We don't know what kind of jobs are going to be available. But I do know that
+some core subjects and some transferable skills will kind of always, will kind of always be good to keep in your back pocket. It'll make you kind of, it'll make you employable no matter what, let's say.
+
+
+Candace Gillhooley   28:27
+So there's a lot of focus on hardware out there.
+
+
+Welden, Alicia   28:30
+Ohh.
+
+
+Candace Gillhooley   28:31
+What do you think people are missing when it comes to the algorithms and software?
+
+
+Welden, Alicia   28:37
+Let me see, yeah, so the interesting thing about hardware and software is I don't necessarily view them as separate. Because, you know, there are a lot of different quantum computing hardwares. That certainly informs the type of algorithms and the type of software you can write. And then there's always this kind of back and forth between the two.
+So think about something like AI. So basically people were taking these machines that already exist, like these GPUs. Someone came up with the transformer architecture and realized the power of that. And now people are out building hardware to kind of be amenable to the transformer architecture. So there's always kind of that back and forth.
+I think quantum's going to kind of be in the same boat. People are out now doing some early experiments, trying to see how the algorithm operates on the real machine. And I think once, and you know, the other direction, people are saying, look at this machine, what can I do with it? That kind of thing. Once we kind of work out what the limitations of that are, I think it'll be time for the next implementation of hardware. So they're always going to be
+playing back and forth. And there is a long history of this in computers. That's pretty much always been the case as far as I see. So that's kind of how I think about the two together. They really are like married to each other. They're not separate.
+
+
+Candace Gillhooley   29:57
+Where do you see the real progress happening that isn't getting enough attention right now?
+
+
+Welden, Alicia   30:04
+I would say, yeah, the funny thing about the progress in terms of like scientific progress is that it's usually a little bit slower. So a lot of the things I see in the media are mostly like announcements claiming there was some big breakthrough or there's a new topic no one ever thought of.
+But I think the truth is like the progress is slow and from the point of view of someone who's watching it, it's just basically like a little micro evolution. So.
+I'd say I think there's not enough attention just on that topic, that the progress isn't going to be overnight. It's going to be a grind. It's going to be for years. And it's going to take a lot of people. It's going to take, you know, it's the same as how we should think about these missions to like the moon or tomorrow's. Like it's that level of.
+It's that level of work. It's going to take a lot of science, a lot of engineering, and a lot of people, and a lot of interest from everyone to kind of get that off the ground. So that's kind of how I think about that.
+
+
+Candace Gillhooley   31:09
+Okay.
+What part of the quantum ecosystem feels the most real to you right now?
+
+
+Welden, Alicia   31:20
+Mm.
+I'd say, yeah. Well, none of them really feel like they're not real to me. I mean, it's kind of the interplay of all of them, right? So there's the academic piece, there's the industry piece, people in government, you know, governments all over the world are interested. There's, you know, large meetups where people are trying to think like, what are the standards for quantum computing?
+
+
+Candace Gillhooley   31:25
+Okay.
+
+
+Welden, Alicia   31:40
+So it's just a very early field, but it's really a big ecosystem where every piece of this matters. So there's, you know, this, there's the part where we need to.
+You know, we need to train the next workforce of people to make sure we have enough people to continue it. Like I said, we need a lot of government support just because these endeavors are very large and very expensive and are going to take a while. So that's not exactly something that industry or a startup can manage by themselves.
+But the, you know, industry and startups certainly feed into that. So all of those activities are kind of all moving us all in this direction, let's say, like we need everybody to kind of work on that.
+
+
+Candace Gillhooley   32:24
+Do you think the industry is currently moving with clarity or momentum?
+
+
+Welden, Alicia   32:30
+I would say when I first started, it felt like just a lot of momentum. So like I said, there was a lot of investor activity. People were excited. I think that's still going on, but I think people now are a little bit more clear-eyed about, you know, the timelines. I think people were rushing in and thinking that, you know, this is going to, you know,
+straight to the moon right away. Someone's going to get a quantum computer, everyone's, you know, that person's going to make a ton of money and everyone else is going to get left behind. I really don't see it that way.
+Like I said, once again, I think it's going to be one of these like, we're all getting together and doing like a big scientific mission together. So it might take a little bit longer than people think, but the payoff will be enormous. So that's kind of how I'm seeing that currently.
+
+
+Candace Gillhooley   33:14
+Okay, is there something currently that you believe about quantum that most people aren't saying out loud yet?
+
+
+Welden, Alicia   33:24
+What I believe about them. I don't know about that. I think a lot of people who work in the field and people who are scientists and things like that kind of see it a little bit more clear-eyed. I think we're a little bit more objective. I think we know how complicated things are. I think having that insight always kind of informs your opinions about these things.
+But I would say, yeah, and I don't want to say that, you know, whatever the media is reporting is what everyone thinks about it, because maybe that's not fair either. You know, the media reports on things a certain way, because that's kind of what their, you know, what their agenda is. They want to get people excited. They want people to read their articles and things like that. So
+It's hard for me to say what everyone thinks about quantum, right? But I would say most of the scientists I work with have been very clear-eyed, level-headed, very brilliant people who are kind of like me. They just want to make progress on it. They see the obvious, you know, it's obvious that this could have a big impact if we were able to get one of these projects off the ground.
+everyone's just kind of working toward that goal of like, how do we make a quantum computer reliably? How do we get it to work on an important problem? You know, how can we come up with new ways to use it that can kind of break past the limitations of the computers we have today? So that's just kind of how
+Yeah, I think it's very grounded and very realistic most of the time. And I think that's super important for something like this because, you know, being excited about it is good, but excitement doesn't kind of produce progress. Like hard work produces progress. And, you know, continued support is very important. But at the end of the day, like the...
+You know, the actual scientists, engineers, and all of the people involved are the ones who are doing the work, though.
+
+
+Candace Gillhooley   35:10
+So how do you navigate spaces where you may be one of the few women, if not the only one, in the room?
+
+
+Welden, Alicia   35:14
+Mm.
+I'd say, yeah, that's an interesting question. So I feel like throughout my career, the number of women has dropped off. So once again, I went to an engineering college. I was used to being in an environment where it was probably for like every one of me, there were three males. And it's like, okay, that's not, that's not so bad. But I would say,
+
+
+Candace Gillhooley   35:32
+Okay.
+Okay.
+
+
+Welden, Alicia   35:36
+You know, the number of women in the field, you know, has, you know, as I've moved through graduate school, post-doc, all of that stuff, it kind of gets less and less.
+So I'd say that the best way to navigate it is to, well, once again, you have to show up. So there's no, yeah. So that's step number one, definitely show up. Step #2 is to kind of find allies in people who...
+
+
+Candace Gillhooley   35:46
+Yeah.
+
+
+Welden, Alicia   36:00
+I would say, yeah, it's not mostly a gender thing, but you need to find people who are supportive of you, you know, regardless of gender. So, you know, it's a little bit scary, like, oh, I'm the only woman, you know, you might have this idea that you're in some fraternity house, but I don't really think that that's true, right? I think a lot of the males there are,
+you know, they're the same as you. They showed up because they're interested in these topics. They earnestly want to help. And I'd say, yeah, so just don't be afraid to approach people. I'd say on the other hand, if you get the impression that someone is not supportive of you or something like that, you don't have to work with that person most of the time. So once again, there's lots of opportunities, lots of open world games.
+You know, if you don't feel like you're fitting in well.
+or that the environment's not supportive, you should probably think about why that is. And try to think about if it's really where you need to be, because there are lots of environments for you to be in, in quantum, where that's, you know, you know, women are treated well and well regarded. And once again, especially if you're a student, people should want to be supportive of you no matter what.
+So, that's just kind of how I would think about that.
+
+
+Candace Gillhooley   37:09
+So what does confidence look like for you now?
+Seeing women around you, but then seeing them drop off.
+Has that affected your confidence in the room? Has that emboldened you? Has that made you quieter? What has that done for you?
+
+
+Welden, Alicia   37:23
+Um...
+I would say, once again, I try to just roll with things as they are.
+
+
+Candace Gillhooley   37:32
+K.
+
+
+Welden, Alicia   37:33
+So I wouldn't say the number of women has maybe dropped off in the sense that women are quitting or something. I think I just kind of entered into a new field where there were less because, you know, quantum chemistry and quantum computing are related, but they're a little bit different. And quantum chemistry actually has a lot of really well accomplished women.
+You know, they're not the majority, but you know, it wasn't as there wasn't so few of them as there is in something like physics, so...
+I would say I try to just take things at face value. I always try to encourage people to, you know, I always encourage young women to kind of think about the field and join the field if it's right for them.
+But I would say confidence wise, I would say I'm not shook. Let's say I think, you know, I worked hard. I'm a good scientist too, and I deserve to be there like anybody else. I don't think you should ever doubt that about yourself because not everybody in the world becomes, you know, does that kind of thing. Not everybody has a PhD. Like, so
+Like once again, just be clear-eyed about this in a sense, like, you know, all these people in here have a PhD. You do too. Don't worry about it. Like that kind of stuff.
+
+
+Candace Gillhooley   38:44
+What kind of support actually has made a difference for you along the way?
+
+
+Welden, Alicia   38:50
+I think the best support I've received has kind of been in moments where I didn't do as well as I thought I should, or I was kind of unsure about something. And people, you know, I had a couple, you know, my PhD advisor was great. She was always very encouraging.
+But you know, other times when I worked in industry too, like I would go to a meeting and I would be like kind of nervous or it wouldn't go as well as I thought it would. And like, you know, whoever I was there with or my boss would kind of be like, you know, don't worry about it. Like, you're really good at this. Like, you know, they would kind of just remind you that this is just one instance. This is just one.
+you know, one meeting or one project that didn't go well or something like that. So I would say, yeah, I think people just kind of naming the problem and being aware that like, you know, sometimes especially new people just aren't as secure or confident about themselves or things like that. So.
+It was nice to kind of be around people who recognize that and were kind of supportive that way.
+I guess the other type of support would be like, I was just given chances to do things like before I felt ready and they kind of would just encourage me to do it anyway. And the more you do that, the more it kind of just stops feeling so painful. And I would say, yeah, that's kind of how you practice and learn how to do it. I mean, there's really no other way at the end.
+
+
+Candace Gillhooley   40:18
+So you're in a field that's complex, it's constantly evolving. How do you manage the cognitive overload?
+
+
+Welden, Alicia   40:26
+That's a great question. Like my true answer sometimes I want to say that I really don't, but no, I would, yeah, exactly. So no, I just try to take it one thing at a time. I'm around a lot of people who are experts in it and who do study these topics as full-time researchers. They're a great resource to mine.
+
+
+Candace Gillhooley   40:32
+I cry in the closet, you know.
+
+
+Welden, Alicia   40:48
+Like I said, I dabble in news stories, but once again, news stories tend to be, you know, they have their own agenda. So it's like, okay, what does, you know, usually they're trying to attract like interest from various groups. I kind of take a peek at that stuff and, you know, take stock that way.
+I would say, yeah, so, and going to events is the other one. So, you know, you can read reports about what happens at events. Usually it's the flashy announcements. Go to the actual event, talk to the people who are there and kind of see what they're up to. And I would say, yeah, there's nothing like a word on the street to kind of be like the media attention or, you know, publications are great too, but there's so many of them.
+There's, you know, it's hard to keep up with that. So I'd say attending events probably is the number one way.
+
+
+Candace Gillhooley   41:32
+So outside of quantum, what are some other things that you're personally passionate about?
+
+
+Welden, Alicia   41:38
+Yeah.
+And say, yeah, so I'm a bit of, like I said, I don't want to say health nut, but I got really interested in nutrition at some point in my life just because of I care about my own health. And now I'm a proud vegan. So I switched about six years ago. And, you know, I have a lot of vegan friends and I love learning about those topics. Like what are all the new
+technologies that have to do with veganism. There's a lot of, there's a lot of activity in the Bay Area about like cultured meats and you know, vegan products. So that's one, you know, it's something that's kind of the intersection of like my personal life and kind of scientific topics. So like I love learning about things through that viewpoint.
+The other one is I like to kind of build things and play with the new AI tools, not really for work necessarily, but to kind of just learn about them, build things that are useful for, you know, my house. So I have a couple little apps that I built that help me do things like organize my closet or figure out what to cook. And I'd say the other one is I like to just spend time outside. So I live.
+near the ocean, I live near the park in San Francisco, and I spend a lot of time out there with my dog and my partner, just kind of relaxing, getting some sunshine. So yeah, that's kind of it for me.
+
+
+Candace Gillhooley   42:58
+So I like to end with usually, I like to end with this question. What's one question you wish more people asked you about?
+And how would you answer it?
+
+
+Welden, Alicia   43:10
+Hmm.
+See, yeah, you know, it's funny, I'm kind of a private person, so sometimes when people ask me stuff, I'm like, wish they would stop asking me, but...
+Um, I think...
+See, yeah, this is a much harder one.
+Um...
+Yeah, we're having a little dead air here.
+
+
+Candace Gillhooley   43:30
+That's okay, because I can cut it all out, so don't worry about that.
+
+
+Welden, Alicia   43:31
+Is it?
+Oh, okay. Can you maybe rephrase the question then?
+
+
+Candace Gillhooley   43:36
+Well, you know, someone like you, you're very intellectual. I, you know, you've mentioned veganism. You know, are you someone who's, do you get excited by pop culture? Do you like to write? Are you, do you like to photograph? Are you a dancer? Are you an avid reader? You know, just something else about you.
+
+
+Welden, Alicia   43:51
+Mm.
+
+
+Candace Gillhooley   43:56
+that just kind of flushes you out in a full 360.
+
+
+Welden, Alicia   44:00
+Okay, I'd say yeah. I guess one thing is that I read a lot of books. And, you know, to be honest, most of them are not about science. And I dabble very lightly in science fiction. I read a lot of fiction. I read a lot of nonfiction. And like, I love to just go to the library, go to bookstores. Once again, I mentioned I hang out outside quite a bit, like love to read outside.
+
+
+Candace Gillhooley   44:21
+Mhm.
+
+
+Welden, Alicia   44:24
+I've actually been looking at a lot of poetry lately and trying to look at the way LLMs kind of tokenize them differently. So how do they break them into chunks and like how does that kind of change the meaning? So I'm definitely interested in, you know, communication and words and things like that. And I think this hobby really helps me dabble.
+
+
+Candace Gillhooley   44:27
+Mm.
+
+
+Welden, Alicia   44:41
+with those subjects like for a lot of time, which is kind of how you get good at things, right? You just practice them and...
+and things like that. Yeah, but I'm a big, I'm a big fan of Goodreads and kind of keeping track of all my books and what I learned from them and things like that.
+
+
+Candace Gillhooley   44:59
+That's great. Honestly, this has been a lovely conversation. You've really given me and our viewers and our listeners just an insight into what you do, what you face, how you think about it. You know, in an ever-evolving ecosystem, the perspectives that we get are just so very important.
+
+
+Welden, Alicia   45:18
+Yeah, thank you so much for having me. Glad we got to chat about these topics. I rarely get to speak about like, you know, my path through school and all of that. So thank you so much.
+
+
+Candace Gillhooley   45:29
+Thank you again. And you said if anybody's interested, they can reach out to you on LinkedIn, ask you questions, get you involved in conversation. That's a very generous thing to do with your time.
+
+
+Welden, Alicia   45:39
+I say, absolutely, like, you know, it helps me learn too. This is how I kind of keep, you know, as people in Silicon Valley say, it's how you touch grass. So like, it's better to kind of actually be out there in the world than to just be thinking all the time.
+
+
+Candace Gillhooley   45:55
+That's great. Well, thank you again. I really, it was a great conversation. I want to wish you a wonderful rest of your day.
+
+
+Welden, Alicia   46:02
+You too, thank you so much.
+
+
+Candace Gillhooley   46:04
+Okay.
+You have a great day.
+
+
+Welden, Alicia   46:09
+You too, bye.
+
+
+Candace Gillhooley   46:10
+Bye-bye.
+
+
+Candace Gillhooley stopped transcription

@@ -1,0 +1,507 @@
+Sahar Ben & Candace Women in Quantum Podcast recording-20260310_100015-Meeting Recording
+
+March 10, 2026, 2:00PM
+
+59m 34s
+
+
+Candace Gillhooley started transcription
+
+
+Candace Gillhooley   0:03
+Perfect. OK, now I just want to confirm. Hold on.
+
+
+Sahar Ben Rached   0:05
+Yes.
+Yes.
+
+
+Candace Gillhooley   0:11
+OK, it's Sahar Ben.
+
+
+Sahar Ben Rached   0:16
+Rashed.
+
+
+Candace Gillhooley   0:16
+Could you rash it?
+
+
+Sahar Ben Rached   0:18
+Yes, it's harder than the message, yes.
+
+
+Candace Gillhooley   0:19
+OK, OK. And you are now you are now the founder and CEO. Do you want me to reference that or is that still in stealth and would you rather I reference? OK.
+
+
+Sahar Ben Rached   0:32
+Yeah, exactly. It's still in stealth, so I would go with my research and my background as a researcher in quantum computing.
+
+
+Candace Gillhooley   0:41
+OK, OK. So, OK, so I can say you recently a quantum computer. You're a quantum computing researcher. OK, OK. But now you're in Toronto. You're no longer in Spain. OK.
+
+
+Sahar Ben Rached   0:47
+Exactly, yes.
+Yes.
+
+
+Candace Gillhooley   0:57
+OK, perfect. So I can announce that. OK, and just give me one more moment and then I should be ready.
+OK.
+OK, Are you ready?
+
+
+Sahar Ben Rached   1:26
+Yes.
+
+
+Candace Gillhooley   1:27
+OK.
+Welcome to Women in Quantum, a podcast where we explore the people shaping the future of one of the most fascinating technologies of our time. I'm Candace Gillhooley, and each episode I sit down with brilliant women from across the quantum ecosystem.
+
+
+Sahar Ben Rached   1:32
+Yeah.
+
+
+Candace Gillhooley   1:47
+Researchers, engineers, entrepreneurs, and innovators to hear their stories. We talk about curiosity, career paths, breakthroughs, and the human side of building the quantum future. Because quantum technology isn't just about qubits and algorithms.
+It's about the people bold enough to imagine what comes next. Today we have the pleasure of speaking with Sahar Benrashid, and she is a quantum computing researcher.
+Hi, how are you today?
+
+
+Sahar Ben Rached   2:25
+Hello, Candace. Hi, I'm very good. Thank you and thank you so much for having me.
+
+
+Candace Gillhooley   2:29
+Oh, thank you so much for joining us today. I'm very excited to speak with you. You have a very exciting background. So oh, that's wonderful. Wonderful. So let's get started. I want to start with where were you? Where were you born?
+
+
+Sahar Ben Rached   2:34
+You too. Thank you. Thank you so much.
+I was born in a small town that is in the South of the capital of Tunis. So I'm originally from Tunisia and I grew up there and I also had all of my academic studies there until I left for Germany around five years ago now and since then.
+
+
+Candace Gillhooley   2:51
+It continues.
+
+
+Sahar Ben Rached   3:03
+and I have been mainly based abroad and yes, that's that's I would say the countries that I, sorry, sorry can I answer again?
+
+
+Candace Gillhooley   3:14
+Go, go ahead. Go ahead.
+
+
+Sahar Ben Rached   3:15
+OK, sorry for that. Yes. So I was born in a small town that is in the South of the capital of Tunisia. And I was. So I grew up there. I had all of my career path there, and then I left for Germany to start my career as a researcher in quantum computing abroad.
+
+
+Candace Gillhooley   3:34
+OK, so when you were a child back in Tunisia, what first sparked your curiosity about science, the universe, physics? When did it all start for you?
+
+
+Sahar Ben Rached   3:36
+Thanks.
+So when I was child, my main interest was mainly in astronomy. So I was mainly, yes. So that's I I think how many physicists also start being curious about nature and the universe and the laws behind all that we see and and we experience in our life.
+And my father actually nurtured that curiosity, and he was always with me in, let's say, the events that were held in City of Science in the capital of Tunis. He also provided me, I would say, with the books, any activity that was also in local clubs. I was among the first.
+To attend, especially if it's science related and focus on astronomy, he got me a telescope and that's also how I got to see, let's say, the stars. Well, it was mainly a very you could also get, I would say, mainly a very good picture of the moon, of the stars. But still, I mean, it was really the thing that actually sparked my curiosity.
+Into looking into OK, how can I actually learn more about these, let's say laws or about the nature, the sky especially. I was really fascinated with everything related, let's say, to the stars, to the planets, the moon, because I had a telescope that helped me actually get more curious and actually.
+Hands on with what I could learn about physics and astronomy specifically. So I would say that was my experience as a child who got interested into science. Eventually I did not really get specialized in in astronomy. I went to the other end of the universe. I was mainly.
+Specialized in quantum physics and and quantum computing later on, but I would say it's really a very beautiful experience that I had as a child that got me really interested in in science in general and then focusing and specializing in physics when I grew up.
+So I'm very grateful for that and I hope of course many people I would say have a similar experience with their children or even I would say with their siblings, because I think astronomy is the thing that is at the same time fascinating, but also there is a lot that we can learn I would say as as.
+As kids about astronomy. So it's definitely of course on the scientific, let's say level, it's very complex and it's very, I'd say packed with with equations and a lot of science behind it. But at the same time on the surface, it's a very good start for a child to be really interested in science.
+
+
+Candace Gillhooley   6:18
+Absolutely. So when you looked around the room and you were in high school and you were excited about astronomy, excited about science, excited about, you know, nature, were you like the only girl in the room?
+
+
+Sahar Ben Rached   6:23
+Yes.
+No, actually, in Tunisia, many, many women, let's say young girls, are very interested in in science. Actually, I'm not sure what's really special about Tunisia, but we really don't have that, let's say empty classrooms. I'll say empty in the sense that we don't have.
+Women, a lot of girls actually really interested in science, naturally, or let's say they had similar experience to mine. So they got interested in science through, let's say, their curiosity, and then their parents actually supported that and nurtured that curiosity. So they ended up actually going into the scientific path.
+Easily. So when I went into high school, actually, no. Even the top students in high school, I had the scientific, I would say, path in high school as well. So even the top students were girls. And even when I went into college in Tunisia, there wasn't actually.
+I would say big difference between the number of of women and men who are interested in science and eventually pursue their career. This of course came. It's actually a very interesting case in Tunisia because this came of course throughout the years, but since I would say maybe 70 or 80 years ago almost.
+There was a very big emphasis on giving the chance to women to have their choices on their careers. And of course there was a lot of support from the parents to to for their children in general, not just their their, let's say, let's say not only boys to pursue science, mainly because it looked.
+For for the parents, it looked like, of course, a stable career, right? And there is something that they can of course leverage for their future. But at the same time, even in Tunisia, you could see a lot of local clubs or even the City of Science in Tunis, the capital, they had an emphasis on promoting science.
+For children. And eventually, yeah, practically speaking, there was no friction, I would say, for women to to be interested and then pursuing scientific careers. And that's a very beautiful thing about Tunisia that I'm also quite grateful for.
+
+
+Candace Gillhooley   8:39
+I have to say I'm very impressed with with the culture. There's been several ladies that we have spoken to that, you know, whether they were in Iran or Egypt and they were like looking around, looking around the room and they were alone and you know, or maybe like.
+
+
+Sahar Ben Rached   8:42
+Yes.
+
+
+Candace Gillhooley   8:59
+One or two others, do you know what I mean? Nothing of significance, nothing that felt that it was, it wasn't, it wasn't gender rigged. And here it sounds like, you know, in Tunisia, you know, if you were smart and capable, it did not matter if you were a boy or a girl. They educated you and allowed you to pursue what was exciting to you.
+
+
+Sahar Ben Rached   9:00
+Hmm.
+
+
+Candace Gillhooley   9:19
+That's wonderful to hear. Um, so now tell me. So then from Tunisia you then went, you said to Germany.
+
+
+Sahar Ben Rached   9:30
+Yes, my first experience outside of Tunisia was in Germany. So I was there in 2021. I stayed there only for six months and it was for my master thesis internship. I was at KIT Kass Hu Institute of Technology and that was also my first internship in quantum computing.
+And it was also within an experimental lab, so it was really exciting. So yes, my first experience outside of Tunisia was in Germany.
+
+
+Candace Gillhooley   9:57
+OK. And so that's kind of where Quantum found you and you got to be in a lab and you said that was incredibly exciting.
+
+
+Sahar Ben Rached   10:04
+Yeah, actually, I got introduced to quantum computing earlier than that. So I started quantum computing late 20/20/19. Sorry. Yes. And around two years later, that's when I had my first internship in quantum computing abroad. So yes, I would say.
+
+
+Candace Gillhooley   10:13
+OK, OK.
+
+
+Sahar Ben Rached   10:24
+Academically, I chose to to, let's say, pursue quantum computing. So in my second year of masters, that's also when I had my my master thesis internship, but I got to know about quantum computing a bit earlier than that.
+
+
+Candace Gillhooley   10:37
+OK. So you were in Germany for six months, you were working on an internship and then where did you go from there?
+
+
+Sahar Ben Rached   10:47
+No.
+After the internships, I graduated back in Tunisia and then I left to Barcelona, Spain. So I had I started my my PhD at UPC Polytechnica de Catalunya and now I'm in my last year of of PhD. So that's almost four years of PhD right now. So yes.
+Germany, then Spain, and that's mainly to to have my PhD there.
+
+
+Candace Gillhooley   11:13
+You know you're not the only one that got her their her PhD in quantum in Spain. I hear the the education system there is absolutely fantastic. So have you do you have any experience in in in hackathons?
+
+
+Sahar Ben Rached   11:23
+Yes.
+Yes, actually how I got to know about quantum computing was was through a hackathon. So in December 2019 there was the Qiskit camp. It was a hackathon that was organised by IBM Quantum in Johannesburg in South Africa.
+And they got to invite many students from all over the continent. And I was the the student who was representing Tunisia in that hackathon. So I was recommended by my professor who was my quantum mechanics professor for my masters.
+And I got to to the hackathon in South Africa and that was actually of course the first time that I had actually training, let's say in quantum computing. And I got to talk with the researchers and the people from IBM Quantum who were of course the people who are directly working on quantum computing and building one of.
+The first machines to be available to the public. So practically speaking, that's how I really started with quantum computing. And before going to that hackathon, there weren't many courses online on quantum computing. There was mainly one on Coursera.
+And I took that course just to get of course introduced to the to the to the concept of quantum computing and to actually know what topic I will be, let's say doing the hackathon on and after that COVID hit. So it was, yes, the hackathon was December 2019 and by March 2020.
+So we had the lockdown and starting from that point, many conferences, many events, many of course activities related to IBM quantum hackathons and also they had the summer school went online. So a lot of people of course got to learn about quantum computing during that year.
+Was also among these people.
+
+
+Candace Gillhooley   13:15
+So looking back when you're first learning about quantum and there's so much there, but what was what was the most difficult concept you had to wrap your head around early on?
+
+
+Sahar Ben Rached   13:19
+Thanks.
+So.
+Um.
+OK, yeah, so.
+So when I started quantum computing, I was in my first year of masters and my masters was on fundamental physics. So it was in nanophysics and nanotechnology and it was what we call in Tunisia theoretical physics masters. So right. So it's not like engineering and it's not applied physics, it's like.
+Pure physics theory. But before that my bachelor, my bachelor's was actually in in applied physics and it was on electronics. So it was quite far from what I actually specialized in my masters. So the first challenge was actually how I can start a masters course.
+In theory, coming from an applied background and usually the academic paths or let's say the academic programs are quite different. OK, so we don't study much of theory in in in applied programs and engineering programs and also in in theory don't study much of applied physics.
+So the first challenge, of course, was how to understand the theory, of course, of quantum mechanics, and then how that actually relates to the technology. So the theory of quantum mechanics, of course, it's it's fundamental. It's very important to understand as a physicist and to actually have your contribution in.
+quantum computing later on, but also there is, I would say, a path to take to go from understanding the theory and how we actually say mirror that to the to the application in quantum computing. Uh So I was learning both things at the same time. So I was of course taking my academic course.
+In quantum physics, I was doing double the work in order to understand and to catch up with the courses in masters, because again, I come from a different program in the beginning and at the same time I was following up on what was new with quantum computing and try to attend as many, let's say online.
+Courses or conferences as possible, of course. And of course in the second year, that's when we had a specialized course in quantum computing and that's when it really clicked, right. So I would say the program was very well designed in the sense that in the first year we had an overview.
+Of let's say the theory behind multiple applications in nanotechnology and nanoscience. And the second year was actually focused on OK, the field that you learned in the first year. This is the domains of applications and this is how we actually, let's say, make a career out of of the theory that you have learned.
+Computing was only one course in those in that semester and I really, I would say, focused and excel in that in that course because it clicked in my head. OK, I understood now the theory I have learned a bit from, let's say, excellent resources. Now I really get to to specialize.
+
+
+Candace Gillhooley   16:13
+OK.
+
+
+Sahar Ben Rached   16:29
+In it academically. And then of course the internship really supported and reinforced that learning path because as I said, I had the internship in experimental lab. So I went, I would say in a very, very good path. So theory, curiosity.
+Trying to learn my own, then specializing and then the experimental part. So I think I was very lucky with how I got introduced into quantum computing and then how I actually specialized in it. Um And really that really reinforced my decision to make quantum computing a choice for my career and then of course of my specialized.
+That, of course, motivated me to pursue a PhD and continue with my research in quantum computing.
+
+
+Candace Gillhooley   17:15
+Were there any pivotal mentors that helped you decide to pursue this PhD in quantum?
+
+
+Sahar Ben Rached   17:24
+Uh so.
+Actually, I was very lucky to know many people who are related to quantum computing from different aspects. So I got to meet researchers, developers, people who were, let's say, providing these programs from from within, let's say, the big companies. I also got people who were advocating.
+I think for the quantum technology, people working in policy. So I think I throughout the year because it has been maybe 6-6, almost six years now with quantum computing and I was involved with many activities and many, let's say programs and events. So I got to know many people coming into quantum computing but with different backgrounds.
+Eventually I there are of course a lot of people that shaped, I would say, how I see the technology path and reinforcing that I actually did a very good choice with with choosing quantum computing as a career path. And practically speaking, many people have new different aspects, right? Because right now, yes.
+I'm doing research in quantum computing, so definitely, for example, I am directly, let's say, working with my supervisors who are very established scientists in the field and they have been quite supportive and they have been of course providing me with everything that I need to accomplish a PhD and contribute to the field.
+But at the same time, I also got to to work with people who were, let's say, organising big events and conferences in quantum computing. And eventually they also gave me a perspective on how you do the business and how you actually make, I would say, I would say a commercial solution that could be helpful.
+To work to let's say to the general public or even to to businesses on how they can adapt quantum computing. So again, yes, I was. I was also very lucky in that aspect in the sense that I got to know many people coming to quantum computing from different backgrounds and eventually all of them really had an impact on how on how I see the technology going and how I'm now making.
+My choices regarding my advancement in in in my career as a researcher. So practically speaking, there isn't one person that I would say completely, let's say pivoted my my my path.
+But if I had of course to pick a name, because at this point of course all of them were very, very helpful. And each time of course I needed something or I had a question about something. They were very, very responsive and helpful. But pivotal, I would say probably my quantum mechanics professor who who recommended me to go to the Hackathon.
+Right.
+Because at that point I was a student like like I was just started actually my program. It was just a few, maybe two months into the program and he had enough trust in me to actually go into into the the hackathon and represent the country, but at the same time learn about the technology itself and then go back into Tunisia to to share my experience.
+Experience. And since that point it really, it really changed how how I made all of my choices regarding doing research and everything. So yes, I would say my quantum mechanics professor, he had, I would say, pivotal impact on my career.
+
+
+Candace Gillhooley   20:34
+How has your international experience working across different countries shaped your perspective on science and collaboration?
+
+
+Sahar Ben Rached   20:44
+OK, so I come from Tunisia, which is a very good country to for, for example, to do engineering, right. But in terms of research, research is very investment heavy, I would say it's quite costly and usually.
+The people who do research, usually they don't stay in Tunisia, which is very unfortunate. But at the same time, if you, if you, if you consider that that let's say research and development is very costly and it really needs an infrastructure behind it to succeed, then unfortunately Tunisia right now doesn't have that infrastructure.
+So you reach a limit, I would say, in Tunisia, after which you really need to make a you really need to make a decision. Do you want to pursue quantum? Sorry, do you want to to pursue research, research in general? Then at that point, probably your best choice is to leave the country.
+So I always say that my my background is Tunisian, so I was trained in Tunisia. I was there all up to, I would say to to my master's degree. I was, I was trained and and I had all of my career in Tunisia.
+
+
+Candace Gillhooley   21:40
+OK.
+
+
+Sahar Ben Rached   21:58
+But the application was abroad, right? So the the reinforcement, the support, the application actually leveraging what you learned was abroad, which is of course, I would say the best choice I had to make at that point.
+And at the same time, it's an enriching experience on a personal level, right? So working with people from different backgrounds, actually going to Europe and see how research I would say is done there with the infrastructure that they have.
+With multiple parties actually being involved with reinforcing this infrastructure and developing it and actually leveraging the science that is produced in universities and actually commercialising it, that's actually an aspect that I didn't get to experience in in Tunisia and Europe was a very good example to provide that because Europe I think the strongest point.
+In Europe was yes, reinforcing the research part. So in universities you could see there is a lot of focus on innovation. Every time there was actually an interesting application for any technology that was being developed, they were fast into capturing that value and commercializing it.
+So Europe I I think was a very good place to learn about that. And then now I I moved to Toronto, so I'm I'm not based in Europe anymore and now Toronto is an even more different ecosystem. So I'm quite new here. I still haven't made my conclusions.
+But I think here they're quite fast I would say. So yeah, I think the the speed I think is is now a different factor or a new factor that is being added into the equation of how I'm trying to understand how this ecosystem are being built.
+And it's a very interesting aspect because, OK, of course everyone would like to be fast, right? OK. But how fast can you go when you really are working with these, let's say, front end technologies, right? We that's when they say the regulations come into play and everything that is related to the commercialization and.
+Crafting value early on in order to have return on investment. So that's actually a cycle that seems to be, I would say, quite fast to do here in Canada and I would really like to understand how it is done. And eventually, of course, I would like to project that into Africa.
+And Tunisia. So would it be possible to actually repeat the same experiences or models in in Tunisia or in Africa as a as a as a let's say bigger, bigger scale? The question of course is very hard to to answer because you cannot just take these models or these factors and try to project them on a different environment definitely.
+You need to take into account what is happening on the ground and what was already done and what how you can improve on that. And if you start and if you have to start from zero, then OK, what would be the best model to apply in in places like Tunisia or or at say nearby countries?
+This is actually a discussion that is always being brought up, be it of course within rooms where we have African researchers and the developers who are also interested into bringing quantum computing into into the continent. And there is an immense work that is being done on that aspect. We have multiple groups.
+We have multiple consortia that are specialized in these in these topics, but at the same time building an ecosystem is not I would say an easy task and it cannot be done. I would say within a few years. It definitely takes a long term commitment and we are trying to engage many people who are decision makers and eventually who.
+Who are the people who will, let's say, make or break the deals or let's say support or not support the the the work that we are proposing or let's say the paths or the plan of actions that we are proposing. And definitely of course with all of this work, I'm 100% sure that someday we will, we will find that we will.
+To find the results, of course it no effort goes into waste and definitely with this mergence of multiple brilliant minds that are working to solve one problem or even to to let's say advance on the infrastructure of of Africa to be very specific, then definitely it's going to pay off at some point because.
+I mean, we are the generation of the future, right? So if we have this perspective, I would say, and this motivation to build our countries and to actually give back to where we came from, then definitely we will be the decision makers someday and we will make our vision.
+Reality and until which that day, of course, we are still working on that.
+
+
+Candace Gillhooley   26:43
+Fantastic. So what's 1 misconception about quantum computing you wish more people understood?
+
+
+Sahar Ben Rached   26:48
+Yeah.
+Yes.
+So the misconception, I would say, is really.
+It's a subtle misconception where I think it's an underestimation about how hard it is actually to build quantum computers. Definitely we have seen, of course, with the commercialization of quantum computing, maybe within the last four to five years, it has really gained the momentum that people are actually expecting to see results from all of the investment that has.
+Has been done. So of course you see every now and then the breakthroughs, and those breakthroughs of course get amplified and presented as OK, this is, let's say, the transistor moment of quantum computing, or this is the ChatGPT moment of quantum computing.
+And I understand of course the narrative behind it is that we we really would like to to see the fruits of of all of these efforts and all of these investments and times and the this of again brilliant people working on on a single problem. But of course the people who are really hands on with the technology know how.
+It's really difficult to actually build these these systems and the breakthroughs are very important milestones along the path, but they are not outside the destination. We still have a lot of milestones to reach as a community coming from research or even from from industry and eventually of course we have more or less a clear path.
+On how we can build these systems, but at the same time there are a lot of let's say.
+Issues or unexpected, let's say things that you find along the way that really get us to rethink about the problem or even to find or to overcome these issues to be fairly short.
+So yes, it's it's a fascinating technology. It's definitely has potential. The science supports it. We have of course established theories about this, but building the systems themselves, it turned out to be a much harder problem than we had anticipated in the beginning.
+And it's very difficult to put a timeline on when we will actually exactly reach those those that say milestones, the the big milestones which are like providing a commercial and stable quantum computer.
+I don't think anyone has a definite answer to that, but we're collecting clues, right? As we are progressing, as we have milestones where we are collecting the clues to to put a timeline on this technology development and actually provide a consistent technology development roadmap coming from all parties that would.
+More or less answer the question of when will we have quantum computers. So I think it's not a misconception, but it's an underestimation of how difficult this this task is, and it's of course.
+The role of the people are communicating about the technology itself to explain that it's definitely an exciting technology and it's worth the investment and it's worth all of this time and effort being put into a single direction. But at the same time we need to be very realistic and faithful.
+About the translation of these technology milestones or science milestones into commercial value, yes. So practically speaking, I think that's the thing that is, I think it's on the mind of many researchers in the field.
+But at the same time, I personally understand the narrative behind helping up quantum technology.
+
+
+Candace Gillhooley   30:36
+So what would you say to young women in university to get them excited about what's going on in quantum and about their?
+
+
+Sahar Ben Rached   30:46
+Yes.
+
+
+Candace Gillhooley   30:48
+Their role that they could play? What kind of skills? What would you tell them? What kind of skills would they should they try to develop?
+
+
+Sahar Ben Rached   30:57
+OK. So I think everyone who's coming from from a background, whether it's commercial background, business development or or science and technology have a place in the quantum computing ecosystem simply because it takes I would say.
+It takes a village right to to make the the technology commercial and to have value from it. So if you are a scientist, I would say, or you have an interest in becoming a scientist or researcher in quantum computing, then I think the clearest path are usually coming from engineering, computer.
+Science and software engineering and physics. I think these are, let's say, the clearest paths. Eventually, of course, depending on what you'd like to specialize in, whether it's hardware development, then having an experimental experience is very, very important. So.
+Try to have, let's say, the internships or the even the academic programmes leaned more towards experimental, let's say, or or applied sciences. And if you'd like to be specialised more into the theory, then definitely of course academic paths could be coming from physics.
+Math or pure computer science in order to to have your your career as theorist, for example in quantum information science or quantum computing or even algorithm developer or algorithm designer. So definitely those those are let's say skills that we are very much.
+Let's say looking for in the sense that we really need people who look into the science, understand how we can use quantum computers and actually build a design algorithms based on that on that science dependent force on the interest of of of the person who would like to pursue this this career path.
+But if I want to provide I would say generic generic answer, it would be really try to maximize I would say your skills in in in physics, math and computer science, just to be very brief.
+But of course, beyond the scientists and the researchers in the field, we have people who are doing the business, who are communicating about the science, who are building even companies around these these milestones that you are reaching in quantum computing and quantum technology development. And it takes, of course, the.
+Work of multiple people from different perspectives to build and sustain a technology on a commercial perspective. So definitely people who are also into business development for deep technology, for example, we can mirror what happened with AI, let's say 10 or 15 years ago, right? So the experience of that of those people.
+Must be very valuable for quantum computing at this moment, right? Because they were among the very first people who saw, let's say, the potential in AI, when of course at that point it wasn't very mature. You couldn't really see what's the value behind all of this, but they still built and sustained businesses behind it. So I think we need those.
+
+
+Candace Gillhooley   33:44
+Right.
+
+
+Sahar Ben Rached   33:59
+Type of people and those type of skills in in quantum computing at this moment as well. So that's also quite, quite valuable. Everything also related to education for all, for all grades, I would say, or for all ages.
+Because if we are talking about quantum computing, then we are talking about an industry that will that will affect let's say the job market or even to to affect the industry in the future. So definitely we need to train people who will be able to work with this technology and use it in the long run and that definitely also needs a change.
+Change on the academic part and eventually the adaptation of the science and technology paths, even for younger learners or let's say kids. Yeah, so practically speaking, or to to be very short and concise, if you're interested in pursuing a scientific path in quantum computing.
+Definitely you need to maximize your skills on physics, math and computer science. If you'd like to work more on the business side, then definitely you can learn from the experience of the early business development people who worked on AI, mirror their experience in order to push for quantum computing to to the commercial side.
+
+
+Candace Gillhooley   35:12
+What do you see as the most promising near-term applications of quantum computing?
+
+
+Sahar Ben Rached   35:20
+So depending on how we can define near term, right, so are we talking about a year, five years, 10 years? I think it's it's very important to to be also realistic about the the timeline itself just to to be I would say quite clear on where we are right now and.
+When we can go within the next few years.
+Computing, I think it's really accelerating quite fast, especially with the milestones that we are seeing with let's say building fault tolerance systems and the quantum error correction also. So it's if we of course follow the public Rd. maps, then 2030 I think would be the first year.
+We can see a stable and commercial processor, but of course that's an estimation and definitely we we trust the people behind those estimations because they know what they are doing and definitely they have been quite consistent in delivering their milestones. So we can definitely follow their.
+Let's say announcement and speeches and everything, but at the same time, it's in the future, right? You never know what happens. You never know how things will change and when the investment will be directed to. If we look into communications, communications at this point is really focusing on updating the infrastructure.
+For quantum, for quantum community, for supporting quantum communications, because you also have the ambition of building quantum secure networks. So I think at this point we are advancing quite well, although it's not it's it's a matter of engineering and optimization, right? So we have the first commercial product.
+But at the same time, they are not doing as well as they should. So a lot of focus is now being put on, let's say, improving and optimizing these these systems or these components of the network in order to ensure that there is, I would say, a stable network that can be installed, I would say in the near term.
+Quantum sensors, although to be honest, I don't have a deep, I would say expertise on quantum on quantum sensors, right. I understand that there is quite let's say a wide application domains for for quantum sensing and already we are seeing commercial products being.
+Deployed even in industrial, let's say, operations. And practically speaking, that's what the value of quantum technology is now being extracted. And that's a very good thing because it definitely supports the fact that quantum technologies with that level works. We already know that nanotechnology has multiple applications.
+But at the same time we we need also to to to be optimistic by the same realistic with with the with the integration of quantum computing and communications. This is all to say that.
+It's going to take some time. I'm not expecting it to be, let's say that far ahead. I'm definitely seeing that there will be value in a commercial value in these technologies quite soon because it is accelerating with a very, very interesting pace. So I'm definitely optimistic about reaching.
+Very important milestones very, very soon and we have the science that backs it up. So sooner or later it's just going to become an engineering problem and we will we will find the solutions to all of the issues that that are coming up.
+
+
+Candace Gillhooley   38:50
+Your research focuses on quantum computer architecture and communication between cores in modular quantum process processors. Can you explain that in a way a curious beginner can understand?
+
+
+Sahar Ben Rached   39:05
+Yeah, So what we are trying to build is a model processor in which we we have multiple chips which are interconnected via a network. So it is very similar, let's say to how we see the, let's say quantum data centres, right? We have racks of of.
+Of processors which are interconnected via, let's say, usually let's say direct cables between those processors and eventually this architecture is quite scalable, right? It's just a matter of adding more processors and eventually that contributes to having a higher.
+Computation capacity. So the same principle we are trying to apply into quantum computing. So we are also aiming to have this distributed architecture in which we have multiple QPUS which are interconnected together to increase the number of physical qubits, but at the same time to increase the computing capacity.
+That's for distributed quantum computing. So I think that's the closest image to what a full scale or let's say large scale quantum computer will look like, similar to what we see right now in in data centres, right when we have classical chips interconnected by a networks.
+
+
+Candace Gillhooley   40:26
+Thank you.
+Yeah.
+
+
+Sahar Ben Rached   40:27
+Many qubits into a single chip, then they will start interfering with each other's States and eventually they will make the computations, let's say mediocre or let's say we will have very low fidelity results. Eventually, just to say, just to say that if we put many qubits into a single chip.
+Then eventually you will have bad results with the computation. So the problem that we are tackling at this point is how we can distance, let's say these qubits so such that we protect the the states and we isolate the qubits and at the same time we keep on increasing the number of physical qubits that is necessary to do the computation.
+And that's where the modular approach comes into play in the sense that instead of packing multiple qubits into a single chip, we need to distribute them onto multiple chips and then we use the quantum network on chip in order to to to to do this link between the chips and eventually.
+We have multiple chips acting as if they were one big chip, so that's the modern approach. There are multiple benefits to this one. First of all, of course we're increasing the qubit isolation, so we are more or less protecting the quantum state that are held at the qubit level.
+We also are, let's say, yeah, increasing the capacity of quantum chips by increasing the number of physical qubits within a single system. And at the same time we are working on, let's say, limiting the hardware scale, the control hardware scalability, right?
+Because at this point, in order to control qubits, for example in superconducting qubits, you need at least two cables which are connected to to to each qubit to control and read out its state. But if we keep on adding the same number of cables, then eventually it will there will be a bottleneck on the control part as well. So what we are trying to do is to solve.
+That problem as well, which is how we can scale the number of qubits within a single system. But at the same time we don't. We are not, let's say, hindered by the scalability of the of the cable part as well or the control part as well. So there are, let's say.
+Fundamental physical limitations to having one chip that would support the physical qubits. So as I said, so they would be starting to interfering with each other and it's just not scalable on the on the physical part, but also on the manufacturing side, it makes sense, right? So if we.
+Have a modular processor in the sense that we have multiple chips that are interconnected. Then for example, let's say one chip fails, then it would be easy to find out where the failure happened and to just change that module or to replace it instead of just throwing away the entire chip and having.
+To start again. So on the manufacturing part as well, it's scalable in the sense that if you want to include to increase, sorry, the if you want to increase the computational power or the computational capacity, then you know that it's just a matter of interconnecting another chip.
+This is of course to simplify the the rationale behind choosing to scale quantum computers using the modular and distributed quantum computing approach. But on the physical side or on the industrial side, how we can build these systems is also not an easy task because at this point.
+We have the computing part, so building the chips themselves, but at the same time we have a new component that is interfering with the computation, which is the communication part. So usually what we use these on-chip communication networks for is to do the transfer of quantum states between modules or even to apply remote gates.
+And either way, it's an overhead, right? It's additional tasks, it's an additional noise factor. And now I would say we have a new system that we need to take care of, which is the communication part. So we need to design best, the better, the best protocols, we need to design the best communication channels and.
+Need to.
+Choose of course everything that is related to the middleware layers, so everything that is related to the compilation part, the networking part, the management part, the workflow part. So as you can see, making a decision to go into a modular processor will not affect just the processor itself, it will affect the entire system and even the access to these.
+Quantum computers via the cloud services or even on premise, let's say access. Right now there is a consensus that this is the best approach to scale quantum computers. We have seen multiple, for example, companies with different qubit modalities.
+It's not really specific to to superconducting quantum computers. It's really becoming more of a universal approach to scaling quantum computers. And this is very good news in the sense that I would say there is a consensus or or there is I would say know how.
+Or how we can scale quantum computers. And we have seen, as I said, multiple industries or industrial hardware providers who support this, who have adopted this technology or this approach and they are providing it and publishing it in their Rd. maps. So it's I would say.
+Applicable and it can be used in in different qubit modalities and eventually I think that's that's the way to go. It's really to go modern and distributed and we will see how it goes on the implementation side. Of course there will be more challenges to overcome.
+But right now it seems to be the most plausible way to do it.
+
+
+Candace Gillhooley   46:16
+So beyond technology, what personal values drive your work in science and community?
+
+
+Sahar Ben Rached   46:26
+Definitely this curiosity itself. I mean, I really like to work in this complex environments and these, let's say, challenging, let's say topics. It's very, it's very intellectually stimulating, but at the same time it's very exciting, right? You are working.
+Something that is asking big questions and every result that you reach is really a milestone to celebrate. So there is real value in doing the research in quantum computing, both on the professional side, also on the personal side. I really think that every paper.
+I produce is an achievement and at the same time I really feel that I am contributing to the technology of the future. So it's definitely having that ambition to be part of something big and also having the ambition of being part of the future of technology, right?
+Quantum computing will eventually be integrated with the infrastructure of computing, and it will be really part of the computing, let's say, packages that we have accessible to the public in order to solve the big problems or even, let's say, to to solve or even to to answer new questions.
+And being part of something, something of this scale is really exciting professionally and personally. So I think that has been my motivation so far. So for six years it was really every time I even find myself.
+Working on a new topic that seems challenging at the beginning, but eventually of course you you learn a new you advance. The one thing that keeps that keeps of course repeating itself is meeting me telling myself I'm working on something really big, right? And the being part of something.
+That is going to to be quite fundamental and going to be quite useful in the future is quite rewarding. So that's why even continuing with with the research path has been motivated by this, let's say, personal curiosity and personal ambition.
+And of course professionally that's also going to be my my motivation. So I I would say that's that's the main motivator or let's say the the main reason why I continue to work to to work in quantum computing. It's that.
+Vision that you have for the technology and wanting to be part of that of that vision and to to to be part of something big.
+
+
+Candace Gillhooley   49:04
+How do you stay motivated during setbacks or complex research challenges?
+
+
+Sahar Ben Rached   49:08
+It.
+So that's the motivation part is is really tricky, right? Because.
+It's it's a very challenging, I would say, field. You are always encountered with the new sciences. You always have to keep up with the with the with the new milestones being achieved. So being let's say research papers or even publications from the industry.
+It's very important, of course, to stay up to date with with how everything is going and it's really moving quite fast. So actually it's very hard to catch up, but at the same time that's only telling you that we are on the right path. So knowing that there is a reward at the end, I would say.
+In the sense that all of this effort is really for building something big and for building the infrastructure of the future of computing, I think that's the the main reason why I continue to work. Now if you look at the small scale in the sense that OK, how do I deal with the setbacks, for example, on working on something challenging?
+It's related to my PhD. I usually give it time. I know it's it's a hard science and I try not to, let's say, demotivate myself by saying, oh OK, this is too hard, I just need to leave. This is not for me. I just try to give it time.
+The learning curve, I think everyone should be, I would say, familiar with with this concept in the sense that you are never an expert from day one, right? And every time you are trying to answer new questions, whether they're hard or simple, it's still a new concept that you are introducing to to your brain. So.
+Definitely takes time to to reach the the mastery level, probably quantum computing that learning curve is even steeper. So I'm not sure of course if they had anything to support to support that, but it's definitely I would say a challenging field to work in.
+So that's what I do. I just keep that in mind. It's just a normal process and I just need to give it some time. I also also ask for help whenever I I don't understand anything. I mean, I was very lucky to meet many people involved in quantum computing from different aspects and if something is really difficult and challenging for me, I just reach out to the.
+Person that I know would help me and usually they are quite responsive, quite helpful. And yes, that's perfectly how I have been advancing on the PhD itself, but also on other projects that I work on. And it's it's I think at this point it's still a very, it's still a very collaborative and open community.
+And if there is anything that is related to learning new concepts or understanding in depth the difficult concepts, there is always someone who can help you. Probably they don't have the full answers or they don't specifically, let's say, answer your question because that really depends on what you are working on. Some questions are just not clear at this point.
+But there is always a path to to to work on that problem and at least to to have a step ahead on what's already being provided. And that's I think how research works in general, right. So we are really at the forefront of science, so we are really answering the questions.
+And we don't expect, let's say, to have ready answers already being provided out there. So just a thought process that needs the contribution of of more people to to help you on. And then of course it really depends on how patient and how, let's say, persistent you are with.
+The with the with the research part.
+
+
+Candace Gillhooley   52:48
+I understand that you helped co-found Q Tunisia to build a quantum community. What inspired you to start that initiative?
+
+
+Sahar Ben Rached   52:52
+Yes.
+So before Q Tunisia, so I was in the hackathon in Johannesburg and I also helped to organize a summer school in in my university. It was also on quantum computing. So we had maybe like 3 months of training in quantum computing and I was leading that part and I was I saw a lot of.
+Curiosity from from the students in Tunisia about quantum computing. Some people actually attended these trainings and these activities, and eventually they also chose quantum computing as a career path. So I saw the impact, I saw the value, and I saw people being quite curious. So that's why we went with Q World programs, because they're well.
+Established. There is an infrastructure behind it. There are people who are supportive. So it was, I would say, the right choice to to present a community driven, let's say, initiative in the sense that you really wanted people to learn about quantum computing.
+With three courses and with the supportive community, I worked in Cute Tunisia for I think 2 years from 2020 to 2022 I believe. And then of course other people came in and now Cute Tunisia actually is continuing its activity with new people and the same motivation and the same enthusiasm about quantum computing is still on.
+So I think that's the best thing you can provide to the to the community of science enthusiasts or even let's say students, STEM students in in your community is to do your part in let's say teaching about new topics and sharing your knowledge.
+And especially that at that point, there weren't many people who got the hands on experience my age in in Tunisia. So back then there were of course senior scientists in quantum computing abroad who were very supportive of the initiative and they also attended some of our activities they provided.
+Talks and to talk about their experience and about their contribution in quantum computing. And that was very inspiring and that was very helpful also to to have a model of how you can actually do quantum computing and what type of career you can have in quantum computing.
+So bridging I would say that part. So having the connection with senior scientists and introducing them to the community of developers in Tunisia was really I would say an interesting thing that we have that we that we did in in Q Tunisia. And besides that the trainings were very helpful they.
+As I said, so some people actually took advantage of these trainings to get to know more about quantum computing and they liked it so much that they actually went on to have a career in the in the field. So I really, I'm happy with those experiences and I definitely see that they were very valuable.
+And I still believe that it's one of the best things that you can do to your community is to share your experience and to share your knowledge with them.
+
+
+Candace Gillhooley   55:51
+This has been absolutely fascinating. I have loved our conversation. I have learned a lot. I think our audience is going to love it. Is there anything else that you would like to leave us with that I can we can leave us of about what you're doing and and where to find out more about you?
+
+
+Sahar Ben Rached   56:04
+Yeah.
+OK. So thank you so much, Candace, for the conversation. It was a really lovely time. I am so happy to see that you are also interviewing a lot of women within the series of women in Quantum, and I'm so happy and honored to be one of them. So thank you so much for giving me the time and the space to express my opinions and to share, of course, of my experience.
+I hope a lot of people would find this inspiring and would also like to to to know more about quantum computing and why not pursue a career in quantum computing. It's a very beautiful and fascinating field and I think it is really worth all of this effort and all of this investment being put into.
+Single direction, which is to to develop and to build quantum computers. It's it the the field has shown, I would say, quite an interesting part of, let's say, the curiosity of of people and what actually scientists put put, let's say, a lot of effort.
+Into One Direction you could see really interesting things being developed and the interesting science being produced. Of course, the contribution of people who are trying to commercialize this technology and to to provide the value of the technology early on has been immense and has been quite important.
+And I think they are the people who really bridge, let's say the the science and the industry for the commercial adoption and eventually they they will be the people who will be providing the value of quantum technology to the public. And I hope that happens sooner than later in order to for for everyone to.
+Also, let's say take advantage also of of this technology and eventually they would find it helpful, I hope in in their industries and their works. So I am usually on LinkedIn if you'd like to reach out and if you'd like me to help you with anything and I hope I can answer some of your questions if you have any.
+Or even if you'd like to learn anything about my experience, I hope I can help you with with anything that that may make the path clearer for you. So yes, I'm I'm usually on LinkedIn and probably you're going to link my account, so I would be very happy to connect with anyone who is interested.
+
+
+Candace Gillhooley   58:27
+That's wonderful. Thank you so much for your time today, Sahar. I really appreciate it. I love your perspective. I think many people are gonna really take something out of your story. And thank you again for your time today. I'm gonna let the music. Thank you. I'm gonna let the music take us out.
+
+
+Sahar Ben Rached   58:40
+Thank you, Candace.
+Of course.
+
+
+Candace Gillhooley   58:46
+So thank you so much. I really enjoyed that. It was a really great conversation. It was a great interview. It flowed really well. And I thank you for your time today. I I'll let you know when we when we release it and.
+I want to keep in touch and I want to keep up with what you're doing and keep involved if that sounds good to you.
+
+
+Sahar Ben Rached   59:07
+100% of course, of course, anytime. It was really, really nice to meet you and let's stay in touch. OK, I'm usually on LinkedIn, but if you'd like to get my e-mail or even my WhatsApp, I would be very happy to to stay in touch.
+
+
+Candace Gillhooley   59:12
+Thank you.
+Yes.
+Thank you so much. I appreciate that. I'm good. Thank you. I'm going to wish you a great rest of your day.
+
+
+Sahar Ben Rached   59:22
+Thank you, Candace.
+You too. Bye.
+
+
+Candace Gillhooley   59:28
+OK. Bye-bye.
+
+
+Candace Gillhooley stopped transcription

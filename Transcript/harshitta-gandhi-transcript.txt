@@ -1,0 +1,838 @@
+Harshitta & Candace Women in Quantum Podcast-20260223_110015-Meeting Recording
+
+February 23, 2026, 4:00PM
+
+54m 36s
+
+
+Candace Gillhooley started transcription
+
+
+Candace Gillhooley   0:03
+And not, you know, and it's it's gonna be a shorter conversation than than than we had on impact. But it's gonna be very, very conversational. Are you are you are you you still you wanna try?
+
+
+Harshitta Gandhi   0:04
+Mhm.
+Hey.
+And then.
+Yeah.
+
+
+Candace Gillhooley   0:16
+Right.
+
+
+Harshitta Gandhi   0:16
+Yeah, yeah, yeah, absolutely. Yeah. Mhm.
+
+
+Candace Gillhooley   0:18
+OK. All right, then just give me one second. I just want, I appreciate that now.
+
+
+Harshitta Gandhi   0:23
+Yeah, no worries.
+
+
+Candace Gillhooley   0:26
+Harsh Harshita. OK, Harshita Gandhi.
+
+
+Harshitta Gandhi   0:29
+Yeah.
+Mhm.
+
+
+Candace Gillhooley   0:33
+OK, and I have you here as quantum computing and quantum machine learning researcher.
+
+
+Harshitta Gandhi   0:40
+Yeah, um, yeah.
+
+
+Candace Gillhooley   0:42
+OK, perfect. OK, um.
+At the University of Central Florida.
+
+
+Harshitta Gandhi   0:51
+That's correct. Uh, PhD student.
+
+
+Candace Gillhooley   0:52
+OK.
+PhD student. OK, fantastic. So I know kind of what, what, what, what you're in the process of. OK, um, alright. And I just need one more minute. Um.
+
+
+Harshitta Gandhi   0:56
+Mhm.
+Yeah, yeah, yeah.
+
+
+Candace Gillhooley   1:12
+And.
+OK.
+OK, OK. So um, let me know when you're ready.
+
+
+Harshitta Gandhi   1:33
+OK, I think I'm good.
+
+
+Candace Gillhooley   1:36
+OK, great.
+Hello everyone, and welcome back to Women in Quantum, the show where we spotlight the brilliant women helping shape the future of quantum science and technology. I'm Candace Gillhooley, your host, and today's conversation is 1 I've really been looking forward to. Joining us
+This is Harshita Gandhi, a researcher working at the intersection of quantum computing and quantum machine learning, and someone who brings both technical depth and thoughtful perspective to where this field is heading. In today's episode, we're going to explore Harshita's journey into quantum.
+The mindset, the mindset shift from classical to quantum thinking and where she sees real momentum, momentum happening and real challenges emerging in quantum machine learning. Hi Harshita, how are you today?
+
+
+Harshitta Gandhi   2:35
+I'm good, thank you. How are you doing?
+
+
+Candace Gillhooley   2:38
+I'm great. Thank you so much. And to be completely transparent, we I had the pleasure of interviewing Harshita on my the other podcast I do which is Impact Quantum and honestly one of our best episodes the the community.
+really responded and it just keeps on gaining momentum month after month in our podcast archive. Very very happy about it. And so I said I have to have her back for for women in Quantum. So let's start at the very beginning. Where Where were you born and raised?
+
+
+Harshitta Gandhi   3:10
+See.
+So I was born in India, in Delhi specifically, and that is where I was raised and finished my schooling and my undergraduate degree in computer science.
+
+
+Candace Gillhooley   3:34
+OK, so when you were a young girl in in in India and you were, did you have a proclivity to the math and sciences? Was it something that interested you? Was there something else that interested you more? How did it go about?
+
+
+Harshitta Gandhi   3:51
+Honestly, um.
+After I I don't think I was a very studious student. I was more into theater and singing and I was more into sports. So I'm I'm actually and to the extent wherein I competed nationally in speech.
+Skating and and I competed within the state, like within the country in swimming. So I don't think I was ever, you know, attracted to math or science particularly. Obviously they were, they were a part of my curriculum.
+And what I was learning. But I wouldn't say that I was like a very studious student. Um.
+But looking back honestly, now that I am doing quantum computing and quantum machine learning, I think the skills that I used in sports or the skills that I used.
+In music, in, you know, more, more artistic pursuits in my life, they are not. They're like they're transferable to what I'm doing to they actually impact how I think.
+In a very positive way, I think I'm able to figure out the patterns and things that people actually miss when they come, when it comes to quantum computing and quantum machine learning. So I wouldn't say I was a very I was attracted to math or science per se.
+But I was, I was more of a free spirit, you know, taking into account everything that was offered. And I was like, Oh yeah, I'm, I'm supposed to do this. So yeah, that was, that was my, my childhood growing up.
+Yeah.
+
+
+Candace Gillhooley   5:55
+It's interesting cause I have not, I have not really spoken to someone who was such an athlete who then went into into this field and I I think that's incredibly exciting because and I like to hear that there are transferable skills.
+
+
+Harshitta Gandhi   6:02
+Oh.
+
+
+Candace Gillhooley   6:12
+Um, you know that someone can take from, you know, the athletic arena and bring them into their studies.
+
+
+Harshitta Gandhi   6:19
+Right.
+Absolutely. It's not just, you know, OK, a lot of people mistake learning, like doing a sport with physical rigor, I think. See, you know, physical rigor is important, obviously, but more.
+Important is the mental rigor that you need to keep practicing the same shot. You know the same. It's it's really difficult to keep going around in circles in a in a skating rink. It's really difficult to keep lapping, you know?
+In in a swimming pool and trying to improve your your posture while swimming, while your posture while skating, it's it's it takes a lot of the mental energy that you have and that is how you develop.
+Your physical rigor. Honestly, coming, transferring from sports or like visual arts or whatever into quantum computing is also.
+More about the mental rigor, because, well, I started my PhD at UCF, University of Central Florida just last month. And honestly, a lot of the things that I'm doing need me to, you know, keep doing them in order to figure out what.
+Works and what is the best outcome for my for my project, for my model, right? So building that mental rigor, building that patience, building that, you know, not giving up attitude.
+Or that mindset. I wouldn't call it an attitude, but definitely a mindset is is really important in in science.
+
+
+Candace Gillhooley   8:18
+I like that. I like that a lot. I like the approach of needing the to strengthen, you know, your cognitive ability to get you through moments. You know where you know you would be bored or you would you would lose focus or you know that's interesting. So.
+
+
+Harshitta Gandhi   8:20
+Friday.
+Yeah.
+Yeah.
+
+
+Candace Gillhooley   8:38
+What are three words you'd use to describe yourself?
+
+
+Harshitta Gandhi   8:42
+Many words to describe myself.
+I would say I'm a very creative person.
+Uh.
+I'm a smart worker.
+And I would say.
+I'm an out-of-box thinker.
+
+
+Candace Gillhooley   9:10
+OK, so has there been someone, a family member, a mentor, a teacher that has influenced your path?
+
+
+Harshitta Gandhi   9:12
+Yeah.
+Interesting. Honestly, I am blessed with the most amazing parents ever, so this is a shout out to them. I don't think I would have reached where I am.
+If it was not for my parents, um.
+I and so both my parents are from like a business background or like a commerce background and my mother is a mathematics teacher and.
+She did her bachelor's in economics, so not really science, science, math, but and I I want to say that even though they don't really understand what I'm doing, I am telling you the patience that they have showed me when I go on and on and on.
+And on about something and they're like, OK, we didn't understand a thing, but good for you, you know, so, so that kind of support and you know pushing like sometimes I am, I, I, I honestly, I have given up like a number of times and you know.
+
+
+Candace Gillhooley   10:23
+It.
+
+
+Harshitta Gandhi   10:34
+I did not have. Sometimes I did not have the strength to start over. So I they have been a pillar of support who that has, you know, got me to where I am and I don't think I'll be. I would be where I am today without their support. So definitely.
+Definitely, definitely a big shout out to them. They have been amazing. Apart from that, in school I did have teachers or like even in college, even in during undergrad I had professors.
+And teachers who I would, you know, go and be like, OK, I I understand this concept, but then if I expand it to something, you know, like a little bit intro extrapolated to some some other concept, how does that work? So I feel like the community of teachers and professors.
+that I grew up with or like I was blessed with honestly, have been a really big, I guess, support. Yeah, absolutely. So So that that I like it's I think it's a community more than a particular person.
+Um.
+Yeah. So it's it's basically the community that I grew up with and definitely my parents.
+
+
+Candace Gillhooley   11:58
+OK, so what's a lesson you've learned from facing some setbacks or failures?
+
+
+Harshitta Gandhi   11:59
+Yeah.
+Hmm.
+It's not the end of the world.
+It's not the end of the world. Honestly, when I was going through those failures or those setbacks, I was thinking it is the end of the world.
+But but turns out it's not. Again, all you need to do is shift your perspective a little bit. Stand up on the desk, stand up on the chair to get a bird's bird's eye view or something and.
+And it's great. I mean, you'll have to work for it, don't get me wrong, but you'll get through it.
+
+
+Candace Gillhooley   12:50
+I like that it's it's it's clear you've built the resilience that you need because not everything goes as planned, right? So that's kind of it's so very, very important. Resilience I think is a is a huge, huge deal.
+
+
+Harshitta Gandhi   12:52
+Mhm.
+Absolutely, Yep.
+Yeah.
+
+
+Candace Gillhooley   13:11
+OK, So what were some of the biggest challenges that you faced so far in in getting your your PhD? I know you've just begun, but it's an interesting you're you're, you know you're at a very exciting moment in the in your, in your, in your education, in your development. So have you faced a challenge yet that you found?
+
+
+Harshitta Gandhi   13:20
+Mm-hmm.
+You're right.
+
+
+Candace Gillhooley   13:31
+Pretty, pretty decent that you have to rethink something or tell me how's the beginning of this experience going for you?
+
+
+Harshitta Gandhi   13:38
+Uh, that's actually a really good question. So.
+Initially when I started my masters, I was working on computer vision problems for quantum machine learning, right? But now, since I started my PhD, my focus has actually shifted.
+
+
+Candace Gillhooley   13:57
+Mhm.
+
+
+Harshitta Gandhi   14:03
+From computer vision and like video and audio to.
+Thermodynamics of a building, for example, the house heating systems and the HVAC and like the cooling systems in states like Florida, right?
+It is right now I'm working. I started working on a house heating model which is on quantum computing particularly, which again needed me to.
+Shift my thinking to a completely new space.
+It's been really interesting to figure out how quantum computing can fit in. I'm, I'm, I want to say it's a very old discipline. It is very it's a very old discipline like heating, you know, thermodynamics is a a really old.
+Discipline. So how quantum computing, which is just, you know, coming up and everything fits into that and vice versa obviously. So that has been interesting. That has been honestly a challenge for me because I I haven't, um, I do know a little bit of physics, but I haven't, you know.
+Done thermodynamics or, you know, capacitors and resistances in a while. So doing that was like a little bit of challenge. So again, again, I would say a shift in the thinking of how to do things, how, how two things interconnect honestly.
+Um.
+It has been has been interesting.
+
+
+Candace Gillhooley   15:54
+So how would you talk about what you do right now to interest more young ladies who are, let's say, in high school, you know, and to get them to, you know, consider?
+
+
+Harshitta Gandhi   16:03
+Right. Mhm.
+
+
+Candace Gillhooley   16:09
+Quantum computing and quantum mechanics.
+
+
+Harshitta Gandhi   16:12
+Right.
+I feel a lot of people or a lot of girls are hesitant, honestly, in going into such a rigorous field because of the societal, you know.
+Oh, I want to say prejudices, honestly, but trust me.
+If I could do it, anybody can, you know? And I don't think, I don't think you need to get good grades. I don't think you need to, you know.
+Be be a person, a person who's who's, you know, studying for hours on end. Um.
+I think what you need to get into quantum computing is like a really good imagination.
+
+
+Candace Gillhooley   17:10
+I was just thinking imagination. I swear I was right.
+
+
+Harshitta Gandhi   17:13
+Yeah, yeah, absolutely. You need, you need to know how to imagine things. And I I'm sure every girl out there knows how to imagine things, you know, absolutely. It's it's something that is very, very innate.
+Of people, honestly. And I think you just need to imagine things in a different way, and I think that's all you need to get into quantum computing.
+It's it's a very, it's a very up and coming field. It's a very transferable skill set in one meeting. You can honestly transfer your skill set to N number of things. I am, I can guarantee that, right?
+O.
+Yeah, yeah. So basically you just need to know how to imagine things is all.
+
+
+Candace Gillhooley   18:11
+I know, I think, I think that that really, you know, having people listen, having people see you, you know, hear what you're saying. I think that it's really going to break some some barriers to to to show women they can go into something that maybe they're not.
+Necessarily math inclined or super sciency inclined, but again, they're adaptable and they can imagine, and I think that it's it's the ability to accept the uncertainty.
+
+
+Harshitta Gandhi   18:47
+Absolutely, yes, yeah.
+
+
+Candace Gillhooley   18:48
+Uh, yeah.
+Right. I think that's very, very, that's very, very exciting for a lot of people for sure, you know, so is there. So you said you're studying thermodynamics now you're working on heating systems, HVAC, cooling systems, that kind of concept. So what is the is there a real world problem behind that?
+
+
+Harshitta Gandhi   18:55
+Yes.
+Absolutely. Mm-hmm.
+
+
+Candace Gillhooley   19:11
+That that you are particularly excited to try to address.
+
+
+Harshitta Gandhi   19:18
+Um, off the top of my head right now. So for example, um.
+House heating systems versus the energy they use, you know, just just house heating systems, consumption of energy that's happening, how can we reduce that and and in turn reduce the cost of.
+Energy, basically to people. So this is just off the top of my head, but then we'll see where this research leads, yeah.
+
+
+Candace Gillhooley   19:56
+Right. I think that also understanding thermodynamics and maybe in a in a bigger picture might concern like climate prediction and you know how all the energy that's going on right now that is is being sent up into the air the the you know.
+
+
+Harshitta Gandhi   20:21
+Yeah.
+Mhm.
+
+
+Candace Gillhooley   20:26
+All we do is talk about hurricane shutters, right?
+
+
+Harshitta Gandhi   20:28
+Yeah, absolutely. Yeah. I just moved here, but that's all I've heard about.
+
+
+Candace Gillhooley   20:34
+It's right. It's like, I'm like, you know, I'm from New York and it's just not anything that I've ever even thought of, you know what I mean? And now I'm in Montreal, Quebec, again, not thinking about hurricane shutters, thinking about probably the best, you know, shovel and snow removal concepts that they're out there at that. That's what I'm facing, right. But.
+
+
+Harshitta Gandhi   20:35
+Yeah, yeah.
+Yeah, mhm.
+Absolutely.
+
+
+Candace Gillhooley   20:53
+You know, Montreal's pretty much figured out that pretty, pretty good, which is great. So this is exciting. This is very exciting. So how does machine learning fall into all of this?
+
+
+Harshitta Gandhi   20:58
+Yeah, mm-hmm.
+Yeah.
+Um.
+First of all, it's a lot of data.
+
+
+Candace Gillhooley   21:13
+OK.
+
+
+Harshitta Gandhi   21:14
+But it's a different kind of data. It's a time series data that I'm working on right now. How a temperature goes from 8:00 in the morning to like 12 noon, how it moves from.
+Like what are the temperature ranges or like certain other factors? Temperature is all I can think about right now, but there's a lot of factors like before a hurricane, how the pressure drops, how you know, wind speeds increase.
+Um.
+That sort of thing that is, that is going to be a little more complex, a little more further down my further down the road in my PhD, but but something, something to look forward to, yes.
+
+
+Candace Gillhooley   21:59
+OK.
+So you're you're bringing in your machine learning mindset right into what you're doing. I'm sorry, go ahead.
+
+
+Harshitta Gandhi   22:09
+Oh yeah.
+So mhm.
+So machine learning is basically using that data, all this different variables and trying to figure out how a a better prediction model for the for the hurricane season.
+A better prediction model for how to how to save energy during that particular time, how to get back on the grid during, you know, after that.
+Yes, that's that's where machine learning comes in.
+
+
+Candace Gillhooley   22:53
+OK, so why don't can you explain to me what is quantum machine learning then?
+
+
+Harshitta Gandhi   22:53
+Mhm.
+Uh, yes, so.
+Taking the concepts of superposition and entanglement and applying them to machine learning concepts like supervised machine learning or prediction or classification, right? Or reinforcement learning for that matter as well.
+Is basically the amalgamation of quantum computing and quantum and machine learning, basically. Um.
+What this means is this was, I think this was very what basically what this means is creating a quantum circuit to do machine learning tasks and this quantum circuit does have the ability to.
+Have the ideas of quantum of superposition and entanglement on like in how the circuit is made or how the qubits are made. So that's what.
+Uh, quantum machine learning basically, yes.
+
+
+Candace Gillhooley   24:13
+So how do you decide when a problem truly benefits from a quantum approach?
+
+
+Harshitta Gandhi   24:23
+I think every problem is going to benefit from a quantum approach sooner or later. I am telling you sooner or later, right? Quantum is a different type of computation basically, right? So what the machine in machine learning, what you do is.
+Like train the train the model to take one.
+One episode or like one image at a time, right? In quantum computing, you can actually give it all the instructions, all the images at once, and it does hold the capability, or it does hold the potential for exponentially learning how to compute, right?
+Essentially computing all those things altogether, right? So it's going to every I think these problems are going to benefit from quantum computing in cases of memory, in cases of actual computation where it takes a lot of data, right? So data is again.
+A bottleneck for machine learning or supercomputing supercomputers actually, right? So quantum is going to, you know, break that bottleneck in particular machine learning tasks, which is.
+Which is actually really interesting to, you know.
+See how that happens? And it is actually happening because you can actually compute more. You can you can compute a larger.
+Target space in quantum computing rather than in machine learning. So it's it's interesting it's there's there's things happening wherein people are doing this sampling.
+Gaussian boson Gaussian sampling. So that's that's another area wherein we take a wherein the sample size is too large and we need to take like samples from the data set, right? So how to do that? How?
+And then quantum computing is actually benefiting from this sampling.
+As well.
+
+
+Candace Gillhooley   26:42
+So is there something going on right now, you know, in the news with innovation that's happening daily in quantum computing that has you particularly excited because of your field?
+
+
+Harshitta Gandhi   27:00
+Honestly.
+There's a lot going on. You know, there's a lot going on. Yeah, absolutely. Um.
+
+
+Candace Gillhooley   27:04
+Right. I mean, there really is.
+
+
+Harshitta Gandhi   27:11
+I attended a conference last month, the D Wave conference in quantum computing. So there there's there's a university in Florida called the Florida Atlantic University.
+
+
+Candace Gillhooley   27:15
+Oh.
+
+
+Harshitta Gandhi   27:26
+Or yeah, the Florida Atlantic University. They're getting actually a supercomputer. Actually, no, a quantum computer at their university. That's pretty exciting. Honestly, there's a lot of things happening in like the modalities of quantum computing.
+Wherein we're trying to make qubits in different ways, and it's really interesting because not every qubit type is suited for every task that is out there. There is there's a lot of research in which is the best qubit, right?
+
+
+Candace Gillhooley   27:58
+Correct.
+
+
+Harshitta Gandhi   28:04
+What I No, no. What I think is there's gonna be a best qubit for a particular task. It's not going to be the best qubit overall. You know, that's that's that's my take. Honestly, it's not gonna be the best qubit. Oh, it's it's.
+
+
+Candace Gillhooley   28:05
+It does there have to be like, OK, OK.
+
+
+Harshitta Gandhi   28:23
+It's fine for every every task that you want to do. That's not gonna be the case. So that's pretty interesting. Um.
+Yeah, yeah, that's that's pretty much, uh, there's a lot of other things going on as well. But yeah, that's that's the highlight that I'd like to, you know, put it out there, yeah.
+
+
+Candace Gillhooley   28:43
+Yeah, like I think of it a little bit as of like Game of Thrones. Like there's seven kingdoms, like there are different kingdoms for every qubit, and every qubit is like the master of their domain, of what they can specifically handle and you know.
+
+
+Harshitta Gandhi   28:46
+Mhm. Absolutely.
+Yeah.
+
+
+Candace Gillhooley   28:59
+And it would make sense. Superconducting is for is for one problem, you know, ion trap is for another problem, right? You know, photosynthesis and you know these are for solving different types of problems. So what do you think about the role of a I?
+
+
+Harshitta Gandhi   29:06
+Yep.
+
+
+Candace Gillhooley   29:17
+In accelerating quantum development.
+
+
+Harshitta Gandhi   29:23
+It's it's huge, honestly.
+
+
+Candace Gillhooley   29:25
+OK.
+
+
+Harshitta Gandhi   29:28
+Uh.
+The amount of brainstorming that I'm doing with AI these days is and the quality of answers that I'm getting, it's amazing. I know there's, there's. I mean, obviously I have to use my brain. It's not like I don't have to use my brain, but you know.
+
+
+Candace Gillhooley   29:43
+OK.
+
+
+Harshitta Gandhi   29:50
+Again, getting getting something. OK, I cannot do. I cannot do like hundreds of papers in a week, right? I cannot read. I I mean, it's physically not possible for me to retain all that information.
+
+
+Candace Gillhooley   29:50
+Right.
+Right.
+
+
+Harshitta Gandhi   30:06
+Where AI is going to help is basically retaining all that information and honestly getting getting the information when it is needed, right? So I would know, I would know, I would have an idea about, oh, this is this is the, you know, main idea of a particular paper.
+But then to remember it at a given time and to implement it in a particular project where it actually fits in is is going to take a lot of people working on the same project, but then if.
+If I can brainstorm something of sort, oh, do you think that this particular thing is going to fit in with this particular thing that is in this particular paper, right? How? What do you think, right? And what? How do you?
+Prove that or how? What is the logic behind it? So just these kinds of things I don't have to. I'm obviously I'm going to implement them after I've brainstormed, right? But that brainstorming is really, really interesting and I'm actually really.
+Happy to see that it's going in a very positive direction. That's the first thing where AI comes in, right? The second thing that very AI comes in is coding.
+I don't particularly like to code. I know how to code. It gets interesting, but it's very repetitive. It doesn't interest me as much, right?
+I know people. All they wanna do is code things, not me.
+
+
+Candace Gillhooley   31:55
+That's fair. That's totally fair. It's a talent that doesn't necessarily. It shouldn't preclude you from something else if you don't have it. And now with you know the cloud and and and different.
+
+
+Harshitta Gandhi   31:59
+It.
+Red.
+
+
+Candace Gillhooley   32:11
+And different a is you know you can vibe code which can be very exciting especially for me as a non coder. Vibe coding is is like almost like a a backdoor secret entrance. Like it's very exciting.
+
+
+Harshitta Gandhi   32:15
+Yeah, mm.
+Absolutely, absolutely. I don't. I don't question that. It's it's also very interesting to see because a couple, not even a couple years back, one year back we would we were getting gibberish answers we were getting.
+
+
+Candace Gillhooley   32:30
+Right.
+
+
+Harshitta Gandhi   32:48
+Not as good a code as I'm getting these days, honestly. And I think, I think AI is going to have an immense, immense impact on quantum computing as a field.
+Yeah.
+
+
+Candace Gillhooley   33:05
+I think so. I think so. Especially with what you can do with the data. Like what can the day? What does the data represent? What is the story?
+
+
+Harshitta Gandhi   33:09
+Absolutely.
+Hmm, yes.
+
+
+Candace Gillhooley   33:14
+That can be told to so the masses can understand.
+
+
+Harshitta Gandhi   33:18
+Yeah, absolutely. Also, and I think, I think we need more mass understanding of quantum computing or at least at least have that kind of reach for, you know.
+People to get into this field or like the field has to be approachable. Sometimes I think quantum computing is not approachable. Um.
+So this this is actually being the field being approachable is another point that I would like to make when it comes to girls actually taking up quantum computing or you know, quantum computing reaching to.
+People who don't necessarily necessarily have the, you know, background or, you know, background to understand what it actually is. So I think it's really important for quantum computing to be approachable and have the reach. And you're doing an amazing job here, you know, with the podcast and everything. That's amazing.
+
+
+Candace Gillhooley   34:21
+Thank you. And then and really that is that is really the point is to show the approachability to show the common data points between you know young young women and other women who are doing it in different in different aspects in different stages of it all. I mean you're right now you know you're in your.
+
+
+Harshitta Gandhi   34:21
+Yeah.
+Yeah, mhm.
+Hi.
+Yeah.
+
+
+Candace Gillhooley   34:41
+PHD which is very exciting stage of of where you are it it and I'm sure like as you go through it your mindset is gonna change in terms of in terms of like the practicality of it so.
+
+
+Harshitta Gandhi   34:43
+Yeah.
+Absolutely.
+
+
+Candace Gillhooley   34:56
+Can you explain what practical quantum advantage means to you personally?
+
+
+Harshitta Gandhi   35:05
+Tactical con advantage.
+Honestly, in the most, most basic terms, it's it's getting a better accuracy on a particular task that I'm running or you know, better, better training time.
+Less training time basically and.
+That is, that is on my level. Um.
+That is, that is basically what Quantum Advantage is practically right now computing more data in less amount of time computing.
+
+
+Candace Gillhooley   35:42
+Mhm.
+
+
+Harshitta Gandhi   35:54
+Computing in larger space wherein you can wherein you can put more features or like more input variables than the number of qubits, right? Because each qubit has.
+Um.
+So like 2 to the N space to actually learn how to compute. So just doing these small things to figure out how to.
+You know, and like to figure out the advantages of quantum computing, that is, that is where I think the practical advantage of quantum computing arises.
+
+
+Candace Gillhooley   36:37
+Okay. How should the industry balance qubit scale versus qubit quality?
+I think we froze for a moment.
+Harshita, can you hear me?
+We're going to give it a moment.
+We should cut, cut, cut this section.
+And let's see if we get Harshita back.
+Oh no, we've lost Toshita now.
+Let's see if we can get her back on.
+
+
+Harshitta Gandhi   40:09
+Hello, I was so sorry. Um.
+
+
+Candace Gillhooley   40:11
+Hi. No, no problem. I I can cut that part out where we where we and I 'cause I've kept it going so I can just cut that part out. Is that OK with you?
+
+
+Harshitta Gandhi   40:15
+OK.
+OK. Oh, yeah, yeah, absolutely. No worries. Yeah, yeah, yeah. No, I I think it it randomly just, you know, locked me out of tears or something. Yeah.
+
+
+Candace Gillhooley   40:22
+Oh, fantastic. I'm so happy you came back. Goody, goody.
+OK. OK. So we're going to continue. OK. All right. So let's talk about where I was. I was asking a question about how should the industry balance qubit scale versus qubit quality?
+
+
+Harshitta Gandhi   40:32
+Yeah.
+Yeah.
+Right.
+Qubit scale. I think better quality qubits are more important and so that's that's probably a bias honestly, but.
+How to balance them? I I don't think having one amazing qubit versus like 50 horrible qubits is going to, you know, help us in any way. But the scaling of qubits should also be.
+A little bit towards focus towards, you know, having good qubits. But honestly, these days I feel like the qubits are getting better also, like the noise and error. There's a lot of work to be done, don't get me wrong, but it's they're getting better.
+Um.
+Without a doubt on different modalities as well, so.
+That's good, honestly. Um, yeah, obviously you have to maintain a balance between the two, but how to do that? Honestly, I.
+I don't have a, I don't have a, you know, direct answer for that right now, yeah.
+
+
+Candace Gillhooley   42:02
+That's OK. That's OK. We've talked about kind of the experience of being the only woman in the room and wanting to, you know, get more women interested. What structural changes would most improve the retention of women in the quantum ecosystem?
+
+
+Harshitta Gandhi   42:11
+Yeah.
+Hmm.
+That's actually a very good question. Um.
+Honestly, as you grow through life also and as you grow through your career and you go through a lot of things and I think one of the.
+Most important skills to develop is to stand your ground.
+It has to be in a very polite, in a very, you know, systematic manner, but it you have to stand your ground no matter what. So I think that skill has to start developing in women, in girls.
+Early on, I think that's that's an important skill to, you know.
+Have workshops on have like, you know, real world, real world experience for our girls, young girls. Absolutely, absolutely. There is no.
+
+
+Candace Gillhooley   43:26
+Kind of like a resilience training.
+Hey.
+
+
+Harshitta Gandhi   43:31
+Other, you know, there's no shortcut to this, honestly. Other things that can be done is like you are doing like a a safe space for women to, you know, come and learn more things, a more approachable, a more, you know, open space.
+Case wherein not only women, but like people from all of the genders who are like less represented in like quantum computing can come and you know, learn more about quantum computing. I think that is really important.
+Apart from that, I think you asked structural changes, right? Um.
+I think, I think again, creating safe spaces, creating more approachable spaces is is very important. Getting to like meeting up with other women who are in the field.
+Meeting up with women who are in tech, honestly, is like a huge, huge, you know, push towards more people, more women coming into these spaces. So that's that's very interesting. That's very important.
+A a couple of conferences that I have been to also have like women in tech nights and like women in, you know, tech communities. There's a lot of them. One of my friends, she is.
+An ambassador for women in tech in Brazil. So it's it's really interesting to see the work that she's doing. Um, and the number of people like who are in that community is is really good. It's.
+It's amazing to see the the response that you get when you, you know, go to these community events and um.
+Have like regular meet ups even if they're like online and not like in person. So I think, I think that's that's very important to, you know, have.
+And like develop in different areas in quantum computing.
+
+
+Candace Gillhooley   45:58
+I like that. I like that so.
+
+
+Harshitta Gandhi   46:00
+Yeah.
+
+
+Candace Gillhooley   46:02
+And we might have already just addressed this, but how could allies in this ecosystem show up more effectively?
+
+
+Harshitta Gandhi   46:10
+Yeah, I think, I think creating a safe space, creating a community, honestly creating accessibility is, is, is the way to go.
+
+
+Candace Gillhooley   46:25
+I think that's that's fair. That's fair. So for you as you go through your PhD.
+
+
+Harshitta Gandhi   46:28
+You know.
+
+
+Candace Gillhooley   46:34
+Explain the process that happens. Then you're going for your PhD and what specifically are you going for your PhD in?
+
+
+Harshitta Gandhi   46:45
+It's honestly a little too early for me to address that, but a general direction is going to be.
+
+
+Candace Gillhooley   46:49
+OK.
+OK.
+OK.
+
+
+Harshitta Gandhi   46:57
+Physics based quantum machine learning.
+
+
+Candace Gillhooley   47:02
+OK.
+
+
+Harshitta Gandhi   47:02
+Mm-hmm.
+
+
+Candace Gillhooley   47:04
+Do you think that you are the type of person that would like to take that knowledge? I know it's early, but take that knowledge into into creating your own startup?
+
+
+Harshitta Gandhi   47:09
+Mhm.
+Absolutely. I think it's going to, yeah, yeah. Again, PhD is also not about, you know, learning just quantum computing or, you know, just the models. It's also about.
+Making net like making your own network, connecting with people, creating your own ecosystem, wherein you can or like working with people. I don't know everything about thermodynamics or the things that I'm trying to do, so I need people to collaborate with.
+I am, and as I I think I've said this so many times, I feel people are bored of this, but collaboration is huge in quantum computing. I don't know.
+Everything that there's to in quantum computing, there's that there's need to know, right? So collaboration is the key to quantum computing, so I would love to translate my skills into.
+A start-up into like my own laboratory even if for for the research. So yeah, yeah, absolutely. It's it's going to be, it's going to be a process, yes.
+Mhm.
+
+
+Candace Gillhooley   48:40
+So how do you keep learning and growing when technology moves so fast?
+
+
+Harshitta Gandhi   48:48
+That is something that I was also.
+Thinking about um.
+So these days, the workforce has changed.
+From knowing just one thing perfectly.
+Into, uh, knowing everything.
+Um, knowing a little of everything.
+So you have a broader scope, you have a broader outlook on multiple things. You know the basics and the intermediate scales of a lot of things. And if need be, you can you can actually brush up on your concepts and brush up on.
+And move ahead on that one particular thing instead of doing just one thing for the entirety of your life or like the entirety of your career. So I think instead of going deep into just like one thing.
+
+
+Candace Gillhooley   49:52
+Mhm.
+
+
+Harshitta Gandhi   50:01
+It's very important to take into perspective things from a variety of different angles and like have a different outlook on things.
+Again, quantum computing is an intersection of a lot of different things. Um.
+So it's important to for you to know a little bit of everything rather than just like one particular thing. And that's all, yeah.
+
+
+Candace Gillhooley   50:37
+So I'm gonna, I'm gonna ask this and then what's what's a misconception about quantum computing that you wish more people understood?
+
+
+Harshitta Gandhi   50:53
+I want to say.
+But it's difficult, you know, it's, it is difficult. It I don't think it's, but it's like it's doable, you know, you just need to put in a little bit of effort, little bit of, you know, I mean, but that's true for every.
+You know career out there, you need to work at it and.
+I know people who who have worked on things that I cannot even begin to understand, right? But but then that also makes things less approachable. I think quantum computing as a field is very, very less like it's not approachable.
+At all, right. So I think just trying to, you know, tell people or like communicate the quantum concepts in terms that the masses understand is very important and I feel I I wish that more people understood.
+That quantum computing is not some like mystery or like, oh, you know what, oh, we don't know what happens and and we don't, we don't think he we are intelligent enough or like smart enough to do quantum computing or whatever. I don't think that's the case. I think, I think it's.
+It's supposed to be very approachable and I want it to be approachable. And so yeah, I think, I think I would love people to understand that it's not as, you know, mystical and magical as it's, you know.
+Portrayed to be.
+
+
+Candace Gillhooley   52:35
+OK. I think that's a great, great place to stop. I I really enjoyed our conversation tremendously. I really appreciate your time and your perspective, and I hope to reach more young ladies out there to say, you know, you too can be part of such a.
+
+
+Harshitta Gandhi   52:39
+OK.
+Yeah.
+Oh.
+
+
+Candace Gillhooley   52:55
+Dynamic and exciting future.
+
+
+Harshitta Gandhi   52:58
+Thank you for having me. I'm really honored that you, you know, reached out to me and I was like, oh, definitely, yeah, absolutely. Thank you for having me.
+
+
+Candace Gillhooley   53:07
+Oh, my pleasure. My pleasure. And I will let the music take us out.
+
+
+Harshitta Gandhi   53:10
+Yes, thank you.
+
+
+Candace Gillhooley   53:11
+So thank you again, Harshita. I really appreciate it. I tremendously enjoy talking to you. I'm not gonna lie. Um, you know, if you know someone that you think would be someone that you think I would enjoy talking to in Quantum, that is a that is a lady.
+I would love an introduction to anyone that you think would would benefit from allowing a conversation like this to happen. That would be great. And I I will, I will leave you with. I'll let you know when we're gonna release.
+
+
+Harshitta Gandhi   53:38
+Absolutely. Mhm. OK.
+Mm-hmm.
+
+
+Candace Gillhooley   53:46
+And we'll cut out the section where where we got disconnected, but I think it was great. It was great.
+
+
+Harshitta Gandhi   53:50
+Yeah. Thank you. Thanks for having me. I was, I'm actually really honored to, you know, come back and talk to you.
+
+
+Candace Gillhooley   53:59
+Oh, thank you. Absolutely my pleasure. And I'm going to wish you a great rest of your warm day in Florida.
+
+
+Harshitta Gandhi   54:00
+Yes.
+OK.
+It's not warm these days. The next two days it's going, it's going to go below like 1-2 degrees. So I know we don't have jackets, but I used to. I don't remember. I don't know if you remember, but I used to live in Boston.
+
+
+Candace Gillhooley   54:12
+That's crazy. Like you guys don't even have jackets. Like it's just craziness.
+
+
+Harshitta Gandhi   54:20
+Yes. So I'm going, yeah.
+
+
+Harshitta Gandhi   54:29
+Thank you. Thank you. Nice meeting you. Bye-bye.

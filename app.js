@@ -39,7 +39,7 @@ const transcriptClusters = [
     summary: "Across the series, guests return to non-linear careers, stepping into quantum from adjacent disciplines, and learning in public rather than waiting for perfect credentials.",
     themeFamily: "career",
     themes: ["Career pivots", "Interdisciplinary paths", "Commercial translation"],
-    episodes: ["Anna Beata", "Sabine", "Sara", "Petra", "Jennifer", "Sahar", "Noelle", "Bruna"]
+    episodes: ["Anna Beata", "Sabine", "Sara", "Petra", "Jennifer", "Sahar Hejazi", "Noelle", "Bruna", "Harshitta"]
   },
   {
     id: "human-signals",
@@ -47,7 +47,7 @@ const transcriptClusters = [
     summary: "The conversations repeatedly center confidence, curiosity, leadership, and the practical challenge of sustaining ambition without losing the human part of the work.",
     themeFamily: "human",
     themes: ["Curiosity", "Confidence", "Leadership", "Community", "Mentorship"],
-    episodes: ["Anna Beata", "Devika", "Sabine", "Jennifer", "Sierra", "Sahar", "Noelle", "Bruna"]
+    episodes: ["Anna Beata", "Devika", "Sabine", "Jennifer", "Sierra", "Sahar Hejazi", "Noelle", "Bruna", "Harshitta", "Sahar Ben Rached", "Olga"]
   },
   {
     id: "technical-signals",
@@ -55,7 +55,7 @@ const transcriptClusters = [
     summary: "A second cluster connects applied themes such as networking, security, useful infrastructure, and making quantum approachable beyond pure research settings.",
     themeFamily: "technical",
     themes: ["Security by design", "Quantum networking", "Accessibility", "Applied infrastructure", "Real-world translation"],
-    episodes: ["Devika", "Marie-Eve", "Petra", "Sara", "Sahar", "Noelle", "Bruna"]
+    episodes: ["Devika", "Marie-Eve", "Petra", "Sara", "Sahar Hejazi", "Noelle", "Bruna", "Harshitta", "Sahar Ben Rached", "Olga"]
   }
 ];
 
@@ -191,6 +191,42 @@ const transcriptNodes = [
     top: 88,
     themes: ["accessibility", "confidence", "community", "real-world-translation", "career-pivots"],
     detailSummary: "Bruna extends the map toward global access and science communication, connecting Portuguese-language outreach, visible role models, and the confidence to ask for mentorship and opportunity."
+  },
+  {
+    id: "episode-12",
+    type: "episode",
+    guestId: "harshitta-gandhi",
+    guestName: "Harshitta Gandhi",
+    label: "Episode 12",
+    subtitle: "Quantum machine learning, imagination, and energy-efficient systems",
+    left: 14,
+    top: 40,
+    themes: ["curiosity", "accessibility", "applied-infrastructure", "real-world-translation"],
+    detailSummary: "Harshitta connects imagination and approachability with applied quantum machine learning, showing how quantum methods can support energy-efficient systems and other practical problems."
+  },
+  {
+    id: "episode-13",
+    type: "episode",
+    guestId: "sahar-ben-rached",
+    guestName: "Sahar Ben Rached",
+    label: "Episode 13",
+    subtitle: "Modular processors, distributed architectures, and collaboration",
+    left: 18,
+    top: 22,
+    themes: ["networking", "applied-infrastructure", "community", "real-world-translation"],
+    detailSummary: "Sahar connects modular quantum processors and distributed architectures with the collaboration required to scale systems, research communities, and access to the field."
+  },
+  {
+    id: "episode-15",
+    type: "episode",
+    guestId: "olga-mamlyga",
+    guestName: "Olga Mamlyga",
+    label: "Episode 15",
+    subtitle: "Turning quantum cybersecurity awareness into real-world action",
+    left: 34,
+    top: 12,
+    themes: ["security", "applied-infrastructure", "real-world-translation", "leadership"],
+    detailSummary: "Olga brings urgency to the security cluster, emphasizing that quantum resilience must move beyond awareness into implementation, partnerships, and secure real-world systems."
   }
 ];
 

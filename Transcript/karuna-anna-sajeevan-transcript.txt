@@ -1,0 +1,580 @@
+Karuna Anna and Candace Gillhoolley (Women in Quantum Podcast) recording-20260410_110216-Meeting Recording
+
+April 10, 2026, 3:02PM
+
+42m 53s
+
+
+Candace Gillhooley started transcription
+
+
+Candace Gillhooley   0:06
+Okay, good. Okay, and good morning. I wanted to just confirm if I could. I have, it's Karuna.
+
+
+Sajeevan, Karuna Anna [A LAB]   0:12
+Yeah.
+Yeah.
+It's Karuna and I said, yes.
+
+
+Candace Gillhooley   0:20
+Said Jeevan.
+
+
+Sajeevan, Karuna Anna [A LAB]   0:22
+Yes.
+
+
+Candace Gillhooley   0:23
+Okay, and I have you as computational chemist, machine learning scientist.
+I'm trying to think what title you'd like me to give for, uh, what title would you like me to announce you as?
+
+
+Sajeevan, Karuna Anna [A LAB]   0:43
+computational chemist.
+
+
+Candace Gillhooley   0:43
+Do you? Okay.
+Computational chemist? Okay. Machine learning scientist. Okay. Well, that's gonna make it very exciting. So, okay, great. Karuna.
+
+
+Sajeevan, Karuna Anna [A LAB]   0:46
+I do both.
+Select.
+Yeah, yeah.
+But I am not into governance. I am still in the technical side of things.
+
+
+Candace Gillhooley   1:00
+Okay.
+
+
+Sajeevan, Karuna Anna [A LAB]   1:01
+Mhm.
+
+
+Candace Gillhooley   1:03
+OK, so when you're when you're ready, we'll begin. Are you ready?
+
+
+Sajeevan, Karuna Anna [A LAB]   1:04
+Yeah.
+I think so. I'm nervous. Yeah. Yeah.
+
+
+Candace Gillhooley   1:10
+Okay, that's all good. Don't be nervous. Trust me, it's going to be really easy, enjoyable conversation, I promise, okay?
+
+
+Sajeevan, Karuna Anna [A LAB]   1:19
+Take care.
+
+
+Candace Gillhooley   1:19
+Welcome to Women in Quantum, the podcast that spotlights the brilliant, bold, and boundary-breaking women, shaping the future of quantum science, technology, and policy. Each episode, we go beyond titles and resumes to explore real journeys, real challenges, and real impact.
+
+
+Sajeevan, Karuna Anna [A LAB]   1:24
+The.
+
+
+Candace Gillhooley   1:39
+From researchers and founders to policy makers and pioneers, these are the women driving one of the most important revolutions of our time. If you're curious about quantum, inspired by leadership, or passionate about inclusion in technology, you're in the right place.
+Let's get started.
+Today, we have the pleasure of speaking with Karuna Sajevan. She is a computational chemist and a machine learning scientist.
+Good morning, and how are you today?
+
+
+Sajeevan, Karuna Anna [A LAB]   2:14
+Good morning. I'm doing good. I'm so excited to be here.
+
+
+Candace Gillhooley   2:19
+Thank you. So I always like to start at the very beginning. Can you tell me where you were born and raised?
+
+
+Sajeevan, Karuna Anna [A LAB]   2:26
+Yeah, sure. I was born and raised in southern part of India in a village called Puvanthuratu in the state of Kerala. It is a place where people are very simple and we are life
+is very connected to nature.
+
+
+Candace Gillhooley   2:48
+Okay, so you back as a little girl in school in India, what were you particularly interested in? What excited you?
+
+
+Sajeevan, Karuna Anna [A LAB]   2:53
+Mhm.
+As a little girl, I was an introvert and still I am. And I was very curious about observing small things. For example, I was very curious about how seeds become small.
+plants, how seeds germinate. So I used to soak seeds in water and keep on checking on them when the first root will come out. So it was kind of a small, tiny experiment design. I
+kept for myself and the moment I see that root came out, it gave me an immense kind of joy and satisfaction of witnessing something concrete and tangible coming out from something invisible.
+
+
+Candace Gillhooley   3:54
+Well, that's it. I mean, that's really kind of what probably first inspired you to study science. You know, just watching, you know, watching the creation of life. That's just very exciting. So what subjects did you find that you really had a proclivity to?
+
+
+Sajeevan, Karuna Anna [A LAB]   4:00
+Yes.
+Yeah.
+I had inclination towards arts and science together, so it was a different way of putting it. So I in my 10th grade, I had all of those subjects, so I was happy and in 11th and 12th I had to.
+decide which stream I should pick. And then I found a school which gives me literature in English, as well as I can learn biology, chemistry, physics, and everything. So it was far away. Still, I traveled.
+to that school to get to know what exactly I want to do. And then in, yes, in my bachelor's, I was still, okay, I distanced myself from literature, but I was not sure which.
+
+
+Candace Gillhooley   4:57
+Did you? No, go ahead.
+
+
+Sajeevan, Karuna Anna [A LAB]   5:12
+fields of science I would like to dwell deep. So I did botany, zoology, microbiology, along with chemistry.
+So, I had four majors in my bachelor's.
+
+
+Candace Gillhooley   5:26
+I was like, that's a lot. Okay. Did you find that you were among, like, was it the division between men and women when you were studying your bachelor's? Did you find it was equal?
+
+
+Sajeevan, Karuna Anna [A LAB]   5:29
+Yeah.
+I would say it was equal. I didn't see any distinction between more men or women or the people are favoring men more, but I feel the system is not very women inclined, for example.
+Until I reached a bachelor's, it was fine. But when women get married and then the kids come in, the system is not designed to accommodate that needs of women.
+
+
+Candace Gillhooley   6:18
+Okay.
+
+
+Sajeevan, Karuna Anna [A LAB]   6:18
+That's where the distance difference came in.
+
+
+Candace Gillhooley   6:20
+OK.
+
+
+Sajeevan, Karuna Anna [A LAB]   6:22
+But as a child, I didn't feel any different.
+
+
+Candace Gillhooley   6:22
+Interesting.
+Right, because that wasn't yet something you were facing in your life and you could really understand that the, it seemed to be the choices that had to be made in order to pursue, you know, being, you know, a mother with family as opposed to being maybe a professor in school.
+
+
+Sajeevan, Karuna Anna [A LAB]   6:39
+Yes.
+
+
+Candace Gillhooley   6:40
+or even like an active researcher, scientist. Interesting. Were there any teachers or mentors in India who had a big impact on the direction that you took when going into computational chemistry?
+
+
+Sajeevan, Karuna Anna [A LAB]   6:43
+Mhm.
+Yes, I would say that is my PhD supervisor. She is Dr. Thurba Roy. And she made it very particular to give more importance to women in research. When I joined the lab, it was women only lab because she had
+She didn't have a good time when she was doing research. She was the only woman in that lab and she had to always prove that she belonged there. That made her make sure that the next generation should not face that.
+So it's her personal choice and her effort that gave me that inclusivity and a space where I don't have to always prove myself that I belong. I could concentrate or I could put that energy on something else.
+
+
+Candace Gillhooley   7:57
+Okay, so at what point did you realize that computational methods would be the central part of your career?
+
+
+Sajeevan, Karuna Anna [A LAB]   8:06
+That was when, during my masters, I did experimental chemistry. And this computational chemistry, I was told that it is mostly math heavy and mostly men's are more successful there.
+
+
+Candace Gillhooley   8:09
+Oh.
+
+
+Sajeevan, Karuna Anna [A LAB]   8:25
+and women will go to mostly biology kind of things or maybe humanities side. And to be honest, I didn't have very good math background. I did mathematics only up to the 10th grade. But this supervisor gave me a chance because she's...
+saw that I had this curiosity to know and she gave me the opportunity to learn math as I go in, like when I need to learn some concept, go back and learn it. And that gave me the whole new perspective. And after I was done with PhD, there was no going back.
+It's like, this is where I belong. I want to, I have, I want to contribute more to computational chemistry and to reveal how, how chemistry or quantum chemistry really give meaning to or
+Bring them, bring out the mechanism of things that is happening and how to explain things in a very fundamental way.
+
+
+Candace Gillhooley   9:36
+What early challenges did you face in your education or your research, and how did you overcome those challenges?
+
+
+Sajeevan, Karuna Anna [A LAB]   9:46
+Oh, challenges is the, I didn't, I did not have challenges as in this gender bias kind of things, but I had technical challenges such as when, for example, this math.
+
+
+Candace Gillhooley   9:57
+Right.
+Okay.
+
+
+Sajeevan, Karuna Anna [A LAB]   10:05
+background is not something I had. And I was the first student in my PhD group. So we had to set everything from scratch. So that was, I would say that that was an opportunity to be a part of building something new and witness the whole struggles of setting.
+bringing things together.
+talk to people, talk quotation and bring money and divide that money based on like how long do we have funding and what is the direction we have to go forward. Those were, I would say that those were challenges and opportunities together.
+And then I moved to USA for postdoctoral research. There I had to...
+unlearned many things, which I learned back in India. The way, it's not like there is a right way of doing things. Different cultures have different way of doing things. So to interact or to collaborate with people from who are born and brought up in a different culture,
+I need to know their culture a bit; I need to keep men.
+at least keep my culture a little bit to myself and don't expect everyone to know how I am brought up and give everyone some grace to know each other, not just for the science, but for the human level of things. That
+That is a different perspective, which I learned.
+
+
+Candace Gillhooley   11:48
+What motivated your transition from academic learning in India to working internationally as a scientist?
+
+
+Sajeevan, Karuna Anna [A LAB]   11:58
+Could you please repeat that question?
+
+
+Candace Gillhooley   12:00
+What motivated your transition from academic learning in India to working internationally as a scientist?
+
+
+Sajeevan, Karuna Anna [A LAB]   12:10
+I wanted to try out, I wanted to see how things work internationally and it's all new experiences. Whenever I was born and brought up in southern part of India and India has a different
+It is rich in different cultures and languages. So if I cross from one state to another, I need to learn a new language. And I went to four, five different states and that. So that gave me a sense of I love to travel. I love to explore new culture.
+just that I didn't need passport to do that. And to come to US, I needed visa and passport. So that was the only difference when I had to move. So I was like, why not? Just go and try and learn things, how people work there, how other
+a possibility to go further than what India can provide. That was the motivation.
+
+
+Candace Gillhooley   13:16
+So then when you came to the United States, that was for your first professional role after graduating?
+
+
+Sajeevan, Karuna Anna [A LAB]   13:25
+No, I did. I worked for a startup company back in India for some months, and I understood that industry has a different way of doing things than academia. And
+That did not suit me in that stage of life because I had a small baby at that time.
+So I thought, okay, I'll take a break then, and then I'll try new avenues. That's when I applied to US and then came here.
+
+
+Candace Gillhooley   14:01
+So what skills or experiences from your time in India continue to benefit you in the work that you do now?
+
+
+Sajeevan, Karuna Anna [A LAB]   14:10
+In India, I am from basic science, but I have multiple majors. And now it is a multidisciplinary world. Let it be research, let it be academics, let it be anything. So that helped me.
+So if it is a biology related research, I have that background. If it is a chemistry research, I have that background. If it is computational chemistry or machine learning, I had that background. So that's an interesting combination of skill set. I still, I mean, that gives me some kind of confidence to take up new roles in.
+in research. And here I am the first person to be recruited in this lab too. So I am mentoring all the PhD students and master students here. And I open new avenues in research here. So that
+academic upbringing or the educational background back in India, that it is more strict and disciplined. So if I want to learn a new thing, I really have to take a degree in that. And I got the opportunity to take the four majors
+And that helps me, even now.
+
+
+Candace Gillhooley   15:36
+Okay.
+How would you describe your role as a computational chemist to someone outside of science?
+
+
+Sajeevan, Karuna Anna [A LAB]   15:47
+Yeah, this is a thing I always try to explain like with a story for example. So it is like I am communicating chemistry with this with beakers and pipettes.
+to a machine, to a computer to tell it to do. I'm telling the computer to do that experiment for me. So a computer doesn't understand what is water, what is salt, what is sugar. So everything it learns in zeros and ones.
+So what is the combination of zeros and ones I should put for the computer to know what is water? That research is already done. I don't have to reinvent the wheel. I just have to make different combinations of it.
+To represent a real-world molecule.
+and how it evolves. If I give the equation, physics equations, and the chemistry molecules in zeros and ones, the computer is able to do that far faster than me, because I need to take a nap, I need to do many other things.
+in my real world. But the computer, if I set it up, it is able to run it for me and I can always retract it. Like what are the path it went through to reach that product.
+And that gives me the mechanism, how it reaches there and what I need from there and what is the whole structure of it in an atomic level.
+or in the whole bulk level. So this is the interesting new world that the computational chemistry opens to everyone who wants to know the mechanism behind anything that works.
+
+
+Candace Gillhooley   17:53
+What excites you the most about using computational tools to study chemical systems?
+
+
+Sajeevan, Karuna Anna [A LAB]   18:02
+I can always play with it without, without paying again and again for this, for the game again.
+And I, it's like I might, I have to build the tool and I can use the tool again and again. I don't have to pay and wait for the vendor to deliver me the chemical and the solvent and I don't have to wait for it to.
+React in real time.
+And this computational chemistry helps me predict what is the output of a reaction is. And I am not wasting a lot of resources to come into a hypothesis or conclusion.
+I can run millions of experiments in computer and shortlist them to top five or 10 for the experimentalist to check. If we had to do all of this experimentally, it takes more than my lifetime to come up with it.
+Uh, theory.
+
+
+Candace Gillhooley   19:23
+So your work often combines simulation and machine learning. How do you integrate those approaches in your research?
+
+
+Sajeevan, Karuna Anna [A LAB]   19:28
+Yes.
+Machine learning, I would say it is a new term for pattern learning or statistics.
+So now it is more relevant because we have access to a lot of data from all across the world. So that is the very systematic or intelligent way to do things. Right now because we have...
+An information explosion right now.
+So what I do right now is do machine learning first. Learn from pattern, not from mechanisms.
+And then if I see an interesting pattern coming up, which is relevant to my research, I take them and learn the mechanisms through simulations.
+So, machine learning.
+takes very less amount of time to come to a narrow down or shortlisted set of things. And from that, I do mechanistical model, which is simulations.
+which will give me an insight to really whether I really want to pursue it or not experimentally.
+And from there, I shortlist it to one or two for the experimentalists to work on. So it is mostly a top-down approach where we have a lot of things happening in the beginning, and most of them may not be really relevant to the question I am asking.
+All of those compounds and all of those results are relevant, but not exactly to the question I am asking.
+OK.
+
+
+Candace Gillhooley   21:30
+Is there a recent project that you can talk about that you're especially proud of?
+
+
+Sajeevan, Karuna Anna [A LAB]   21:36
+Yes, I would say there are a couple of them. And first one I would say is like, get it. I am designing some molecular filter or I can say that molecular pickers.
+which can selectively pick those metal ions, which are very important in national security or building electronics, for example. Those are, we call them critical minerals, because that is very critical.
+in any country's security and progress towards energy-related research. Nowadays, with this machine learning and quantum chemistry, every country is trying to
+bring their stand in quantum chemistry. For all of those, we need very efficient electronic devices, for example, right from phone to laptops to many supercomputing devices.
+All of them need specific metal ions, and they are not widely found for them for us to mine them from underground. It takes a lot of time, we are polluting the environment.
+many things are happening. But on a day-to-day basis, we are discarding a lot of electronic waste. And that goes to dumps. What I am proposing or what I am working on is like recycling those metals from the electronic waste. And recycling takes a lot of time because they all are
+heated together, merged together, molten form there. And to separate them takes a lot of time and effort. What I am designing is a very specific selective molecular glue kind of molecule, which can really go and attack these specific metals alone.
+And concentrate.
+
+
+Candace Gillhooley   24:02
+Okay.
+
+
+Sajeevan, Karuna Anna [A LAB]   24:02
+And we are kind of very successful in finding those molecular filters.
+
+
+Candace Gillhooley   24:11
+Mm.
+It's interesting.
+How do you stay up to date with new computing tools, algorithms, and scientific literature?
+
+
+Sajeevan, Karuna Anna [A LAB]   24:23
+I would say that it all depends on what, because...
+Every day in minimum hundreds and thousands of tools are coming up.
+So it's impossible to know all of them. But if in my field, what is required?
+I will learn them and I will build off from them. That is the way I work because there is always something which somebody has always created. And I don't have to reinvent the wheel. I just use that wheel and put a
+different layer on that for my specific purpose. So my work in this lab is mostly tool building for specific application. The tool remains the same. The applications keep on building.
+
+
+Candace Gillhooley   25:22
+Okay. How has your international experience shaped your perspective on science and collaboration?
+
+
+Sajeevan, Karuna Anna [A LAB]   25:31
+I would say that science is a fluid medium.
+And our culture, different cultures have the culture of different people will give a different perspective or lens towards the research problem. And I would say diversity is a very, very strong tool.
+which we need to tap in to get the science moving. Because I would say that in India, how I did research is completely different from what I see here. And I am nurtured and I have a totally different perspective right now merging these two.
+
+
+Candace Gillhooley   26:20
+Hey.
+
+
+Sajeevan, Karuna Anna [A LAB]   26:20
+And this is something people really don't think much into. When we say science, it's always hard skills, not the soft skills. It's about technique, how much technique you know. But no.
+It always goes hand in hand, the human resources and the cultural background, the language, because the people who knows different languages, multiple languages, they think in a different way.
+than the people who has one language, mother tongue or the home language is the same as the language in which you are studying, you are doing research. If all of those are the same language, they have a different set of skill set, which they are very refined in.
+Compared to the people who have who talk different languages, I have seen it in first hand.
+
+
+Candace Gillhooley   27:26
+Mm.
+When you're facing doubt internally.
+What's your process for deciding whether to speak up or to step back?
+
+
+Sajeevan, Karuna Anna [A LAB]   27:39
+Self-doubt is an ongoing thing for me. It's always there. I would say I would speak up mostly in growing up. I would speak up mostly when I know what I am saying is right or
+I would, I have enough preparation. But now I am kind of comfortable with uncertainty. I'm like, I'm okay to be wrong, but I want this perspective to be heard. What if that brings up or open up a new discussion? And that may change the whole
+policy or the rules around the whole thing. So I embraced failure or not knowing everything.
+And I don't want to risk a new perspective not to be heard. It is an ongoing process to understand that it is okay to fail. It is okay to say, oh, yeah, that's a new perspective. But this is the drawback of it. Yeah, and now I get it. Now I understand.
+I, I am growing, I am learning to do that.
+
+
+Candace Gillhooley   28:59
+What do you see as the most promising near-term application of quantum computing?
+
+
+Sajeevan, Karuna Anna [A LAB]   29:06
+I am not, I don't have much background on quantum computing as such, but I can speak for quantum chemistry that they are related. And I would say the quantum chemistry and machine learning.
+
+
+Candace Gillhooley   29:12
+OK.
+
+
+Sajeevan, Karuna Anna [A LAB]   29:26
+Actually, quantum chemistry is very in depth and it took a lot of compute. So even if quantum chemistry was...
+The main discoveries in quantum chemistry happened decades ago. People were not exploring it much because it was computationally very expensive. And we couldn't afford to wait so long to get one reaction and say that, okay, that doesn't move forward.
+That was the bottleneck. Now with this explosion in machine learning and pattern learning and all this computing system coming up, this is the most interesting time in my research, I would say, because we can club both this together. Quantum chemistry gives the maximum in-depth knowledge and machine learning gives
+the maximum advantage of doing things faster.
+This gives a lot, I mean, the...
+Courage to ask difficult questions.
+
+
+Candace Gillhooley   30:41
+That's true. And it's so important to ask questions and not just smile and nod and pretend like you know what's going on. It's more important, you know, to ask the questions and find out. What advice would you give young researchers in India who want to work internationally?
+
+
+Sajeevan, Karuna Anna [A LAB]   30:46
+Yes.
+I would say knock every door. Don't be, don't wait for somebody to direct you. Just knock every door. Take every internship you can and explore. You should not do internship just in your own field.
+Open to new turns in your life, that is the way you will find what exactly excites you.
+And you never know the door, you, the door is next to you.
+Maybe that's far from you, so, but keep knocking the door and embrace every opportunity you get.
+
+
+Candace Gillhooley   31:44
+What supports or changes do you think would help more women pursue careers in computational chemistry?
+
+
+Sajeevan, Karuna Anna [A LAB]   31:55
+Um...
+I would say.
+The starting, there is no barrier, at least from my experience, but to stay in that carrier.
+Computational chemistry said.
+Daily warving.
+field. So to stay in that carrier, you need to be working every day. And from a woman's perspective, we need to go for maternity leave. We need to take care of the children and we need to write grants.
+So.
+It is not really designed for us. We should always speak for us. We should ask, okay, this is where I need more time or I need more accommodation for because having a child is not just a woman's responsibility.
+It is for the whole humanity to go to the next generation, next state. So that should be taken as the society's responsibility. The women should not be penalized for taking that break.
+And men also should get that break from their work if they are planning for having a child.
+That's what I would say, because I have seen people, women coming into computational chemistry and get stacked in there because they had to take a leap.
+And then they couldn't cope up because within that gap of, say, two or three months, things have changed.
+And then they take a different role and not stay in computational chemistry. That's very sad.
+
+
+Candace Gillhooley   34:02
+What advice would you give girls and young women considering a career in STEM?
+
+
+Sajeevan, Karuna Anna [A LAB]   34:08
+I didn't get that question.
+
+
+Candace Gillhooley   34:10
+What advice would you give to girls and young women who are considering a career in STEM?
+
+
+Sajeevan, Karuna Anna [A LAB]   34:18
+I would say...
+that don't label you as a woman. Just, it's the same for men and women to start careers because our gender doesn't discriminate. We don't, we should not let our gender discriminate against us.
+If somebody is doing that, it is their problem. It is not my problem.
+and approach science the way it should be. Okay, there are certain subjects we find it tough to do. And that is true for men too. And okay, if this is tough for me, I'll go again, try. I'll practice.
+
+
+Candace Gillhooley   34:56
+Mhm.
+
+
+Sajeevan, Karuna Anna [A LAB]   35:04
+And get back.
+I should not say that. Okay, this is tough for me. I think for girls, girls find it tough. Also, maybe I should derail from here and go try something. No, if you are interested in that, keep on trying.
+and you'll get it. There is nothing. Nobody came here learning everything. We all started the same. We all started crying for food.
+
+
+Candace Gillhooley   35:25
+Tiger.
+
+
+Sajeevan, Karuna Anna [A LAB]   35:36
+And we all started walking, while walking, we all stumbled and fell. It's not like boy kids fell less and girls fell more. No, we all learned the same way.
+
+
+Candace Gillhooley   35:37
+Sure.
+It's true.
+
+
+Sajeevan, Karuna Anna [A LAB]   35:50
+It's the Mandel block, I would say.
+
+
+Candace Gillhooley   35:52
+Yeah, I think you're right.
+What trends in computational chemistry and machine learning are you the most excited about right now?
+
+
+Sajeevan, Karuna Anna [A LAB]   36:04
+I would say I'm more excited and scared because there are a lot of things coming up and before even trying what trying to understand what it is, it is outdated and irrelevant and something else is coming up so.
+It's a more exciting and challenging and keeping pace with all of those.
+is really tough. So I would say focus on what you want to solve and take.
+Which computational chemistry piece will fit your goal?
+Don't try to take it as a method. Take it as a path to solve your question or to get answers to the questions.
+
+
+Candace Gillhooley   36:59
+What is 1 misconception you hear about computational chemistry that you wish people understood better?
+
+
+Sajeevan, Karuna Anna [A LAB]   37:10
+People think that computational chemistry is a black box. It's like, okay, if I tell whether this or that will work together, I can just put that into the black box and it just gives the answer. No.
+For computational chemistry, we should know computer chemistry, physics.
+And everything around it.
+So there is a lot of lot of domain knowledge that goes behind behind the scene to get a reasonable results from computational chemistry. So it is not just running a software.
+It is every time checking whether what we are getting is right. And there is no software that can do everything. We build our own tools.
+We write codes based on chemistry and there are laws of laws of physics using computer language.
+So, it's an amalgamation of many things.
+Coming together under one umbrella.
+
+
+Candace Gillhooley   38:26
+How do you balance long-term research goals with the need to produce results on shorter project timelines?
+
+
+Sajeevan, Karuna Anna [A LAB]   38:36
+I would say that it is long-term research is like a journey and shorter getting to research the cells. It's like giving report of what is done so far, like in maybe in a couple of months.
+or maybe in six months or in a year. So I would say that the first year or when we start a new project, it is mostly about learning and learning, failing. And we need to give ourselves some grace and talk in advance.
+saying that, okay, to whoever we need to show results to, saying that this is the new thing and these are the probable roadblocks I will have.
+And based on that, I would say that talking in advance or giving the report in advance, saying that these are the roadblocks I would have and that would need some extra time to clear and to get to results. And
+That should be reflected in our planning as well. So we should not overcome it on research in the initial time.
+It's always commit less and do more. That's my strategy whenever there is an ambitious project. If it is a similar sideline projects, we can have research back to back. But if it is a long-term focused one,
+It's Stuff.
+And my strategy is to tell in advance that this is going to be tough for the first six months.
+
+
+Candace Gillhooley   40:21
+Yeah.
+
+
+Sajeevan, Karuna Anna [A LAB]   40:29
+or one year. And in six months, I found that this is not going anywhere. So I will not wait till one year to make them know that this is where things are and we are taking a different direction from here.
+
+
+Candace Gillhooley   40:48
+Beyond technology, what personal values drive your work in science and community building?
+
+
+Sajeevan, Karuna Anna [A LAB]   40:55
+I would say that, make room for everyone who wants to try.
+And we all are, at the end of the day, humans.
+And we all have our own timelines and our own goals and ideas. It's mostly about emotionally...
+intelligent leader if we are given a leadership opportunity or a decision-making power. So give space to everyone and make them as comfortable as they are. And if we are in our authentic
+Self, we perform better.
+That's true for everyone who is coming into the room for the first time or who are there for a longer time.
+Okay.
+
+
+Candace Gillhooley   41:55
+I think that's the message I want to leave this on. I really, I love what you had to say. And if people want to find out more about what you're doing, how do they, where should we send them to?
+
+
+Sajeevan, Karuna Anna [A LAB]   42:03
+It.
+They can reach out to me in LinkedIn or I can leave my email with you.
+
+
+Candace Gillhooley   42:16
+Oh, it's fantastic. I'll definitely include your LinkedIn profile. And I thank you so much for your time today. I know we had a couple scheduling bumps, but I really appreciate having you on today. And thank you so much for your insight. I really appreciated it.
+
+
+Sajeevan, Karuna Anna [A LAB]   42:26
+Yeah.
+Thank you.
+Thank you so much. I was nervous in the beginning, but it went on like a coffee chat. Thank you so much. Yeah, thank you so much. Yeah.
+
+
+Candace Gillhooley   42:39
+There you go, that's the plan. Awesome, that's the plan. My pleasure, my pleasure. Thank you, and I want to wish you a great rest of your day.
+
+
+Sajeevan, Karuna Anna [A LAB]   42:48
+Thank you. Same to you. Okay.
+
+
+Candace Gillhooley   42:49
+Okay. Okay. Thank you.
+
+
+Candace Gillhooley stopped transcription

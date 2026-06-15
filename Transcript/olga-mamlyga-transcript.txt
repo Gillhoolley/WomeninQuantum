@@ -1,0 +1,584 @@
+Olga Mamlyga  & Candace (Women in Quantum Podcast) recording-20260331_130119-Meeting Recording
+
+March 31, 2026, 5:01PM
+
+59m 23s
+
+
+Candace Gillhooley started transcription
+
+
+Candace Gillhooley   0:03
+Philosophy. And I'm like, Oh my gosh, this was so amazing. And then we like, Oh no, no, no, we didn't. I was like, never again am I going to make that mistake. So just give me one. How are you today?
+
+
+   0:03
+Huh.
+
+
+Olga Mamlyga   0:18
+Oh, I'm fine. Today I'm in Denmark, so I am dressed for the North Pole.
+
+
+Candace Gillhooley   0:21
+Oh.
+OK, is it really cold there today?
+
+
+Olga Mamlyga   0:28
+This is windy. It's sunny, yes, but so windy, so unpleasant.
+
+
+Candace Gillhooley   0:33
+Hey.
+Today is like gloomy, gloomy. It's like right above. It's above freezing. This whole week is like right above or right below freezing. And that's kind of I'm in Montreal, Quebec, so it could still very, very much snow like every day still.
+
+
+Olga Mamlyga   0:39
+OK.
+Wow.
+
+
+Candace Gillhooley   0:51
+But we got rain today because, like, we're just right above freezing, right? So hold on, I just wanted to clear out. That's how it goes, right? We've all kind of had it, but that's usually how it is by this time of year, right? Everyone's kind of had it and they're like.
+
+
+Olga Mamlyga   0:57
+That sounds pleasant.
+Yeah.
+
+
+Candace Gillhooley   1:10
+They're ready for, they're ready for the the spring to come. And I'm like, it's going to come. It's OK. We're going to have it soon enough. It's there, you know?
+
+
+Olga Mamlyga   1:20
+Yeah, breathe in and out. No, don't despair.
+
+
+Candace Gillhooley   1:25
+Exactly. We're at the end of it, everyone. Like, we're at the end of it. It's February is usually the hateful time where, you know, you're like, I can't do this anymore, you know what I mean? But like, it really wasn't such a bad February. It was a much more brutal December, actually, as a matter of fact.
+
+
+Olga Mamlyga   1:28
+Yes.
+Yes.
+
+
+Candace Gillhooley   1:40
+That was much harder. OK, so um, I have you here. Olga, could you please pronounce your name for for me?
+
+
+Olga Mamlyga   1:47
+Olga Mamuliga.
+
+
+Candace Gillhooley   1:49
+Mamaliga.
+
+
+Olga Mamlyga   1:51
+Oh, wow. So well, yes.
+
+
+Candace Gillhooley   1:54
+Oh, it never happens for me. OK, Mamalika and co-founder and CEO. Let me just check here. I introduce you as co-founder and CEO of and co-founder, CEO. And what is it here? Hold on, my screen just jumped. Hold on.
+Where did it go? Hold on.
+Doo Doo Doo Quantum Scouts APS or is it?
+
+
+Olga Mamlyga   2:21
+Right, you can just say quantum scout because APS it's like limited only in Danish.
+
+
+Candace Gillhooley   2:27
+Quantum scats. OK, okey dokey. All righty, Roo.
+Just getting rid of a few things so I'm not distracted. OK, I don't need that. OK, one second.
+Where did it go? Wrong screen. OK.
+Okie dokie.
+Are you ready?
+
+
+Olga Mamlyga   2:59
+Yes, I'm ready.
+
+
+Candace Gillhooley   3:00
+OK, great. Welcome back to Women in Quantum, a space where we step beyond the headlines and into the lives behind the work. This isn't just about quantum technology, it's about the women shaping it.
+How they think, how they arrived here, and what they've had to navigate along the way. Because the path into quantum is rarely linear, and the stories behind it are often where the real insight lives.
+So whether you're deep in the field or just quietly curious, you're in the right place. I'm Candace Gillhooley. Today we have with us Olga Mala and she is this. She is the CEO and co-founder of Quantum Scouts.
+Hi, Olga, how are you today?
+
+
+Olga Mamlyga   3:53
+Hi, Candace. It's nice to be here. Such a pleasure. And today I'm fine. I'm eager to have a conversation and I'm actually I will have been looking forward to the conversation. So let's.
+
+
+Candace Gillhooley   4:07
+Oh, I love it. Let's go. I'm so excited. So I do. I want to start at the beginning. So can you tell me where you were born and raised?
+
+
+Olga Mamlyga   4:17
+So I was born and raised in Ukraine. There is such a city, Zaporozhia, and there I started. So I went to school in Zaporozhia. I also went to the university there and I studied English and German at the university and.
+That was my decision. It's important. I always wanted to learn German and English.
+
+
+Candace Gillhooley   4:44
+OK, so you're learning German, you're learning English. When? When did you kind of stumble upon math and sciences and then, by extension, quantum?
+
+
+Olga Mamlyga   4:55
+Yeah, that was a very long way. So I you know how it is. So I started with the languages I started. So then I worked in tourism. I worked in communications. I worked. I worked also with translations.
+And it was a long, long way. And then when I met people, they wanted to create something meaningful because they have experience with networks, communication systems and they said we need someone who would tell the story, our story.
+And I say, OK, let me give it a try. And then they we started a very long process of learning and they told me their story. But of course from the point of view of engineer, the story sounds different than from the point of view of business.
+So and they are very proud of me because I go into the world and tell the story of quantum of importance of secure solutions currently in this geopolitical situation and.
+Now it's far easier to tell this story. I'm I'm telling you. So 2022, when we started, that was very challenging. You can imagine cyber security in 2022. It was like, why? Why do we need it at all?
+Yes, we do need it. And that's my job. It's storytelling in quantum, in cybersecurity, and to bring those deep technologies, this complex technology, to people who very often don't know anything about it, but people who make the decision.
+And that's the translation I'm doing from engineers to business people. And that's so important in quantum. I see it very often. Many people expect PhD in quantum if you are working in quantum, but it turned out.
+There is a lot more that has to be done that this technology sees the world, sees the applications in real world, not just in the lab.
+
+
+Candace Gillhooley   7:13
+OK, that's exciting. So what are the kind of skills that you think women should be developing if they're not coming at it from the scientific side? Um, maybe they're interested in business or interested in operations or interested in marketing.
+Interested in communications? What type of skills do you think you know they should kind of, you know, upskill themselves on so that they could be curious and then potentially get involved?
+
+
+Olga Mamlyga   7:47
+Yeah, from the beginning I liked to learn and I guess this is the first point. If you like to learn to get to know new things that are out-of-the-box, because if you start in the communications, you can't hardly imagine you will end up with quantum communications.
+For communications about quantum, because I have both. So and that's important to be open minded, to be eager to learn. And when you start this long process, then everything comes together. It's about business, it's about marketing, it's about branding.
+About storytelling of the science. So I am learning constantly. So there is not one day when I don't read or don't have a course or don't listen to our engineers. There is constant process of learning.
+And that's important to be ready for this, because I met also many people who believe that they studied once and it's enough. No, it's it's not like this. Nowadays you must learn no matter your age, no matter your education, and you have to be open.
+And I guess it's also the point if you that you like it, because if you with your head understand I have to learn, yeah, I mean many understand and all over Internet you see, yeah, you have to learn blah blah blah. But if you don't like it, that's tough.
+Learning must really bring you pleasure and you're not forcing yourself. And that's I guess the most important thing to have pleasure from what you're doing. We are so often forced, you know, to do the job we don't like and.
+That you see them in your success, in your what you do, what you achieve that you either you liked it or you didn't like. So I'm I like very much what I'm doing and learning brings me pleasure and it's so joyful to get to know new things. I wouldn't even.
+Couldn't even imagine I can understand them. I mean, so that's the most important thing to have fun and pleasure from learning and to be open minded. That's important even in quantum to be open minded and to understand today it's like this.
+But tomorrow it can be different because everything develops. You have to be open minded.
+
+
+Candace Gillhooley   10:29
+So if you look at everything that you did on your path professionally before you entered the quantum space, what parts still shape how you think today?
+
+
+Olga Mamlyga   10:43
+It for me it was very, I would say, useful to work with different cultures and in different countries, because then you see people and their behaviour differently, you understand.
+Yes, we come from different cultures. We have different manners so often and we have different attitudes, but it's not personal. It's because of our culture. And then you say, OK, I go deeper into the conversation we have, into sometimes the issues we have.
+And it's not personal, just the way we were brought up, the way our country functions as so often, the way we see business and it's related exactly to the country where you have your business. So this is very helpful now to say to myself, no, it is not personal. Think about it, it's culture.
+It's cultural, it's because of the country we are dealing with. So that was very helpful for me. And also people see you differently. Unfortunately, when you don't come from quantum, you know how it is.
+And I always say I am in storytelling. I am telling you the story of Quantum, but I never promised I will come and build anything. And that's important. I have an amazing team and somebody has to do the job to represent them.
+And I bring the team forward saying I'm there as a storyteller, my team is amazing and they do the job.
+
+
+Candace Gillhooley   12:25
+Well, OK, that's that's a really good point though. So, you know, coming into it and feeling like an outsider in the space, how did your perspective become an advantage?
+
+
+Olga Mamlyga   12:40
+I guess it's. I see it like we have to go outside of the lab and this is also how my team sees it, because quantum is so often it's about R&D. We need time. It's not for industry.
+We say our solutions are meant already for real world and this what I'm coming and saying, yeah, we have to build, we have to build in real life. I am not coming from a lab, I'm not coming from academia. So I want to see how it's done. Now let's do business. We're a company.
+After all, so we have to do it. It has to be done. And this is like my perspective. I bring the story to the business deciders and that's important. This is our view.
+We do engineering. We don't do R&D. That's the point.
+And yeah, I wanted to add it's yeah, to be outsider. Sometimes it's challenging, but I'm fine with it now.
+
+
+Candace Gillhooley   13:40
+What?
+What did you have to unlearn to fully step into quantum?
+
+
+Olga Mamlyga   13:57
+Oh, that's a very good question. What I have to unlearn, I guess I had to become more patient.
+To be patient and to understand some things take time because.
+If we take a look at currently at PQC and migration, this is a very long process and we see it. It's very complex, it takes time and.
+So many companies are not there. So you take it more patiently, you start with awareness because when we started we were ready to build our solutions immediately because you know this engineering would we come, we built and it turned out so many people need.
+More awareness, more talking, more explanations. So this I had to unlearn to take it easy and to start.
+1st to bring them to the point that they understand what is it good for, what they need and how it can protect them, for example in our case. So patience is the key.
+
+
+Candace Gillhooley   15:10
+I don't like that.
+When you navigate moments when you feel less confident.
+Especially when the How do you navigate those moments when you feel less confident, especially when the stakes are so high?
+
+
+Olga Mamlyga   15:25
+I like to talk to my team because then they always say everything is fine. They always encourage me. It's like keep grinding. You have to do it because to be an entrepreneur, it's very tough and.
+Sometimes it's like rollercoaster. So you have to understand this, but you know one thing to understand it with your heart, another thing to understand it with your heart. And when I don't understand it with my heart, I need to talk to people and that's why I'm talking to our.
+Team because it's it can be very challenging and overwhelming partly.
+
+
+Candace Gillhooley   16:14
+Has confidence become easier as you've risen in influence, or has it simply changed shape?
+
+
+Olga Mamlyga   16:24
+I would say both. It takes time to find space in quantum ecosystem because it's very challenging. There are lots of companies and lots of solutions and you still have to talk about your solution to promote your solution.
+And it takes time, as I said, to find your place in in this ecosystem. And it was important for us, for example, to pivot also to add to our solution secure architecture, for example to say.
+PQC needs secure architecture and we can actually provide it and it gives them the Peace of Mind. So the path is long, but I feel now it's getting easier and I feel more confident and I would say it's time.
+It's experience. It's the people that around you. I found such amazing people and I can't say enough because in the beginning you feel so lonely in your entrepreneurship and I met.
+People in Quantum who decided to support us. I'm part of the community Quantum for finance and everyone is so extremely friendly and supportive there. And the same I found new community Quantum Security Defence.
+Also, they are very supportive and kind and when you find people you feel more confident and the minute I found people who support me, I could feel.
+I started growing also from inside my confidence and the way I see the community. So there I was very lucky and one thing when you read about it and another thing when you experience how important it is to find those people and.
+It's like each and everyone counts. That's important to understand. Not, not in total everyone, but each and every person brings such an amazing enlightenment and value to your business life.
+I'm I was very lucky with it.
+
+
+Candace Gillhooley   18:53
+I know you've mentioned being born in Ukraine. I know you've mentioned Denmark. I do believe Switzerland is in the mix there as well as, you know, are there any other countries that were along your path?
+To get to become educated.
+
+
+Olga Mamlyga   19:12
+And no, I lived in Germany, but it wasn't connected with my education. And now we decided to go to Switzerland. The company is Danish, but we decided to go to Switzerland because it seems in Switzerland there is a lot going on and it's like from Switzerland.
+And you can reach so many places. I I don't know. It's a completely different atmosphere and we see where it goes from there. And it's it's amazing to see and visit different quantum ecosystems. That's also very exciting.
+And because if you're working in quantum, I guess you have noticed it's kind of a bubble. You believe each and every person is talking about quantum. It's so amazing. But it turns out, no, not each and every person. And the more I talk, the more I understand.
+No, there are so many people, they have nothing to do with quantum, they don't know what it is. The travelling is helping a lot to see the potential partnerships outside of quantum community and that's also very important.
+So many places need quantum secure solutions and they even don't know about. It's like, you know, critical infrastructure. When we are talking to companies in critical infrastructure, some of them even don't know they're in critical infrastructure.
+And then it's interesting to talk to them and then they understand not only their critical infrastructure, no, but they also need quantum secure solutions. So it's a very exciting journey and I guess I'm enjoying the journey also very much.
+The people, the process and quantum is a very exciting field and so many people I needed who didn't study quantum, it turns out, because when I started I was feeling a bit.
+Not very confident saying like, but I didn't study. Do you understand how can I do it? And the team said no, give it a try. It's not about the quantum as the technology because because people who should potentially.
+By it also didn't study it. So you have to bridge from what we know to what they need. And it turns out, yes, it's exactly the case, although I must say so many expect people to have PhD in quantum, but I can't change it.
+
+
+Candace Gillhooley   21:58
+What do you see is the most promising near term applications of quantum computing?
+
+
+Olga Mamlyga   22:04
+We are working in quantum, quantum cyber security. So we build secure solutions and we believe that quantum computing will break codes. So RSA, ECC. So yeah, quantum computing is there first of all.
+For breaking code encryptions.
+This is how we see it.
+
+
+Candace Gillhooley   22:30
+OK, what's 1 misconception about quantum computing you wish more people understood?
+
+
+Olga Mamlyga   22:40
+We believe that quantum technologies are disruptive, more disruptive than people can even imagine. So and we believe that they will disrupt business and our society.
+It is in the way we can't even imagine at the moment, and that's how we see them. That's why when we start talking about quantum technologies and building quantum secure technologies.
+It's to protect critical infrastructure and by protecting critical infrastructure, we are protecting lives. That's also when we started talking about it, nobody understood that critical infrastructure equals lives. That was for us very disappointing because people in 2022.
+Who didn't understand this? Now, unfortunately, fortunately, they understand because of those hacks, horrible hacks all over the world, hospitals and the dams, everything possible. So, and that's for us.
+People should understand quantum technologies are disruptive and dangerous and we have to be prepared, have to understand this. And yeah, the race is on. We can't influence, we can only protect.
+Critical infrastructure companies and to build quantum secure solutions.
+
+
+Candace Gillhooley   24:17
+So how do you explain what you do on a a day-to-day basis in this exciting, disruptive, you know?
+Looking for security world, how do you describe to people what it is that you do?
+
+
+Olga Mamlyga   24:34
+So we built first of all post quantum resilient communication systems. This is one part. Then we also built secure architecture.
+And for example, now there is coming from the regulations a need for post quantum cryptography and post quantum cryptography. It's a very big challenge for all the architectures of the critical infrastructure of the big companies.
+And.
+To build it, you need special architecture because approximately every five years you need to change the encryption. So we built the architecture, IT architecture in the way that PQC can not only fit, but you can change encryptions every five years.
+Yes.
+And this is what we do. We also built quantum networks for critical infrastructure. So everything what we do is from the perspective of networks, communication systems and personally I am everyday wearing lots of hats from.
+Front management to sometimes salesperson to representative of the company, everything possible. And we, as I always say, we sell engineering. First of all, we sell real world applications.
+Of the our solution, so everything can be built already tomorrow. We don't need time for R&D for us. It's important and this is a lot of talking involved, as I said, a lot of explanations.
+But as we have experience, because the team has approximately 20-30 years of experience in networks, in communication systems, that's why we are doing it.
+I believe without such deep understanding of those systems, you just can't build such solutions. That's important to understand because the bigger the network gets, the more complex it gets. It's just like then a living Organism. So it's from what?
+I learned this is so extremely complex and complicated that you truly need specialists who have been doing it for years.
+
+
+Candace Gillhooley   27:08
+So what practical steps could students take now to enter the quantum field?
+
+
+Olga Mamlyga   27:14
+It was exactly what I was thinking because I'm coming from the I studied all linguistics and all this. We are also constantly more or less involved in education.
+And so many are interested in quantum and they have to start for example with the courses depending on their background, because so many, for example in quantitative mathematics, want also to go into quantum and there are already courses available.
+Also, who comes from business? There are also courses available quantum and business. So there is there are really lots and lots of resources and that's amazing. I also prepared a short course for students who study cyber security.
+I will have a three hour course. It's from in Philippines, a university and it will be a three hour course for students who study cybersecurity. But it has nothing to do with quantum, but they would like to see how they can apply their knowledge later and.
+And we composed then a course for them. There are there are so many courses available and that's amazing. Some of course are not for free, but lots are for free. And that's amazing that quantum ecosystem worldwide is developing so.
+Much. There is so much available already. So if the person really wants to work in quantum, you just have to type. Just go type what what the person wants to learn and there is a lot.
+Truly a lot. Communication and science, there are already courses. Business and quantum, as I said, there are already courses. And that's amazing. That's very good. And amazing is to see how many are interested. I don't know. Have you noticed how many people are interested?
+To move into quantum.
+
+
+Candace Gillhooley   29:28
+I have and that's, I mean that comes from the curious perspective and absolutely. And the curious perspective is constantly growing because the more people are hearing about it on the news or they're paying attention to what's going on in the stock market or you know it's it's it's like where.
+
+
+Olga Mamlyga   29:40
+Yeah.
+
+
+Candace Gillhooley   29:48
+A I was, I want to say like maybe like 2-3 years ago. You know, you would you're not hearing about it nightly, but you are hearing about it weekly and it's people are interested and they're excited. What's What's the new thing? What's it going to do? What kind of problems is it going to solve?
+um So I'm curious, when you explain quantum networks or post quantum security, what do you notice people feel before they seem to understand it?
+
+
+Olga Mamlyga   30:20
+What they fear or?
+
+
+Candace Gillhooley   30:24
+Feel.
+
+
+Olga Mamlyga   30:24
+Still, I would say they're a bit confused because they believe we need time for development and I always say we don't need, we can build it already. The solution is there, we just go.
+Analyze your system, the one you already have. It needs sometimes upgrade of your hardware. Definitely we have to implement our software, but it's not as complicated as it sounds.
+Because when you come from industry, you always think about, oh, it gets to be cost effective, it has to be as fast as possible implemented and that's our solution. We always think like this or is it cost effective? Can you implement it as fast as possible or yes, can it be?
+Yes, and but people tend to ask them those questions. Oh, we need time. No, no, you don't need time. We can immediately do this. And that's always then the conversation.
+
+
+Candace Gillhooley   31:41
+So what what problem were you trying to solve when you co-founded Quantum Scouts?
+
+
+Olga Mamlyga   31:51
+We are trying to solve the problem of unsecure networks and communication systems because too many hacks already happened and.
+Too many unfortunately companies were already destroyed because of because of the attacks. So it was, it's now going on. A I is also causing so much trouble to the companies, to the critical infrastructure.
+And there are no solutions to protect and this what we are trying to solve to protect the critical infrastructure, banking sector, hospitals, power grids with our solution in the way that.
+The network communications can't be hacked and we are talking about the problems that are now the threat that a I poses plus the threat of quantum in the future our.
+Team has paranoid attitude. You know how it is when you come from cyber security, it's always like this. So they say we have to think that we are protected now and in the future.
+And that's important for us to build a solutions where you think it has to be multi-layered and you think already this layer will be definitely broken. This is how they built. We have these layers of protection and immediately they think this layer is broken. What should happen next? Uh ha, we have the.
+Another layer to protect then that's the point. When you come from cybersecurity, you always think worst case, worst case scenario happens and you build from there and that's for us extremely important. So we build secure solutions.
+For companies, for banking sector, power grid, critical infrastructure in the way that they remain safe, secure now and in the future. And we also think about, of course, compliance.
+You can't go anywhere currently without compliance, yes. And for us it's also important that data remains where data should be.
+
+
+Candace Gillhooley   34:21
+Hmm. How do you balance technical integrity with making something accessible enough to act on?
+
+
+Olga Mamlyga   34:30
+Oh, that's very difficult. I'm telling this is.
+Probably when I figure it out 100%, I will write a book. So it's it's developing each and every with each and every conversation. It always depends on the person you're talking to, every person I I have noticed.
+Requires a special approach. It depends of the level of education, the level of interest, and from there I'm going because.
+We all are extremely busy. We all have our agenda and when I start talking to the person, I see now the person doesn't care about critical infrastructure, but he or she will be interested in cybersecurity for the company or PQC migration.
+Because they have to do it because of the regulations. So it's truly a process of its own and I'm looking forward to my own book.
+
+
+Candace Gillhooley   35:40
+Beyond the technical definition of true quantum network, what does that mean to you?
+
+
+Olga Mamlyga   35:48
+For me, it's, I guess, the beauty of combining physics and engineering because.
+It's there is so much to it to make it work in real life and I'm very proud of my team because I'm also following the news what is done in by other companies and it's always amazing to see what my team did.
+How they solved the problems that there are lots of problems there. For me, it's also important that there is an ethical and social part of our solution to protect and to improve the life of people and that's that's important and.
+Then you're doing it by with technology. I would say it's very beautiful and poetic because nowadays so often people forget about ethics, unfortunately, and we are.
+Very ethical and we always think how to do it the right way. And that's why I'm very proud because people I'm working with, they always say you can't lie in science. Science has to be pure and.
+Unfortunately, nowadays it's getting very difficult to keep up the standard, but we are trying to do it to be ethical and to be very honest in science. It's important because.
+At the end, you see if the solution is not working. I mean, that's ruining your reputation and your sleep, and you don't want it, especially if you build everything from scratch with your hands and you see it as your baby.
+And you don't want that anything happens to your baby. That's my attitude. No, everything has to be ethical and fair, and in the way that it protects and delivers only the best results.
+
+
+Candace Gillhooley   38:02
+So you've spoken about quantum security not being a future problem, but in fact a present one. You know, what does that urgency look like in real terms?
+
+
+Olga Mamlyga   38:14
+It's of course, first of all, the term harvest now decrypt later. Everyone is talking about it. I'm pretty certain everyone knows already what it is. So the data is harvested now and will be decrypted later of the companies and the point is.
+It's also not everyone understands some data currently might be not very valuable, but later when it's decrypted and put into context by a I, it becomes very valuable and through this data they can go of course into the company and destroy.
+The company. It's also the misconcept. So many believe that the company was hacked, but nothing important was stolen. That's yeah, they went in and there was data breach.
+That's it. We had the backup, but then forget that it's kind of a highway back into the company. The hacker can always return because the company was hacked once, so.
+The threat is already now. We even don't need to wait for quantum computer. It will come, but we have to prepare now. We need so much time. It requires so much time to get prepared that it's better to start yesterday then tomorrow and there where companies don't understand.
+And I also understand that it requires sometimes really big amount of money because those solutions are not cheap, of course. And they are where the companies say, oh, OK, let's talk at the end of the year where we have our.
+Budget or next year. And that's the mistake because we need to start preparing now. We need to start thinking about secure solutions now because it takes so much time to implement them. I mean in banking sector we.
+Figured out it might take up to 12 years and now we figured out there are such if we start changing encryptions in the companies, it's so complex that now the regulator say, OK, how about you just take care of the most vulnerable parts of your company, I mean.
+And we don't. That's also an interesting point. You don't want to spread panic because the minute people have this feeling there is panic, we can't do anything. They stop doing everything. So it's just has to.
+Begin the process and slowly but steadily we have to improve the security level of companies and of more important parts of the society like critical infrastructure, power grids, hospitals.
+So it has to begin. And yeah, that's a very long way to go, unfortunately.
+
+
+Candace Gillhooley   41:22
+So I'm going to make this. This is not going to be a hard one. So if you had to explain post-quantum risk to a non-technical executive in one sentence, what would you say?
+
+
+Olga Mamlyga   41:37
+If you want that your company exists in 10 years, you should invest in secure solutions now.
+And yes.
+And if, yeah, and if, if this person is really interested that the company exists in, yes, the person will act. That's important because of our agenda. We all have different agendas and.
+
+
+Candace Gillhooley   41:51
+Absolutely. Keep going.
+
+
+Olga Mamlyga   42:07
+Important to find the person that is conscious about the risk, or at least ready to do something against. That's important.
+
+
+Candace Gillhooley   42:19
+What's the gap between awareness and action when it comes to quantum resilience?
+
+
+Olga Mamlyga   42:28
+Or I would say sometimes it feels there is too much awareness and not enough action to be honest. Because I mean, I keep talking about it and to be honest, it's getting boring because we if you are working.
+And you have to do you at CSO, your CTO, you are, you know about how dangerous it is now that the hacks are happening just like this. And you never know if tomorrow is the day when they hack your company, right?
+So we we know already about it. The action is the next logical step. So awareness is, I don't know, is yesterday. Today is the day when we have to act.
+And it's even if we leave the word quantum, because some start being a bit nervous about the word quantum. Let's leave it aside. The hacks that are happening now are already giving you so much motivation to act that I don't know we don't need already.
+Yeah, and that's why sometimes it's it's it's getting a bit frustrating to hear about the talks of awareness, because we all know already it's there. We have to act. We have to do something for our systems.
+But I mean.
+That's it.
+
+
+Candace Gillhooley   44:08
+So I think I've already answered my next question. I'll say, are we moving fast enough or are we just talking about moving fast?
+
+
+Olga Mamlyga   44:14
+Yeah, I have the feeling we are talking too much. We should do more. And I understand, I understand from the point of view of business, it's a big investment. And I from what I heard, cybersecurity teams already moving closer to the decision makers of the.
+The company, but it's not enough. Decision makers of the company have to be conscious about the risk and they must understand they have to invest. You can't.
+Believe that just with a few pennies you can solve such an issue. It's a very big issue and some systems are outdated and really there are big, big problems and of course it requires investment. You just can't do it differently. So action is the next step.
+We talked enough. Let's actually do something.
+
+
+Candace Gillhooley   45:15
+So take a moment and let's zoom out. What does the quantum ecosystem feel like to you right now? Does it feel it's early, it's fragmented, it's accelerating? What are your thoughts on that?
+
+
+Olga Mamlyga   45:32
+I have been in Paris. It was Quantum Security Defence World Symposium, if I'm not mistaken, and lots and lots of companies presented their solutions.
+Also, they are quantum activities and there are lots of things that are being done. There are lots of solutions, but I have the feeling we are missing the face when we are actually implementing them.
+And you can see some on some more, some less are fit for the industry and I would say we need more work with actually implementing them with.
+Bringing those solutions into the industry, into the companies, into the real world applications and there we need more, maybe cooperation. I don't know that the governments gives more supports to those companies and we don't need more grants, we need.
+Partnerships. This what is missing, I believe grants. OK, grants don't make you actually implement in real world the solution. So if the government takes it into their hands, but in the way that there is a platform, for example.
+To find a partner for implementing, it has can be the partner from the industry who is interested in the solution but can't find it there where we need help. We have so many amazing companies, I mean.
+Quantum ecosystem is so big. Almost every day I get to know new companies, new platforms. I mean, it's amazing, but we need more partnerships. This where we are lacking, I believe, because this we live in this bubble.
+Sometimes you want just to go out and say let's build partnerships with other ecosystems and that would be really that would bring us so much forward.
+
+
+Candace Gillhooley   47:49
+You know, to that end, I I'm, I'm going to be announcing it shortly, but I've just created a quantum start-up landscape of the top 100 start-ups out there in the quantum landscape to see what are they doing? Are they hardware? Are they software? You know, where do they fall in the?
+In the whole ecosystem to kind of look at all this information and kind of surgically slice through it to say, OK, where is the innovation happening? You know, what is percentage hardware versus software? It's just very, very exciting stuff when you kind of look at. It's a very, very vibrant landscape. I'm really.
+Excited to share all that. I think you'll like it. So what do you see? Where do you see the real bottleneck? Is it in hardware? Is in infrastructure? Is it talent or is it something less visible?
+
+
+Olga Mamlyga   48:46
+I would say in partnerships we have, yeah, it's about the connections with industry. The industry is so often reluctant and to adopt those solutions and I will say we have enough of people who could do it.
+
+
+Candace Gillhooley   48:49
+Partnerships, OK.
+
+
+Olga Mamlyga   49:06
+This is what I am telling. Some people agree, some not, but I believe there is a lot of talent out there and maybe sometimes they need just a bit of upskilling. But there are so many amazing talented people. They're just sitting and sometimes they even don't know they could work in quantum. That's the saddest part.
+But the talent is there. We have amazing companies in hardware, in software, but exactly those partnerships are missing where the industry says, OK, let's go and do it together and.
+There, where I see we need to work more.
+
+
+Candace Gillhooley   49:48
+How? How would how do you think policy and regulation shape the future of quantum more than people might realize?
+
+
+Olga Mamlyga   49:56
+Yes, that's a very good question. I have noticed the regulation is now driver of innovation because for example PQC migration. So regulations say you have to do it till 2030 and from our PM.
+PQC can be just one part of the solution because it can't secure the entire system, just one tiny part. But thanks to this regulation that PQC has to be implemented, the companies start consciously thinking about their cyber security of the entire IT infrastructure.
+So the regulations are actually forcing them to invest into their cybersecurity, the same as Dora regulations. So for me it's amazing. I got to know now a few lawyers, they're working in the field of innovation and even there.
+They're pushing very hard, saying you know about quantum threat, it's official and you are liable if you don't do anything against it. So it's amazing lawyers are pushing innovation forward.
+That's that's amazing. You see it that actually regulations are pushing innovations. Now for us, for business, of course, it's very good. It's amazing.
+
+
+Candace Gillhooley   51:13
+OK.
+
+
+Olga Mamlyga   51:29
+And also for the innovation, it's actually such a good thing and you wouldn't believe it, that regulations are doing exactly good thing. So we hope that because of them, so many companies.
+Can improve their cyber security level and can actually start working on their cyber security level.
+
+
+Candace Gillhooley   51:52
+If quantum succeeds, what quietly changes in our everyday lives that most people won't even notice at first?
+
+
+Olga Mamlyga   52:04
+I guess it's very difficult to say because quantum technologies can be used only like in separate use cases. For example, life science. Maybe we will get new materials, maybe it will be possible. We believe it will be possible to.
+Crack codes and maybe then people want and want to see it on daily basis, but our cyber security will must be different and we will see it's.
+Very difficult to predict because we believe sometimes we even don't understand what it can bring. We took a look at, yeah, that's very interesting. We took a look also at quantum algorithms and it's very likely that they will also.
+Optimize a lot for wealth management, portfolio optimization, Monte Carlo. So a lot there will be done. We believe we see there there are lots of solutions where we got to know also quantum algorithms, the person who.
+The lot is on in that field. There is a lot going on, so we'll see, we'll see and.
+We hope that we, if we start now, we will protect our systems and we won't suffer as much as we think we can without this protection.
+
+
+Candace Gillhooley   53:45
+So I just have a just a few more and then and then and then you'll be done with me. So let me ask you, when things feel overwhelming, because this space can feel like a lot, what grounds you?
+
+
+Olga Mamlyga   53:57
+Yeah.
+I like walking.
+And I like also travelling. So when I'm travelling currently and I'm having some events, I try to find time to just walk and it's not as much fun as it was before, but it's helping to walk all this.
+Away because I'm getting very overwhelmed at times and I need something, you know, something that is not connected with brain activities. So it's working. And before when I had more time, I loved painting and I hope to start again.
+But currently I'm wearing too many hats as entrepreneur, so more time there, but walking is helping a lot and I also like reading. Unfortunately I'm reading mostly something for the education of myself, so I need to read something also not related to work.
+There I have to work on myself, but it's also important, like now there is a break, an Easter break to take consciously time and not to do anything.
+
+
+Candace Gillhooley   55:17
+Right, absolutely.
+
+
+Olga Mamlyga   55:19
+And that's, yeah, that's very challenging, I must say, but it's very necessary just to tell myself, Olga, enough, you have to relax and recover. Very tough, but.
+That's a reason to have a time off and so many. It's also very motivational. So many stop working during this time. So you see business is slowing down, people don't respond. Perfect. And you say yes, they motivate me to do the same.
+
+
+Candace Gillhooley   55:47
+Yeah.
+It's perfect.
+OK.
+So if someone is listening to this conversation a year from now, what do you hope lingers with them after everything else fades?
+
+
+Olga Mamlyga   56:05
+I would say keep grinding, keep learning and keep discovering new things and beware of quantum of its destructiveness and I hope we will do our best.
+That quantum has as little impact, negative impact on us as possible, and that's important to see quantum not only so rosy, but to be more realistic about quantum technologies and what they can bring and.
+We have to be open-minded and keep learning. It doesn't matter we have PhD or we don't have PhD in quantum, just to be open-minded and to see how much is developing in this field, outside of the field and how interconnected it is.
+Because quantum is connected with so many other fields, I wouldn't believe even.
+
+
+Candace Gillhooley   57:07
+I want to thank you so much for your time. If someone is interested in following up with you and wants to know more about what you're doing, where would you like us to send them?
+
+
+Olga Mamlyga   57:18
+First of all, thank you for having me. I had very interesting conversation because I couldn't reflect on myself and that's very important because when you keep working, you forget about reflecting on yourself and you needed to.
+Change sometimes your attitude to improve yourself. That's very important. And if somebody wants to contact me, they can find me on LinkedIn. I am replying to all the messages happening. They can find me also. Yeah, that's, I would say, the fastest way to contact me.
+
+
+Candace Gillhooley   57:56
+Wonderful. Thank you so much again, Olga. I really enjoyed our conversation. I really enjoyed it. I'm going to let the music take us out.
+Thank you. That was great. I really, really enjoyed it. Thank you so very much.
+
+
+Olga Mamlyga   58:08
+Thank you.
+Oh, thank you.
+
+
+Candace Gillhooley   58:14
+And I'll let you know we're we're releasing weekly, so probably in about four weeks or so this episode should come out. If you would like me to like coordinate it with anything that's specifically going on with you, then let me know that as well.
+
+
+Olga Mamlyga   58:29
+Yeah, you can write to me right when it's coming out. I will also post. Then I have something to post because LinkedIn is also kind of a job on its own.
+
+
+Candace Gillhooley   58:39
+This is true. It takes a lot of time. It's absolutely true. And also, I want to say, if there's someone that you know in your network that you think would really enjoy this opportunity and you're willing to, you know, introduce me to someone else, I would greatly appreciate that.
+
+
+Olga Mamlyga   58:43
+Mhm.
+Yes, I will send them. I I have a few people. I will ask them if they're interested and if they are interested I will tell you like this is fine.
+
+
+Candace Gillhooley   59:06
+Fantastic. I love it. Well, thank you and I wish you a great rest of your day.
+
+
+Olga Mamlyga   59:07
+Nothing.
+
+
+Candace Gillhooley   59:16
+Yes. Yes, we will. Thank you again.
+
+
+Candace Gillhooley stopped transcription

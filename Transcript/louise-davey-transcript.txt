@@ -1,0 +1,597 @@
+Louise Davey & Candace Gillhoolley (Women in Quantum Podcast) recording-20260416_113033-Meeting Recording
+
+April 16, 2026, 3:30PM
+
+52m 17s
+
+
+Candace Gillhooley started transcription
+
+
+Louise Davey   0:03
+Body microphone.
+
+
+Candace Gillhooley   0:05
+Okay, and while you do that, I want to ask you, okay, hold on. I have you here as quantum readiness advisor to boards and executives.
+
+
+Louise Davey   0:09
+Yeah.
+You can say that.
+
+
+Candace Gillhooley   0:21
+Okay, that's that's that's a good. Okay, okay, perfect.
+
+
+Louise Davey   0:24
+Yeah.
+
+
+Candace Gillhooley   0:25
+Okay.
+Okay, one moment.
+OK, and.
+Oh, I'm sorry. I need one more second. I didn't have something I needed. One second.
+
+
+Louise Davey   0:41
+Yeah, and I'll just make sure.
+Can you hear me properly? Great. Okay, you know what? I'm just going to do a quick bathroom break. I'll be right back.
+
+
+Candace Gillhooley   0:49
+I can hear you perfectly.
+That's fantastic. Go for it.
+M.
+
+
+Louise Davey   2:02
+Thanks for waiting.
+
+
+Candace Gillhooley   2:03
+Oh, no worries. Not at all.
+And when you're ready, I'm good to go.
+
+
+Louise Davey   2:09
+Yeah, let's go for it.
+
+
+Candace Gillhooley   2:11
+Okay.
+Welcome to Women in Quantum, the podcast that spotlights the brilliant, bold, and boundary-breaking women shaping the future of quantum science, technology, and policy. Each episode, we go beyond the titles and resumes to explore real journeys, real challenges,
+and real impact. From researchers and founders to policy makers and pioneers, these are the women driving one of the most important revolutions of our time. If you're curious about quantum, inspired by leadership, or passionate about inclusion in tech,
+you're in the right place. Let's get started.
+Today, we're speaking with Louise Davey. She is a Quantum Readiness Advisor to boards and executives. Hi, Louise, how are you today?
+
+
+Louise Davey   3:08
+Anderson, great. Thank you, thank you so much for including me on your show. That's quite a bold intro. I hope, I hope I...
+
+
+Candace Gillhooley   3:16
+I think it's really exciting. You absolutely fit there. You absolutely do. I'm telling you that we've spoken already and I think it's so exciting what you do. I might say I'm a tad fangirling over it. The idea of the communication that you're capable of, I'm
+I'm really, really excited about this. So let's get started at the very beginning. So when you look back and you're a young girl in school, you know, what subjects really fascinated you?
+
+
+Louise Davey   3:51
+Oh, geez, great question. I mean, I liked everything. I really did like everything. Definitely I liked, I liked more than liked, I loved math. I mean, math was really, you know, like my favorite subject overall. I liked the certainty of it.
+you know, and I liked the fun and the elegance of algorithms and so on. But I was also really strong and actually directed in art at the time as well, in terms of visual arts and yeah.
+
+
+Candace Gillhooley   4:24
+Okay, so as you continued in school and you went on, you know, into university, what did you, what was your discipline?
+
+
+Louise Davey   4:34
+Yeah, so I had a pretty, you know, as we shared in our in our preliminary conversation, I have a very fragmented educational history, very non-conventional. You know, I actually ended up leaving school for a significant period in my early teens, and I didn't go back until I was 18, approximately.
+
+
+Candace Gillhooley   4:43
+Sorry.
+
+
+Louise Davey   4:58
+And I spent that time working and deciding that I really did want to go back to school. So yeah, so I, you know, initially I studied political science. I think that was the first topic I just picked up at at university. I really wasn't, I wasn't able to engage with it. You know, it really wasn't very satisfying as a subject matter.
+And I started to get really bored. And so I thought to myself, well, you know, what is the hardest thing I could do? That was literally the thought process. And I said, well, probably physics, right? So physics would be the hardest thing I could possibly do. Let me see if I can get entertainment value out of that.
+And, and that's how I, that's how I made the decision to go into physics.
+
+
+Candace Gillhooley   5:43
+I mean, but you have to be an incredibly capable individual to be able to, number one, leave school, #2, go back into school, which is incredibly difficult to do. And then to say, okay, I want to do the hardest thing there is. Was there...
+Was there any kind of familial support? Were you inspired by somebody you'd met? Was there a mentor that came along to you? Any of that happening?
+
+
+Louise Davey   6:14
+Yeah, well, again, fragmented, you know, my father was a physicist, so I did have that always in the back of my mind, but he had passed away when I was eight years old, so I didn't have that sort of sustained support, but I had that inspiration. And
+My mother, although she really wasn't able to handle me because I, you know, I was quite bold and courageous from an early age. But, you know, she never forced me to go back to school, but she always kept the door open. And she would always, you know, regularly, like every six months or so, she'd come to me with a new idea about how I could, you know, how I could get back
+back to school, some new, interesting program or something. And she was willing to throw, you know, all the money she could behind it if I would accept it. But I really had to evolve on my own. So really I was out of school between, yeah, between 13 and 18, about
+
+
+Candace Gillhooley   7:18
+Okay, so what was the, so you go back at 18 and you want to do something exciting and you're focused on physics. There's something specific within physics. Had quantum entered your purview yet? Or no, okay.
+
+
+Louise Davey   7:30
+No, no, no, not yet. And in order to, in order to be able to get into physics, obviously I had to do my math, all of my math courses. So that was the first step. When I was 18, I found a semester school that would allow me to do one math class.
+per semester, or I like to do an entire math class per semester. So, you know, in order to graduate, this was in Ontario at the time, I needed six, my six grade 13, I think they're called, grade 12, yeah, grade 12 and 13 math courses. And so I just kind of dove headfirst into that. I'd been out of school for a long time. It really wasn't easy. I was incredibly
+confused. I think I, you know, almost gave my teacher a nervous breakdown in terms of the questions. Like, you know, she was talking about the function of X and F of X, and I was like, what's F? Can we start there? What's F and X? Tell me about X. But
+
+
+Candace Gillhooley   8:30
+This.
+
+
+Louise Davey   8:35
+It was really kind of, and anyway, she, her name was Mrs. Love, and actually her and her husband, Mr. and Mrs. Love, were both math teachers at the school. She was incredibly patient with me. I probably drove her crazy. And it was maybe six weeks into the course where I was actually failing, like incredibly failing.
+the course. It was about six weeks into it, but a very persistent, about six weeks into it, like a little kind of click went off in my mind and I suddenly understood it and I understood everything she was saying and I really ended up acing the whole end of the course to the point where
+I actually had to retake the course, but they allowed me to retake the course, but also take all of the classes that came after it. And, you know, I ended up doing extraordinarily well throughout all of them. Like, you know, I always had the potential, but after being out of school for five years, it was just that kind of restart process.
+was, yeah, I had to get over that hump.
+
+
+Candace Gillhooley   9:41
+Yeah, absolutely. You know, it's interesting. I want to ask you about your confidence. So how do you navigate moments when you feel less confident?
+Especially when stakes are so high in what you what you do.
+
+
+Louise Davey   9:52
+So.
+Yeah, so I'll tell you what, I was born confident.
+I was born, and that doesn't mean I didn't mean I maintained it throughout my entire life, but I was born confident. I'm the youngest of seven kids. And, you know, I was kind of born into a hoard. And I had to fend for myself from a very early age, you know, like even at dinner time, you weren't always promised
+a plate of food unless you got there early. So, you know, I was used to fighting for stuff and I realized at an early age that I could dominate to some extent. And I realized from an early age that I could do the things that I wanted to do and nobody was going to push me around. So I had that and that
+carried me very far, I want to say, like through all of the exercises I told you about, like leaving school and living on my own at 13. And it took me quite far. And all the way through university, I carried that through. It was only later, actually, after I was married and I had my kids and, you know, I had a career and I had my job.
+
+
+Candace Gillhooley   10:52
+Mhm.
+
+
+Louise Davey   11:10
+That's actually, and I think it's kind of a fragile period, so I'm going to say like my early 30s. At that point, I realized, oh my God, I have so much to lose now, right? Like the whole lead up to that was all about, you know, gaining and growing and I had the confidence to drive forward. But yeah, it was once I actually had everything that I started to, you know, get a little bit concerned.
+And at that point, also, I had been promoted, you know, quite high, quite high up and, you know, into at that point, even early executive, an early executive position. And that's where I started to lose confidence a bit because, you know, it was also very stiff environment, these corporate environments that I was working in, a lot of people in finance and accounting.
+I was really like, like a totally different beast, right? They're not used to dealing with someone like me. So yeah, so I was challenged there. I was challenged, I'm going to say maybe for about 15 years or so, you know, a little bit less, a little bit more insecure, a little bit
+of anxiety through those years. But, you know, I just kept pushing at it. I just, I just never, I never backed down from a challenge. And, you know, slowly that confidence came back. And I really haven't questioned myself in in years.
+you know in years. It's really one of the beautiful things about growing older is to be able to really, you know, settle into that confidence.
+
+
+Candace Gillhooley   12:46
+So you mentioned that you'd become a mother. So once you had become a mother, did you view kind of what you had done in your teenage years to your mother in a different way?
+
+
+Louise Davey   13:05
+Um...
+Yeah, you know, that's a lifetime of, that's a lifetime of reflection, you know, and my mother today is 96 years old. And I really, I have the opportunity to be one of her, you know, one of her primary caregivers. And it's, you know, we have a really beautiful relationship. Yeah, I mean,
+
+
+Candace Gillhooley   13:17
+Okay.
+What's.
+Right, right.
+
+
+Louise Davey   13:29
+Yeah, well, I'll tell you what.
+
+
+Candace Gillhooley   13:31
+What kind of advice, is there a little advice you might, because honestly, like, I'm gonna say, like, I have a daughter, I have a daughter, she's 18, and, you know, she's 14, 15, 16, hard, hard, hard, hard, hard, hard. 18, much better.
+
+
+Louise Davey   13:33
+Sure.
+Yeah.
+Yeah, yeah, yeah.
+
+
+Candace Gillhooley   13:51
+Much better, just different, different, um, but yeah, so...
+
+
+Louise Davey   13:52
+Yeah, yeah, yeah.
+So, absolutely, yeah, yeah, yeah, yeah, so, so yeah, I know I do have an answer to your question. I think what I would what I consider the the art of parenting is, it's really it's the fine art of backing away, right? So, my, you know, my reaction
+to, you know, to my mother at the time was really one of rebellion, right? And, you know, really wanting to break with the family and...
+and be on my own and be independent. And with our own, our children, my husband and mine's children, what I always practiced was like figuring out where they were at and, you know, what they were going to push for next. And
+stepping back, you know, just constantly, just one step ahead of them in terms of, you know, what would be the constraints that would be put around them. And that flowed very well.
+
+
+Candace Gillhooley   15:03
+Okay, so now let me try to shift this into what you do now professionally and how have those skills, soft skills, if you will, although they were not easy to acquire. And that's outside, it's very funny when they call those soft.
+
+
+Louise Davey   15:08
+Yeah, yeah.
+Yeah.
+
+
+Candace Gillhooley   15:23
+But how have those, you know, helped you in the work that you do now?
+
+
+Louise Davey   15:30
+Sure. So I think number one, the best training to be a manager is to be a parent. Okay. That's like the best training you can get because here you are responsible for the development and outcome of an individual
+that you do not.
+holy control, right? And this is in both cases, like with your own kids and with your employees, right? They arrive to you in whatever state, you know, in whatever state they are born into or whatever state they arrive to you in. And you are responsible
+
+
+Candace Gillhooley   15:55
+Yeah.
+Mhm.
+
+
+Louise Davey   16:12
+for helping them reach their full potential. And, but it's not you who's doing it, it's them who is doing it. And it includes those faces, as we discussed already, right, of challenge and, you know, and uncertainty. And, you know, so they need at times encouragement, at times they need you to step back, you know, at times they need a little bit of advice and so on.
+So that's, I think that's the number one thing about, and I think what's also interesting is I actually never read a management book. So that was also one of the secrets to my management style. I remember coming home to my husband, I was in my late 20s.
+And the kids were already born and walking into the house and saying, okay, he owned a bookstore at the time. And I said, okay, listen, you got to give me some management books because I just got promoted to manager and I need to know how to manage. And the best management advice I ever got, he gave to me, which was,
+Don't read any books. He said, you don't need any books. He said, just be yourself, right? Just really just be yourself in how you deal with people and so on. And so that was the advice that I took. And I'm kind of glad I did. I've actually never
+
+
+Candace Gillhooley   17:17
+Okay.
+
+
+Louise Davey   17:34
+really enjoyed management books, either, you know, because since then, I've, you know, I've poked in every once in a while, tried to read a few pages, and I, I don't know, I just find it very pedantic, and yeah, I just find it's more...
+I just prefer the approach of just being really authentic and really being invested in the person who's in front of you and, you know, helping them, helping them go as far as they can. And if they can't, helping them exit gracefully, right, I think is another important skill.
+
+
+Candace Gillhooley   18:08
+So tell me, what does a quantum readiness advisor?
+DO.
+
+
+Louise Davey   18:16
+Yeah, so quantum computing, so it's related to quantum computing, and in that there's really two aspects to readiness. So this is enterprise level readiness for the new computational capabilities of quantum computers. So what does it take for an organization, and generally I work in large complex organizations,
+So what does it take for a large, complex organization like a, you know, like a bank or a multinational? What does it take for them to be able to understand and successfully adopt A new technology? And it's something that happens regularly, these new waves, right? We've gone through many periods over the last 20, 25 years. The latest one.
+being AI, where many organizations still struggle, right, to be able to successfully adopt it. So it's really, what I do is I understand, I understand the organization, I understand the complexity of the organization. I've been 35 years as a physicist, like locked inside of the corporate construct. So I, you know,
+I have this concept of, you know, the organizational dynamics, right? How this thing works. And I have this understanding of how to get things done in start a large organization. And it's not easy, as many people will tell you. So I have that understanding. And then what I do is I develop a really profound understanding of the technology itself. So whatever that may be,
+You know, I've gone through many phases, you know, big data, you know, AI, and now quantum, and you know, prior to that, mobility and the internet. I mean, I was there when the internet was born and helped companies adopt it. So I really understand that whole paradigm.
+So what does it mean in the case of quantum computing? It means so many different things, right? It has so many different dimensions and impacts. There is great potential, right, from a computational capability. There are many different industries that stand to benefit from
+the new computational capabilities, everything from medical science, drug research, material science, you know, the energy sector, and of course, finance among them. So you have to understand what it can do, but you also
+very, very importantly, you have to understand, well, what are the risks associated with this? And in the case of quantum computing, it's really, it's a double-edged sword because it brings all of these benefits, but it also brings some pretty scary risks with it. The greatest one being the risk to undermining the foundations of digital trust.
+by basically compromising modern day cryptography. So that's got that risk, but it also has many other types of risks. It has market risks, it has this notion of competition, competitive risk, and so on. So I understand all of those things. I understand this complicated machine.
+And I'm able to pair those things together. And I'm able to introduce the topic in a language and in a framework that resonates with senior executives and board members. And part of what that means is
+eliminating all of the technical jargon.
+
+
+Candace Gillhooley   21:52
+OK.
+
+
+Louise Davey   21:53
+right, like eliminating all the technical jargon and speaking to them about what this means in terms of business. And so, you know, what's at stake? What are the opportunities? What are the risks? What are the threats? What does the regulation say? What's the competition doing?
+
+
+Candace Gillhooley   22:01
+Okay.
+
+
+Louise Davey   22:13
+What capabilities do I need to develop internally? How do I set priorities? How much money should I spend on this? And so on.
+
+
+Candace Gillhooley   22:24
+So.
+Where are there organizations that are getting it right?
+That you come into contact with, and...
+
+
+Louise Davey   22:31
+Um...
+Yeah, so there's, I'm going to say it's, I'm going to say that the vast majority of organizations are not where they need to be. Okay, so that's, let's just like move 90% to the side. And they're not where they need to be because this is quite a complex topic.
+
+
+Candace Gillhooley   22:47
+Okay.
+
+
+Louise Davey   22:53
+There are not a lot of people who can really explain it well. There's a lot of people who understand the technology. There's a lot of people who understand the cryptography. But there's not that many people who can translate it and speak to them in the language that I've just laid out for you.
+
+
+Candace Gillhooley   23:10
+Mhm.
+
+
+Louise Davey   23:11
+So, okay, so among the few that are in it, they're really looking at it in two angles. One is to be able to capitalize on the new computational capabilities for strategic advantage. And then the other one is, you know, protecting their assets and protecting their organization by becoming
+post-quantum cryptographic ready for, you know, for the threats. So in terms of the strategic, and I'm quite excited about that. You know, there's these several companies, many, many companies are exploring this and they're working with early
+early noisy quantum computers to test different opportunities out. And then there's also, you know, primarily like the financial sector and the telecom sector and in critical infrastructure, they're also looking to do the PQC migration, the post quantum computers.
+topography migration. But I think we really need to accelerate. I think that, you know, because quantum computing is accelerating towards us, you know, we've seen in the last few years and months and weeks,
+really the target or the estimated target date for a fault tolerant, reasonably powerful quantum computer, potentially threatening cryptographic foundations, really advancing towards us very, very quickly to the point where many people
+Currently believe that one will one will emerge in the next five years.
+
+
+Candace Gillhooley   24:55
+Okay.
+What feels overhyped right now in this quantum sector?
+
+
+Louise Davey   25:06
+No.
+I don't think that, I don't think that the technology is overhyped. I think we're actually just sort of kind of understanding. It's extremely powerful technology, right? It is extremely powerful. So I think we're just really kind of.
+getting a handle on it. So I don't think it's overhyped. I definitely don't think that the post-quantum cryptography threat is overhyped. So I don't believe that there's hype there. Where there is probably a little bit of hype is...
+you know, in terms of some, maybe some marketing events taking place, in terms of some people realizing, wow, there's, you know, there's potential here and just sort of really quickly jumping into the field and, you know, trying to position themselves as suppliers and vendors and so on.
+
+
+Candace Gillhooley   25:53
+Yeah.
+
+
+Louise Davey   26:06
+So I think that's maybe that, just that layer there, but you know, we need that. We need, I don't want to discourage anybody from coming into the field. We need, you know, we need, we need an army.
+
+
+Candace Gillhooley   26:17
+Okay, so where do you see the strongest signals right now of real progress happening?
+
+
+Louise Davey   26:27
+Well, definitely in the quantum computing arena itself. So, you know, with many of the many of the software, the hardware development companies, you know, coming forward with increasingly strong and sometimes
+early results and benefits in terms of the development of their tools. I think also, you know, among the major vendors, continuously hitting their milestones, right, in terms of their development, so announcing their roadmaps and hitting their milestones. So yes, I feel very confident. And there's just
+
+
+Candace Gillhooley   27:01
+Mhm.
+
+
+Louise Davey   27:09
+so much money and so many brains that are, you know, invested in these problems. And, you know, within very mature companies like, you know, the IBMs and the Googles and AWS, but also startups. I mean, you know,
+We're both based in Canada, Candace, and as you know, Canada is really a leader in this area with the highest per capita number of quantum industries in the world right now. So there's really, there's a lot of, there's a lot of buzz and movement and excitement. And yeah, yeah.
+
+
+Candace Gillhooley   27:39
+Yeah.
+Absolutely. It's very exciting right now. Very exciting in Canada for this, absolutely for this. So are you noticing any patterns that people are not noticing yet that are happening in the innovation or in the progress or
+
+
+Louise Davey   27:52
+Yeah.
+
+
+Candace Gillhooley   28:09
+In the modalities.
+A NOT.
+
+
+Louise Davey   28:12
+Yeah, yeah. Okay, so, well, I think the first thing I'm, there's a couple things I'm noticing that are distinct about what's happening right now. First of all, there's a huge amount of knowledge sharing and collaboration taking place.
+Right. So this is really, you know, free flowing sharing. There's different people that I that I follow on LinkedIn and myself included. It's really all about just as soon as I figure something out, I publish it and they do the same. And so so this is different.
+Right? This is different. This is not, you know, playing your cards close to your chest and being really concerned about, you know, about sharing intellectual property. I mean, this is just this is just kind of general knowledge. I think that the quantum computing companies are being pretty
+
+
+Candace Gillhooley   29:02
+Mhm, mhm.
+
+
+Louise Davey   29:06
+Tied about their intellectual property, so that's one thing I see. The other thing I see is...
+huge amount of genuine, you know, curiosity and enthusiasm from individuals when you are able to explain to them what is coming from the, you know, from the benefits that quantum computing will bring. So there's like just kind of natural curiosity and
+and you know, this sort of pleasure in scientific discovery that takes place, that's different, you know, from, you know, analytics or AI. And it's just like, really, there's some kind of beauty in it. So I think that that is something else that differentiates this particular.
+you know, technological wave, say.
+
+
+Candace Gillhooley   29:58
+Ephraim quantum is a governance issue.
+
+
+Louise Davey   30:02
+Mhm.
+
+
+Candace Gillhooley   30:04
+But.
+
+
+Louise Davey   30:04
+Yeah, yeah. So let me pick up on that. I would say, and let me fully phrase that. I would say that at the stage we're at, at the phase that we are at with the development of the technology, the next barrier is governance.
+right? So, with the evolution of any innovative cycle, right, you go through, you go through various stages. So, with with quantum computing and post-quantum cryptography, we went through, we already gone through several cycles, like...
+the first cycle is just kind of like the raw theoretical aspects of it, right? Like, is this theoretically possible, right, to build a quantum computer? Is this theoretically possible to break modern day cryptography if such a computer were available, right? So that's the first phase, which is really the science. Let's, you know, the science and the mathematical research phase. That was the problem.
+problem initially, right? So that problem, you know, worked through and we've largely worked it through today. I don't think anybody would doubt either of those possibilities. Then the next problem becomes the engineering problem, right? So how do you actually build this computer?
+Right? And so initially, and that's still kind of, that problem starts before the other one is fully finished, right? Like, is this going to work? And how do you build this? And those two kind of go through. And then, yeah, this is going to work, but we still now have all of these design and development problems. Like, how do we scale this? This is the period that we're in right now with the quantum computers.
+right? We can build them. We know they will work. They have been tested on so many different, you know, pilot use cases and so on. The potential is there, but can it scale, right? Can we build these to the point where they'll have sufficient computational power to solve the very big problems? We can do these proof of concepts.
+with smaller, simpler problems, and these are working, but, but you know, can we engineer this? Can we actually, you know, scale up to, you know, 10, 10,000, 50,000, 100,000 qubits? Is that a football field that we're going to need for that? I mean, is it, you know,
+what are the physical limitations? So that was the next problem. And the next problem after that was standards, right? So the next problem, there's standards on twofold. So in terms of quantum computing, there's still no standard. There's, you know, depending how you count them, there's like between 6:00 and 8:00 competing.
+
+
+Candace Gillhooley   32:47
+Right.
+
+
+Louise Davey   32:54
+qubit architectures, right, for the compute architecture of the quantum computer that are all moving and each one has pros and cons and different engineering constraints and limitations. And then in terms of the, but yeah, so that's kind of working its way out. In terms of cryptography, there was a big standards question like, okay, well, if we have to eliminate
+
+
+Candace Gillhooley   32:55
+Mhm.
+
+
+Louise Davey   33:16
+these cryptographic algorithms, because we know quantum computers can solve them, what would the new ones be? And this is really important because we have to align on these globally to maintain our interoperability. So that has largely been resolved as well. That took about
+you know, eight years, right, of that. So we've had all of these problems. And then the next one is, well, how do we, for the post-quantum cryptography question, how do we migrate? And, you know, there are so many organizations that have published different roadmaps and so on. There's great alignment on what needs to happen. So we know what we need to do. We have the standards.
+Now we just need to get the organizations to agree to do it. Okay, so that's the big problem now, right? What would compel an organization to, you know, drop what it's doing now, like leave all of its AI problems and opportunities on the table and, you know, turn over to this
+beast of an initiative that, you know, is going to gobble millions of dollars and years of work and attention to resolve. And the big question comes up is like, well, whose problem is it? Right? Because if you want to solve this, you have to get this funded and you have to get this prioritized in the organization. So this is where I come in, right, with this complexity.
+of the organization and the opportunity and the risk, like how do we how do we get this thing off the ground? How do I get the how do I get the executive's attention, the board's attention? How do I get them to understand? How do I get them to decide? And how do I get them to set aside the other things that they would probably much rather want to do?
+So this is where governance comes in, right? So governance is the marriage of accountability and authority. So we have to make sure that we identify who is accountable for this decision and what are the repercussions of the way that they decide on this. If they decide yes or if they decide no, what are the repercussions that they will have to live with?
+So that's the accountability part of governance. And then the next one is the authority, right? Because it also has to sit at a level where that individual or that committee can then approve, as I mentioned, this multi-million dollar, multi-year initiative.
+at the cost of other things that they may want to do. Right. So that's the governance, that's the governance problem. And it's really a question of kind of like, within these large organizations, every sort of dodging it. Right. Or, or they're just pointing it, they're just trying to keep it down. They're, you know, they're trying to say the CISO, the Chief Security Information Security Officer is responsible for this.
+they'll get it done. And I mean, that's just a very poor answer because, you know, they don't have the capacity to get that done unless they have, you know, a huge amount of leadership support.
+
+
+Candace Gillhooley   36:19
+You know, it makes me think, how should organizations be thinking about the risk before, yeah, right? I mean, before this becomes fully operational, it's risk.
+
+
+Louise Davey   36:23
+Risk is key.
+Yeah.
+Yeah, yeah.
+Yeah, yeah. So the big question is from a governance perspective, who owns the risk? Right? That's the key question. Who owns the risk? And it's a particularly slippery.
+answer for digital trust because who owns digital trust, right, in the organization? It's not like a server or it's not like, you know, it's not like a business process. It's not something, it's not a single entity that can easily be attributed to one line of business or
+support function, it is ubiquitous, right? It is a concept. It's like, you know.
+The term I use is, it's digital trust infrastructure. It's infrastructure. You just take it for granted, right? You don't actually attribute ownership to it. You just assume it will always be there and it will just sort of magically take care of itself, right? So, yeah.
+That's the big question.
+
+
+Candace Gillhooley   37:35
+So what does responsible adoption look like in a field that's moving this quickly?
+
+
+Louise Davey   37:41
+Yeah, so responsible adoption is, so my opinion, and, you know, I share this with several other people, is that this is a board level responsibility because, you know, the board is responsible for it for a few reasons. First of all,
+you know, when it's a risk that no single function or entity owns in the organization, where it is really transversal like that, then it brings it really to the board level where it affects the core resilience of the organization, the viability of the organization, its ability to
+operate or become defunct, then it goes to the board. Where it has a risk of systemic nature, where if something happens to one of the ecosystem partners, it could take you down, right? So these are all attributes of the risk.
+that make it a board level risk. So companies that are doing this properly.
+are bringing it to the board. And that's not that easy, okay? Because you have to bring to the board in a certain way. It has to be, the information has to be packaged in a certain way. It has to be digestible. It has to be extremely well articulated. It has to be presented in the language of the board.
+right, that the board can actually make a decision on it. And that's the role that I have taken upon myself. Right. That's really the role. That's the gap that I saw. You know, I see a lot of smart people around me.
+every day working on different dimensions of the problem. But this one piece of the problem, which I think is really the catalyst to getting all of this off the ground, I didn't see that many people working on it in the time since. I've met many brilliant counterparts who are also working on this.
+But we are not many. We are not that many.
+
+
+Candace Gillhooley   39:50
+So how do you approach conversations where the stakes are high but the understanding is low?
+
+
+Louise Davey   39:57
+Yeah.
+So it's really all about...
+being very audience-centric, right? It's not about explaining this in the way that...
+I want to talk about it or not even in the way that I understand it. I really need to focus on who is my listener, who is my audience, where are they starting from.
+What do they think today? And where do I need to bring them? And then what I need to do is I need to build all of the storytelling that will lead them from, you know, point A, a very direct line to an extremely logical conclusion, which is exactly the answer that I want to get from them.
+Right, so, um, that's that's the way I do it. I basically my...
+My presentations to boards are basically like an algorithm.
+Okay, but it's half psychology, right? It's half psychology and it's half logic. So there's a lot of storytelling in this. You know, you have to explain to the board why this is coming to them, why this is their responsibility. You have to explain to them, you know, what this means.
+to the client, what this means to the organization, what it is about their role specifically that they are responsible for this decision, right? And what happens if they decide yes? What happens if they decide no? What happens if they do nothing? And there has to be very clear repercussions and they have to be willing to accept ownership.
+for an accountability for those.
+
+
+Candace Gillhooley   41:44
+Where do ethics show up in quantum in ways people don't necessarily expect?
+
+
+Louise Davey   41:55
+I mean, not in the same way that they show up in AI, okay? Because like, like AI is basically the amplification of human nature, right? And ethics is a really important facet of
+
+
+Candace Gillhooley   42:05
+Mhm.
+
+
+Louise Davey   42:12
+understanding and managing ourselves as humans. So as much as it's a huge question in that aspect, also quantum computers will most likely or certainly are indicating that they will be much more energy efficient.
+than, you know, current supercomputers. So there's also sort of advantages there. So in terms of ethics, I think that there's probably...
+two key pieces that would remain. One is...
+And it has to do with geopolitics. And so it would be, you know, one would be for the wealthy nations to, you know, all develop and be able to use this game-changing technology and leaving a large part of the planet out of it. So that would be part of it. And I think that the other part of it would be for
+you know, for rogue states or bad actors to use the cryptographic.
+analytic capabilities, which means basically the ability to crack the cryptography for nefarious means, right? To, you know, to collect intelligence or to conduct harm against other nations. Yeah. So I think those would probably be the two.
+
+
+Candace Gillhooley   43:29
+Okay.
+A large part of our audience is what we like to call quantum curious. So for someone who isn't technical, but feels drawn to the space, where do you suggest that they begin?
+
+
+Louise Davey   43:50
+Mhm.
+Well, I think it depends what angle they want to take it from. You know, if they, the first thing I say, the number one recommendation I would say is,
+Don't try and learn quantum physics.
+Right? Don't try and understand how a quantum computer works. Don't try. And I'll tell you why.
+Because you, you won't be able to, you won't be able to understand it because quantum physics and the principles upon which quantum computers operate are so...
+counterintuitive to us as humans. They have nothing to do in the, we just have no frame of reference to be, you know, people start talking about things like.
+superposition and, you know, superposition and, sorry, I've just gone blank.
+
+
+Candace Gillhooley   44:53
+Just coherence, like, uh, right.
+
+
+Louise Davey   44:55
+Yeah.
+Yeah, entangled, sorry, okay, let me start again. Yeah, yeah, so, so when people start talking about, you know, concepts like superposition and entanglement and teleportation, right, you just can't grasp it.
+
+
+Candace Gillhooley   45:00
+Entanglement, exactly right, you know.
+
+
+Louise Davey   45:16
+So, and I used to try and try and explain that stuff, and I would just see the audience just go blank. Okay, and the truth is, you don't need to know how a regular computer works either, right? Nobody is really sitting down and figuring out how a transistor works, and you know what are all of these gates, and unless you're an engineer or a software developer, you...
+I really just don't need that. Like, what can this computer do for me? So that would be the first thing I would do. I would say I would eliminate all of that. Just save yourself a lot of pain. Eliminate trying to learn any of that. Just start trying to figure out what will these computers do for you. Okay, so that's one thing. As you know, I did write a book.
+So I wrote a book called Quantum How.
+And the book Quantum How is for neophytes, is for people who have no technical background, no prior knowledge to the quantum computer, what it does. But it's very much written for business people. So I mean, if somebody was working in the corporate sector or wanted to understand this tool from a business perspective, I would say my book is probably a very good
+place to start. And as you know, Candace, it's available for free off my website. So there's that. And then, you know, beyond that, you know, the same tools that I used, I was on YouTube like 3, 4 hours a day, you know, just constantly watching, finding the...
+the channels that I liked, following, you know, following the ones that I could understand, and following the ones I couldn't understand until I could, you know, that was another route that I took. Oh, I do want to say, actually, I'm so sorry, I do want to say there is some great free online training. So actually, let me bring that in. IBM, for instance,
+
+
+Candace Gillhooley   46:57
+No, please.
+
+
+Louise Davey   47:05
+has great free online training programs and even certifications, like free certifications that you can do. So yeah, actually I would recommend that as well.
+
+
+Candace Gillhooley   47:16
+Okay. So what skills would you say would translate surprisingly well into quantum?
+
+
+Louise Davey   47:25
+Um...
+So there's different angles to it. On the one side, like the computational capabilities and, you know, quantum enabled modeling. So that's the same people who already do models and advanced data analytics. So for them.
+to, you know, just sort of to learn a few new rules, a couple of new principles about the models. I'm not saying it's going to be easy, but it is a transition that can be made for developers, you know, for computer programmers, not that there's an incredibly great future in that field either.
+But there's new languages to learn. So once again, for instance, you know, IBM, I don't want to plug it too much, but they just have this amazing educational program. So you can learn, you can learn from, and depending on the architectures and the products, they do use different languages. So
+You know, you can learn for one product or another, you can learn how to program. And then there's just going to be a huge amount of work in the cybersecurity area related to what is basically the largest technical migration of.
+our lifetime, which is going to be to move to post-quantum cryptography. Yeah.
+
+
+Candace Gillhooley   48:51
+What's one piece of advice you'd give your younger self at the start of your quantum journey?
+
+
+Louise Davey   49:00
+Um, well...
+I mean, to myself.
+I'm not sure, but the advice I give to, you know, the many young women that I interact with and, you know, the high potential is, it's really like, be yourself, right? Really be yourself. Say what you think. Like, actually, the turning point for me was,
+You know, the turning point for me is listen to your stomach, right? If you're in a meeting and somebody says something and it makes you uncomfortable or you disagree with it or...
+for whatever reason, like speak up, right? Ask a question, right? That's also very good advice. Like if you're unsure or you just, you know, need a way to speak, ask a question as opposed to making a statement is also good. But I think this idea of really listening to your stomach and speaking up, like.
+Which I do. I never let, if I'm in a room and somebody says something that I think is wrong or and wrong for many reasons, like I think it's intellectually wrong or if I think it's morally wrong or so on, like I don't let that pass. I
+I call it. And I'll do that even with people like...
+who technically my superiors, right? I don't hold back on that. I just have a principle. I just, if I hear something that's wrong, bad, mean, misleading, I'll call it.
+Yeah.
+
+
+Candace Gillhooley   50:44
+I really, I can't think of a better place to actually end this fantastic conversation. So if people want to know more, which they are going to want to know more, where would you like us? You'll give us additional links, but where can they find out more about you?
+
+
+Louise Davey   51:02
+Yeah, well, you know, I'm growing my presence on LinkedIn, so I definitely welcome anyone to follow me on LinkedIn. It's, you know, the broader my reach, then the broader the impact I can have, and that's really what I'm looking for. There's also my website, which is
+LDIQ.ca, and that's where you know listeners can download a copy of my book if they want, but I post regularly. I post every, you know, two or three times a week, and as I share, you know, as soon as I have an idea, I put it out there.
+
+
+Candace Gillhooley   51:40
+It's fantastic. Well, I will be finally make sure that I'm checking in and following and then reposting. But again, thank you so much for your time today. I found this conversation to be incredibly valuable and I really appreciate it.
+
+
+Louise Davey   51:44
+Yeah.
+Oh.
+Thank you. Thank you so much, Candace. I appreciate it. And thanks to any listeners who have stuck through this far.
+
+
+Candace Gillhooley   52:02
+Absolutely. Thank you again, and I wish you a great rest of your day.
+
+
+Louise Davey   52:06
+Great. Bye.
+
+
+Candace Gillhooley   52:08
+Bye-bye.
+
+
+Candace Gillhooley stopped transcription

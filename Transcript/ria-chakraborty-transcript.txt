@@ -1,0 +1,487 @@
+Ria Chakraborty & Candace Gilhoolley (Women in Quantum Podcast) Recording-20260429_130456-Meeting Recording
+
+April 29, 2026, 5:04PM
+
+48m 25s
+
+
+Candace Gillhooley   0:06
+Okay, recording and transcription. Okie dokie. Perfect. All right. Okay, one moment. Check reporting. Okay.
+Okay, and are you are you ready?
+
+
+Ria Chakraborty   0:18
+Yep, whenever you are.
+
+
+Candace Gillhooley   0:19
+Excellent. Okay.
+Welcome to Women in Quantum, the podcast that spotlights the brilliant, bold, and boundary-breaking women, shaping the future of quantum science, technology, and policy. Each episode, we go beyond titles and resumes to explore real journeys, real challenges, and real impact.
+From researchers and founders to policy makers and pioneers, these are the women driving one of the most important revolutions of our time. If you're curious about quantum, inspired by leadership, or passionate about inclusion in tech, you're in the right place.
+
+
+Ria Chakraborty   0:48
+I.
+
+
+Candace Gillhooley   1:03
+Today, we are going to be speaking with Rhea Chakorty, and she is in quantum technology and policy. Hi, Rhea, how are you today?
+
+
+Ria Chakraborty   1:16
+Hi Candace, I'm good. Thank you for having me. How are you doing?
+
+
+Candace Gillhooley   1:19
+I'm really good. I'm really excited to talk to you today. So I'd like to start at the very beginning. So can you tell me where you were born and raised?
+
+
+Ria Chakraborty   1:28
+For sure. I was born in Toronto, Ontario, specifically the east end of the city in Scarborough. So I'm a very proud Scarberian, if I can call myself that. And I grew up in Toronto, went to school in the west end of the city, and then I moved further W to Waterloo for my undergrad. And I've been here ever since, and I'm continuing on with my master's.
+at the moment.
+
+
+Candace Gillhooley   1:54
+Okay, okay. So we're going to go back. So when you were in high school and then when you first went into university, what were you, what was your discipline? What were you focusing on?
+
+
+Ria Chakraborty   2:05
+Well, when I went to high school, I specifically went to a high school with a STEM focused program in the West End of Toronto. So I was very fortunate, I think, to grow up in a big city like Toronto where there were opportunities like so. And so I think I kind of narrowed in pretty quickly on STEM at the age of like 13 or
+or 14. And so it was pretty, I think I kind of knew I wanted to do something in STEM just because I liked solving problems and it seemed like the best fit for someone with an investigative nature, which I thought I had at the time and I still think I do. And I think that kind of put my options in STEM. And so
+I think in high school, I mainly just focused on exploring STEM opportunities, because that's what called me then. That's the type of questions I was asking about the world around me at the time.
+
+
+Candace Gillhooley   2:57
+So you're in a STEM school and when you look around the room, how would you say the divide between the genders?
+
+
+Ria Chakraborty   3:06
+I think in high school it was, at least in my cohort, because I think it was a pretty selective program. I think we had like 60 people from around, I don't know if it was a GTA or Toronto specifically. And I think the 60 people was somewhat diverse. I say somewhat because, you know, there's
+certain ethnicities that are probably more represented than others. But there was a pretty even mix of boys to girls. I don't think it was until I started going further along in high school, up until grade 11 and 12, where I really started noting
+the gender divide in certain courses. I remember walking into a grade 12 AP physics class when I was in, I think, the 9th or 10th grade just to ask the teacher something. And I walked in and I thought I walked into the wrong room. I thought it was actually the boys gym class because it was just a room full of men.
+
+
+Candace Gillhooley   4:03
+No.
+
+
+Ria Chakraborty   4:05
+And I was like, where are all the women? So I think that divide came later on with some of the courses where I started noticing there seems to be an unequal gender imbalance in some of these rooms.
+
+
+Candace Gillhooley   4:20
+I agree, I agree. And I think it's another reason why these conversations are so very important, I feel, to show other people and to show younger folks, you know,
+what types of personalities are in this field, right? Like you have the academics and then you have the industry and then you have the curious. You know, I've been in tech marketing, you know, my entire career and I don't know physics and I'm really not good at math.
+But I have a raging, raging curiosity that makes me want to know more and more. And so, you know, the fact that we're about to face like the next kind of industrial revolution in our time, I think is fascinating and fantastic. And
+
+
+Ria Chakraborty   5:13
+I agree. Yeah.
+
+
+Candace Gillhooley   5:15
+Like, I just want to know some more. So are you, do you, are you involved in any kind of policy work?
+
+
+Ria Chakraborty   5:22
+Yeah.
+Yes, actually, I kind of shifted my gears post undergrad. I think when I was in undergrad, I was very fortunate to take advantage of Waterloo's co-op program. So I got to do internships. I kind of got to leave Ontario, which was really nice, kind of like a lifelong dream of mine.
+as it is for I think most people at the age of 18. And I think it wasn't until I took a little break from quantum and did a co-op in particle physics in Vancouver in Canada's particle accelerator at Triumph, where I started asking these questions of what does their research mean for
+other people. What does it mean for someone who doesn't have a scientific background, like for example, my parents or my great-grandmother, who was very lucky to have raised me, but I can't necessarily speak to them about my science because, A, I didn't know how to communicate it, and B, why should they care? And that's kind of when I started thinking more about the implications of
+the science and the research that I was doing. And also I kind of started learning more about quantum as a technology and realized like, wow, this is a technology that can really make our life easier, but there's also so many ways that it can maybe go wrong if it's in the wrong hands. And I didn't feel like there was enough discussion about what could happen if it went wrong and what measures are we putting in place to do so.
+And so I was lucky to do a policy co-op first in finance, which kind of introduced me to the fact that there are people looking at the risks of quantum and the risks of AI, as well as the benefits of it. And I later joined ISED in Innovation, Science, Economic Development Canada,
+which was the body, the governing body for Canada's National Quantum Strategy. And I was fortunate enough to be there at the time that they were releasing the strategy. I actually loved it so much, I was there for a year. And that's where I kind of got to see firsthand about the behind the scenes of, I guess, policy, that from position of an intern.
+And I got to talk to different people in the organization and kind of understand what their role is. And that was kind of my introduction to policy. And then there was many hurdles passed then, which, you know, I can get into. But I think I'll leave it at that for now as to
+The many, I think, opportunities that I felt I could maybe pursue, this one just felt the one that I felt like I needed to work on. I just had too many questions to not dive in.
+
+
+Candace Gillhooley   8:02
+Well, I think to move from the physics to the policy and to be pulled across that boundary, I think is really, really interesting. Really is. Were there any kind of early influences that made that path feel possible for you?
+
+
+Ria Chakraborty   8:03
+Oh.
+Okay.
+I think my, so I think my father always fostered a sense of curiosity within me. I think I was just always that kid that would ask a billion questions and would get everyone around me very annoyed because I'd ask very stupid questions as a lot of kids do.
+I don't think they're stupid. It's just it can it can be a lot sometimes to be around a yapping toddler.
+
+
+Candace Gillhooley   8:43
+Or not.
+Of course. Of course it is, right? Why is the sky blue? Why does the dog bark? You know, the fleece. Exactly, right.
+
+
+Ria Chakraborty   8:51
+Exactly, exactly. But my dad really fostered that curiosity, I think. And anytime I was curious about something, I think he took that for a sleep to be like, okay, let's see what you can do about this. I remember as a kid, I think I was like two or three years old, and I'd see my dad clicking away at the computer, and I was so curious what this thing was.
+So I'd just sit down and I'd kind of just tap on my own. And one day my dad saw that and he's like, let me teach you how to use a computer. And he continued to do that throughout my life. And if he couldn't teach me, he found people who could. And I think that wasn't just from STEM. I think STEM, there was also kind of a push, I think, at an institutional level for more people to pursue STEM.
+where I think I was exposed to that because I don't come from a STEM background in terms of my family at all. My dad has friends who work in STEM and that was kind of a bit of an introduction to me as well. But I think from the policy front, my dad always had discussions at the dinner table about what's going on around the world.
+Even at school, I think there was always, I think from a young age, a focus of what's going on internationally, looking at the world from a perspective that's just beyond your own. And I think I carried that with me throughout undergrad. And I also found mentors in undergrad who shared very similar philosophies and
+they kind of, they also helped me along the way to nurture that. So I was lucky to now find this balance that I'm currently in where I'm still able to do the science, being in a quantum information science graduate program, but I'm still able to focus on the policy and some of the very pressing societal legal questions. And I honestly, I credit that to the people who came before me.
+I think if it weren't for, you know, my parents or my teachers in elementary school, my teachers in my, I remember my, the one social science class I took in high school, Mr. Felipe, the teacher for that, as well as my guidance counselor, who kind of always, I think they saw that I was curious about
+the social side of the world as well. And they also made sure to nurture that and kind of remind me to not let that side of me go. And I think that stayed with me. I think I think that's I kind of found found my way back to myself around this time in grad school and that part of me.
+
+
+Candace Gillhooley   11:14
+OK, that's fantastic.
+
+
+Ria Chakraborty   11:16
+Yeah.
+
+
+Candace Gillhooley   11:17
+That's fantastic. So how does someone like you navigate moments when you feel less confident?
+especially when you know the stakes are so high with what you're working on with policy and quantum.
+
+
+Ria Chakraborty   11:33
+Honestly, there are so many moments, I think, as a grad student where you're like, I'm so stupid, this isn't working, what's wrong with me? But it's really not you. It's really not you. And I think it's a part of the learning process. And I think it takes time. And the more you do it, the more you kind of get used to the uncomfortableness of not knowing.
+
+
+Candace Gillhooley   11:43
+Shh.
+
+
+Ria Chakraborty   11:52
+and the more you're able to sit with it, and it kind of gets exciting. At least that's what I'm noticing now. But I think the biggest thing that I think really helps me in times of self-doubt is the community around me. I was really, really fortunate to foster a strong community of women in STEM, women in physics,
+not just women, even some of my male friends who are in the field who are just very supportive and we're all very honest about one another with each other about how difficult it is doing research and the ups and downs of the research journey. But we're also very transparent about our wins and we're there to celebrate each other during
+our wins and we're also there to pick each other up when we're not really winning. And, you know, I really do credit, I don't think I'd be able to get through my undergrad if it wasn't for the wonderful group of women that I met in undergrad who really got me through. And honestly, even now, I was actually going through a burst of pretty low confidence these past few weeks because just
+just hitting roadblocks in my research. And I had lunch with a friend over the weekend who's also in a similar program as me and working on very similar things and hearing the obstacles that she's facing and how she's coming over them. It really inspired me and encouraged me and made me feel like I'm not alone. And honestly, like,
+Platforms like this, like your platform, knowing that there's countless other people who are going through it and have gone through it. And it's very reassuring because just because I have one setback or one moment where something isn't working doesn't necessarily mean it's beyond and all. That doesn't mean that I don't have my days. I definitely have my days of self-doubt.
+And they're hard and they're terrible, but I think I'm learning to sit with them and kind of try and use them to my advantage. And maybe those are just days that my body and mind is telling me to go a bit slower. So I'm still learning. I'm still learning, but I think the people in the environment around me really, really do help me get through.
+Through.
+
+
+Candace Gillhooley   13:53
+I think it's so important to have the people around you to support and, you know, give you the perspective that you don't have when you're caught in your own bubble. And it's not your fault, you know, it's your bubble, right? And so I think that's really important. It reminds me of, I'm gonna let you know about the
+
+
+Ria Chakraborty   14:02
+Yeah.
+
+
+Candace Gillhooley   14:14
+I'm going to send you a link to a new book that I'm reading, which is all about understanding and regulating yourself and trying to keep yourself regulated in a world that is moving so quickly that sometimes you have a moment where you're like, am I keeping up? Can I keep up?
+
+
+Ria Chakraborty   14:29
+Ohh.
+
+
+Candace Gillhooley   14:34
+And how do I do that? And I think that's what also creates the doubt, which really isn't true because, you know, everyone talks about imposter syndrome and how everyone suffers from it. But the truth is, imposter syndrome is really just you making yourself feel bad about the person that you think you are.
+
+
+Ria Chakraborty   14:56
+Mhm.
+
+
+Candace Gillhooley   14:56
+It's not the person that you actually are.
+
+
+Ria Chakraborty   15:00
+Yeah.
+
+
+Candace Gillhooley   15:01
+And ever since I started thinking of it that way, I was like, hmm, isn't that kind of interesting? So I thought, now you mentioned challenges, you mentioned earlier. So I want to ask you, what challenges did you face early in your career that you didn't necessarily expect?
+
+
+Ria Chakraborty   15:23
+I think I think I'm still facing them. I still consider myself pretty early career. So I think I'm still facing them. I'll probably face many more along the way. But I think the biggest thing was kind of setting up the basis to do the work that I do now. I knew straight out of undergrad, I wanted to explore these questions that I was asking. I just had this itch.
+to want to know what's going on with this technology and how is it going to affect the social part of our world. We're currently investigating the physical part of this world, but what about once we integrate it into society, the after effects of that? I wanted to look at quantum as a socio-technical system, not just a technical system.
+And I was really, really lucky to, and when I was at, I said, you know, I got to take part in quite a few meetings and whatnot. And Professor Ray LaFlamme, he was the co-chair of the National Quantum Advisory Council.
+And I can't remember if it was a meeting for specifically ISAT or for a separate Waterloo meeting where we, I first met him formally and I later was taking his course at Waterloo that fall in my final year of undergrad. And I expressed to him my interest in wanting to do policy.
+And so he knew that this is something I was interested in and he knew I worked at ISED and he knew I was a math and physics student here at Waterloo. And I remember it was a few weeks before I was graduating and nothing had worked out. I tried to throw as many things to the wall and hoping that it would stick and nothing stuck.
+I think it was one of the lowest points because I was like, what will I do? How will I pay rent? As you know, a lot of early, early career folks are probably in the vote thinking. And I
+A friend of mine was working for Ray that summer and she told me, well, you know, he's doing some, like, he's also open to doing some quantum ethics or quantum policy work if you're interested in that kind of thing. And she wasn't interested in that. She wanted to do a bit more of the
+I think it was quantum thermodynamics work. And but she had been involved in the quantum ethics project through which, you know, we kind of got in to know Ray a bit more. And so I reached out to Ray and Ray had told me about a project he had in mind for a policy quantum
+research idea a few months ago and so I reached out saying, hey, this idea you told me about, what if I were to take a stab at it? And would you supervise me to try and understand this question and act like, you know, investigate this question that you're asking? And he said,
+Go ahead. The only thing is, I don't have a policy background. I'm not a social scientist. I don't think I could really help you much on that regard. And Ray introduced me to Professor Kim de Latt, who's also a sociology professor at the University of Waterloo. And, you know,
+it was under their direction that I set out to do my first project in quantum policy, for which we released a paper in October last year. But if it really weren't for Ray, you know, listening to this new undergrad who really did not know what she was doing and really just had this question that she really wanted to work on in this area that she was really curious about,
+If he hadn't opened that door for me, I don't know if I would have been able to harness the opportunities that came after. So I think that beginning part of getting the momentum to get started, that was definitely the hardest part. And I was really, really lucky to be in a community of very supportive.
+and encouraging mentors who didn't look at my question as, this isn't relevant to me because I'm a physicist and this doesn't matter. He saw it as, I'm a physicist. I know, but this technology, this does matter. It does matter what would happen to this technology once we integrate into society. These are important questions that we need to ask.
+So I think, and maybe most people would say this too, the beginning of trying to get to that point where you can actually start doing the interesting work, in my opinion. I think that was definitely challenging because also, you know, dealing with institutions and people and
+It's it, it was it was a lot, but it was definitely a learning process that I'm grateful I got to go through.
+
+
+Candace Gillhooley   20:06
+That's fantastic. I.
+I really, I enjoyed that answer a lot. I did. So let me...
+
+
+Ria Chakraborty   20:14
+I can keep going. I think there's countless challenges, but that's the first one that comes to mind.
+
+
+Candace Gillhooley   20:17
+No one, but it's fair, you know. So how do you stay motivated? What, what, what, what do you, how do you, you know, yes, you're, you got your collaboration around you, you have like the, you know, the community, but what personally keeps you motivated to get through those kind of setbacks?
+
+
+Ria Chakraborty   20:35
+I think, you know, it's the same things I said before, like my community and the, you know, my family, my friends, the community I keep around me. But I think one thing now that really keeps me motivated is remembering the words of my late professor, Ray LaFlamme. I think knowing that he had
+a vision for this. And this is something that really mattered and he cared deeply for to invest his time and honestly, even his research money to invest in a student like me. I think that tells me that this is someone who I really respect and who I really admired and I really look up to.
+And it reminds me that this is important work and someone has to do it. And if I won't do it, somebody else will. And I want to at least be in the room to make that, to be able to make decisions. And I want to have a say. I want to have a say on what my future will look like. I want to have a say
+on how this will impact other people. And I think that that keeps me motivated. If I want to have a say, I have to keep going. And, you know, I often think about where I come from and how far I've made it. And I think that's pretty encouraging. And so when it gets harder, I kind of say, well,
+Hopefully nothing I haven't dealt with before. Hopefully. And so that, I think that's a really big driver. But also at the end of the day, I think I'm just really curious. I just really want to know. And I think that's what keeps me going. I think.
+oftentimes when I can't, it probably just means I'm tired and my brain's overworked. But on a good day when, you know, I have enough sleep and I'm well fed and I've got an exercise and I have the energy, I don't think it's hard for me to think about these things because
+I'm just curious about it. I'm thinking about it at the most random times of the day when I should probably not, and maybe I should focus on the movie that I'm watching with my friends. But instead, I'm thinking, well, what about this paper that I read? And I don't know why that's the case. I just, I don't know why. But I just, I'm really curious about the questions that I'm asking. And I really want to get to the bottom of it. Or if I can't even get to the bottom of it, maybe I'll find out I can't.
+
+
+Candace Gillhooley   22:58
+So how do you translate something as abstract as quantum mechanics into something policy makers can act on?
+
+
+Ria Chakraborty   23:07
+I think this is something I'm still trying to understand and grasp myself. I think right now what I'm trying to grasp most is what are the parts that we're not thinking about or if we are thinking about we're not investing in as much. So right now how do we take quantum from being this research idea
+
+
+Candace Gillhooley   23:11
+Hey.
+
+
+Ria Chakraborty   23:26
+to this deployable technology in the real world, whether that's for secure communications in the Arctic or monitoring undersea data cables, potentially. I think trying, it's a very hard balance trying to understand both fields at an adequate enough
+level. And I think right now I'm in the stage of trying to understand it myself before I feel like I can communicate it. And so I think that's, I think, part of my research paper writing journey where right now I'm trying to understand the problem and seeing, okay, where are the cracks in the holes and
+What are the things that we're not looking at? And it's kind of exciting because you realize there's actually quite a bit that might be obvious that we're not looking at that we should probably invest in. And so I think that's a huge part of it. And also, I think it really helps to talk to people, especially talking to folks in industry.
+not just industry, but also academia and also policy and kind of seeing how these different, the different people in the different ecosystems think. It kind of puts me in the position of framing the problem dependent on which ecosystem I'm thinking about it from. So I think that also kind of adds to the complexity to a certain degree as well, but it also kind of makes it easier because then I know
+okay, maybe this is information that maybe the academics would care about, but maybe the policy makers wouldn't. Or maybe this is information that would be relevant for the policy makers, but probably not for the academics. And so kind of talking to the different groups and seeing what their priorities were, I think that's kind of where I got to understand it even more. Getting A first-hand look.
+at what the rooms are like. And I do credit a lot of that to, you know, when I worked at ISAT or, you know, KPMG or even OSFI, and I kind of saw how these different rooms interacted and worked. I think that kind of helped me frame my problem in seeing, okay, maybe this is more relevant to industry folks, or maybe this is more relevant to.
+to people in policy. I hope that answers your question.
+
+
+Candace Gillhooley   25:31
+Absolutely, absolutely. What's 1 misconception policymakers have about quantum that you wish you could rewrite?
+
+
+Ria Chakraborty   25:41
+You know, that's very funny because I think that's a question that I'm asking folks as well. I'm asking senior scientists the same questions. So I personally don't know if this is something that I can answer right now in my position because I'm not doing active research to advance.
+the quantum physics field. But, but yeah, I mean, I'm trying to figure out this question myself. And, and so I'm currently just trying to see what senior scientists.
+
+
+Candace Gillhooley   26:19
+Okay.
+
+
+Ria Chakraborty   26:19
+understanding of this field enough for them moving the dial. And so I think I'm still trying to gather information from them. And maybe when I've gathered enough, I can share that over to you. Yeah, for two.
+
+
+Candace Gillhooley   26:30
+Okay, we'll have you back.
+How early is too early to regulate a technology like this?
+
+
+Ria Chakraborty   26:42
+That is a great question. Because, you know, there's that often that balance of like, you don't want to over-regulate because you still want to encourage innovation and collaboration. But at the same time, these are high security technologies. They do have high risk. So you do want to, you do want to regulate it.
+So I think it also depends on what type of quantum technology we're talking about. Certain things I think would need earlier regulation or attention. And maybe regulation isn't even the right word. I think it's more so figuring out what we're going to do with the technologies. I think regulation can maybe have a connotation of limiting
+maybe limiting scientific progress or engineering progress. I don't think that's the case. I think regulation can also mean putting in measures in place and setting up the infrastructure to allow for more collaboration, more scientific and engineering progress. So again, I think it depends on which type of technology we're talking about and how mature
+the technology is or isn't and what their use cases are. So for example, in an area I work in with post quantum cryptography, we know this is something that we need to get on very early because we don't know when we'll have a quantum, a cryptographically relevant quantum computer, but when we do, it'll be too late to be thinking about implementing PQC systems then.
+So for something like PQC, we know, okay, maybe we have to start having these discussions now. And we see that with NIST standardizing the algorithms, and we see many other governing bodies talking about this. We have the CSC, the Canadian, sorry, the Canadian Cyber Security Center.
+They've, you know, they have a set of recommendations as well to get organizations moving the ball on this. So it really depends on the sector and the type of technology. And also who you're talking to, it might differ. And you know, this is 1 take on quantum. The people in AI might have a completely different take.
+on this whatsoever, then the people in blockchain might have an even more different take. So I think it's a case-by-case basis. I don't think there's a one-size-fits-all solution to this.
+
+
+Candace Gillhooley   28:55
+Okay, I can go with that.
+
+
+Ria Chakraborty   28:59
+Mhm.
+
+
+Candace Gillhooley   28:59
+Do you think governance is keeping up or do you always think it's trailing behind?
+
+
+Ria Chakraborty   29:06
+That's a very good question. I want to say a mix of both. I don't want to say it's trailing behind because I don't think it's trailing behind. I think there are people who are asking these questions. I think it's just, it's so early and we don't know. What I do think is
+I wish there was more infrastructure in place to explore these questions. I think right now, it's very focused on advancing the science and the engineering and getting the technology moving, which is totally right, and it's totally how we should be moving.
+But I think there is merit to also investing on the policy, legal, social implications of it. I think there is merit at looking at quantum as a socio-technical system that will impact society and investing in people, institutions, ecosystems that are exploring that.
+So I don't think that, I don't think that they're trailing behind. And I think actually the Canadian government's making some pretty good progress in, you know, investing in folks to do this type of research on the socio-technical side. I think there's more recognition for this now. Me being able to do the work that I do, I think is
+is an example of that. But that being said, I don't think it's enough. And I think I think at an institutional level, we can see more. We can see quantum institutions opening up collaborations with the social sciences. And I think that would be very interesting. And also, I think interdisciplinary collaboration is great. And I think fostering that
+which we're seeing in institutions more, I think that could only lead to benefits in my opinion.
+
+
+Candace Gillhooley   30:51
+Okay, so you have a little bit of experience in the quantum safe crypto currencies. Is that correct?
+
+
+Ria Chakraborty   31:02
+Yeah, very, very briefly, yeah, for the Bank of Canada.
+
+
+Candace Gillhooley   31:04
+Okay, so I know, so it's an exciting space. It's A newish space. What has surprised you the most about that space?
+
+
+Ria Chakraborty   31:17
+It's been a while since I've looked into that, to be honest. But I think at the time, what surprised me was, first of all, it was research to look at the Bank of Canada's potential future central bank digital currency, making sure that the central bank digital currency would be quantum safe.
+
+
+Candace Gillhooley   31:20
+Okay.
+
+
+Ria Chakraborty   31:38
+And I think for me, what was surprising was how forward looking that research was. Because I think at the time when I was doing that research, NIST hadn't even come out with its BQC standards. And so to be looking at quantum safe, just a quantum safe, but then B, take it a step further for quantum safe.
+
+
+Candace Gillhooley   31:43
+Mm.
+
+
+Ria Chakraborty   31:59
+cryptocurrencies. That's something that I hadn't even thought about. I hadn't thought about how, you know, a certain amount of Bitcoin might not be quantum safe. These are questions that I didn't ask at the time. So I think even that connection of connecting emerging technologies, that for me at the time was very new.
+I haven't kept up with the research since, to be honest, so I'm not entirely sure what it's like now. But I'm sure if I were to take another dive into it, I think there's so many more things that would be that would that would surprise me about the state of how it's going.
+
+
+Candace Gillhooley   32:36
+Do you think that we're underestimating the urgency of quantum threats, or are we overestimating them?
+
+
+Ria Chakraborty   32:44
+From my experience, I've noticed that it depends on the organization and it depends on who you're talking to. I think governments, you know, and I'm speaking from my experience of speaking to the public sector folks in, you know, the EU, UK, the US, Canada,
+I think we are noticing a rush in this and there is a sense of urgency and we're trying our best to meet that 2035 deadline. I think certain sectors such as, you know, if you're talking in industry, for example, depending on the industry, there probably isn't as much of an urgency.
+And that isn't anything to say about the industry or institution itself. It's more so to say about the priorities that one has to juggle. When, especially in, you know, certain sectors like healthcare, where cybersecurity is probably, to a certain degree, I don't know if underfunded is the right word, but you might
+might not have the same resources as you do as the cybersecurity systems in finance. You're already juggling so many priorities, just trying to keep up with the cybersecurity demands of today. You probably don't have the bandwidth of thinking 10 years ahead of time. But also, for example, in
+Canada, healthcare is a provincial thing. So this is something that we look at the province of Ontario for, and then there's a sector in the provinces of Ontario that's looking at this. And so from that regard, yes, there is urgency at the government level, at the institution level, in the right rooms and in the right crowds. They're definitely talking about this. I think it's just...
+I guess a trickle down effect to the industries like healthcare for example. Finance, we noticed that there is also a push to do this type of work to make sure your systems are quantum safe. But, you know, smaller, maybe smaller financial firms like credit unions and whatnot,
+they might not be aware. And it's organizations that are, you know, they might be smaller in capacity, but maybe they're dealing with super high security data. That's the ones that I think might need a bit more help. But it does seem, you know, the Canadian government, the Canadian Cyber Security Centre is putting out resources on their website. They have resources in place to guide folks.
+So that's definitely a positive, a positive sign.
+
+
+Candace Gillhooley   35:09
+So...
+I know just from my research that Canada is very involved in quantum computing. It's very exciting what's going on in Canada. But from your perspective, where do you think Canada has a quiet advantage in quantum?
+
+
+Ria Chakraborty   35:25
+Honestly, I think we just have an advantage in quantum in general, if I can say. And maybe that's a biased perspective of a Canadian. But I think of the world-class institutions that we have here, you know, and it's not just, I'm not just speaking as someone whose IQC has pretty much built my career. And I'm not just speaking about IQC, but even
+Quantum City in Alberta, right? Or the Quantum Institute, Institute Quantique in Sherbrooke in Quebec, right? So, and you know, we even have Quantum Algorithms Institute in BC. So, we have a range of these institutes in Canada that are focusing on this, but I think the advantage that I've noticed in Canada as well is we care about the social implications.
+of this technology. There is talk about, you know, if we were to deploy quantum systems in the north, in the Arctic, what are the implications for that for the communities that live in the north, for indigenous communities? These are questions that we're asking and that we care about. So I think, in my opinion, that's a huge plus, and I think that's a huge win.
+And on top of that, we have world-class talent because of the institutions that, you know, Canada's pushing out a significant amount of world-class talent. I'm not going to say that to statistic, because it's probably going to be wrong, but I think I read somewhere, you might have to fact check this, that most institutions around the world, you'll find someone who are working in quantum, you'll find
+someone is somehow connected to back to IQC or Waterloo, just because of the dynamic quantum ecosystem we have here. And you know, that's also on the research side. That's even if you're looking at the startups, if you're looking at the startups that are coming out of it, you know, we have some startups that are doing great and they're making great progress in pushing the dial.
+So, you know, I think in so many regards, we have an advantage that, you know, I'm losing track just talking about it now, how many that I've listed and how many I haven't, because I think this is a great place to do to do quantum. I think that that being said, though, I will I will say there are
+rooms for improvement that I've mentioned before. And yes, we focus on the social side of this technology as well, but I think we could do a better job at linking the social side with the technology development. I think we could see more institutional collaborations. I think we can see more.
+formal pathways for someone like me to do the work that I want to do, which I don't see too much of right now.
+
+
+Candace Gillhooley   38:02
+Okay, very interesting.
+Okay.
+What has it felt like to find your voice in a field that can still feel very structured and very defined?
+
+
+Ria Chakraborty   38:17
+Wow, that's a great question.
+I think I'm still finding my voice. I think the more I'm learning and the more I'm interacting with people and working with people, I'm learning more about myself and that's helping me find my voice. But I think also just keeping true to where I come from.
+knowing my roots and, and you know who I am. I think that really grounds me as to who I am. And I think that's a huge, a huge part of it.
+I don't know if there's a more specific, I don't know if you mean more specifically finding my voice as just a young woman who's entering the real world, or I guess has entered the real world, or as a budding scientist or researcher. And I think for in both cases, it's different.
+I think in a lot of ways, I think my science and my research has helped me find my voice as a woman who's entering the world and, you know, going out on her own and I think embracing my identity as who I am.
+
+
+Candace Gillhooley   39:32
+Okay.
+
+
+Ria Chakraborty   39:35
+I think science has really helped me with that. And it's really given me a lot of confidence. And in similar ways, I think my personal experiences have very much shaped who I am as a researcher and helped me find my voice in that. It's really helped me find, identify my values and what I
+prioritize. And so I think it's still something that I'm trying to figure out how to do. But I think the more I go out and just interact with the world, whether that's through my research or through work or just life experiences.
+I think any step I take that's out of my comfort zone is a step closer to helping me find my voice. And I think science has just been full of stepping out of my comfort zone. Research has been one step after another of stepping out of my comfort zone. And it's really pushed me in that regard. And so
+I've noticed my confidence grow in quite a few ways that if you talked to me 10 years ago, I'd be completely amazed that you know I am who I am today.
+
+
+Candace Gillhooley   40:47
+I think that I think that's fantastic. I think that's just lovely. I really do. What do you think women bring to the quantum spaces that often goes unspoken?
+
+
+Ria Chakraborty   41:04
+Play.
+I think...
+You know, I don't know how to answer this question objectively because I don't know what it would be like to be in the quantum space, A, not as a woman, and B, without the community of women that have, A, come before me or are coming along with me or come after me.
+So it's really hard for me to ask this question because I can't imagine what...
+these institutions would look like without the amazing women that have done so much of the work behind building them. And oftentimes, many of them go acknowledged. I remember in high school, during my computer science course, I learned about Ada Lovelace or Henrietta Lavette or Rosalind Franklin. And these are
+
+
+Candace Gillhooley   41:43
+And then?
+Mhm.
+
+
+Ria Chakraborty   41:58
+women that at their time weren't acknowledged for the work that they did, but science still stands on their shoulders. And so I don't think I can answer that question because I genuinely don't know what that world would look like. I mean, I know there once was a world where
+
+
+Candace Gillhooley   42:05
+Okay.
+
+
+Ria Chakraborty   42:18
+there wasn't a lot of space, there wasn't space for women, and women weren't allowed in the conversation. And, you know, even forget like women, people of color, women of color. And, you know, they might have contributed in certain ways. Like for example,
+Viva Chaudhary is an Indian scientist at a time when there weren't a lot of women, female scientists, and that to a person of color, a woman who's a scientist. And a lot of her work maybe isn't as known as Einstein or
+or both or whatnot or Faraday. But it's important work, right? So I don't know how to answer that question, to be honest. I think everything I said was a very long-winded way of me saying, I don't know, because I can't imagine such a world. I can't. I know it existed.
+I just don't know how I would get through one such world like that.
+
+
+Candace Gillhooley   43:22
+So if someone is listening and is feeling curious, but maybe a coach intimidated, what would you want them to hear from you?
+
+
+Ria Chakraborty   43:35
+I think if you have a part of you that's telling you this is something you want to explore or you have to explore, you have to dive in and do it. You have to dive in and do it until you've done it and you can answer for yourself whether you want to continue or not.
+Just because you started something doesn't mean you have to finish it through. You can start it and you can assess, how do I feel going into this? And you know, sometimes it might not even be the work, it might be the environment. You could maybe love the science and the research, or maybe it's not even, maybe you're doing the social sciences, maybe biological sciences, whatever it is.
+You could love it, but maybe the environment you're in isn't the right fit. So maybe it's even changing the environments. And maybe after doing that, you realize it's still not clicking. Then maybe you switch around and sometimes you could see yourself come back to it. You know, I didn't think I would pursue another degree in.
+math or physics or even at Waterloo, to be honest. And I took a little stint where I was focusing more on policy. And I saw that my quantum background actually strengthened my policy. So I've kind of come back to it, but I knew I needed to dive in and try it because there was something
+in me that was just, I had a gut feeling that this is a question that I just wanted to ask. I needed to answer it. And so I had to dive in and I had to try it. But I also gave my space, myself the space to acknowledge that if it doesn't work out, I can leave and I can try something else.
+But I think it's really important that whatever you do, you approach it with a sense of curiosity and interest, because that will keep you going. You know, there are times when you'll have the paper that's published and you'll get into this conference and all these wins. And after a while, it's, you kind of get, it becomes more normal and maybe it doesn't mean as much.
+And so I think in moments like that, it's the curiosity and the interest in the discipline that I think really drive you forward. And even then, sometimes you have days where you still feel stuck and low confidence and low motivation. And that's when I rely back on my community. And I look at all the amazing people around me who are doing
+just insane work and the struggles they had to face to get to where they are and they're still pushing through. And so it gives me hope, I think, to kind of look forward to see, okay, this is where I'm going, but also look back to see, look how far I came. I came pretty far from where I started.
+
+
+Candace Gillhooley   46:14
+Right? That's fantastic. So if people want to know more about what you're doing and to follow you, where would you suggest that we send them?
+
+
+Ria Chakraborty   46:25
+You can find my information on my website. So it's my first name, last name.com. Or you can find me on LinkedIn. You can just search me up. If it's a pretty common name and you can't find me, then maybe search Quantum after it or IQC or Waterloo. Hopefully that'll help the search results.
+But yeah, and I'm also open to, you know, having conversations with any young woman or young professional who's trying to figure out how to go about this very daunting journey of research, which can seem daunting. And yeah, my inbox is
+usually open and I try to be responsive. So yeah.
+
+
+Candace Gillhooley   47:09
+Thank you, Ria. I really enjoyed our conversation today. I hope you did too. And again, I love what you're doing and thank you for explaining it to us and bringing us into your world.
+
+
+Ria Chakraborty   47:12
+Yeah.
+Thank you, Candace. I really appreciate you making space for conversations like this. And, you know, it's podcasts like this that during undergrad when I was struggling and didn't know how I'm going to make it through this assignment for ODEs, where, you know, I was listening to podcasts like this and women who've come before me that
+that really helped me get through. So I can only imagine how many women and young professionals you must be helping, or even, you know, people who are well into their career who may be still, they self-doubt, I assume. I'm sure this is a very helpful resource for them as well. So thank you so much for creating space for conversations like this. I really appreciate it. Thank you for having me.
+
+
+Candace Gillhooley   48:01
+Thank you, thank you. Ohh, my pleasure, and I really, really appreciate the conversation. So, thank you so much, and I'm going to wish you a wonderful rest of your day.
+
+
+Ria Chakraborty   48:11
+Great, thank you.
+
+
+Candace Gillhooley   48:12
+Okay.
+
+
+Ria Chakraborty   48:13
+The.
+
+
+Candace Gillhooley   48:15
+So.
+
+
+Ria Chakraborty   48:18
+I.
+
+
+Candace Gillhooley stopped transcription
