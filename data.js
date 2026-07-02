@@ -265,7 +265,7 @@ window.womenInQuantumData = [
     clipPoster: "",
     clipLabel: "",
     clipExternalUrl: "",
-    transcriptUrl: "",
+    transcriptUrl: "Transcript/Marina Walt & Candace Gillhoolley Women in Quantum Podcast Recording (3).docx",
     infographicSrc: "",
     infographicAlt: "Infographic from Dr. Marina Walt's episode",
     infographicLabel: "",

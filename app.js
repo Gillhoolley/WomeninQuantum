@@ -39,7 +39,7 @@ const transcriptClusters = [
     summary: "Across the series, guests return to non-linear careers, stepping into quantum from adjacent disciplines, and learning in public rather than waiting for perfect credentials.",
     themeFamily: "career",
     themes: ["Career pivots", "Interdisciplinary paths", "Commercial translation"],
-    episodes: ["Anna Beata", "Sabine", "Sara", "Petra", "Jennifer", "Sahar Hejazi", "Noelle", "Bruna", "Harshitta"]
+    episodes: ["Anna Beata", "Sabine", "Sara", "Petra", "Jennifer", "Sierra", "Sahar Hejazi", "Noelle", "Bruna", "Harshitta", "Rachel", "Karuna", "Alicia"]
   },
   {
     id: "human-signals",
@@ -47,7 +47,7 @@ const transcriptClusters = [
     summary: "The conversations repeatedly center confidence, curiosity, leadership, and the practical challenge of sustaining ambition without losing the human part of the work.",
     themeFamily: "human",
     themes: ["Curiosity", "Confidence", "Leadership", "Community", "Mentorship"],
-    episodes: ["Anna Beata", "Devika", "Sabine", "Jennifer", "Sierra", "Sahar Hejazi", "Noelle", "Bruna", "Harshitta", "Sahar Ben Rached", "Olga"]
+    episodes: ["Anna Beata", "Devika", "Sabine", "Jennifer", "Sierra", "Sahar Hejazi", "Noelle", "Bruna", "Harshitta", "Rachel", "Sahar Ben Rached", "Olga", "Karuna", "Louise", "Ria", "Marina"]
   },
   {
     id: "technical-signals",
@@ -55,7 +55,7 @@ const transcriptClusters = [
     summary: "A second cluster connects applied themes such as networking, security, useful infrastructure, and making quantum approachable beyond pure research settings.",
     themeFamily: "technical",
     themes: ["Security by design", "Quantum networking", "Accessibility", "Applied infrastructure", "Real-world translation"],
-    episodes: ["Devika", "Marie-Eve", "Petra", "Sara", "Sahar Hejazi", "Noelle", "Bruna", "Harshitta", "Sahar Ben Rached", "Olga"]
+    episodes: ["Devika", "Marie-Eve", "Petra", "Sara", "Sahar Hejazi", "Noelle", "Bruna", "Harshitta", "Sahar Ben Rached", "Rachel", "Olga", "Louise", "Alicia", "Ria", "Marina"]
   }
 ];
 
@@ -123,26 +123,22 @@ const transcriptNodes = [
   {
     id: "episode-6",
     type: "episode",
-    guestId: "sierra-clouse",
-    guestName: "Sierra Clouse",
+    guestId: "petra-soderling",
+    guestName: "Petra Soderling",
     label: "Episode 6",
-    subtitle: "Taking chances and building through trust",
-    left: 70,
-    top: 74,
-    themes: ["confidence", "community", "career-pivots"],
-    detailSummary: "Sierra extends the community and confidence clusters, emphasizing opportunity, trust, and the importance of people willing to take a chance on emerging talent."
+    subtitle: "Breaking the PhD stereotype around quantum work",
+    themes: ["accessibility", "career-pivots", "applied-infrastructure"],
+    detailSummary: "Petra is a major bridge node for accessibility, showing that quantum work does not require a single academic path and can benefit from business fluency."
   },
   {
     id: "episode-7",
     type: "episode",
-    guestId: "petra-soderling",
-    guestName: "Petra Soderling",
+    guestId: "sierra-clouse",
+    guestName: "Sierra Clouse",
     label: "Episode 7",
-    subtitle: "Breaking the PhD stereotype around quantum work",
-    left: 60,
-    top: 84,
-    themes: ["accessibility", "career-pivots", "applied-infrastructure"],
-    detailSummary: "Petra is a major bridge node for accessibility, showing that quantum work does not require a single academic path and can benefit from business fluency."
+    subtitle: "Taking chances and building through trust",
+    themes: ["confidence", "community", "career-pivots"],
+    detailSummary: "Sierra extends the community and confidence clusters, emphasizing opportunity, trust, and the importance of people willing to take a chance on emerging talent."
   },
   {
     id: "episode-8",
@@ -227,6 +223,66 @@ const transcriptNodes = [
     top: 12,
     themes: ["security", "applied-infrastructure", "real-world-translation", "leadership"],
     detailSummary: "Olga brings urgency to the security cluster, emphasizing that quantum resilience must move beyond awareness into implementation, partnerships, and secure real-world systems."
+  },
+  {
+    id: "episode-14",
+    type: "episode",
+    guestId: "rachel-noek",
+    guestName: "Rachel Noek",
+    label: "Episode 14",
+    subtitle: "Leading quantum teams through ambiguity and usable products",
+    themes: ["leadership", "confidence", "applied-infrastructure", "real-world-translation"],
+    detailSummary: "Rachel connects leadership and confidence to the product-facing work of turning ambiguous science into usable systems, decisions, and team momentum."
+  },
+  {
+    id: "episode-16",
+    type: "episode",
+    guestId: "karuna-anna-sajeevan",
+    guestName: "Karuna Anna Sajeevan",
+    label: "Episode 16",
+    subtitle: "New pathways, learning signals, and community entry points",
+    themes: ["curiosity", "accessibility", "community", "career-pivots"],
+    detailSummary: "Karuna extends the early-career and access side of the map, linking curiosity, community support, and the practical signals that help more people find a path into quantum."
+  },
+  {
+    id: "episode-17",
+    type: "episode",
+    guestId: "louise-davey",
+    guestName: "Louise Davey",
+    label: "Episode 17",
+    subtitle: "Quantum readiness as governance, risk, and board priority",
+    themes: ["leadership", "security", "real-world-translation", "applied-infrastructure"],
+    detailSummary: "Louise brings the map into governance and risk, showing that quantum readiness is not only technical work but an accountability and business-priority conversation."
+  },
+  {
+    id: "episode-18",
+    type: "episode",
+    guestId: "alicia-welden",
+    guestName: "Alicia Welden",
+    label: "Episode 18",
+    subtitle: "Quantum chemistry, partnerships, and applied progress",
+    themes: ["real-world-translation", "applied-infrastructure", "career-pivots", "community"],
+    detailSummary: "Alicia bridges research, partnerships, and implementation, emphasizing that excitement only becomes progress when it is translated through hard work and practical collaboration."
+  },
+  {
+    id: "episode-19",
+    type: "episode",
+    guestId: "ria-chakraborty",
+    guestName: "Ria Chakraborty",
+    label: "Episode 19",
+    subtitle: "Quantum as a socio-technical system",
+    themes: ["leadership", "community", "security", "real-world-translation"],
+    detailSummary: "Ria expands the web toward policy and societal impact, connecting quantum science to security, governance, community context, and the consequences of technical choices."
+  },
+  {
+    id: "episode-20",
+    type: "episode",
+    guestId: "marina-walt",
+    guestName: "Dr. Marina Walt",
+    label: "Episode 20",
+    subtitle: "Practical use cases, benchmarking, and quantum advantage",
+    themes: ["applied-infrastructure", "real-world-translation", "leadership", "confidence"],
+    detailSummary: "Marina concentrates the applied edge of the map around identifying practical quantum use cases, translating them clearly, and benchmarking where meaningful advantage can emerge."
   }
 ];
 
@@ -332,6 +388,30 @@ const themeNodes = [
   }
 ];
 
+function episodeNumber(node) {
+  const match = node.label.match(/\d+/);
+  return match ? Number(match[0]) : 999;
+}
+
+function positionEpisodeNodes(nodes, containerWidth = 0) {
+  const orderedNodes = [...nodes].sort((a, b) => episodeNumber(a) - episodeNumber(b));
+  const centerX = 50;
+  const centerY = 50;
+  const isCompact = containerWidth > 0 && containerWidth < 680;
+  const radiusX = isCompact ? 31 : 40;
+  const radiusY = isCompact ? 45 : 42;
+
+  return orderedNodes.map((node, index) => {
+    const angle = (-90 + (360 / orderedNodes.length) * index) * (Math.PI / 180);
+
+    return {
+      ...node,
+      left: centerX + Math.cos(angle) * radiusX,
+      top: centerY + Math.sin(angle) * radiusY
+    };
+  });
+}
+
 const transcriptEdges = transcriptNodes.flatMap((episodeNode) =>
   episodeNode.themes.map((themeId) => ({
     from: episodeNode.id,
@@ -436,7 +516,8 @@ function renderTranscriptMap() {
     return;
   }
 
-  const nodes = [...themeNodes, ...transcriptNodes];
+  const positionedEpisodeNodes = positionEpisodeNodes(transcriptNodes, themeMap.clientWidth);
+  const nodes = [...themeNodes, ...positionedEpisodeNodes];
   const nodeById = new Map(nodes.map((node) => [node.id, node]));
 
   themeMap.innerHTML = `
@@ -445,13 +526,15 @@ function renderTranscriptMap() {
         .map((edge, index) => {
           const fromNode = nodeById.get(edge.from);
           const toNode = nodeById.get(edge.to);
+          const familyClass = toNode?.family ? `theme-map-line--${toNode.family}` : "";
 
           return `
             <line
-              class="theme-map-line"
+              class="theme-map-line ${familyClass}"
               data-edge-index="${index}"
               data-from="${edge.from}"
               data-to="${edge.to}"
+              ${toNode?.family ? `data-family="${toNode.family}"` : ""}
               x1="${fromNode.left}%"
               y1="${fromNode.top}%"
               x2="${toNode.left}%"
@@ -468,6 +551,9 @@ function renderTranscriptMap() {
         const eyebrow = isTheme ? node.family : node.label;
         const title = isTheme ? node.label : node.guestName;
         const meta = isTheme ? node.subtitle : node.subtitle;
+        const episodeLabel = isTheme ? "" : `E${episodeNumber(node)}`;
+        const guest = isTheme ? null : guests.find((guestRecord) => guestRecord.id === node.guestId);
+        const guestImage = guest?.imageSrc || "";
 
         return `
           <button
@@ -478,9 +564,26 @@ function renderTranscriptMap() {
             style="left:${node.left}%; top:${node.top}%"
             aria-label="Open ${title}"
           >
-            <p class="theme-map-node__eyebrow">${eyebrow}</p>
-            <h4 class="theme-map-node__title">${title}</h4>
-            <p class="theme-map-node__meta">${meta}</p>
+            ${
+              isTheme
+                ? `
+                  <span class="theme-node__marker" aria-hidden="true"></span>
+                  <span class="theme-map-node__eyebrow">${eyebrow}</span>
+                  <h4 class="theme-map-node__title">${title}</h4>
+                  <p class="theme-map-node__meta">${meta}</p>
+                `
+                : `
+                  <span class="episode-node__photo">
+                    ${
+                      guestImage
+                        ? `<img src="${guestImage}" alt="" loading="lazy">`
+                        : `<span>${title.split(" ").map((part) => part[0]).join("").slice(0, 2)}</span>`
+                    }
+                  </span>
+                  <span class="episode-node__number">${episodeLabel}</span>
+                  <span class="episode-node__name">${title}</span>
+                `
+            }
           </button>
         `;
       })
@@ -511,6 +614,7 @@ function renderTranscriptMap() {
     nodeButtons.forEach((button) => {
       const isConnected = connectedNodeIds.has(button.dataset.nodeId);
       button.classList.toggle("is-active", button.dataset.nodeId === nodeId);
+      button.classList.toggle("is-connected", isConnected && button.dataset.nodeId !== nodeId);
       button.classList.toggle("is-dimmed", !isConnected);
     });
 
@@ -521,7 +625,7 @@ function renderTranscriptMap() {
     });
 
     if (selectedNode.type === "theme") {
-      const relatedEpisodes = transcriptNodes.filter((episodeNode) =>
+      const relatedEpisodes = positionedEpisodeNodes.filter((episodeNode) =>
         episodeNode.themes.includes(selectedNode.id)
       );
       const siblingThemes = [...new Set(
@@ -543,7 +647,7 @@ function renderTranscriptMap() {
     const relatedThemes = selectedNode.themes
       .map((themeId) => themeNodes.find((themeNode) => themeNode.id === themeId)?.label)
       .filter(Boolean);
-    const relatedEpisodes = transcriptNodes
+    const relatedEpisodes = positionedEpisodeNodes
       .filter(
         (episodeNode) =>
           episodeNode.id !== selectedNode.id &&
@@ -577,7 +681,6 @@ function renderTranscriptMap() {
     });
   });
 
-  highlightNode("leadership");
 }
 
 function detailRole(guest) {
