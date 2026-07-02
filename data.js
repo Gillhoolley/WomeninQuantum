@@ -220,9 +220,9 @@ window.womenInQuantumData = [
     clipLabel: "",
     clipExternalUrl: "",
     transcriptUrl: "Transcript/karuna-anna-sajeevan-transcript.txt",
-    infographicSrc: "",
+    infographicSrc: "Infograhics/KarunaAnna.png",
     infographicAlt: "Infographic from Karuna Anna Sajeevan's episode",
-    infographicLabel: "",
+    infographicLabel: "Episode infographic",
     infographicUrl: ""
   },
   {
