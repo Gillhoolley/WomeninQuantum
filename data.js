@@ -259,6 +259,7 @@ window.womenInQuantumData = [
     role: "Guest from the show",
     company: "",
     episode: "Episode number pending",
+    youtubeEpisodeUrl: "https://youtu.be/ALwzILjSqy8",
     focus: "Identifying, translating, and benchmarking practical quantum use cases toward meaningful advantage",
     quote: "Our classical methods are getting so much better. They are adding value already today.",
     linkedinUrl: "",
@@ -327,9 +328,9 @@ window.womenInQuantumData = [
     clipLabel: "",
     clipExternalUrl: "",
     transcriptUrl: "Transcript/louise-davey-transcript.txt",
-    infographicSrc: "",
+    infographicSrc: "Infograhics/Women in Quantum_ Louise Davey.png",
     infographicAlt: "Infographic from Louise Davey's episode",
-    infographicLabel: "",
+    infographicLabel: "Women in Quantum – Louise Davey",
     infographicUrl: "",
     releaseStatus: "Coming soon"
   },
@@ -352,9 +353,9 @@ window.womenInQuantumData = [
     clipLabel: "",
     clipExternalUrl: "",
     transcriptUrl: "Transcript/alicia-welden-transcript.txt",
-    infographicSrc: "",
+    infographicSrc: "Infograhics/Beyond Setbacks_ Alicia Rae Welden in Quantum.png",
     infographicAlt: "Infographic from Alicia Welden's episode",
-    infographicLabel: "",
+    infographicLabel: "Beyond Setbacks",
     infographicUrl: "",
     releaseStatus: "Coming soon"
   },
@@ -377,9 +378,9 @@ window.womenInQuantumData = [
     clipLabel: "",
     clipExternalUrl: "",
     transcriptUrl: "Transcript/ria-chakraborty-transcript.txt",
-    infographicSrc: "",
+    infographicSrc: "Infograhics/Ria Chakraborty Episode Card.png",
     infographicAlt: "Infographic from Ria Chakraborty's episode",
-    infographicLabel: "",
+    infographicLabel: "Ria Chakraborty Episode Card",
     infographicUrl: "",
     releaseStatus: "Coming soon"
   },
@@ -397,7 +398,10 @@ window.womenInQuantumData = [
     linkedinUrl: "https://www.linkedin.com/in/danicamarsden/",
     imageSrc: "Images/danica-marsden.png",
     imageAlt: "Danica Marsden",
-    transcriptUrl: "Transcript/danica-marsden-transcript.txt"
+    transcriptUrl: "Transcript/danica-marsden-transcript.txt",
+    infographicSrc: "Infograhics/From Galaxies to Qubits.png",
+    infographicAlt: "From Galaxies to Qubits infographic for Danica Marsden’s episode",
+    infographicLabel: "From Galaxies to Qubits"
   },
   {
     id: "natasa-nadoveza",
