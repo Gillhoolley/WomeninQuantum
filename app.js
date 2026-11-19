@@ -1,7 +1,6 @@
 const guests = window.womenInQuantumData || [];
 const GROUPS = [
-  { id: "women-in-quantum", gridId: "women-portrait-grid" },
-  { id: "impact-quantum", gridId: "impact-portrait-grid" }
+  { id: "women-in-quantum", gridId: "women-portrait-grid" }
 ];
 
 const portraitGrids = Object.fromEntries(
@@ -17,8 +16,7 @@ const featureReleaseNote = document.getElementById("feature-release-note");
 const featureLinkedin = document.getElementById("feature-linkedin");
 const featureTranscript = document.getElementById("feature-transcript");
 const featureMediaGrid = document.getElementById("feature-media-grid");
-const featureClipLabel = document.getElementById("feature-clip-label");
-const featureClipSlot = document.getElementById("feature-clip-slot");
+const featureEpisodeLink = document.getElementById("feature-episode-link");
 const featureInfoLabel = document.getElementById("feature-info-label");
 const featureInfoSlot = document.getElementById("feature-info-slot");
 const featureEpisode = document.getElementById("feature-episode");
@@ -39,7 +37,7 @@ const transcriptClusters = [
     summary: "Across the series, guests return to non-linear careers, stepping into quantum from adjacent disciplines, and learning in public rather than waiting for perfect credentials.",
     themeFamily: "career",
     themes: ["Career pivots", "Interdisciplinary paths", "Commercial translation"],
-    episodes: ["Anna Beata", "Sabine", "Sara", "Petra", "Jennifer", "Sierra", "Sahar Hejazi", "Noelle", "Bruna", "Harshitta", "Rachel", "Karuna", "Alicia"]
+    episodes: ["Anna Beata", "Sabine", "Sara", "Petra", "Jennifer", "Sierra", "Sahar Hejazi", "Noelle", "Bruna", "Harshitta", "Rachel", "Karuna", "Alicia", "Danica Marsden", "Dr. Marina Walt", "María Gragera Garcés", "Mariia Mykhailova", "Kobra Mahdavipour"]
   },
   {
     id: "human-signals",
@@ -47,7 +45,7 @@ const transcriptClusters = [
     summary: "The conversations repeatedly center confidence, curiosity, leadership, and the practical challenge of sustaining ambition without losing the human part of the work.",
     themeFamily: "human",
     themes: ["Curiosity", "Confidence", "Leadership", "Community", "Mentorship"],
-    episodes: ["Anna Beata", "Devika", "Sabine", "Jennifer", "Sierra", "Sahar Hejazi", "Noelle", "Bruna", "Harshitta", "Rachel", "Sahar Ben Rached", "Olga", "Karuna", "Louise", "Ria", "Marina"]
+    episodes: ["Anna Beata", "Devika", "Sabine", "Jennifer", "Sierra", "Sahar Hejazi", "Noelle", "Bruna", "Harshitta", "Rachel", "Sahar Ben Rached", "Olga", "Karuna", "Louise", "Ria", "Danica Marsden", "Dr. Marina Walt", "María Gragera Garcés", "Mariia Mykhailova", "Kobra Mahdavipour"]
   },
   {
     id: "technical-signals",
@@ -55,7 +53,7 @@ const transcriptClusters = [
     summary: "A second cluster connects applied themes such as networking, security, useful infrastructure, and making quantum approachable beyond pure research settings.",
     themeFamily: "technical",
     themes: ["Security by design", "Quantum networking", "Accessibility", "Applied infrastructure", "Real-world translation"],
-    episodes: ["Devika", "Marie-Eve", "Petra", "Sara", "Sahar Hejazi", "Noelle", "Bruna", "Harshitta", "Sahar Ben Rached", "Rachel", "Olga", "Louise", "Alicia", "Ria", "Marina"]
+    episodes: ["Devika", "Marie-Eve", "Petra", "Sara", "Sahar Hejazi", "Noelle", "Bruna", "Harshitta", "Sahar Ben Rached", "Rachel", "Olga", "Louise", "Alicia", "Ria", "Danica Marsden", "Dr. Marina Walt", "María Gragera Garcés", "Mariia Mykhailova", "Kobra Mahdavipour"]
   }
 ];
 
@@ -213,11 +211,11 @@ const transcriptNodes = [
     detailSummary: "Sahar connects modular quantum processors and distributed architectures with the collaboration required to scale systems, research communities, and access to the field."
   },
   {
-    id: "episode-15",
+    id: "episode-17",
     type: "episode",
     guestId: "olga-mamlyga",
     guestName: "Olga Mamlyga",
-    label: "Episode 15",
+    label: "Episode 17",
     subtitle: "Turning quantum cybersecurity awareness into real-world action",
     left: 34,
     top: 12,
@@ -235,31 +233,31 @@ const transcriptNodes = [
     detailSummary: "Rachel connects leadership and confidence to the product-facing work of turning ambiguous science into usable systems, decisions, and team momentum."
   },
   {
-    id: "episode-16",
+    id: "episode-15",
     type: "episode",
     guestId: "karuna-anna-sajeevan",
     guestName: "Karuna Anna Sajeevan",
-    label: "Episode 16",
+    label: "Episode 15",
     subtitle: "New pathways, learning signals, and community entry points",
     themes: ["curiosity", "accessibility", "community", "career-pivots"],
     detailSummary: "Karuna extends the early-career and access side of the map, linking curiosity, community support, and the practical signals that help more people find a path into quantum."
   },
   {
-    id: "episode-17",
+    id: "episode-18",
     type: "episode",
     guestId: "louise-davey",
     guestName: "Louise Davey",
-    label: "Episode 17",
+    label: "Episode 18",
     subtitle: "Quantum readiness as governance, risk, and board priority",
     themes: ["leadership", "security", "real-world-translation", "applied-infrastructure"],
     detailSummary: "Louise brings the map into governance and risk, showing that quantum readiness is not only technical work but an accountability and business-priority conversation."
   },
   {
-    id: "episode-18",
+    id: "episode-16",
     type: "episode",
     guestId: "alicia-welden",
     guestName: "Alicia Welden",
-    label: "Episode 18",
+    label: "Episode 16",
     subtitle: "Quantum chemistry, partnerships, and applied progress",
     themes: ["real-world-translation", "applied-infrastructure", "career-pivots", "community"],
     detailSummary: "Alicia bridges research, partnerships, and implementation, emphasizing that excitement only becomes progress when it is translated through hard work and practical collaboration."
@@ -277,12 +275,52 @@ const transcriptNodes = [
   {
     id: "episode-20",
     type: "episode",
+    guestId: "danica-marsden",
+    guestName: "Danica Marsden",
+    label: "Episode 20",
+    subtitle: "From telescope building to quantum strategy",
+    themes: ["career-pivots", "mentorship", "applied-infrastructure", "real-world-translation"],
+    detailSummary: "Danica traces her move from hands-on astrophysics to quantum hardware and strategy. She shares what mentorship taught her about career pivots and explains why chemistry and materials simulation are promising applications for quantum computing."
+  },
+  {
+    id: "episode-21",
+    type: "episode",
     guestId: "marina-walt",
     guestName: "Dr. Marina Walt",
-    label: "Episode 20",
+    label: "Episode 21",
     subtitle: "Practical use cases, benchmarking, and quantum advantage",
-    themes: ["applied-infrastructure", "real-world-translation", "leadership", "confidence"],
-    detailSummary: "Marina concentrates the applied edge of the map around identifying practical quantum use cases, translating them clearly, and benchmarking where meaningful advantage can emerge."
+    themes: ["career-pivots", "applied-infrastructure", "real-world-translation", "leadership", "confidence"],
+    detailSummary: "Marina describes moving from software development into physics, then explains how benchmarking quantum software can improve classical methods and help identify practical quantum use cases."
+  },
+  {
+    id: "episode-22",
+    type: "episode",
+    guestId: "maria-gragera-garces",
+    guestName: "María Gragera Garcés",
+    label: "Episode 22",
+    subtitle: "Distributed quantum computing and making research accessible",
+    themes: ["networking", "accessibility", "mentorship", "career-pivots"],
+    detailSummary: "María explains how networked quantum computers can share a workload and why coordinating them is difficult. She also reflects on how mentors and industry experience shaped her career and why she makes a point of explaining her research in plain language."
+  },
+  {
+    id: "episode-23",
+    type: "episode",
+    guestId: "mariia-mykhailova",
+    guestName: "Mariia Mykhailova",
+    label: "Episode 23",
+    subtitle: "Building and teaching quantum software",
+    themes: ["career-pivots", "curiosity", "accessibility", "applied-infrastructure"],
+    detailSummary: "Mariia describes learning quantum computing on the job while helping build Q#. She uses Grover’s search to explain why quantum algorithms behave differently from classical ones and discusses how she teaches programming and error correction through hands-on exercises."
+  },
+  {
+    id: "episode-24",
+    type: "episode",
+    guestId: "kobra-mahdavipour",
+    guestName: "Kobra Mahdavipour",
+    label: "Episode 24",
+    subtitle: "Entanglement, quantum sensing, and finding confidence in research",
+    themes: ["career-pivots", "confidence", "mentorship", "networking", "real-world-translation"],
+    detailSummary: "Kobra traces her research path across Iran, Italy, and Canada and reflects on the mentors who helped her find her confidence. She explains how her work on entanglement led her to ask whether linking atomic clocks could improve measurements in a quantum sensor network."
   }
 ];
 
@@ -685,7 +723,7 @@ function renderTranscriptMap() {
 
 function detailRole(guest) {
   const genericRoles = ["Guest from the show", "Guest from Impact Quantum"];
-  return genericRoles.includes(guest.role) ? "" : guest.role;
+  return genericRoles.includes(guest.role) ? "" : guest.role || "";
 }
 
 function initialsFor(name) {
@@ -703,148 +741,6 @@ function createPortraitMarkup(guest) {
   }
 
   return `<div class="avatar-fallback" aria-hidden="true">${initialsFor(guest.name)}</div>`;
-}
-
-function youtubeEmbedUrl(url) {
-  if (!url) {
-    return "";
-  }
-
-  const shortMatch = url.match(/youtube\.com\/shorts\/([^?&/]+)/i);
-  if (shortMatch) {
-    return `https://www.youtube-nocookie.com/embed/${shortMatch[1]}?playsinline=1&rel=0`;
-  }
-
-  const watchMatch = url.match(/[?&]v=([^?&/]+)/i);
-  if (watchMatch) {
-    return `https://www.youtube-nocookie.com/embed/${watchMatch[1]}?playsinline=1&rel=0`;
-  }
-
-  const shareMatch = url.match(/youtu\.be\/([^?&/]+)/i);
-  if (shareMatch) {
-    return `https://www.youtube-nocookie.com/embed/${shareMatch[1]}?playsinline=1&rel=0`;
-  }
-
-  return "";
-}
-
-function youtubeVideoId(url) {
-  if (!url) {
-    return "";
-  }
-
-  const shortMatch = url.match(/youtube\.com\/shorts\/([^?&/]+)/i);
-  if (shortMatch) {
-    return shortMatch[1];
-  }
-
-  const watchMatch = url.match(/[?&]v=([^?&/]+)/i);
-  if (watchMatch) {
-    return watchMatch[1];
-  }
-
-  const shareMatch = url.match(/youtu\.be\/([^?&/]+)/i);
-  if (shareMatch) {
-    return shareMatch[1];
-  }
-
-  return "";
-}
-
-function youtubeThumbnailUrl(url) {
-  const videoId = youtubeVideoId(url);
-
-  if (!videoId) {
-    return "";
-  }
-
-  return `https://i.ytimg.com/vi/${videoId}/hqdefault.jpg`;
-}
-
-function mediaTypeForUrl(url) {
-  if (!url) {
-    return "";
-  }
-
-  const cleanUrl = url.split("?")[0].toLowerCase();
-
-  if (/\.(mp4|webm|mov|m4v)$/.test(cleanUrl)) {
-    return "video";
-  }
-
-  if (/\.(mp3|wav|m4a|ogg)$/.test(cleanUrl)) {
-    return "audio";
-  }
-
-  return "";
-}
-
-function renderClip(guest) {
-  if (guest.clipSrc) {
-    const poster = guest.clipPoster ? ` poster="${guest.clipPoster}"` : "";
-    return `
-      <video controls preload="metadata"${poster}>
-        <source src="${guest.clipSrc}">
-        Your browser does not support the video tag.
-      </video>
-    `;
-  }
-
-  if (guest.clipExternalUrl) {
-    const embedUrl = youtubeEmbedUrl(guest.clipExternalUrl);
-    const mediaType = mediaTypeForUrl(guest.clipExternalUrl);
-
-    if (embedUrl) {
-      const posterSrc =
-        guest.clipPoster || guest.imageSrc || youtubeThumbnailUrl(guest.clipExternalUrl);
-      const posterAlt = guest.clipLabel
-        ? `${guest.clipLabel} for ${guest.name}`
-        : `${guest.name} episode clip`;
-
-      return `
-        <a class="clip-thumb-link" href="${guest.clipExternalUrl}" target="_blank" rel="noreferrer" aria-label="Open YouTube clip for ${guest.name}">
-          <div class="clip-thumb">
-            <img src="${posterSrc}" alt="${posterAlt}">
-            <span class="clip-thumb__play" aria-hidden="true"></span>
-            <span class="clip-thumb__label">Play on YouTube</span>
-          </div>
-        </a>
-      `;
-    }
-
-    if (mediaType === "video") {
-      return `
-        <video controls preload="metadata">
-          <source src="${guest.clipExternalUrl}">
-          Your browser does not support the video tag.
-        </video>
-      `;
-    }
-
-    if (mediaType === "audio") {
-      return `
-        <div class="clip-audio">
-          <audio controls preload="metadata">
-            <source src="${guest.clipExternalUrl}">
-            Your browser does not support the audio tag.
-          </audio>
-        </div>
-      `;
-    }
-
-    return `
-      <div class="clip-fallback">
-        <p>Hosted clip available for this guest.</p>
-        <a class="asset-link" href="${guest.clipExternalUrl}" target="_blank" rel="noreferrer">Open clip</a>
-      </div>
-    `;
-  }
-
-  return `
-    <div class="clip-fallback">
-      <p>No clip added yet. Drop in a local MP4 or use an external link for this episode.</p>
-    </div>
-  `;
 }
 
 function renderInfographic(guest) {
@@ -873,32 +769,32 @@ function renderInfographic(guest) {
 
 function renderDetail(guest) {
   activeGuestId = guest.id;
-  const isUnreleased = Boolean(guest.releaseStatus);
+  const isUnreleased = Boolean(guest.releaseStatus && !guest.youtubeEpisodeUrl);
   const hasQuote = Boolean(guest.quote && !guest.quote.startsWith("Add a pull quote"));
-  const hasLocalClip = Boolean(guest.clipSrc || guest.clipExternalUrl);
   const hasInfographic = Boolean(guest.infographicSrc || guest.infographicUrl);
-  const showEpisodeFields = !isUnreleased || hasQuote || hasLocalClip || hasInfographic;
+  const showInfographic = !isUnreleased || hasInfographic;
 
   detailEmpty.classList.add("is-hidden");
   featureCard.classList.remove("is-hidden");
 
   featureRole.textContent = detailRole(guest);
   featureName.textContent = guest.name;
-  featureCompany.textContent = guest.company;
+  featureCompany.textContent = guest.company || "";
   featureQuote.textContent = hasQuote ? `"${guest.quote}"` : "";
   featureQuote.classList.toggle("is-hidden", !hasQuote);
   featureReleaseNote.textContent = guest.releaseStatus || "";
-  featureReleaseNote.classList.toggle("is-hidden", !isUnreleased || showEpisodeFields);
+  featureReleaseNote.classList.toggle("is-hidden", !isUnreleased);
   featureLinkedin.href = guest.linkedinUrl || "#";
+  featureLinkedin.classList.toggle("is-hidden", !guest.linkedinUrl);
   featureTranscript.href = guest.transcriptUrl || "#";
   featureTranscript.classList.toggle("is-hidden", !guest.transcriptUrl);
-  featureClipLabel.textContent = guest.clipLabel || "";
+  featureEpisodeLink.href = guest.youtubeEpisodeUrl || "#";
+  featureEpisodeLink.classList.toggle("is-hidden", !guest.youtubeEpisodeUrl);
   featureInfoLabel.textContent = guest.infographicLabel || "";
-  featureEpisode.textContent = guest.episode;
-  featureFocus.textContent = guest.focus;
-  featureMediaGrid.classList.toggle("is-hidden", !showEpisodeFields);
-  featureClipSlot.innerHTML = showEpisodeFields ? renderClip(guest) : "";
-  featureInfoSlot.innerHTML = showEpisodeFields ? renderInfographic(guest) : "";
+  featureEpisode.textContent = guest.episode || "";
+  featureFocus.textContent = guest.focus || "";
+  featureMediaGrid.classList.toggle("is-hidden", !showInfographic);
+  featureInfoSlot.innerHTML = showInfographic ? renderInfographic(guest) : "";
 
   document.querySelectorAll(".portrait-button").forEach((button) => {
     button.classList.toggle("is-active", button.dataset.guestId === guest.id);
@@ -961,8 +857,7 @@ renderPortraits();
 renderTranscriptOverview();
 renderTranscriptMap();
 
-const defaultGuest =
-  sortedGuests.find((guest) => guest.group === "women-in-quantum") || sortedGuests[0];
+const defaultGuest = sortedGuests.find((guest) => guest.group === "women-in-quantum");
 
 if (defaultGuest && !activeGuestId) {
   renderDetail(defaultGuest);

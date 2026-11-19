@@ -1,0 +1,273 @@
+Women in Quantum | Season 1, Episode 20
+Danica Marsden with Candace Gillhoolley
+Interview transcript with timestamps from the August 14, 2026 recording
+
+Candace Gillhoolley   1:46
+Excellent. Okay. Okay.Welcome back. Women in Quantum is a podcast that shares the stories of women building, researching, and shaping the future of quantum technology. Through candid conversations about their careers, unexpected paths, challenges, and discoveries, this show brings the human side of quantum into focus.and makes the field feel a little more accessible to everyone.Today, we are going to be speaking with Danica Marsden. She is the Executive Quantum Strategy Consultant at Enterprise Quantum, as well as a venture partner at Cadenza. Hello, and how are you today?
+
+Danica Marsden   2:32
+Hi Candace, I'm great. So nice to be speaking with you today and I love this, you know, what you're doing here.
+
+Candace Gillhoolley   2:39
+Thank you. I really do appreciate it. And I have to say, it's been resonating with other guests that I've had, and that just makes me feel really, really great, I have to say. So I'd like to start at the very beginning. Can you tell me where you were born and raised?
+
+Danica Marsden   2:48
+Yeah.Sure, yeah. I hail from Vancouver, British Columbia, Canada, which was actually the home of one of the first quantum computing companies to commercialize quantum computing. So that was sort of fortuitous in the long run. Yeah, I did my undergrad here and then wound upactually moving to the US to do my PhD at the University of Pennsylvania in Philadelphia in physics. And then I moved to California and did a postdoc at Caltech. But eventually I found my way back to Vancouver. So I've come full circle.
+
+Candace Gillhoolley   3:33
+Okay, so before Quantum entered the picture for you, were you curious as a child?
+
+Danica Marsden   3:40
+Yeah, I was. I was both a tomboy playing outside, climbing trees. And I, you know, that theme has followed through to today where I really like to be hands on building things, as well as I was that kid who had their nose in a book and had a book with them at all times and was a little bit nerdy. SoI did really enjoy math class. I, you know, won some math competitions in school. So I think both of those themes wound up kind of playing out later in life.
+
+Candace Gillhoolley   4:11
+Okay, so as you said, you studied math. So what initially pulled you towards math rather than another science?
+
+Danica Marsden   4:20
+I mean, I think as is probably true for so many people, just some good teachers that really, you know, were able to bring the subject to life for me and make it interesting. And I just really connected with those teachers and then the subject itself.as well. I also just really liked how it was very black and white, you know, the answer was right or wrong. It wasn't this sort of subjective diagnosis of what I had written or, you know, how I had done something. It was just, you had the answer or you didn't.
+
+Candace Gillhoolley   4:57
+I like that the concreteness of it all, right? It's either it's black or white. It's I understand that. That's totally fair. Not interpretive. So tell me at some point, I know you started building telescopes. Where did that fascination first come from?
+
+Danica Marsden   5:00
+I mean, I know.Yeah, it was during my undergrad. I had started, I actually had a bit of a circuitous path. So I did my first year of undergrad in general sciences and I wasn't sure that that was really where I wanted to be. So I actually took a year out and traveled the world and worked as a, did other jobs. I was a ski instructor, did some other things.But then in all that traveling, I thought, maybe I do really want to be doing my university degree. So I decided to give it a second shot. I came back and in my second year, I was in this, you know, second level, second year level physics course with, I don't know, 200 other people. And the professor was walking by me in the hallway one day and asked if I wanted to come.come work in his lab for the summer, and I needed a job, so I did, and he built telescopes. So that's where I started working for him in the summers for several summers, and it was very hands-on, working on cryogenic systems and optics, writing code.in the machine shop building things, soldering electronics. And I really liked that, that you could build things to the end of, towards the end of, you know, discovering frontier science.
+
+Candace Gillhoolley   6:34
+What do you remember about the first time you looked through a telescope that you had helped build?
+
+Danica Marsden   6:42
+Well, actually, the telescopes that I helped build, you cannot look through them. So it's even more of a longer payoff because first you collect the data and then you have to write code to analyze all the data and put together the false color images that our eyes can interpret of, for example, the cosmic microwave background.
+
+Candace Gillhoolley   6:46
+Oh, okay.
+
+Danica Marsden   7:03
+And then yes, to then see that image and think those photons spent 14 billion years reaching us. And now I've helped capture them and interpreted that data in order to see what that looks like, that pattern is so cool. I mean, I thought it was so cool.
+
+Candace Gillhoolley   7:20
+For sure.
+
+Danica Marsden   7:22
+Yeah.
+
+Candace Gillhoolley   7:24
+So in our previous conversation, you talked about discovering galaxies. So what does it feel like to look at something and realize that you may be seeing something no one has identified before?
+
+Danica Marsden   7:29
+Ha.Pretty awesome. Yeah, and at first you're sort of questioning yourself, well, surely, you know, these will show up in somebody else's catalog or map, but then no, we realized nobody had actually seen these galaxies before. And by virtue of the technology that we had developed to put into this telescope,we were able to capture light from these galaxies that were so far away. The only reason we were able to see them at all in these particular frequencies was because there was another galaxy in between us and them that was lensing the light, gravitationally lensing the light, which brightens the light. So then we were able to see them and just at these particular frequencies.So that's another thing that I think a lot of people don't necessarily understand about the electromagnetic spectrum is that it's so broad. And as a human, your perception of it is quite narrow, the part of the electromagnetic spectrum that you're familiar with. And so as we map the universe inall these different frequency bands, different energy scales, you can learn different things about what's going on out there.
+
+Candace Gillhoolley   8:51
+So was there a moment when science stopped feeling like something you studied and started feeling like something you could actually do?
+
+Danica Marsden   9:00
+Yeah, I think even in that sort of initial undergrad phase, working in the lab, building the telescopes, I think that was the first time that it became clear that this wasn't something I was just reading in a book, that I could actually create the very detectorsthat would capture the light that had come from the time just after the Big Bang and learn things that had never been learned before and be at that frontier of learning and human understanding and technology.
+
+Candace Gillhoolley   9:35
+So, when did quantum mechanics first appear in your life?
+
+Danica Marsden   9:41
+I took a couple of classes in my undergrad and grad school. Back then, they didn't have specific programs for quantum computing yet. Some people were starting to work on basic science that would eventually feed into the initial quantum computers. But yeah, it wasn't until later on by the time that I was a postdoc and starting to think about my career beyond academia,that I came across the company D-Wave, who was, they were building a quantum computer. And that's when it kind of really first crossed over from, I took a few classes in the theory of it, quantum field theory and things into, actually, you could turn this into its own science and computer.
+
+Candace Gillhoolley   10:28
+Was there a concept in quantum mechanics that made you think, I need to understand this better?
+
+Danica Marsden   10:38
+Um...I think just generally I wanted to understand how you could create a whole computer out of, you know, the concepts of quantum mechanics. You know, the whole original idea being that the world at small scales is fundamentally quantum mechanical. So you haveyou know, molecules and atoms with electrons and these spinning orbits. And on those small scales, you really do need quantum mechanics to be able to describe that system. And so then the idea was, well...if you could build a computer out of those systems, then you could better model those systems. So yeah, I think justHow do you how do you then create a computer out of that? So what is your basic Lego building block is the qubit. So how do you create a qubit? What properties does it need to have? What systems would work best for that? And so now what we're seeing in the field is there are many different modalities being explored. You havesuperconducting circuits, you have trapped ions, neutral ions, spin systems, color centers, and you know, quantum dots, on and on it goes. So everybody's tried to figure out what is the best little Lego building block for a quantum computer. And that still fascinates me.
+
+Candace Gillhoolley   12:01
+Okay. So I feel sometimes quantum can be intimidating from the outside. Did you ever feel intimidated when you were first learning about it?
+
+Danica Marsden   12:16
+I think the first time, you know, in a in a class when you start seeing quantum mechanics, it is very unintuitive at first. SoYeah, I do think I do think that there's something that most people have to sort of work through there, but...Ultimately.I think the most intimidating thing about the field nowadays to myself is just how many smart, brilliant people are in this field. It's attracted a lot of very interesting, intelligent people. And, you know, just getting to participate in conferences, rubbing shoulders with other brilliant folks,is exciting and incredible. And just knowing that there's this energy in the field because of that, and you just know great things are going to happen and that cool things are ahead of us.
+
+Candace Gillhoolley   13:12
+What do you wish someone had told you when you were first entering this field?
+
+Danica Marsden   13:23
+One of the things would be that, you know, one of the things that motivates me within this field of quantum computing is the potential to impact people's day-to-day lives. And this is one of the reasons why I switched fromastrophysics and academia to quantum computing was, I, you know, enjoyed discovering galaxies and, you know, building these long time scale projects in order to learn more about our universe. But ultimately, aside from sort of the novelty of it, the fascination andyou know, inspiring people with the wonders of the universe, it wasn't really affecting people in their day-to-day lives. Whereas quantum computing has the potential to, you know, discover new drugs and materials that we can use for all kinds of things, including, you know, if...If we can have lower.sorry, higher temperature superconductors, superconducting materials that will completely revolutionize, you know, power grids and transportation and energy systems. So, you know, our lives can be very impacted in a very immediate way by the things that quantum computers might be able to do in the future. SoThat's one of the things that has really kept me motivated in this field and is something that I wish I'd known even earlier.
+
+Candace Gillhoolley   14:52
+You spent some time at Caltech, you mentioned that. What did that environment teach you about how science actually happens?
+
+Danica Marsden   15:03
+Um, I think just...You know, the...So...just how small the incremental gains are in each iteration of science. So you have an idea, maybe you have a long-term goal, but...You start with something that works typically, and then you build from there and you, it's like building an onion. You start with this core of, this is what I know is true and this is what I know works. And I'll iterate on that and I get the next layer. And then I iterate on that and I get the next layer. And that process, I mean, A, it's nice because as you break things down and do things,you know, small step by small step, it doesn't seem quite so daunting. But then, you know, at the same time, it's like you can have these lofty goals and objectives that you slowly work towards. So that process of, you know, having big dreams and goals, but breaking it down into these tiny micro steps, almost that are very achievable, and then you chip away at it and chip away at it.and then eventually you're there at the end one day.
+
+Candace Gillhoolley   16:17
+Okay, so it's interesting because you have academic and then you also have the industry. So when you were leaving academia...Sometimes it feels like you're walking away from a path that you've spent years preparing for.Did you ever wrestle with that?
+
+Danica Marsden   16:36
+No, not really. I mean.So it's definitely at that time when you're in academia, it's like the known path. It's the sort of path of least resistance and it's sort of mapped out for you. But the cool thing about leaving that path and going into industry is that there are actually so many more options.out there for you and jobs that you didn't know existed. So I think that was a very interesting process and time in my life was, you know, exploring and discovering what are all the companies out there and all the jobs out there that I could potentially map my background to.And provide value in, but that are, you know, everything from...you know, coming for a physics, experimental physics background, it was like so many things were open. I looked at companies that were doing satellites and space, you know, rockets, also energy, whether that be, you know, solar or other types of energy companies.and developing technology there. And then, you know, quantum computing was one, too. There were, you know, there's a lot of other companies out there doing different types of technology that would have been relevant as well. And, you know, and I've seen a lot of friends go into data science. So it's actually this almost paradox of choice in a sense, once you leave thatthe academic pathway to figure out, okay, of all these options and all these jobs out there, you know, which one do I want and where am I going to go with that?
+
+Candace Gillhoolley   18:17
+Okay, so looking back, do you think any of the career decisions that felt uncertain at the time turned out to be especially important?
+
+Danica Marsden   18:27
+I don't know, I just sort of followed my gut and the intuition and what, you know, inspired me and also the people that I sort of clicked with along the way. And that kind of always seemed to lead me in a good direction. I can't say that any particular decision seemed
+
+Candace Gillhoolley   18:32
+Okay.
+
+Danica Marsden   18:47
+especially important. But I think oftentimes when you're in the moment of that process, it feels very uncertain. But then when you look back later, you think, oh, okay, it did work out. You know, it all sort of came together in the way that it was meant to.
+
+Candace Gillhoolley   19:03
+Okay, so tell me, how did D-Wave first enter your world?
+
+Danica Marsden   19:09
+Yeah, so I first, at some point when I was doing my postdoc at Caltech and was starting to think about leaving academia, I was doing kind of casting a broad net and searching, as I say, all the different, you know, industries and companies that might be relevant to my background. AndAs it happened, I actually knew one of my friends from my undergrad days at UBC had worked on some of the initial qubits for D-Wave. So I was generally, it was in the back of my mind that this company existed, so I was somewhat familiar with it. And then I looked online, saw that they had job postings andApply.
+
+Candace Gillhoolley   19:52
+I like that. What made you think this is something I must be a part of?
+
+Danica Marsden   19:58
+I mean, they were really one of the first companies to do it, to build a quantum computer. And they were the first company to commercialize it, to sell a quantum computer. And that was really exciting to me. So it seemed that they were, you know, on the right track. And they had a very strong thesis about how quantum annealingwould, you know, help people in the shorter term before full-fledged quantum computers got going. I mean, now they're doing working towards gate model fault tolerant quantum computers as well. Yeah, and, you know, when I went to D-Wave and met the scientists there, everybody was really excited about what they were doing. So, I mean, thatenthusiasm so infectious.
+
+Candace Gillhoolley   20:40
+Yeah, absolutely. Has working in the industry changed the way you think about quantum computers and how they were realistically the what they'll be able to do?
+
+Danica Marsden   20:51
+I think what's kind of interesting about this field right now is that it's not clear. It's still so in development, especially when it comes to quantum algorithms and applications. What will these machines be able to do? And it's such an interesting time. You know, who could have imagined back when we were using computers in the 90s where we'd be today, right?AI and all the things that we're using computers for now, even things like, you know, social media. So I think it's going to be like that with quantum computing, that we have some initial algorithms that we know through theoretic arguments will, you know, outperform regular computers when they comeonline, when full-fledged quantum computers come online. But there's still so much discovery happening in this space and development. And I think having them and being able to use them, the quantum computers, will really leapfrog everything too. And we'll discover applications that we had never thought of.
+
+Candace Gillhoolley   21:56
+Considering what is happening in quantum today, what do you think deserves more attention than it gets?
+
+Danica Marsden   22:13
+I'm not sure I feel that currently there is a lot of...attention in the media generally around quantum computing in particular, we're in this phase where a bunch of companies, quantum companies are going public, they're IPOing and they're going to be publicly traded. So there's a lot of interest there. I do think perhaps that a lot of people are not aware of just how muchquantum could impact their business even in the next few years or their lives. Probably in particular with respect to privacy of data. So there's this known algorithm, Shor's algorithm, that when there is a full-fledged quantum computer, we believe will break a lot of the encryption that is currently used to protect ourvery sensitive and private financial and healthcare data and other such data. So I do think a lot of people aren't aware that that is coming and that we're going to need to prepare essentially globally prepare. And a lot of companies are starting to prepare. So NIST in the US hasstarted to run a challenge in 2016 to develop new encryption algorithms that would be resilient against quantum computers in the future. So there are these movements and efforts afoot, but I think a lot of people are just, don't realize that that is happening under the hood and that it's coming.
+
+Candace Gillhoolley   23:41
+Okay, so your academics in your career, they didn't follow one perfectly straight trajectory. Has that become an advantage, do you think?
+
+Danica Marsden   23:54
+Yeah, for certain roles, I'd say definitely. I think it has allowed me to develop a pretty broad skill set that is well suited to being at the interface between the technology and the technical folks and then, you know, business folks and leadership.So it has well suited me for that purpose. And being able to look at things very holistically. So working with a venture capital firm, you know, I'm helping advise them on their quantum technologies investments, and the ability to sort of survey the whole industry pretty broadly and be able to figure outyou know, how are we going to derive value, helping companies get going and things like that. It requires a pretty broad skill set and to wear a lot of hats rather than just being completely focused on one small niche area. So.Yeah, I think it has suited me well for the positions that I am doing.
+
+Candace Gillhoolley   24:56
+So how do you know when it's time to keep pushing through something that's difficult versus when it's time to just change direction?
+
+Danica Marsden   25:07
+That's a good question. I mean, oftentimes you want to have Certain.points or metrics or questions in mind as you go, as you begin a process. And, you know, that will help you answer that question. So are we getting closer to hitting this milestone or metric?Or is it just, you know, we've invested X amount of time and effort and money?And we don't seem to be getting any closer. So I think that's, and then you start to naturally think, okay, do we need to pivot to another method or way of doing what we're doing, try to achieve the same goal another way, or maybe there's something about the goal that we set out.that needs to be shifted or changed.
+
+Candace Gillhoolley   26:05
+Okay.Was there someone who saw potential in you before you necessarily saw it in yourself?
+
+Danica Marsden   26:14
+I think so. I think that undergrad professor that I worked with in his lab, he really encouraged me and believed that I had a lot of potential. And for example,after I finished my undergrad degree, I wasn't familiar with actually the academic system and how it worked. And he was the one who suggested that I look into going to grad school. And I just, it hadn't even crossed my mind. It wasn't something that was common in my family. So, and I thought, oh, I can't afford that.But he said, actually in the sciences, if you apply and they accept you, then they actually pay you a stipend. So that was news to me. Sorry, news to me at that point in time in my life. And yeah, that really enabled me to be able to carry on with my academic pursuits that I hadn't realized was a path forward. That was an option.
+
+Candace Gillhoolley   27:13
+So as you've become more established, has your idea of mentorship changed? What do you, what do you try to give? What would you try to give younger women that perhaps you needed earlier in your own career?
+
+Danica Marsden   27:16
+Mhm.Yeah, I think for a lot of the younger women, younger than me that I've worked with and mentored, a lot of it comes down to just helping them build the confidence. Oftentimes, they're very smart and dedicated and do great work. And it's just a matter ofyou know, helping them see that what they're doing is exactly the right thing and, you know, to help them build their confidence in moving forward with whatever it is they're trying to do. And I try not to insert myself in terms of what they should be doing, but rather when they tell me what their goals are,I try to help them move, you know, towards them.
+
+Candace Gillhoolley   28:17
+So if a young woman looks at Quantum today and thinks, I don't have the right background to belong, what would you want her to understand?
+
+Danica Marsden   28:29
+I mean, that she probably already has the skill set to figure out if she wants to get to point B and she's at point A, you know, what else in her life has she done and been able to do where she's worked from one objective to or one point to another. Andhow to kind of set steps in a trajectory for herself to achieve that and chip away at that goal. So she probably already has that skill somewhere and just helping show her that that's true, that she's probably done it before in some other way, shape or form. And then, you know,working through, okay, how are we going to get you from point A to point B if this is your goal?
+
+Candace Gillhoolley   29:18
+Okay. How do you navigate moments when you feel less confident, especially when the stakes are so high?
+
+Danica Marsden   29:30
+I just, I think preparation for myself, preparation is key. Yeah, just trying to anticipate what challenges I might face and then doing my best to prepare as early as possible and as well as possible for whatever is coming.
+
+Candace Gillhoolley   29:50
+Let me ask you about doubt. When you're facing doubt internally, what's your process for deciding whether to speak up or to step back?
+
+Danica Marsden   30:02
+I guess it depends on the context. So what kind of...What kind of situation are you thinking about?
+
+Candace Gillhoolley   30:10
+Okay, okay, that's fair. Okay.What do you see as the most promising near-term application for quantum computing?
+
+Danica Marsden   30:23
+I think chemistry and materials simulation, pharmaceuticals, that kind of thing, modeling these systems that are inherently quantum mechanical systems with a system that is inherently A quantum mechanical system makes a lot of sense to me that that would be the sort of canary in the coal mine.
+
+Candace Gillhoolley   30:48
+What's 1 misconception about quantum computing you wish more people understood?
+
+Danica Marsden   30:58
+I think a lot of people assume that quantum computers are just going to be bigger, faster computers.
+
+Candace Gillhoolley   31:07
+Sorry.No, I'm sorry, I can't, I can't, I can't talk right now, so no, no, I'm sorry, my phone rang and I had to hang up on it. I apologize. I'll edit that out. I'm sorry, so go ahead.
+
+Danica Marsden   31:16
+Yeah, yeah, no worries.Yeah, that's okay. Yeah, I think a lot of people at first blush assume that a quantum computer will just be a faster, bigger computer. But in fact, quantum computers will, you know, in the way that a GPU is a different physical system from a CPU.So the CPU is the heart of your regular computer, and a GPU is the physical, you know, chip and board part of the computer that helps us do AI and machine learning more easily. So there's a physical difference that in the computer itself.the hardware that leads to a difference in terms of computation abilities and capabilities. Well, similarly, a QPU, a quantum processor, is physically different from a CPU or a GPU, and that gives rise to improved computation for certain types of problems.but just certain types of problems. So quantum computer will never outperform regular computers on certain types of calculations. So I think that's something that I would say a lot of people don't understand at first blush is just that it will be this niche computing device and it will work.in tandem with our other computing devices in order to, you know, get the results that we want to get.
+
+Candace Gillhoolley   32:45
+Okay.So what's a piece of advice that you would give your younger self at the start of your quantum journey?
+
+Danica Marsden   32:59
+I think just...go where you're wanted and needed. I've always enjoyed feeling as if I'm providing value to people and to the world and the companies that I work for. And so I think thatYeah, just, you know, continue to follow your nose along that path and finding places where you can, you know, contribute andyou know, do your best work and find people that you want to work with and yeah.
+
+Candace Gillhoolley   33:37
+So what does success mean to you in the context of a long and evolving career?
+
+Danica Marsden   33:46
+I think things have changed, you know, over the decades, right? Because our earlier generations would work for the same company their entire career.So I think now in this day and age, success can look like...You know, just continuing to be.you know, in a place where you're, as I say, you're happy, you're feeling good about what you're doing, you feel like you're producing something of value for the world, you're working with people that you like working with. And then, you know, if any of those conditions change, you just, you change also, you adapt.and you go somewhere else that you find is going to be like the right place for you. So I think it's that whole adage of it's not about the end result, it's about the journey and enjoying the process of it all. So I think success for me looks like always enjoying the process of what I'm doing.And so if I'm in a particular role or position and it feels great, everything's wonderful, then I keep doing that. But if for some reason things change, you know, it could be very benign. It could just be that, you know, if my family situation changes and I need to move geographically or something.then, you know, you adapt and you find something else. So I think it's just, you know, you always want to keep yourself in that sort of sweet spot as you go along so that you're enjoying the whole journey of your life.
+
+Candace Gillhoolley   35:20
+So, what's the best piece of advice someone has ever given you?
+
+Danica Marsden   35:25
+I'll just go where you're wanted.So when people are clamoring for you and they say, we really want you here, we can't wait for you to be here. That's always a nice feeling, right? So I enjoy being in places where that's the vibe.
+
+Candace Gillhoolley   35:45
+So if you could sit down with Danica from five years ago, knowing everything that you know now.
+
+Danica Marsden   35:49
+Okay.
+
+Candace Gillhoolley   35:52
+What would you tell her? And what would you tell her to stop worrying about?
+
+Danica Marsden   36:00
+Oh, five years ago.I would tell her that, unfortunately, you can't know everything about everything that's impossible. So, you know, relax a bit. It's okay. You know, enjoy, enjoy the process and don't worry so much about that.
+
+Candace Gillhoolley   36:23
+Enjoy the process. I like that, right? Give yourself, give yourself that moment of pause to kind of sit inside something and enjoy it. Go ahead.
+
+Danica Marsden   36:31
+And.And you know, you're going to be a part of a team, right? So sometimes you'll interact with people who make you feel like, you know, despite being the forward, you should also know how to be an excellent goalie. But that's just not the case, right? The goalie is the goalie. You're the forward. You know, sports analogies.
+
+Candace Gillhoolley   36:47
+Right.That's it?
+
+Danica Marsden   36:54
+And a good coach will appreciate that you are doing your piece and that you don't necessarily know everything about being a goalie, but that's fine. I think sometimes we put too much on ourselves to, as I say, like know everything and be everything and do everything. That's just not possible.So, yeah.
+
+Candace Gillhoolley   37:14
+So if a young woman looks at Quantum today and thinks, I don't have the right background to belong here, what kind of skills do you think that she could acquire that would help her understand that she could belong?
+
+Danica Marsden   37:30
+Yeah, I mean, what's nice about today with AI, I mean, depending on what you, where you want to go, it can really help you speed up your learning process and journey. There's a lot of free resources to be leveraged online, the courses and textbooks. So depending on what you're doing,trying to go for, I would say, you know, make use of those free resources where you used to have to go take courses at a university for. And the more you can sort of, what they say with startups, right, fail fast, fail often, the more you can, you know, start down a path and figure outIs this for me? And if it is, keep going, but if it isn't, then, you know, pivot, the better. And then, you know, also figure out, do I really want to be in the deep technical part of things? Do I want to be sort of in the interface? Do I want to, you know, project manage? Do I want to be a manager of people?
+
+Candace Gillhoolley   38:12
+I gonna, I gonna.
+
+Danica Marsden   38:31
+Is my strength also figuring out your own strengths, right? Am I a great communicator or am I better at being super focused on something? Am I good at multitasking? Am I really good at seeing the risks and managing risks in a project or, you know, something that's happening within an organization?So finding that sort of combination, the Venn diagram of what you're really good at and what you enjoy and what the market wants and figuring out where those things intersect is a really great way to get to where you want to be.
+
+Candace Gillhoolley   39:11
+Where do you think the public conversation about quantum computing gets ahead of reality?
+
+Danica Marsden   39:22
+I mean, I think the fact that there are now quite a few companies that are being publicly traded that build quantum computers, perhaps for the people who aren't in the industry, leads to a sense of maturity in the industry that I think isn't quite there yet. It's still veryfrontier, cutting edge, new technology development in progress. These are prototypes, right? These initial quantum computers that we have right now that are accessible in the cloud and people can run things on them, but we're still not quite at the scale where they are able toyou know, beat performance on certain calculations compared to regular computers. So, so I think there's that, that, that.The fact that these companies are publicly traded might lead to a false sense of development and maturity in the field that just isn't the reality.
+
+Candace Gillhoolley   40:23
+I think that's fair. I think that's fair. So what surprised you the most when you went from studying quantum concepts to working around actual quantum technology?
+
+Danica Marsden   40:35
+how difficult it is in reality, all of the infrastructure around it to make it work from, you know, the details of what the fabrication process is like. So in a foundry, how they lay down the materials to build up the chips that create, you know, the circuits.that are the qubits for the quantum computer, even down to those details. I mean, I helped develop some of this and some intellectual property around this topic. But, you know, that's a very slow cycle and process. It's a lot slower in the quantum computing field than it is in regular semiconducting.regular computers. So that's a challenge. And then you've got, you're oftentimes dealing with these systems that need to be cryogenically cooled so that they can have their best performance. And then the electronics and the wiring is a challenge. There's so much of it that needs to come in and out.as well as the fact that the wiring itself introduces, you know, heat and thermal effects that then disturbs your qubit. And then around that, you've got magnetic shielding to protect these fragile little qubit systems from cosmic rays and the Earth's magnetic field and things like that. SoAll these sort of nitty-gritty, gory details, and I'm getting into it on purpose because it's, you know, again, it's like those memes where it sort of, here's the fantasy and then here's the reality. It's like all these nitty-gritty details that wind up making things a challenge to overcome and to make it really happen and come together and really build a computer that works.versus the theoretical promise of, you know, in principle what we could build and what we can do. That's a pretty big gap.
+
+Candace Gillhoolley   42:27
+Absolutely. Well, if people want to find out more about you and what you're doing, where would you suggest that we send them?
+
+Danica Marsden   42:33
+Mhm.LinkedIn might be a good place to connect with me and yeah, I have my contact information there if you want to find me.
+
+Candace Gillhoolley   42:46
+Danica, this has been absolutely fascinating to me. I know our listeners are going to be so interested in it. I thank you so much for your time today. And I really enjoyed the conversation. I hope you did too.
+
+Danica Marsden   42:59
+Thanks, Candace. Yeah, it was a wonderful chat. I really enjoyed it.

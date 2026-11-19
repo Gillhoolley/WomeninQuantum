@@ -5,8 +5,7 @@ Static site for showcasing guests featured on the `Women in Quantum` podcast.
 The page includes:
 
 - a portrait gallery for `Women in Quantum`
-- a separate `Impact Quantum` section
-- guest detail cards with pull quotes, episode info, LinkedIn links, transcripts, clips, and infographics
+- guest detail cards with pull quotes, episode info, LinkedIn links, transcripts, YouTube episode links, and infographics
 
 ## Files
 
@@ -31,7 +30,7 @@ Edit `data.js`. Each guest entry can include:
 - `linkedinUrl`
 - `imageSrc`
 - `transcriptUrl`
-- `clipSrc` or `clipExternalUrl`
+- `youtubeEpisodeUrl` for a full-length YouTube episode
 - `infographicSrc` or `infographicUrl`
 
 ## Asset paths
@@ -39,7 +38,6 @@ Edit `data.js`. Each guest entry can include:
 Use relative paths that match the current folder structure, for example:
 
 - `imageSrc: "Images/jane-doe.jpg"`
-- `clipSrc: "clips/jane-doe-clip.mp4"`
 - `infographicSrc: "Infograhics/S1E1.png"`
 
 ## Preview
@@ -52,4 +50,4 @@ Open:
 
 - Clicking an infographic opens the full-size image in a new tab.
 - The main guest data is driven from `data.js`, so most content updates happen in one place.
-- `Impact Quantum` guests are intentionally separated from the core `Women in Quantum` gallery.
+- Impact Quantum guest records remain in the data file for future use.
