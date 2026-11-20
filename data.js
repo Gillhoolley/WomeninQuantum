@@ -132,9 +132,9 @@ window.womenInQuantumData = [
     clipLabel: "Add MP4 clip",
     clipExternalUrl: "",
     transcriptUrl: "Transcript/harshitta-gandhi-transcript.txt",
-    infographicSrc: "",
-    infographicAlt: "Infographic from Harshitta Gandhi's episode",
-    infographicLabel: "Add JPG or PNG infographic",
+    infographicSrc: "Infograhics/Harshitta Gandhi_ Curiosity in Quantum.png",
+    infographicAlt: "Curiosity in Quantum infographic from Harshitta Gandhi's episode",
+    infographicLabel: "Curiosity in Quantum",
     infographicUrl: ""
   },
   {
@@ -537,9 +537,9 @@ window.womenInQuantumData = [
     clipLabel: "Add MP4 clip",
     clipExternalUrl: "",
     transcriptUrl: "Transcript/rachel-noek-transcript.txt",
-    infographicSrc: "",
+    infographicSrc: "Infograhics/Women in Quantum_ Rachel Noek (1).png",
     infographicAlt: "Infographic from Rachel Noek's episode",
-    infographicLabel: "Add JPG or PNG infographic",
+    infographicLabel: "Episode infographic",
     infographicUrl: ""
   },
   {
@@ -608,9 +608,9 @@ window.womenInQuantumData = [
     clipLabel: "Add MP4 clip",
     clipExternalUrl: "",
     transcriptUrl: "Transcript/sahar-ben-rached-transcript.txt",
-    infographicSrc: "",
-    infographicAlt: "Infographic from Sahar Ben Rached's episode",
-    infographicLabel: "Add JPG or PNG infographic",
+    infographicSrc: "Infograhics/Women in Quantum_ Sahar’s Global Journey.png",
+    infographicAlt: "Sahar’s Global Journey infographic from Sahar Ben Rached’s episode",
+    infographicLabel: "Sahar’s Global Journey",
     infographicUrl: ""
   },
   {
@@ -654,9 +654,9 @@ window.womenInQuantumData = [
     clipLabel: "YouTube Short",
     clipExternalUrl: "https://youtube.com/shorts/0TtnC_Bo_u0",
     transcriptUrl: "",
-    infographicSrc: "",
-    infographicAlt: "Infographic from Sierra Clouse's episode",
-    infographicLabel: "Add JPG or PNG infographic",
+    infographicSrc: "Infograhics/Women in Quantum_ Ethics and Innovation (1).png",
+    infographicAlt: "Women in Quantum infographic on ethics and innovation from Sierra Clouse's episode",
+    infographicLabel: "Ethics and Innovation",
     infographicUrl: ""
   }
 ];
